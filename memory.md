@@ -43,3 +43,5 @@ The repo is flattened into Personal/trustworthy-ai-energy. Replay now requires -
 
 ## Verified publication and handoff - 14 October 2026
 Published improvements in 090f5dbcb6ab365fd6f4325258d7e60e365ad0d4; GitHub run 38629633313 passed all four platform/Python jobs. See docs/workbook-synchronisation.md and review-paper/synchronisation/ for version relationships and archived-XLSX audit; live Sheet data equivalence remains unverified and no Sheet edits were made. Separate abstract evidence for the 20-record pilot is in review-paper/screening/abstracts-20261014/: 14 available, six unresolved; reviewer arrangement and all eligibility decisions remain pending. Counts remain snapshot counts.
+
+Reviewer arrangement confirmed by Daniel on 14 October 2026: Daniel performs primary human screening with a documented secondary audit. Auditor identity and audit procedure remain pending; report single-human screening with audit, not independent dual review. Formal decisions are still pending.

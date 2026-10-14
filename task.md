@@ -49,4 +49,7 @@ See docs/progression-plan.md for acceptance criteria; this ledger remains the ac
 - [x] Publish reviewed improvements in 090f5db and verify all four hosted CI jobs.
 - [x] Prepare separate abstract evidence and retrieval log for the 20-record pilot (14 available, six unresolved).
 - [ ] Resolve remaining abstract retrievals and audit source identity/completeness.
-- [ ] Confirm the human reviewer arrangement and complete calibration decisions.
+- [ ] Complete human calibration decisions and the secondary audit.
+
+- [x] Confirm primary reviewer arrangement: Daniel, with a documented secondary audit.
+- [ ] Name the secondary auditor and agree/record the audit procedure before calibration screening.

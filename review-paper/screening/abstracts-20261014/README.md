@@ -12,6 +12,6 @@ P04, P05, P10, R02, C0028 and C0032 require further retrieval or user-assisted a
 
 ## Human reviewer arrangement
 
-Status: pending owner confirmation. No reviewer was appointed by the assistant. Daniel was asked whether screening will use one human with a declared secondary audit, two independent humans, or an arrangement still to be determined. No independent human decisions or agreement statistics are claimed.
+Confirmed by Daniel on 14 October 2026: Daniel will perform primary human screening, with a documented secondary audit. The secondary auditor is not yet named. This is single-human screening with an audit; no independent dual screening or completed audit is claimed. See reviewer-arrangement.md for the agreed arrangement and proposed audit procedure.
 
 Before use, confirm each source belongs to the selected report/version, check complete abstract extraction, and record reviewer identity, date, rationale and evidence locator in the calibration packet. Keep uncertain cases pending. Formal decisions require the planned validator migration and deliberate Sheet/repository reconciliation.
