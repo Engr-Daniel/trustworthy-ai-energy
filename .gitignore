@@ -9,3 +9,6 @@ __pycache__/
 
 # Disposable historical-pilot replay
 replay-output/
+
+# Publisher page captures retained locally with manifest hashes
+review-paper/screening/abstracts-*/raw/

@@ -40,3 +40,6 @@ The 20-record eligibility calibration packet is in review-paper/screening/pilot-
 
 ## Repository maintenance - 14 October 2026
 The repo is flattened into Personal/trustworthy-ai-energy. Replay now requires --output-dir pointing to a separate empty directory and never updates source records. Stronger validation checks metadata hashes, duplicate links, stable identity and workbook JSON/CSV agreement. Raw capture line endings are preserved through .gitattributes. Read CONTRIBUTING.md and docs/progression-plan.md for maintenance and milestone criteria. Live GitHub state and shared Sheet were not verified during this review.
+
+## Verified publication and handoff - 14 October 2026
+Published improvements in 090f5dbcb6ab365fd6f4325258d7e60e365ad0d4; GitHub run 38629633313 passed all four platform/Python jobs. See docs/workbook-synchronisation.md and review-paper/synchronisation/ for version relationships and archived-XLSX audit; live Sheet data equivalence remains unverified and no Sheet edits were made. Separate abstract evidence for the 20-record pilot is in review-paper/screening/abstracts-20261014/: 14 available, six unresolved; reviewer arrangement and all eligibility decisions remain pending. Counts remain snapshot counts.

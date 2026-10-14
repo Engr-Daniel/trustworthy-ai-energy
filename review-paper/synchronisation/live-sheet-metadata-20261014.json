@@ -1,0 +1,239 @@
+{
+  "checked_date": "2026-10-14",
+  "scope": "Metadata and row-7 headers only; full live data equivalence not assessed",
+  "spreadsheet_id": "14NW5z6UziqVTzN2ZsmPbhT8Nmjo-ZQzQo0YaLDvNHTw",
+  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/14NW5z6UziqVTzN2ZsmPbhT8Nmjo-ZQzQo0YaLDvNHTw/edit",
+  "time_zone": "Africa/Lagos",
+  "modified_time": "2026-10-13T10:58:03.326Z",
+  "sheets": [
+    {
+      "id": 73408994,
+      "title": "Overview",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 394443997,
+      "title": "Corpus",
+      "row_count": 1000,
+      "column_count": 40
+    },
+    {
+      "id": 51480976,
+      "title": "Screening",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 1384455871,
+      "title": "Identification",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 207415141,
+      "title": "Searches",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 1613988003,
+      "title": "Evidence matrix",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 399054284,
+      "title": "Synthesis",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 1901483892,
+      "title": "Data audit",
+      "row_count": 1000,
+      "column_count": 26
+    },
+    {
+      "id": 1385764008,
+      "title": "Decisions",
+      "row_count": 1000,
+      "column_count": 26
+    }
+  ],
+  "inspected_headers": [
+    {
+      "title": "Corpus",
+      "range_start_row": 7,
+      "columns": [
+        "Paper ID",
+        "Cluster ID",
+        "Cluster",
+        "Secondary Cluster",
+        "Pillar",
+        "Full Authors",
+        "First Author",
+        "Year",
+        "Full Title",
+        "Venue / Journal",
+        "DOI",
+        "arXiv ID",
+        "Publisher URL",
+        "URL (Paper Access)",
+        "Modality",
+        "Task",
+        "Shift Type",
+        "Dataset / Benchmark",
+        "Method Family",
+        "Paper Type",
+        "Evidence Type Rationale (keywords)",
+        "Method Family Assignment Rationale (if ambiguous)",
+        "Evaluation Type",
+        "Inclusion Rationale",
+        "BibTeX Key",
+        "BibTeX Status",
+        "Cited in Main Text?",
+        "Citation Verified?",
+        "Accessible?",
+        "Status",
+        "Study ID",
+        "Search IDs",
+        "Source Platform",
+        "Publication Status",
+        "Reading Stage",
+        "Metadata Status",
+        "Record Type",
+        "Automated Queue",
+        "Evidence Locator",
+        "Last Checked"
+      ]
+    },
+    {
+      "title": "Screening",
+      "range_start_row": 7,
+      "columns": [
+        "Paper ID",
+        "Full Title",
+        "DOI",
+        "arXiv ID",
+        "Record Type",
+        "Source / Search IDs",
+        "Queue",
+        "Reviewer 1",
+        "TA Decision R1",
+        "Reviewer 2",
+        "TA Decision R2",
+        "TA Final",
+        "TA Reason Code",
+        "Full text sought?",
+        "Retrieval Result",
+        "FT Decision R1",
+        "FT Decision R2",
+        "FT Final",
+        "FT Exclusion Code",
+        "Decision Rationale",
+        "Decision Date",
+        "Adjudicator",
+        "Study ID",
+        "Included in synthesis?",
+        "Decision Integrity"
+      ]
+    },
+    {
+      "title": "Identification",
+      "range_start_row": 7,
+      "columns": [
+        "Event ID",
+        "Paper ID",
+        "Source",
+        "Run ID",
+        "Search ID",
+        "Rank",
+        "DOI",
+        "Duplicate of",
+        "Repeated identity flag",
+        "Title"
+      ]
+    },
+    {
+      "title": "Searches",
+      "range_start_row": 7,
+      "columns": [
+        "Run ID",
+        "Search ID",
+        "Source/platform",
+        "Search purpose",
+        "Exact query",
+        "Field",
+        "Filters",
+        "Run status",
+        "Returned records",
+        "API fuzzy hit count",
+        "Capture limit",
+        "Pagination",
+        "Search time UTC",
+        "Raw file",
+        "SHA256",
+        "Notes"
+      ]
+    },
+    {
+      "title": "Evidence matrix",
+      "range_start_row": 7,
+      "columns": [
+        "Paper ID",
+        "Extraction status",
+        "Asset / setting",
+        "Modality",
+        "Task",
+        "Shift / challenge",
+        "Dataset / benchmark",
+        "Method family",
+        "Training data",
+        "Tuning / calibration data",
+        "Target data access",
+        "Evaluation unit",
+        "Metrics / risk definition",
+        "Threshold / referral policy",
+        "Review workload"
+      ]
+    },
+    {
+      "title": "Synthesis",
+      "range_start_row": 7,
+      "columns": [
+        "Prompt",
+        "Current position",
+        "Evidence IDs",
+        "Confidence / status",
+        "Next step"
+      ]
+    },
+    {
+      "title": "Data audit",
+      "range_start_row": 7,
+      "columns": [
+        "ID",
+        "Dataset",
+        "Asset",
+        "Data origin",
+        "Image count",
+        "Labels and split",
+        "Domain information",
+        "Dataset terms"
+      ]
+    },
+    {
+      "title": "Decisions",
+      "range_start_row": 7,
+      "columns": [
+        "ID",
+        "Decision",
+        "Decision type",
+        "Evidence or trigger",
+        "Reason or next action",
+        "Status"
+      ]
+    }
+  ]
+}

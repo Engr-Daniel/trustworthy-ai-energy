@@ -39,7 +39,14 @@ No fixed paper-count target substitutes for search coverage or rigorous screenin
 - [x] Verify raw metadata checksums and preserve capture bytes across platforms.
 - [x] Add regression checks, contributor guidance and progression acceptance criteria.
 - [ ] Migrate validation for human screening decisions before entering confirmed decisions.
-- [ ] Document and verify workbook/Sheet reconciliation and release procedure.
+- [x] Establish workbook/Sheet reconciliation and release procedure; audit saved XLSX and inspect live headers.
+- [ ] Capture full live snapshot, reconcile any differences and verify a complete workbook/Sheet round trip.
 - [ ] Choose reuse terms for original repository material.
 
 See docs/progression-plan.md for acceptance criteria; this ledger remains the active work plan.
+
+## Publication and calibration handoff - 14 October 2026
+- [x] Publish reviewed improvements in 090f5db and verify all four hosted CI jobs.
+- [x] Prepare separate abstract evidence and retrieval log for the 20-record pilot (14 available, six unresolved).
+- [ ] Resolve remaining abstract retrievals and audit source identity/completeness.
+- [ ] Confirm the human reviewer arrangement and complete calibration decisions.

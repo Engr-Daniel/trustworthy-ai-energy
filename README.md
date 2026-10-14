@@ -62,3 +62,6 @@ GitHub workspace initialised 14 October 2026. The shared Sheet remains the colla
 - [Repository review, 14 October 2026](docs/repository-review-20261014.md): findings, fixes and remaining limits.
 
 Raw search captures retain exact bytes across platforms. The root `manifest.json` records the initial delivery snapshot; search-run manifests verify the preserved captures. Reuse licensing is not yet declared.
+
+- [Workbook synchronisation procedure](docs/workbook-synchronisation.md): version relationships, keyed reconciliation and release checks.
+- [Pilot abstract evidence](review-paper/screening/abstracts-20261014/README.md): 14 abstracts available; six unresolved; human decisions pending.

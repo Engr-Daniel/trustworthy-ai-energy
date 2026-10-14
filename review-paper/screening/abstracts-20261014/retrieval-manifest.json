@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-14",
+  "purpose": "Abstract evidence preparation; no screening decisions",
+  "attempts": [
+    {
+      "paper_id": "B01",
+      "url": "https://doi.org/10.1109/cvpr.2019.00982",
+      "started_utc": "2026-10-14T20:10:59.956499+00:00",
+      "status": "captured_no_abstract",
+      "final_url": "https://ieeexplore.ieee.org/document/8954181/",
+      "raw_file": "raw/B01-1.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "paper_id": "B02",
+      "url": "https://arxiv.org/abs/2106.08265",
+      "started_utc": "2026-10-14T20:11:01.090769+00:00",
+      "status": "abstract_retrieved",
+      "final_url": "https://arxiv.org/abs/2106.08265",
+      "raw_file": "raw/B02-1.html",
+      "sha256": "8309140ca31eef0bd0998f770f3c7fddc41ddad982ba2e8632effdb19e214f3d"
+    },
+    {
+      "paper_id": "B03",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/BASELINE-METADATA-20261013/B03.xml",
+      "sha256": "44756042365e5bd2fff09a88fe7a4b47d00ddfc9a645b8ce162ffa331c5c6356",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "B05",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/BASELINE-METADATA-20261013/B05.html",
+      "sha256": "220ab22d86919d5c02d1799191fd0b64bf0e0cda371fe792decc13d014cfa52d",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "P01",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/P01.json",
+      "sha256": "60c98b87a532e837e55fbb34e4b0843871cebb17e780e6f252c532612600fb0f",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "P02",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/P02.xml",
+      "sha256": "940e78d48ca5c0202f55bc369d8fe2881a42352e7541913f127f657a074f13c4",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "P03",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/P03.xml",
+      "sha256": "e624400f1cebba1cf7c19b43b4b9c0eb54310f4d060a90910c317e9b704b58a6",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "P04",
+      "url": "https://doi.org/10.1109/csrswtc71154.2026.11669645",
+      "started_utc": "2026-10-14T20:11:01.817824+00:00",
+      "status": "captured_no_abstract",
+      "final_url": "https://ieeexplore.ieee.org/document/11669645/",
+      "raw_file": "raw/P04-1.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "paper_id": "P05",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0959152426000843",
+      "started_utc": "2026-10-14T20:11:02.631781+00:00",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "paper_id": "P06",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/P06.xml",
+      "sha256": "339b6d7db7f1ff101d935c16b3e40685a08b181e990e6c1e16d44e72abaddb10",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "P08",
+      "url": "https://doi.org/10.1016/j.compind.2023.103990",
+      "started_utc": "2026-10-14T20:11:03.471259+00:00",
+      "status": "captured_no_abstract",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0166361523001409",
+      "raw_file": "raw/P08-1.html",
+      "sha256": "9a67dcfe248abdcde0cbce62b110afe55e56042cabadeecb1a4b16c478bffd96"
+    },
+    {
+      "paper_id": "P10",
+      "url": "https://doi.org/10.1111/mice.70077",
+      "started_utc": "2026-10-14T20:11:05.214909+00:00",
+      "status": "captured_no_abstract",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1093968726013149",
+      "raw_file": "raw/P10-1.html",
+      "sha256": "641e67170f4ec090e9727d2da15cd480ae7d7135e6ff6393c405d80ad8bb412d"
+    },
+    {
+      "paper_id": "P12",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/P12.xml",
+      "sha256": "0f024db6e13cb2a02e0ea468b61e638f559069d349863fac6ac56e63594c811b",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "R02",
+      "url": "https://doi.org/10.1007/s10462-025-11287-7",
+      "started_utc": "2026-10-14T20:11:06.729880+00:00",
+      "status": "captured_no_abstract",
+      "final_url": "https://link.springer.com/10.1007/s10462-025-11287-7",
+      "raw_file": "raw/R02-1.html",
+      "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+    },
+    {
+      "paper_id": "R09",
+      "url": "https://arxiv.org/abs/2305.11427",
+      "started_utc": "2026-10-14T20:11:08.017500+00:00",
+      "status": "abstract_retrieved",
+      "final_url": "https://arxiv.org/abs/2305.11427",
+      "raw_file": "raw/R09-1.html",
+      "sha256": "1f402032808fc5806fdeaa77d1ac72dc21fd0ea563bc8320534e6741d3c57fa1"
+    },
+    {
+      "paper_id": "R12",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/R12.json",
+      "sha256": "5fe3844df9eb3053aa4ebfa7744a74f45acc32a24f70279793c58daf582464f4",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "R13",
+      "status": "saved_capture_abstract",
+      "source": "review-paper/search-strategy/runs/SEED-METADATA-20261013/R13.json",
+      "sha256": "4cd4274a78394e9fc265e71dcf570127e4bd5b529ce04ad16d164157c9e14351",
+      "note": "Historical capture; not a fresh retrieval"
+    },
+    {
+      "paper_id": "C0028",
+      "url": "https://doi.org/10.31219/osf.io/ren6d",
+      "started_utc": "2026-10-14T20:11:08.921356+00:00",
+      "status": "captured_no_abstract",
+      "final_url": "https://osf.io/ren6d_v1",
+      "raw_file": "raw/C0028-1.html",
+      "sha256": "185604818b2f43bab5ffb6a9b93f481d2b739fc22853611c62d4f65322665dd3"
+    },
+    {
+      "paper_id": "C0032",
+      "url": "https://doi.org/10.2139/ssrn.7446051",
+      "started_utc": "2026-10-14T20:11:10.473884+00:00",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "paper_id": "F03",
+      "url": "https://doi.org/10.11124/jbies-20-00167",
+      "started_utc": "2026-10-14T20:11:13.460265+00:00",
+      "status": "abstract_retrieved",
+      "final_url": "https://www.ovid.com/jnls/jbisrir/fulltext/10.11124/jbies-20-00167~updated-methodological-guidance-for-the-conduct-of-scoping",
+      "raw_file": "raw/F03-1.html",
+      "sha256": "b58872c4f6513fa5c014f0d90b671f1a3fbabf3d86f05a755358fd3b432f328f"
+    },
+    {
+      "paper_id": "B01",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_-_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html",
+      "started_utc": "2026-10-14T20:13:15.661015+00:00",
+      "purpose": "Primary-source retry after DOI landing-page retrieval failed",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "paper_id": "P08",
+      "url": "https://arxiv.org/abs/2304.02216",
+      "started_utc": "2026-10-14T20:13:17.620498+00:00",
+      "purpose": "Primary-source retry after DOI landing-page retrieval failed",
+      "status": "abstract_retrieved",
+      "final_url": "https://arxiv.org/abs/2304.02216",
+      "raw_file": "raw/P08-retry.html",
+      "sha256": "2aac0b84e2cbe5f89a4017921d44e6fdc29dd53aee53bb8fd1dec7dfda61130b",
+      "citation_title": "Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction",
+      "citation_doi": ""
+    },
+    {
+      "paper_id": "R02",
+      "url": "https://link.springer.com/article/10.1007/s10462-025-11287-7",
+      "started_utc": "2026-10-14T20:13:18.248455+00:00",
+      "purpose": "Primary-source retry after DOI landing-page retrieval failed",
+      "status": "captured_no_abstract",
+      "final_url": "https://link.springer.com/article/10.1007/s10462-025-11287-7",
+      "raw_file": "raw/R02-retry.html",
+      "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+      "citation_title": "",
+      "citation_doi": ""
+    },
+    {
+      "paper_id": "P10",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/mice.70077",
+      "started_utc": "2026-10-14T20:13:18.693008+00:00",
+      "purpose": "Primary-source retry after DOI landing-page retrieval failed",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "paper_id": "B01",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html",
+      "started_utc": "2026-10-14T20:14:11.237181+00:00",
+      "purpose": "Correct CVF URL located in primary-source search",
+      "status": "abstract_retrieved",
+      "raw_file": "raw/B01-cvf.html",
+      "sha256": "aa6dadd97eb854a126e647330e8e768505d4663eae1a6e2bd6acfb76c249ca4b"
+    }
+  ]
+}

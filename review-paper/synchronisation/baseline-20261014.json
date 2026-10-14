@@ -1,0 +1,56 @@
+{
+  "release_id": "SAVED-PILOT-20261014-BASELINE",
+  "date": "2026-10-14",
+  "source_commit": "090f5dbcb6ab365fd6f4325258d7e60e365ad0d4",
+  "research_status": "Unscreened pilot snapshot",
+  "text_hash_rule": "SHA256 of UTF-8 bytes after CRLF-to-LF normalisation; raw search captures use exact-byte hashes separately",
+  "tables": [
+    {
+      "path": "review-paper/corpus/corpus.csv",
+      "canonical_sha256": "c2e24cd0675284b8a9c0cf46b35dca8e52e5c2555354c0c71487b2636b24b2f1"
+    },
+    {
+      "path": "review-paper/corpus/records-ledger.csv",
+      "canonical_sha256": "4a7e79de503d91318ecb669e7abafb305d67f0c43b99d6d164ed586ded3cae24"
+    },
+    {
+      "path": "review-paper/corpus/identification-events.csv",
+      "canonical_sha256": "1de8644681758a071b4ed939940559070994efe373611b063ec669ce5b2f8215"
+    },
+    {
+      "path": "review-paper/corpus/search-runs.csv",
+      "canonical_sha256": "3e3f5c3237a0e95619e60acfede75bf388a9b1e6a23a0fa508c337ae1433b1bf"
+    },
+    {
+      "path": "review-paper/corpus/evidence-matrix.csv",
+      "canonical_sha256": "21973b33652f0cbd25f851605a2d9b9eefdf578eb5d0c378f2e64d1e164929cb"
+    },
+    {
+      "path": "review-paper/corpus/synthesis.csv",
+      "canonical_sha256": "72948aebe5c6e227891b55c3ce9c86f45f9fcf4242d7c1cd6a713b352c33dfa9"
+    },
+    {
+      "path": "review-paper/corpus/data-audit.csv",
+      "canonical_sha256": "8fbf9f0a66b27d16696cc2ee2395f17f849ec668763075bcb328ff572e6febb6"
+    },
+    {
+      "path": "review-paper/corpus/decisions.csv",
+      "canonical_sha256": "a06e083aafb9f0ae4b751b832da7984267e6cc50532073a5753eb393c31dd2c8"
+    },
+    {
+      "path": "review-paper/corpus/scope-counts.json",
+      "canonical_sha256": "d726a1e57299f0490b2a51c3222a58306a3eac915cef0cd3275b5723a890a84b"
+    },
+    {
+      "path": "review-paper/corpus/workbook-data.json",
+      "canonical_sha256": "34b93f56dcc6c4eda663b9b122ec90831947aac41823b28dff4d2cb89582259f"
+    }
+  ],
+  "xlsx": {
+    "path": "review-paper/corpus/Industrial_Inspection_Corpus_Tracker.xlsx",
+    "sha256": "63fc63d9892f420138d8c8febe7b084a017f39f0407c07b3c1f94c2c1dc0bd83",
+    "relationship": "Saved pilot presentation snapshot; mapped data audited against CSV; not a fresh live Sheet export"
+  },
+  "live_sheet_status": "Metadata and selected row-7 headers inspected only; full data equivalence unverified",
+  "full_synchronisation_performed": false
+}

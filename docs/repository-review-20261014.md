@@ -32,3 +32,9 @@ GitHub metadata and the remote branch could not be verified: connected-tool requ
 ## Validation
 
 The strengthened pilot validator and five regression tests passed locally on Windows with Python 3.10. Tests cover the saved snapshot, corrupted raw metadata, corrupted counts under optimisation, corrupted duplicate targets, exact replay and rejection of occupied/source destinations. CI now runs these checks on Windows and Ubuntu with Python 3.10 and 3.12; hosted execution remains unverified.
+
+## Publication and verified CI amendment - 14 October 2026
+
+The improvements were published to master in commit [090f5db](https://github.com/Engr-Daniel/trustworthy-ai-energy/commit/090f5dbcb6ab365fd6f4325258d7e60e365ad0d4). GitHub [run 38629633313](https://github.com/Engr-Daniel/trustworthy-ai-energy/actions/runs/38629633313) completed successfully. All four jobs passed both the validator and regression tests: Ubuntu/Windows with Python 3.10/3.12. This supersedes the earlier remote-access limitation for publication and CI; it does not change research status or establish search completeness, evidence quality or novelty.
+
+The workbook version/synchronisation procedure and archived-XLSX audit are now recorded separately. Pilot abstract evidence preparation has started; it does not constitute screening.

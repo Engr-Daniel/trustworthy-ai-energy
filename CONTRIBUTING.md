@@ -29,7 +29,7 @@ The destination must be new or empty and outside `review-paper/corpus`. Replay r
 - Cite the source and page, section, table or figure for scientific extractions. Retain explicit unknown states.
 - Append dated amendments and research-story entries; preserve historical observations.
 - Read current Google Sheet changes and reconcile collaborator edits before synchronisation. Document the direction and files/ranges involved.
-- Update corresponding CSV, JSON, counts and workbook deliberately. The current repository has no automated XLSX rebuild procedure; document the method and verification used for any workbook release.
+- Update corresponding CSV, JSON, counts and workbook deliberately. Follow docs/workbook-synchronisation.md for keyed reconciliation and workbook release checks. There is no automated XLSX builder; record the manual build method and audit any new workbook with audit_workbook.py.
 - Include the purpose, affected records and validation results in a pull request.
 
 ## Raw evidence and rights
