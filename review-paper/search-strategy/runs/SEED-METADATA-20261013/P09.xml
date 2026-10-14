@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/j00o55WbHu8CDAYgxi4r00glRDA</id>
+  <title>arXiv Query: search_query=&amp;id_list=2609.03475&amp;start=0&amp;max_results=10</title>
+  <updated>2026-10-13T10:20:51Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2609.03475" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2609.03475v1</id>
+    <title>SafeRestore: Detector-Relative Risk Certificates for Selective Industrial Image Restoration</title>
+    <updated>2026-09-03T07:32:42Z</updated>
+    <link href="https://arxiv.org/abs/2609.03475v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.03475v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Industrial inspection pipelines often restore a measured image before a detector acts on it, yet restoration can suppress detector-supported defect structure or create clean-region activations. We formulate restoration as a selective action problem over the measured display, five restored candidates, and review. SafeRestore ranks candidates with action-specific fitted scores, chooses a gate on threshold-tuning data, and evaluates the fixed gate on a disjoint certification sample with two one-sided exact binomial bounds: one for the positive-conditional evidence-loss incident rate and one for the all-accepted excess-activation incident rate. The guarantee is marginal for one policy fixed before its certification outcomes are observed, under an image-level i.i.d. working model. In a retrospective split-sample study of 4,591 public Carinthia-S images, the protocol yields auditable risk-coverage behavior. The primary all-action policy passes in one of five training repetitions (12.0% +/- 26.9% pass-gated test coverage when failures count as zero), whereas fixed bicubic and reduced-complexity variants pass more often. On reserved morphologies, evidence-loss incidence rises to 81.1-90.3%, and KolektorSDD lacks both detector competence and enough positive certification images for the stated target. The contribution is therefore an auditable, detector-relative framework for deciding when a transformed image may be returned automatically and when review remains necessary -- not a claim that adaptive routing outperforms simpler policies on the present evidence.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-03T07:32:42Z</published>
+    <arxiv:comment>27 pages, 10 figures, 6 main-text tables, and 17 supplementary tables. Shares the Carinthia-S image identities with arXiv:2607.17401 by the same authors; the overlap and the distinct estimand are stated in Section 2.4 and Table 1</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Shaoliang Yang</name>
+    </author>
+    <author>
+      <name>Jun Wang</name>
+    </author>
+  </entry>
+</feed>

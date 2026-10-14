@@ -1,0 +1,11 @@
+Code,Stage,Meaning
+TA01,Title abstract,Outside industrial or asset inspection context
+TA02,Title abstract,No visual or image evidence
+TA03,Title abstract,No eligible AI inspection task
+TA04,Title abstract,Ineligible report type
+FT01,Full text,Confirmed context mismatch
+FT02,Full text,Confirmed task or modality mismatch
+FT03,Full text,No eligible empirical or benchmark evidence
+FT04,Full text,Duplicate report version after linkage
+FT05,Full text,Language restriction declared in protocol
+NR01,Retrieval,Full text not retrieved after documented attempts

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-13",
+  "formal_screening_changed": false,
+  "new_discovery_records": 0,
+  "files": [
+    {
+      "path": "Eligibility_Pilot_20.csv",
+      "sha256": "ec68d0b611c18ada8775c8bc55ce97baefe11d9e4e9aae1a2eabb4a548a0721c"
+    },
+    {
+      "path": "Eligibility_Pilot_Guide.md",
+      "sha256": "c0190eda18a77c0b1e2a12873e54f3889819d538d7ae3515efe3f503f992c963"
+    },
+    {
+      "path": "Research_Log_Continuation_04.md",
+      "sha256": "e9785fdd58e231857eabc476c2636d17892aec8539857717b0287603a1a1d64d"
+    },
+    {
+      "path": "arxiv_search_draft.json",
+      "sha256": "410b72401f028ec2ca721e8902706a2671e68173cf6d6ab96fec00a68927c399"
+    }
+  ]
+}

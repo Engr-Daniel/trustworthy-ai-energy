@@ -1,0 +1,54 @@
+{
+  "attempts": [
+    {
+      "id": "B01",
+      "doi": "10.1109/CVPR.2019.00982",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1109%2FCVPR.2019.00982",
+      "time_utc": "2026-10-13T10:22:35.492989+00:00",
+      "status": "completed",
+      "file": "B01.json",
+      "sha256": "2fc1f816209b2cf78636f97c81404f8e119cbc9c9d7a808a521ee27227a724ec"
+    },
+    {
+      "id": "B02",
+      "doi": "10.1109/CVPR52688.2022.01392",
+      "arxiv": "2106.08265",
+      "url": "https://api.crossref.org/works/10.1109%2FCVPR52688.2022.01392",
+      "time_utc": "2026-10-13T10:22:35.493633+00:00",
+      "status": "completed",
+      "file": "B02.json",
+      "sha256": "b7b8e771d92cba1405f4b6cdf60bce4570a6d7e5aadac7709214c26e244164b9"
+    },
+    {
+      "id": "B03",
+      "doi": "",
+      "arxiv": "2310.18961",
+      "url": "https://export.arxiv.org/api/query?id_list=2310.18961",
+      "time_utc": "2026-10-13T10:22:40.208449+00:00",
+      "status": "completed",
+      "file": "B03.xml",
+      "sha256": "44756042365e5bd2fff09a88fe7a4b47d00ddfc9a645b8ce162ffa331c5c6356"
+    },
+    {
+      "id": "B04",
+      "doi": "",
+      "arxiv": "2011.08785",
+      "url": "https://export.arxiv.org/api/query?id_list=2011.08785",
+      "time_utc": "2026-10-13T10:22:40.389935+00:00",
+      "status": "completed",
+      "file": "B04.xml",
+      "sha256": "4863bd7795ce9d7690f8425f34ddd1c4a0da854b46875ccfdd55c7e557010cc2"
+    },
+    {
+      "id": "B05",
+      "doi": "",
+      "arxiv": "",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Real-IAD_A_Real-World_Multi-View_Dataset_for_Benchmarking_Versatile_Industrial_Anomaly_CVPR_2024_paper.html",
+      "time_utc": "2026-10-13T10:22:45.065131+00:00",
+      "status": "completed",
+      "file": "B05.html",
+      "sha256": "220ab22d86919d5c02d1799191fd0b64bf0e0cda371fe792decc13d014cfa52d"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/bwz39yhcwGvIihWzWRG3Yjcz9jA</id>
+  <title>arXiv Query: search_query=&amp;id_list=2503.19146&amp;start=0&amp;max_results=10</title>
+  <updated>2026-10-13T10:20:46Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2503.19146" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2503.19146v2</id>
+    <title>Risk-Based Thresholding for Reliable Anomaly Detection in Concentrated Solar Power Plants</title>
+    <updated>2025-08-06T07:22:15Z</updated>
+    <link href="https://arxiv.org/abs/2503.19146v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.19146v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Efficient and reliable operation of Concentrated Solar Power (CSP) plants is essential for meeting the growing demand for sustainable energy. However, high-temperature solar receivers face severe operational risks, such as freezing, deformation, and corrosion, resulting in costly downtime and maintenance. To monitor CSP plants, cameras mounted on solar receivers record infrared images at irregular intervals ranging from one to five minutes throughout the day. Anomalous images can be detected by thresholding an anomaly score, where the threshold is chosen to optimize metrics such as the F1-score on a validation set. This work proposes a framework, using risk control, for generating more reliable decision thresholds with finite-sample coverage guarantees on any chosen risk function. Our framework also incorporates an abstention mechanism, allowing high-risk predictions to be deferred to domain experts. Second, we propose a density forecasting method to estimate the likelihood of an observed image given a sequence of previously observed images, using this likelihood as its anomaly score. Third, we analyze the deployment results of our framework across multiple training scenarios over several months for two CSP plants. This analysis provides valuable insights to our industry partner for optimizing maintenance operations. Finally, given the confidential nature of our dataset, we provide an extended simulated dataset, leveraging recent advancements in generative modeling to create diverse thermal images that simulate multiple CSP plants. Our code is publicly available.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-24T21:02:20Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Yorick Estievenart</name>
+    </author>
+    <author>
+      <name>Sukanya Patra</name>
+    </author>
+    <author>
+      <name>Souhaib Ben Taieb</name>
+    </author>
+  </entry>
+</feed>

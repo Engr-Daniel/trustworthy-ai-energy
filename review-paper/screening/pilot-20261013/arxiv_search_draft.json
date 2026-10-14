@@ -1,0 +1,65 @@
+{
+  "status": "Prepared; not executed or retrieval-validated",
+  "source": "https://info.arxiv.org/help/api/user-manual.html",
+  "cutoff": "2026-10-13",
+  "blocks": {
+    "asset": [
+      "industrial",
+      "manufacturing",
+      "corrosion",
+      "pipeline",
+      "infrastructure",
+      "bridge"
+    ],
+    "visual": [
+      "image",
+      "visual",
+      "vision",
+      "thermal",
+      "infrared",
+      "RGB-D"
+    ],
+    "task": [
+      "inspection",
+      "defect",
+      "anomaly",
+      "damage"
+    ],
+    "reliability": [
+      "uncertainty",
+      "calibration",
+      "robustness",
+      "domain shift",
+      "distribution shift",
+      "selective prediction",
+      "risk control",
+      "grounding"
+    ]
+  },
+  "queries": [
+    {
+      "id": "ARX-01",
+      "purpose": "Broad industrial visual inspection",
+      "query": "((ti:\"industrial\" OR abs:\"industrial\") OR (ti:\"manufacturing\" OR abs:\"manufacturing\") OR (ti:\"corrosion\" OR abs:\"corrosion\") OR (ti:\"pipeline\" OR abs:\"pipeline\") OR (ti:\"infrastructure\" OR abs:\"infrastructure\") OR (ti:\"bridge\" OR abs:\"bridge\")) AND ((ti:\"image\" OR abs:\"image\") OR (ti:\"visual\" OR abs:\"visual\") OR (ti:\"vision\" OR abs:\"vision\") OR (ti:\"thermal\" OR abs:\"thermal\") OR (ti:\"infrared\" OR abs:\"infrared\") OR (ti:\"RGB-D\" OR abs:\"RGB-D\")) AND ((ti:\"inspection\" OR abs:\"inspection\") OR (ti:\"defect\" OR abs:\"defect\") OR (ti:\"anomaly\" OR abs:\"anomaly\") OR (ti:\"damage\" OR abs:\"damage\"))"
+    },
+    {
+      "id": "ARX-02",
+      "purpose": "Reliability supplement",
+      "query": "((ti:\"industrial\" OR abs:\"industrial\") OR (ti:\"manufacturing\" OR abs:\"manufacturing\") OR (ti:\"corrosion\" OR abs:\"corrosion\") OR (ti:\"pipeline\" OR abs:\"pipeline\") OR (ti:\"infrastructure\" OR abs:\"infrastructure\") OR (ti:\"bridge\" OR abs:\"bridge\")) AND ((ti:\"inspection\" OR abs:\"inspection\") OR (ti:\"defect\" OR abs:\"defect\") OR (ti:\"anomaly\" OR abs:\"anomaly\") OR (ti:\"damage\" OR abs:\"damage\")) AND ((ti:\"uncertainty\" OR abs:\"uncertainty\") OR (ti:\"calibration\" OR abs:\"calibration\") OR (ti:\"robustness\" OR abs:\"robustness\") OR (ti:\"domain shift\" OR abs:\"domain shift\") OR (ti:\"distribution shift\" OR abs:\"distribution shift\") OR (ti:\"selective prediction\" OR abs:\"selective prediction\") OR (ti:\"risk control\" OR abs:\"risk control\") OR (ti:\"grounding\" OR abs:\"grounding\"))"
+    }
+  ],
+  "planned_fields": [
+    "search_query",
+    "start",
+    "max_results",
+    "sortBy",
+    "sortOrder"
+  ],
+  "known_items": [
+    "2303.13845",
+    "2503.19146",
+    "2310.18961"
+  ],
+  "date_handling": "Filter and log original published timestamp at or before cutoff; preserve updated timestamp and report versions separately",
+  "capture_rule": "Capture all pages or declare the cap; record totalResults, returned IDs, failures, timestamps and raw Atom hashes"
+}

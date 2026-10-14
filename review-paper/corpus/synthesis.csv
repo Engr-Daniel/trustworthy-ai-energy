@@ -1,0 +1,8 @@
+"Prompt","Current position","Evidence IDs","Confidence / status","Next step"
+"Current review angle","Map reliability evidence in AI visual industrial inspection before narrowing the title.","Protocol v0.3","Working scope","Freeze after pilot eligibility and search refinement."
+"What the field does well","Public benchmarks and established feature, reconstruction and foundation-model families provide a starting map.","B01-B05; R01-R02","Seed-level observation","Chart coverage and validation conditions."
+"What the field keeps missing","Candidate questions: independent data, target access, risk denominators and review workload. No field-wide omission established.","P01-P03; P06-P09","Questions to test","Extract evidence before making gap claims."
+"Research opportunity","Possible comparison of ranking gains versus missed defects at equal review workload across shifts.","P03; P06; P09","Novelty unconfirmed","Stress-test against the expanded corpus."
+"Candidate papers to cite heavily","Benchmark and method anchors plus nearest reliability precedents. This is a reading shortlist, not final citation allocation.","B01; B02; B03; R02; P01; P03; P06; P09","Provisional shortlist","Read, verify bibliography and decide their role."
+"Open problems","Calibration transfer, incomplete sensors, ground-truth limits and unsupported reporting remain investigation themes.","S03-S13","Not established gaps","Map after charting and assess prior work."
+"Taxonomy","Cluster and pillar assignments remain unassigned. Candidate axes: task, modality, method and reliability evidence.","Protocol and dictionary","Deferred until reading","Pilot a codebook on 10 diverse papers."

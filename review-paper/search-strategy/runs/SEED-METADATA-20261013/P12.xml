@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/LjnxhLuHxE5KDXOUu5umMhc+Hzk</id>
+  <title>arXiv Query: search_query=&amp;id_list=2607.01049&amp;start=0&amp;max_results=10</title>
+  <updated>2026-10-13T10:21:14Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2607.01049" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2607.01049v1</id>
+    <title>GenAU: Language-Grounded Industrial Anomaly Understanding with Vision-Language Models</title>
+    <updated>2026-07-01T15:11:29Z</updated>
+    <link href="https://arxiv.org/abs/2607.01049v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.01049v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Industrial inspection requires more than binary anomaly detection: a practical system should determine whether an anomaly exists, localize the defective region, identify the defect type, and provide interpretable visual evidence. Existing CLIP-based methods detect and localize anomalies well but offer limited language-level defect understanding, while instruction-tuned vision-language models can describe defects but do not natively produce pixel-level masks. We introduce GenAU, a Generalist vision-language framework for industrial Anomaly Understanding that unifies image-level detection, pixel-level segmentation, multi-type anomaly detection, and defect analysis in a single instruction-following model. GenAU augments a vision-language model with two segmentation tokens, [SEG_defect] and [SEG_normal], whose hidden states act as language-grounded queries over multi-scale visual features for pixel-level localization; the image-level score fuses this map with the decoder's textual normal/defect decision, while the language decoder produces structured defect-aware responses. Trained with a joint language-modeling and segmentation objective, GenAU covers all four tasks within one architecture and recipe, adding zero-shot multi-type detection and language-grounded defect analysis at a quantified cost to detection and segmentation. Across cross-dataset benchmarks, GenAU attains the strongest image-level detection among CLIP-based zero-shot methods on VisA and Real-IAD, with segmentation approaching but not surpassing specialized CLIP baselines.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-01T15:11:29Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Hongkuan Zhou</name>
+    </author>
+    <author>
+      <name>Tristan Rehm</name>
+    </author>
+    <author>
+      <name>Nadeem Nazer</name>
+    </author>
+    <author>
+      <name>Lavdim Halilaj</name>
+    </author>
+    <author>
+      <name>Jingcheng Wu</name>
+    </author>
+    <author>
+      <name>Steffen Staab</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/fNJGGKAi05uzijMJX48igpKdpiM</id>
+  <title>arXiv Query: search_query=&amp;id_list=2608.29112&amp;start=0&amp;max_results=10</title>
+  <updated>2026-10-13T10:20:51Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2608.29112" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2608.29112v1</id>
+    <title>NFAD: Nuisance-Filtered Anomaly Detection Under Distribution Shift</title>
+    <updated>2026-08-29T07:41:34Z</updated>
+    <link href="https://arxiv.org/abs/2608.29112v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2608.29112v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent advances in anomaly detection (AD) for industrial inspection have pushed performance on standard benchmarks toward saturation. However, strong benchmark performance does not necessarily translate to real-world deployment, as these benchmarks are primarily collected under controlled acquisition conditions. Changes in illumination, background, viewpoint, and other environmental factors can shift normal samples away from the learned normal distribution and cause false anomaly responses. We address AD under such distribution shifts by explicitly modeling nuisance variation from changing imaging conditions in feature space. Without anomaly labels or target-domain data, our Nuisance-Filtered Anomaly Detection (NFAD) framework estimates a nuisance subspace from matched feature displacements induced by content-preserving perturbations and suppresses its contribution to anomaly residuals at inference. The same subspace supports two complementary branches: full projection for image-level detection and selective suppression for pixel-level localization, preserving evidence of localized defects. On AeBAD-S, a benchmark specifically designed for AD under acquisition shifts, NFAD achieves 91.0\% image-level AUROC, establishing a new state of the art. Notably, this robustness does not come at the expense of conventional AD performance: NFAD remains competitive on standard benchmarks that do not explicitly evaluate distribution shift, including VisA, Real-IAD, and MVTec AD. These results show that explicitly suppressing such nuisance variation improves AD under distribution shift while preserving strong performance in standard settings.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-08-29T07:41:34Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Dat Cao</name>
+    </author>
+    <author>
+      <name>Son Nghiem</name>
+    </author>
+    <author>
+      <name>Phan Nguyen</name>
+    </author>
+    <author>
+      <name>Jun Rekimoto</name>
+    </author>
+    <author>
+      <name>Jhih-Ciang Wu</name>
+    </author>
+  </entry>
+</feed>

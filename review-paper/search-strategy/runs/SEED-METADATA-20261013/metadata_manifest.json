@@ -1,0 +1,264 @@
+{
+  "attempts": [
+    {
+      "id": "R01",
+      "doi": "10.1007/s11633-023-1459-z",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1007%2Fs11633-023-1459-z",
+      "time_utc": "2026-10-13T10:20:25.445633+00:00",
+      "status": "completed",
+      "file": "R01.json",
+      "sha256": "dce9158e1a35243922e0234dc75bfc781b8dee3658b3aecfc59589d4b1b87ea5"
+    },
+    {
+      "id": "R02",
+      "doi": "10.1007/s10462-025-11287-7",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1007%2Fs10462-025-11287-7",
+      "time_utc": "2026-10-13T10:20:25.446773+00:00",
+      "status": "completed",
+      "file": "R02.json",
+      "sha256": "e998f4efab6e5fca6bafa971fad8c9ccd190eee0beb666989d6561268a1e342c"
+    },
+    {
+      "id": "R03",
+      "doi": "",
+      "arxiv": "2401.16402",
+      "url": "https://export.arxiv.org/api/query?id_list=2401.16402",
+      "time_utc": "2026-10-13T10:20:30.322050+00:00",
+      "status": "completed",
+      "file": "R03.xml",
+      "sha256": "faef909e7b8ff1f17f773ad0235910b3f66a49adc368a156b3be7beef92e5a97"
+    },
+    {
+      "id": "R04",
+      "doi": "",
+      "arxiv": "2501.11310",
+      "url": "https://export.arxiv.org/api/query?id_list=2501.11310",
+      "time_utc": "2026-10-13T10:20:30.345498+00:00",
+      "status": "completed",
+      "file": "R04.xml",
+      "sha256": "759394c461332261a66e418bb260d381a46f687a7c8b207fb83f205a2f46cc04"
+    },
+    {
+      "id": "R05",
+      "doi": "10.1016/j.measurement.2025.118377",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1016%2Fj.measurement.2025.118377",
+      "time_utc": "2026-10-13T10:20:35.125030+00:00",
+      "status": "completed",
+      "file": "R05.json",
+      "sha256": "1d045e0a880d14fe329beb0dacddb701d52573b1a2e8ca824c3899c64a4ca7d1"
+    },
+    {
+      "id": "R06",
+      "status": "not_attempted",
+      "reason": "No verified identifier"
+    },
+    {
+      "id": "R07",
+      "doi": "10.1016/j.measurement.2026.122522",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1016%2Fj.measurement.2026.122522",
+      "time_utc": "2026-10-13T10:20:35.220907+00:00",
+      "status": "completed",
+      "file": "R07.json",
+      "sha256": "5fbf4e21b4285587ddb5dff5eb30ef5a13e1fd873169bf6d4bcb938f0324c62d"
+    },
+    {
+      "id": "R08",
+      "status": "not_attempted",
+      "reason": "No verified identifier"
+    },
+    {
+      "id": "P01",
+      "doi": "10.1038/s41529-022-00232-6",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1038%2Fs41529-022-00232-6",
+      "time_utc": "2026-10-13T10:20:39.968288+00:00",
+      "status": "completed",
+      "file": "P01.json",
+      "sha256": "60c98b87a532e837e55fbb34e4b0843871cebb17e780e6f252c532612600fb0f"
+    },
+    {
+      "id": "P02",
+      "doi": "",
+      "arxiv": "2303.13845",
+      "url": "https://export.arxiv.org/api/query?id_list=2303.13845",
+      "time_utc": "2026-10-13T10:20:40.016694+00:00",
+      "status": "completed",
+      "file": "P02.xml",
+      "sha256": "940e78d48ca5c0202f55bc369d8fe2881a42352e7541913f127f657a074f13c4"
+    },
+    {
+      "id": "P03",
+      "doi": "",
+      "arxiv": "2503.19146",
+      "url": "https://export.arxiv.org/api/query?id_list=2503.19146",
+      "time_utc": "2026-10-13T10:20:43.315665+00:00",
+      "status": "completed",
+      "file": "P03.xml",
+      "sha256": "e624400f1cebba1cf7c19b43b4b9c0eb54310f4d060a90910c317e9b704b58a6"
+    },
+    {
+      "id": "P04",
+      "status": "not_attempted",
+      "reason": "No verified identifier"
+    },
+    {
+      "id": "P05",
+      "status": "not_attempted",
+      "reason": "No verified identifier"
+    },
+    {
+      "id": "P06",
+      "doi": "",
+      "arxiv": "2608.18585",
+      "url": "https://export.arxiv.org/api/query?id_list=2608.18585",
+      "time_utc": "2026-10-13T10:20:44.698253+00:00",
+      "status": "completed",
+      "file": "P06.xml",
+      "sha256": "339b6d7db7f1ff101d935c16b3e40685a08b181e990e6c1e16d44e72abaddb10"
+    },
+    {
+      "id": "P07",
+      "doi": "",
+      "arxiv": "2608.29112",
+      "url": "https://export.arxiv.org/api/query?id_list=2608.29112",
+      "time_utc": "2026-10-13T10:20:46.547542+00:00",
+      "status": "completed",
+      "file": "P07.xml",
+      "sha256": "34ef83da7984bdd2dc8da204f760dfe830f9b7903fcd8f855c06de4e0459726b"
+    },
+    {
+      "id": "P08",
+      "doi": "10.1016/j.compind.2023.103990",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1016%2Fj.compind.2023.103990",
+      "time_utc": "2026-10-13T10:20:46.668041+00:00",
+      "status": "completed",
+      "file": "P08.json",
+      "sha256": "79a415d51124a96dd26efeb47ca4324fe320f8824d205fbe3e8ea00ea53eb108"
+    },
+    {
+      "id": "P09",
+      "doi": "",
+      "arxiv": "2609.03475",
+      "url": "https://export.arxiv.org/api/query?id_list=2609.03475",
+      "time_utc": "2026-10-13T10:20:49.837813+00:00",
+      "status": "completed",
+      "file": "P09.xml",
+      "sha256": "06c309da215996a5796db04baf2d79d861e8c032912dfb2caacbfede79c05821"
+    },
+    {
+      "id": "P10",
+      "doi": "10.1111/mice.70077",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1111%2Fmice.70077",
+      "time_utc": "2026-10-13T10:20:51.257026+00:00",
+      "status": "completed",
+      "file": "P10.json",
+      "sha256": "d282bc1bd779dba05d36bfdacfd1051d5bc13b9d8f702f3e3c6fa0a207b5f251"
+    },
+    {
+      "id": "R09",
+      "doi": "10.1109/ACCESS.2023.3301119",
+      "arxiv": "2305.11427",
+      "url": "https://api.crossref.org/works/10.1109%2FACCESS.2023.3301119",
+      "time_utc": "2026-10-13T10:20:51.351905+00:00",
+      "status": "completed",
+      "file": "R09.json",
+      "sha256": "260a8edad10f68269b0600a400fbf8dc913c29690ad6993d002423111e5018ac"
+    },
+    {
+      "id": "R10",
+      "doi": "10.1016/j.inffus.2025.103139",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1016%2Fj.inffus.2025.103139",
+      "time_utc": "2026-10-13T10:20:56.080333+00:00",
+      "status": "completed",
+      "file": "R10.json",
+      "sha256": "1f806103e182ef630c97929feea64662ad041e5fede0f862091573d107bf676f"
+    },
+    {
+      "id": "R11",
+      "doi": "10.1007/s11263-023-01822-w",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1007%2Fs11263-023-01822-w",
+      "time_utc": "2026-10-13T10:20:56.229922+00:00",
+      "status": "completed",
+      "file": "R11.json",
+      "sha256": "a2adfd3cc370fd1e9cafe85b7d1943702d06b114103e384a40a5c581e38cfba6"
+    },
+    {
+      "id": "R12",
+      "doi": "10.1186/s44147-026-01156-7",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1186%2Fs44147-026-01156-7",
+      "time_utc": "2026-10-13T10:21:00.959708+00:00",
+      "status": "completed",
+      "file": "R12.json",
+      "sha256": "5fe3844df9eb3053aa4ebfa7744a74f45acc32a24f70279793c58daf582464f4"
+    },
+    {
+      "id": "R13",
+      "doi": "10.1002/suco.70702",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1002%2Fsuco.70702",
+      "time_utc": "2026-10-13T10:21:00.979410+00:00",
+      "status": "completed",
+      "file": "R13.json",
+      "sha256": "4cd4274a78394e9fc265e71dcf570127e4bd5b529ce04ad16d164157c9e14351"
+    },
+    {
+      "id": "P11",
+      "doi": "10.1007/s13349-025-01003-y",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1007%2Fs13349-025-01003-y",
+      "time_utc": "2026-10-13T10:21:05.761011+00:00",
+      "status": "completed",
+      "file": "P11.json",
+      "sha256": "7f6021d955dda654ca603a82064c94930942feb3a689ac5334339f1cbdd00eb1"
+    },
+    {
+      "id": "P12",
+      "doi": "",
+      "arxiv": "2607.01049",
+      "url": "https://export.arxiv.org/api/query?id_list=2607.01049",
+      "time_utc": "2026-10-13T10:21:05.872897+00:00",
+      "status": "completed",
+      "file": "P12.xml",
+      "sha256": "0f024db6e13cb2a02e0ea468b61e638f559069d349863fac6ac56e63594c811b"
+    },
+    {
+      "id": "F01",
+      "doi": "10.7326/M18-0850",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.7326%2FM18-0850",
+      "time_utc": "2026-10-13T10:21:13.718804+00:00",
+      "status": "completed",
+      "file": "F01.json",
+      "sha256": "417003a8b7abb980204af534b8c8ac752ba72e58b5ef287fe18eb9e9d495e42e"
+    },
+    {
+      "id": "F02",
+      "doi": "10.1186/s13643-020-01542-z",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.1186%2Fs13643-020-01542-z",
+      "time_utc": "2026-10-13T10:21:14.672123+00:00",
+      "status": "completed",
+      "file": "F02.json",
+      "sha256": "f4463de50f03c8a88c1c56d48b41b9d9434bc508634bb3698d34908a4411c4b2"
+    },
+    {
+      "id": "F03",
+      "doi": "10.11124/JBIES-20-00167",
+      "arxiv": "",
+      "url": "https://api.crossref.org/works/10.11124%2FJBIES-20-00167",
+      "time_utc": "2026-10-13T10:21:18.440524+00:00",
+      "status": "completed",
+      "file": "F03.json",
+      "sha256": "d67cced45bf26288f266f72fd15233d7d1cf573620e9ebf9b0faea3d2eb7e09e"
+    }
+  ]
+}

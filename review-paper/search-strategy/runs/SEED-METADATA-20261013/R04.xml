@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/IEYQR4YYgFIlaIgjDhsrbwisv9Y</id>
+  <title>arXiv Query: search_query=&amp;id_list=2501.11310&amp;start=0&amp;max_results=10</title>
+  <updated>2026-10-13T10:20:35Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2501.11310" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2501.11310v1</id>
+    <title>Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review</title>
+    <updated>2025-01-20T07:24:39Z</updated>
+    <link href="https://arxiv.org/abs/2501.11310v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.11310v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Anomaly detection from images captured using camera sensors is one of the mainstream applications at the industrial level. Particularly, it maintains the quality and optimizes the efficiency in production processes across diverse industrial tasks, including advanced manufacturing and aerospace engineering. Traditional anomaly detection workflow is based on a manual inspection by human operators, which is a tedious task. Advances in intelligent automated inspection systems have revolutionized the Industrial Anomaly Detection (IAD) process. Recent vision-based approaches can automatically extract, process, and interpret features using computer vision and align with the goals of automation in industrial operations. In light of the shift in inspection methodologies, this survey reviews studies published since 2019, with a specific focus on vision-based anomaly detection. The components of an IAD pipeline that are overlooked in existing surveys are presented, including areas related to data acquisition, preprocessing, learning mechanisms, and evaluation. In addition to the collected publications, several scientific and industry-related challenges and their perspective solutions are highlighted. Popular and relevant industrial datasets are also summarized, providing further insight into inspection applications. Finally, future directions of vision-based IAD are discussed, offering researchers insight into the state-of-the-art of industrial inspection.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-20T07:24:39Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Abdelrahman Alzarooni</name>
+    </author>
+    <author>
+      <name>Ehtesham Iqbal</name>
+    </author>
+    <author>
+      <name>Samee Ullah Khan</name>
+    </author>
+    <author>
+      <name>Sajid Javed</name>
+    </author>
+    <author>
+      <name>Brain Moyo</name>
+    </author>
+    <author>
+      <name>Yusra Abdulrahman</name>
+    </author>
+  </entry>
+</feed>

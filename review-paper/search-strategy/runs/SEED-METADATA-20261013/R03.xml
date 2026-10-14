@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/fD3t0xDJJSvH8ZsZKhNzJlVhdrQ</id>
+  <title>arXiv Query: search_query=&amp;id_list=2401.16402&amp;start=0&amp;max_results=10</title>
+  <updated>2026-10-13T10:20:35Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2401.16402" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2401.16402v1</id>
+    <title>A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect</title>
+    <updated>2024-01-29T18:41:21Z</updated>
+    <link href="https://arxiv.org/abs/2401.16402v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2401.16402v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Visual Anomaly Detection (VAD) endeavors to pinpoint deviations from the concept of normality in visual data, widely applied across diverse domains, e.g., industrial defect inspection, and medical lesion detection. This survey comprehensively examines recent advancements in VAD by identifying three primary challenges: 1) scarcity of training data, 2) diversity of visual modalities, and 3) complexity of hierarchical anomalies. Starting with a brief overview of the VAD background and its generic concept definitions, we progressively categorize, emphasize, and discuss the latest VAD progress from the perspective of sample number, data modality, and anomaly hierarchy. Through an in-depth analysis of the VAD field, we finally summarize future developments for VAD and conclude the key findings and contributions of this survey.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-01-29T18:41:21Z</published>
+    <arxiv:comment>Work in progress. Yunkang Cao, Xiaohao Xu, and Jiangning Zhang contribute equally to this work</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yunkang Cao</name>
+    </author>
+    <author>
+      <name>Xiaohao Xu</name>
+    </author>
+    <author>
+      <name>Jiangning Zhang</name>
+    </author>
+    <author>
+      <name>Yuqi Cheng</name>
+    </author>
+    <author>
+      <name>Xiaonan Huang</name>
+    </author>
+    <author>
+      <name>Guansong Pang</name>
+    </author>
+    <author>
+      <name>Weiming Shen</name>
+    </author>
+  </entry>
+</feed>

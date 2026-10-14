@@ -1,0 +1,121 @@
+{
+  "protocol_version": "0.3",
+  "run_type": "Pilot scoping discovery",
+  "cutoff": "2026-10-13",
+  "lower_date_limit": null,
+  "rows_per_query": 25,
+  "queries": [
+    {
+      "id": "S01",
+      "theme": "Industrial visual inspection",
+      "query": "industrial visual anomaly detection",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S02",
+      "theme": "Reviews",
+      "query": "industrial visual anomaly detection survey review",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S03",
+      "theme": "Distribution shift",
+      "query": "industrial image anomaly detection domain shift",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S04",
+      "theme": "Uncertainty",
+      "query": "industrial visual defect detection uncertainty quantification",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S05",
+      "theme": "Calibration",
+      "query": "industrial anomaly detection confidence calibration",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S06",
+      "theme": "Selective prediction",
+      "query": "industrial visual inspection selective prediction abstention",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S07",
+      "theme": "Risk control",
+      "query": "industrial anomaly detection conformal risk control",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S08",
+      "theme": "Corrosion",
+      "query": "corrosion detection computer vision deep learning",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S09",
+      "theme": "Corrosion reliability",
+      "query": "corrosion segmentation uncertainty domain adaptation",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S10",
+      "theme": "Thermal inspection",
+      "query": "thermal infrared visual industrial inspection anomaly detection",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S11",
+      "theme": "Multimodal inspection",
+      "query": "RGB thermal multimodal industrial defect inspection",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S12",
+      "theme": "Sensor reliability",
+      "query": "industrial visual anomaly detection missing modality sensor uncertainty",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S13",
+      "theme": "Evidence-grounded reporting",
+      "query": "industrial inspection vision language grounding anomaly explanation",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S14",
+      "theme": "Deployment evidence",
+      "query": "industrial visual inspection human machine review deployment reliability",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S15",
+      "theme": "Benchmarks",
+      "query": "industrial anomaly detection dataset benchmark acquisition lighting",
+      "field": "query.bibliographic",
+      "status": "planned"
+    },
+    {
+      "id": "S16",
+      "theme": "Evaluation",
+      "query": "industrial visual anomaly detection calibration risk coverage evaluation",
+      "field": "query.bibliographic",
+      "status": "planned"
+    }
+  ]
+}
