@@ -44,12 +44,21 @@ Append dated sessions to the research story. Record sources, version, access lev
 Keep dataset bytes and third-party paper PDFs outside git. Cite primary records and preserve relevant licences.
 
 ## Reproduce the saved pilot
-Run from the repository root with Python 3 (standard library only):
+Run from the repository root with Python 3.10 or later (standard library only):
 ```bash
-python3 review-paper/scripts/build_corpus.py
-python3 review-paper/scripts/validate_scope.py
+python review-paper/scripts/validate_scope.py
+python -m unittest discover -s review-paper/scripts/tests -v
+python review-paper/scripts/build_corpus.py --output-dir replay-output
 ```
-Replay uses preserved snapshots; it does not run a fresh search or rebuild the XLSX. Review generated diffs before saving. The validator currently checks the unscreened pilot snapshot; update its screening assertions deliberately when confirmed decisions are added.
+Replay uses preserved snapshots and requires a separate, new or empty output directory. It does not run a fresh search, modify the source corpus or rebuild the XLSX. Review generated diffs before applying changes. The validator currently checks the unscreened pilot snapshot; update its screening assertions deliberately when confirmed decisions are added.
 
 ## Current handoff
 GitHub workspace initialised 14 October 2026. The shared Sheet remains the collaboration surface; repository CSVs and XLSX are the saved scoping snapshot. Session 04 pilot suggestions are separate from formal decisions. Next: abstract retrieval and reviewer calibration, followed by validated multi-source searches.
+
+## Contributor workflow and next milestones
+
+- [Contributor guide](CONTRIBUTING.md): validation, safe replay, evidence preservation and synchronisation.
+- [Progression milestones](docs/progression-plan.md): acceptance criteria for the active task ledger.
+- [Repository review, 14 October 2026](docs/repository-review-20261014.md): findings, fixes and remaining limits.
+
+Raw search captures retain exact bytes across platforms. The root `manifest.json` records the initial delivery snapshot; search-run manifests verify the preserved captures. Reuse licensing is not yet declared.

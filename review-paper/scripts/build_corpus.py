@@ -4,7 +4,7 @@ No network required. Title prioritisation does not decide eligibility.
 Identity: exact DOI, then arXiv ID. A title match attaches a seed only when unique;
 different persistent identifiers are never collapsed on title alone.
 """
-import csv,datetime,hashlib,html,json,pathlib,re,unicodedata,xml.etree.ElementTree as ET
+import argparse,csv,datetime,hashlib,html,json,pathlib,re,unicodedata,xml.etree.ElementTree as ET
 from collections import defaultdict
 from html.parser import HTMLParser
 ROOT=pathlib.Path(__file__).resolve().parents[2]
@@ -53,8 +53,17 @@ def title_queue(t):
  return "Title-scope candidate" if asset and visual and not outside else "Lower-priority; inspect scope"
 
 def main():
+ parser=argparse.ArgumentParser(description="Replay the saved pilot into a new, empty directory; never overwrite research records.")
+ parser.add_argument("--output-dir",required=True,type=pathlib.Path,help="New or empty directory for generated artifacts")
+ args=parser.parse_args()
+ output=args.output_dir.resolve()
+ if output==C.resolve() or C.resolve() in output.parents:
+  parser.error("Choose an output directory outside the source corpus")
+ if output.exists() and (not output.is_dir() or any(output.iterdir())):
+  parser.error("Output directory must be new or empty")
+ output.mkdir(parents=True,exist_ok=True)
  legacy=readcsv(C/"legacy-session2/corpus.csv")
- extras=json.loads((C/"additional-seeds.json").read_text())+json.loads((C/"baseline-seeds.json").read_text())
+ extras=json.loads((C/"additional-seeds.json").read_text(encoding="utf-8"))+json.loads((C/"baseline-seeds.json").read_text(encoding="utf-8"))
  seeded=[]
  for s in legacy:
   u=s["Primary source URL"];doi=re.search(r"(10\.\d{4,9}/[^\s?#]+)",u);ar=re.search(r"arxiv.org/(?:abs|html|pdf)/(\d{4}\.\d{4,5})",u)
@@ -67,19 +76,19 @@ def main():
                  "reading":"Metadata only","evidence":"","implication":"","next":"Title/abstract screening"})
  search_rows=[];events=[];unique={};title_index=defaultdict(list)
  for run in sorted(RUNS.glob("PILOT-*")):
-  manifest=json.loads((run/"search_manifest.json").read_text())
+  manifest=json.loads((run/"search_manifest.json").read_text(encoding="utf-8"))
   for s in manifest["searches"]:
    search_rows.append({"Run ID":manifest["run_id"],"Search ID":s["search_id"],"Source/platform":s["platform"],
     "Search purpose":s["theme"],"Exact query":s["exact_query"],"Field":s["field"],"Filters":s["filters"],
     "Run status":s["status"],"Returned records":s["records_returned"],"API fuzzy hit count":s.get("api_total_results"),
     "Capture limit":s["rows_requested"],"Pagination":s["pagination"],"Search time UTC":s["started_utc"],
-    "Raw file":str((run/s.get("raw_file","")).relative_to(ROOT)) if s.get("raw_file") else "",
+    "Raw file":(run/s.get("raw_file","")).relative_to(ROOT).as_posix() if s.get("raw_file") else "",
     "SHA256":s.get("sha256",""),"Notes":s.get("error",s.get("note",""))})
    if s["status"]!="completed":continue
    raw=run/s["raw_file"];blob=raw.read_bytes()
    if hashlib.sha256(blob).hexdigest()!=s["sha256"]:raise ValueError("Raw hash mismatch")
    for rank,m in enumerate(json.loads(blob)["message"]["items"],1):
-    meta=crossref(m,str(raw.relative_to(ROOT)));key="doi:"+meta["doi"] if meta["doi"] else "title:"+norm(meta["title"])
+    meta=crossref(m,raw.relative_to(ROOT).as_posix());key="doi:"+meta["doi"] if meta["doi"] else "title:"+norm(meta["title"])
     event={"Event ID":f"{manifest['run_id']}-{s['search_id']}-{rank:03d}","Source":"Crossref pilot","Run ID":manifest["run_id"],
            "Search ID":s["search_id"],"Rank":rank,"Identity":key,"Title":meta["title"],"DOI":meta["doi"],"Duplicate of":""}
     if key in unique:event["Duplicate of"]=unique[key]["event"]
@@ -91,19 +100,19 @@ def main():
   for prefix in ["SEED-METADATA-20261013","BASELINE-METADATA-20261013"]:
    run=RUNS/prefix;mp=run/"metadata_manifest.json"
    if not mp.exists():continue
-   log=json.loads(mp.read_text())
+   log=json.loads(mp.read_text(encoding="utf-8"))
    a=next((a for a in log["attempts"] if a["id"]==seed["id"] and a["status"]=="completed"),None)
    if a:
     p=run/a["file"]
     if hashlib.sha256(p.read_bytes()).hexdigest()!=a["sha256"]:raise ValueError("Metadata hash mismatch")
-    if p.suffix==".json":meta=crossref(json.loads(p.read_text())["message"],str(p.relative_to(ROOT)))
-    elif p.suffix==".xml":meta=arxiv(p,str(p.relative_to(ROOT)))
+    if p.suffix==".json":meta=crossref(json.loads(p.read_text(encoding="utf-8"))["message"],p.relative_to(ROOT).as_posix())
+    elif p.suffix==".xml":meta=arxiv(p,p.relative_to(ROOT).as_posix())
     elif p.suffix==".html":
-     x=Meta();x.feed(p.read_text());v=x.fields;names=v.get("citation_author",[])
+     x=Meta();x.feed(p.read_text(encoding="utf-8"));v=x.fields;names=v.get("citation_author",[])
      meta={"title":v.get("citation_title",[seed["title"]])[0],"doi":v.get("citation_doi",[""])[0].lower(),"arxiv":"",
        "authors":"; ".join(names),"first_author":names[0] if names else "","year":int(v.get("citation_publication_date",["2024"])[0][:4]),
        "venue":v.get("citation_conference_title",["CVPR 2024"])[0],"publisher":"CVF","publisher_url":seed["url"],"access_url":seed["url"],
-       "record_type":"conference-paper","metadata_source":str(p.relative_to(ROOT)),"metadata_status":"CVF metadata inspected"}
+       "record_type":"conference-paper","metadata_source":p.relative_to(ROOT).as_posix(),"metadata_status":"CVF metadata inspected"}
     break
   if meta is None:
    matches=title_index.get(norm(seed["title"]),[])
@@ -124,7 +133,7 @@ def main():
   else:unique[key]["seed"]=seed;unique[key]["meta"]=meta
   unique[key]["searches"].append("SEED");events.append(event)
  registry_path=C/"identity-registry.json"
- registry=json.loads(registry_path.read_text()) if registry_path.exists() else {}
+ registry=json.loads(registry_path.read_text(encoding="utf-8")) if registry_path.exists() else {}
  records=[];counter=max([int(v[1:]) for v in registry.values() if re.fullmatch(r"C\d+",v)]+[0])
  for key,u in unique.items():
   if u["seed"]:ident=u["seed"]["id"]
@@ -132,7 +141,7 @@ def main():
   else:counter+=1;ident=f"C{counter:04d}"
   u["paper_id"]=ident
   registry[key]=ident
- registry_path.write_text(json.dumps(registry,indent=2))
+ (output/"identity-registry.json").write_text(json.dumps(registry,indent=2),encoding="utf-8")
  for e in events:e["Paper ID"]=unique[e["Identity"]]["paper_id"]
  headers=["Paper ID","Cluster ID","Cluster","Secondary Cluster","Pillar","Full Authors","First Author","Year","Full Title",
   "Venue / Journal","DOI","arXiv ID","Publisher URL","URL (Paper Access)","Modality","Task","Shift Type","Dataset / Benchmark",
@@ -172,9 +181,9 @@ def main():
  # Keep all IDs in ledger. Corpus is a reading queue, not an inclusion set.
  corpus=[r for r in records if r["Automated Queue"]!="Lower-priority; inspect scope"]
  corpus.sort(key=lambda r:(0 if not r["Paper ID"].startswith("C") else 1,r["Paper ID"]))
- writecsv(C/"corpus.csv",corpus,headers);writecsv(C/"records-ledger.csv",ledger);writecsv(C/"identification-events.csv",events)
- writecsv(C/"search-runs.csv",search_rows)
- writecsv(C/"deduplication.csv",[{"Event ID":e["Event ID"],"Paper ID":e["Paper ID"],"Duplicate of":e["Duplicate of"],"Identity":e["Identity"]} for e in events if e["Duplicate of"]])
+ writecsv(output/"corpus.csv",corpus,headers);writecsv(output/"records-ledger.csv",ledger);writecsv(output/"identification-events.csv",events)
+ writecsv(output/"search-runs.csv",search_rows)
+ writecsv(output/"deduplication.csv",[{"Event ID":e["Event ID"],"Paper ID":e["Paper ID"],"Duplicate of":e["Duplicate of"],"Identity":e["Identity"]} for e in events if e["Duplicate of"]])
  # BibTeX from exact deposited names. It is a draft bibliography, not citation verification.
  entries=[]
  for r in corpus:
@@ -183,12 +192,12 @@ def main():
   fields={"title":r["Full Title"],"author":r["Full Authors"].replace("; "," and "),"year":r["Year"] or "",
           "journal":r["Venue / Journal"],"doi":r["DOI"],"eprint":r["arXiv ID"],"url":r["URL (Paper Access)"]}
   entries.append("@misc{"+r["BibTeX Key"]+",\n"+",\n".join("  "+k+" = {"+esc(v)+"}" for k,v in fields.items() if v)+"\n}")
- (C/"references-draft.bib").write_text("\n\n".join(entries),encoding="utf-8")
+ (output/"references-draft.bib").write_text("\n\n".join(entries),encoding="utf-8")
  stats={"retrieval_occurrences":len(events),"crossref_occurrences":sum(e["Source"]=="Crossref pilot" for e in events),
         "seed_occurrences":sum(e["Source"]=="Seed register" for e in events),"duplicate_occurrences":sum(bool(e["Duplicate of"]) for e in events),
         "unique_reports":len(unique),"reading_queue":len(corpus),"automatic_title_candidates":sum(r["Automated Queue"]=="Title-scope candidate" for r in records),
         "formal_screened":0,"formal_included":0,"status":"Pilot identification; screening not started"}
- (C/"scope-counts.json").write_text(json.dumps(stats,indent=2))
- (C/"workbook-data.json").write_text(json.dumps({"corpus":corpus,"ledger":ledger,"events":events,"searches":search_rows,"counts":stats},ensure_ascii=False))
+ (output/"scope-counts.json").write_text(json.dumps(stats,indent=2),encoding="utf-8")
+ (output/"workbook-data.json").write_text(json.dumps({"corpus":corpus,"ledger":ledger,"events":events,"searches":search_rows,"counts":stats},ensure_ascii=False),encoding="utf-8")
  print(json.dumps(stats))
 if __name__=="__main__":main()

@@ -33,3 +33,13 @@ Updated 14 October 2026.
 ## Open decisions
 Human reviewers and adjudicator; database access; publication-status policy; final date/language restrictions; final taxonomy; focused review angle.
 No fixed paper-count target substitutes for search coverage or rigorous screening.
+
+## Repository review - 14 October 2026
+- [x] Strengthen saved-pilot validation and protect replay from overwriting research.
+- [x] Verify raw metadata checksums and preserve capture bytes across platforms.
+- [x] Add regression checks, contributor guidance and progression acceptance criteria.
+- [ ] Migrate validation for human screening decisions before entering confirmed decisions.
+- [ ] Document and verify workbook/Sheet reconciliation and release procedure.
+- [ ] Choose reuse terms for original repository material.
+
+See docs/progression-plan.md for acceptance criteria; this ledger remains the active work plan.

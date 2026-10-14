@@ -1,0 +1,5 @@
+# Raw captures are byte evidence: never convert their line endings.
+review-paper/search-strategy/runs/** -text
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf

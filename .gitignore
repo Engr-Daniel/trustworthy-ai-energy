@@ -6,3 +6,6 @@ checkpoints/
 *.pyc
 __pycache__/
 .env
+
+# Disposable historical-pilot replay
+replay-output/

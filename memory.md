@@ -37,3 +37,6 @@ Native tracker: https://docs.google.com/spreadsheets/d/14NW5z6UziqVTzN2ZsmPbhT8N
 
 ## Latest continuation
 The 20-record eligibility calibration packet is in review-paper/screening/pilot-20261013/. It contains title/metadata-only AI route suggestions and draft, unexecuted arXiv searches. Human decisions remain pending. Do not count those suggestions as formal screening.
+
+## Repository maintenance - 14 October 2026
+The repo is flattened into Personal/trustworthy-ai-energy. Replay now requires --output-dir pointing to a separate empty directory and never updates source records. Stronger validation checks metadata hashes, duplicate links, stable identity and workbook JSON/CSV agreement. Raw capture line endings are preserved through .gitattributes. Read CONTRIBUTING.md and docs/progression-plan.md for maintenance and milestone criteria. Live GitHub state and shared Sheet were not verified during this review.
