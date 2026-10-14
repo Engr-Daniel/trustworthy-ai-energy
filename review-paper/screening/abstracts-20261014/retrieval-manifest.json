@@ -208,6 +208,62 @@
       "status": "abstract_retrieved",
       "raw_file": "raw/B01-cvf.html",
       "sha256": "aa6dadd97eb854a126e647330e8e768505d4663eae1a6e2bd6acfb76c249ca4b"
+    },
+    {
+      "paper_id": "C0028",
+      "url": "https://arxiv.org/abs/2107.10880",
+      "started_utc": "2026-10-14T20:58:28.632151+00:00",
+      "purpose": "Continuation primary-source retry; alternative report linkage remains unverified",
+      "status": "abstract_retrieved",
+      "final_url": "https://arxiv.org/abs/2107.10880",
+      "raw_file": "raw/C0028-continuation.html",
+      "sha256": "59e075e407ea6e1ed80378bf459401cd317ce50c9003e9fc8795e6c1b35e5a12"
+    },
+    {
+      "paper_id": "C0032",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7446051",
+      "started_utc": "2026-10-14T20:58:29.825739+00:00",
+      "purpose": "Continuation primary-source retry; alternative report linkage remains unverified",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "paper_id": "P04",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11669645/",
+      "started_utc": "2026-10-14T20:58:30.790795+00:00",
+      "purpose": "Continuation primary-source retry; alternative report linkage remains unverified",
+      "status": "captured_no_abstract",
+      "final_url": "https://ieeexplore.ieee.org/abstract/document/11669645/",
+      "raw_file": "raw/P04-continuation.html",
+      "sha256": "66961e3e0526f8364cc2a4a770e2c3fe8ff89ff3df378c8ccf4dc785fce6147c"
+    },
+    {
+      "paper_id": "P05",
+      "url": "https://api.crossref.org/works/10.1016%2Fj.jprocont.2026.103701",
+      "started_utc": "2026-10-14T20:58:31.400421+00:00",
+      "purpose": "Continuation primary-source retry; alternative report linkage remains unverified",
+      "status": "captured_no_abstract",
+      "final_url": "https://api.crossref.org/works/10.1016%2Fj.jprocont.2026.103701",
+      "raw_file": "raw/P05-continuation.json",
+      "sha256": "585bcb26afe0cb87037abce7782af564c1eadcee4f54b27d8b40bbdc72c8c804"
+    },
+    {
+      "paper_id": "P10",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.70077",
+      "started_utc": "2026-10-14T20:58:32.639993+00:00",
+      "purpose": "Continuation primary-source retry; alternative report linkage remains unverified",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "paper_id": "R02",
+      "url": "https://link.springer.com/article/10.1007/s10462-025-11287-7",
+      "started_utc": "2026-10-14T20:58:33.256398+00:00",
+      "purpose": "Continuation primary-source retry; alternative report linkage remains unverified",
+      "status": "captured_no_abstract",
+      "final_url": "https://link.springer.com/article/10.1007/s10462-025-11287-7",
+      "raw_file": "raw/R02-continuation.html",
+      "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
     }
   ]
 }

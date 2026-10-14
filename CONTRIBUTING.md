@@ -12,7 +12,7 @@ python review-paper/scripts/validate_scope.py
 python -m unittest discover -s review-paper/scripts/tests -v
 ```
 
-The validator currently enforces the saved, formally unscreened pilot. Before introducing confirmed decisions, extend the validator and tests to check reviewer identity, dates, reasons, adjudication, retrieval outcomes and derived screening counts. Do not bypass its pending-decision checks merely to make CI pass.
+The main validator now supports human screening decisions with a stage-specific evidence sidecar, while the saved ledger remains unscreened. Follow [screening-workflow.md](docs/screening-workflow.md) for evidence, reviewer/date/reason checks, audit gates and coordinated CSV/JSON/count updates. Passing a pending template does not establish completed screening.
 
 ## Replay without overwriting research
 

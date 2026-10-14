@@ -38,7 +38,7 @@ No fixed paper-count target substitutes for search coverage or rigorous screenin
 - [x] Strengthen saved-pilot validation and protect replay from overwriting research.
 - [x] Verify raw metadata checksums and preserve capture bytes across platforms.
 - [x] Add regression checks, contributor guidance and progression acceptance criteria.
-- [ ] Migrate validation for human screening decisions before entering confirmed decisions.
+- [x] Migrate validation for human screening decisions with provenance, stage progression, counts and audit checks.
 - [x] Establish workbook/Sheet reconciliation and release procedure; audit saved XLSX and inspect live headers.
 - [ ] Capture full live snapshot, reconcile any differences and verify a complete workbook/Sheet round trip.
 - [ ] Choose reuse terms for original repository material.
@@ -53,3 +53,10 @@ See docs/progression-plan.md for acceptance criteria; this ledger remains the ac
 
 - [x] Confirm primary reviewer arrangement: Daniel, with a documented secondary audit.
 - [ ] Name the secondary auditor and agree/record the audit procedure before calibration screening.
+
+## Calibration readiness continuation - 14 October 2026
+- [x] Retry six unresolved abstracts through primary sources and log exact discovery queries/captures.
+- [x] Recover C0028 matching-title arXiv abstract (candidate linkage only): 15 available, five unresolved.
+- [x] Add pending 20-record human decision template and screening workflow.
+- [ ] Resolve five remaining abstract captures, verify source/version identity and complete Daniel's calibration decisions.
+- [ ] Confirm auditor identity/coverage and amend eligibility rules after calibration.

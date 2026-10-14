@@ -17,3 +17,6 @@ The audit log should record Paper ID, protocol version, Daniel's decision/date/e
 ## Pending actions
 
 Name the secondary auditor and agree the audit coverage/procedure. Retrieve the six missing abstracts, audit extraction completeness and confirm report/version identity. Extend the formal screening validator before promoting confirmed calibration decisions into the ledger and live Sheet. The arrangement is confirmed; the proposed audit details are not yet approved or performed.
+
+## Readiness amendment - 14 October 2026
+The validator migration is implemented and tested, with a pending human decision template. Five abstract captures remain unresolved after continuation retries. Auditor identity, proposed audit coverage and calibration decisions remain pending.

@@ -1,6 +1,6 @@
 # Pilot abstract evidence preparation - 14 October 2026
 
-Abstract evidence is available for 14 of the 20 existing pilot records. This combines preserved captures and new primary-source retrievals. The original pilot packet and formal ledger remain unchanged; all eligibility decisions are pending.
+Abstract evidence is available for 15 of the 20 existing pilot records. This combines preserved captures and new primary-source retrievals. The original pilot packet and formal ledger remain unchanged; all eligibility decisions are pending.
 
 `abstract-evidence.csv` contains abstract text, source, evidence locator, capture hash and pending reviewer/decision fields. `retrieval-manifest.json` records saved-capture use, fresh requests, retries and failures. Raw newly retrieved pages are retained locally under `raw/` and excluded from Git; locate them through the manifest hashes. Historical evidence remains in the original search runs. Abstract text is source material, not an extraction or inclusion decision, and needs identity/content audit before human screening.
 
@@ -8,10 +8,13 @@ For P08, arXiv:2304.02216 supplies a matching-title preprint abstract. Journal/p
 
 ## Unresolved retrievals
 
-P04, P05, P10, R02, C0028 and C0032 require further retrieval or user-assisted access. Responses include access blocks, empty landing pages and pages without an extractable abstract. Do not exclude these papers on retrieval failure. Publisher pages for P04 and R02 were located in web search, but full local abstract captures remain pending.
+P04, P05, P10, R02 and C0032 require further retrieval or user-assisted access. Responses include access blocks, empty landing pages and pages without an extractable abstract. Do not exclude these papers on retrieval failure. Publisher pages for P04 and R02 were located in web search, but full local abstract captures remain pending.
 
 ## Human reviewer arrangement
 
 Confirmed by Daniel on 14 October 2026: Daniel will perform primary human screening, with a documented secondary audit. The secondary auditor is not yet named. This is single-human screening with an audit; no independent dual screening or completed audit is claimed. See reviewer-arrangement.md for the agreed arrangement and proposed audit procedure.
 
 Before use, confirm each source belongs to the selected report/version, check complete abstract extraction, and record reviewer identity, date, rationale and evidence locator in the calibration packet. Keep uncertain cases pending. Formal decisions require the planned validator migration and deliberate Sheet/repository reconciliation.
+
+## Continuation - 14 October 2026
+Recovered C0028 abstract from arXiv:2107.10880, a matching-title candidate for the OSF record. Version/study linkage remains unverified; the corpus record was not merged or changed. Exact continuation queries, primary URLs, raw-response hashes and retries are recorded separately. Five abstract captures remain unresolved; access failure is not an exclusion. A pending human-decisions-template.csv and docs/screening-workflow.md now support Daniel's calibration work.

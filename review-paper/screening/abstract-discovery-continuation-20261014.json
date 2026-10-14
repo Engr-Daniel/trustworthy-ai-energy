@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-14",
+  "source": "Web search and primary-page reads; not a subject-database search",
+  "exact_queries": [
+    "\"Class-conditional conformal prediction\" \"discriminant\" abstract",
+    "\"USING UMAP TO INSPECT AUDIO DATA\" abstract",
+    "\"Multi-Domain Anomaly Detection for Advanced Persistent Threat Detection in Industrial Control Systems\""
+  ],
+  "opened_urls": [
+    "https://ieeexplore.ieee.org/abstract/document/11669645/",
+    "https://link.springer.com/article/10.1007/s10462-025-11287-7",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/mice.70077"
+  ],
+  "raw_file": "review-paper/screening/abstracts-20261014/raw/web-discovery-continuation.txt",
+  "sha256": "e8d145316ea43ba75d07acdd31494299b1a76e450cf8ead758cd8ce12a6c94c3",
+  "scope": "Candidate source discovery only; no new identification events or report linkage decisions"
+}

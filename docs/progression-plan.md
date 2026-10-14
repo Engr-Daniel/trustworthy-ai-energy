@@ -16,6 +16,6 @@ This is the acceptance-criteria companion to the single active [task ledger](../
 
 Start with stage 1: obtain and document abstracts for the calibration packet, then record human decisions. In parallel within the task ledger, Daniel can confirm IEEE/Scopus/Web of Science access and identify a second reviewer or a declared secondary-audit arrangement. Keep unresolved cases pending rather than forcing exclusions.
 
-Before formal screening, add validation for reviewer/date/reason completeness and recalculate flow counts from decisions. Agree how the Google Sheet and repository will be reconciled, including an auditable workbook release procedure. Do not rerun the historical replay as a way to save live screening work.
+Screening provenance validation is now available; use docs/screening-workflow.md, record actual human decisions and recalculate counts before promotion. Agree how the Google Sheet and repository will be reconciled, including an auditable workbook release procedure. Do not rerun the historical replay as a way to save live screening work.
 
 Use milestone acceptance criteria rather than a fixed paper target or an arbitrary deadline. Begin model experiments only after stage 7 passes.

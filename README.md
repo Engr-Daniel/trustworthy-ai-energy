@@ -50,7 +50,7 @@ python review-paper/scripts/validate_scope.py
 python -m unittest discover -s review-paper/scripts/tests -v
 python review-paper/scripts/build_corpus.py --output-dir replay-output
 ```
-Replay uses preserved snapshots and requires a separate, new or empty output directory. It does not run a fresh search, modify the source corpus or rebuild the XLSX. Review generated diffs before applying changes. The validator currently checks the unscreened pilot snapshot; update its screening assertions deliberately when confirmed decisions are added.
+Replay uses preserved snapshots and requires a separate, new or empty output directory. It does not run a fresh search, modify the source corpus or rebuild the XLSX. Review generated diffs before applying changes. The validator supports confirmed human decisions only with reconciled provenance, ledger, JSON and derived counts; see docs/screening-workflow.md. The saved pilot itself remains unscreened.
 
 ## Current handoff
 GitHub workspace initialised 14 October 2026. The shared Sheet remains the collaboration surface; repository CSVs and XLSX are the saved scoping snapshot. Session 04 pilot suggestions are separate from formal decisions. Next: abstract retrieval and reviewer calibration, followed by validated multi-source searches.
@@ -64,4 +64,6 @@ GitHub workspace initialised 14 October 2026. The shared Sheet remains the colla
 Raw search captures retain exact bytes across platforms. The root `manifest.json` records the initial delivery snapshot; search-run manifests verify the preserved captures. Reuse licensing is not yet declared.
 
 - [Workbook synchronisation procedure](docs/workbook-synchronisation.md): version relationships, keyed reconciliation and release checks.
-- [Pilot abstract evidence](review-paper/screening/abstracts-20261014/README.md): 14 abstracts available; six unresolved; human decisions pending.
+- [Pilot abstract evidence](review-paper/screening/abstracts-20261014/README.md): 15 abstracts available; five unresolved; human decisions pending.
+
+- [Human screening workflow](docs/screening-workflow.md): pending decision template and provenance checks; no automated eligibility decisions.

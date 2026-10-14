@@ -87,3 +87,6 @@ Before publication complete subject-database searches, screening, version linkag
 - PRISMA-ScR: https://www.prisma-statement.org/scoping
 - PRISMA-S: https://www.prisma-statement.org/prisma-search
 - JBI guidance: https://doi.org/10.11124/JBIES-20-00167
+
+## Dated operational amendment - 14 October 2026
+Daniel confirmed primary human screening by Daniel with a documented secondary audit. The auditor and audit coverage remain pending. No independent dual screening is claimed. A pending calibration template and provenance validator are now available; see docs/screening-workflow.md. Retrieval, human assessment, audit and synthesis admission remain separate states. These maintenance changes do not finalise eligibility rules or retrospectively register the protocol; all actual decisions remain pending.

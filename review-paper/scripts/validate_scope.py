@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate IDs, occurrence accounting, CSV links and preserved raw hashes."""
 import csv,hashlib,json,pathlib
+from validate_screening import validate_ledger
 
 def require(condition, message="Validation failed"):
  if not condition: raise ValueError(message)
@@ -18,7 +19,10 @@ require(len(ledger)==counts["unique_reports"])
 require(len(corpus)==counts["reading_queue"])
 require(sum(bool(e["Duplicate of"]) for e in events)==counts["duplicate_occurrences"])
 require(counts["retrieval_occurrences"]-counts["duplicate_occurrences"]==counts["unique_reports"])
-require(all(r["TA Final"]=="Pending" and r["FT Final"]=="Pending" for r in ledger),"Update counts after screening")
+evidence_path=root/"review-paper/screening/confirmed-decisions.csv"
+evidence=list(csv.DictReader(evidence_path.open(encoding="utf-8"))) if evidence_path.exists() else []
+reasons={r["Code"]:r["Stage"] for r in csv.DictReader((root/"review-paper/screening/reason-codes.csv").open(encoding="utf-8"))}
+validate_ledger(ledger,counts,evidence,reasons)
 for run in (root/"review-paper/search-strategy/runs").glob("PILOT-*"):
  m=json.loads((run/"search_manifest.json").read_text())
  for s in m["searches"]:
@@ -42,7 +46,7 @@ for e in events:
 require(len(first)==len(ledger),"Identity/report count mismatch")
 for key,source in [("crossref_occurrences","Crossref pilot"),("seed_occurrences","Seed register")]:
  require(counts[key]==sum(e["Source"]==source for e in events),"Source count mismatch: "+key)
-require(counts["formal_screened"]==counts["formal_included"]==0,"Pilot must remain formally unscreened")
+
 expected=[{k:e[k] for k in ["Event ID","Paper ID","Duplicate of","Identity"]} for e in events if e["Duplicate of"]]
 require(read("deduplication.csv")==expected,"Deduplication export mismatch")
 payload=json.loads((c/"workbook-data.json").read_text(encoding="utf-8"))
