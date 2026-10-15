@@ -48,3 +48,6 @@ Reviewer arrangement confirmed by Daniel on 14 October 2026: Daniel performs pri
 
 ## Calibration readiness continuation - 14 October 2026
 Abstract availability is now 15/20: C0028 has a matching-title arXiv:2107.10880 candidate; OSF linkage remains unverified. P04, P05, P10, R02 and C0032 captures remain unresolved. Human-decisions-template.csv is pending, with Daniel as primary reviewer. validate_scope.py now supports human decisions with confirmed-decisions.csv provenance, stage/coverage/count checks and synthesis audit/linkage gates. See docs/screening-workflow.md. Auditor and human decisions remain pending; snapshot records/counts, workbook and Sheet were not changed.
+
+## Current handoff - 15 October 2026
+Use review-paper/screening/abstracts-20261015/reading-packet.md and human-decisions-template.csv. Availability is 16/20: P04 recovered from embedded IEEE JSON in the saved capture; P05, P10, R02 and C0032 remain unresolved. Earlier dated packets are preserved. All human decisions/audits remain pending. Daniel is primary screener; secondary auditor not yet named. Canonical records/counts, archived workbook and live Sheet were not changed. Local validator/template checks and 17 regression tests passed.

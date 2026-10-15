@@ -29,6 +29,16 @@ class HandoffTests(unittest.TestCase):
         self.assertEqual(module.text(parser.abstract()), "Abstract Evidence text .")
         self.assertNotIn("References", parser.abstract())
 
+    def test_ieee_embedded_abstract_is_recovered_without_running_scripts(self):
+        module = load("retrieve_pilot_abstracts")
+        page = '<script>xplGlobal.document.metadata={"title":"Synthetic fixture","abstract":"Actual <b>abstract</b> text","sections":{"abstract":"true"}};</script>'
+        self.assertEqual(module.extract_html_abstract(page), "Actual abstract text")
+
+    def test_malformed_or_unrelated_metadata_does_not_become_abstract(self):
+        module = load("retrieve_pilot_abstracts")
+        self.assertEqual(module.extract_html_abstract('<script>xplGlobal.document.metadata={broken;</script>'), "")
+        self.assertEqual(module.extract_html_abstract('<script>other.metadata={"abstract":"Unrelated"};</script>'), "")
+
     def test_generic_page_description_is_not_an_abstract(self):
         module = load("retrieve_pilot_abstracts")
         parser = module.AbstractParser()

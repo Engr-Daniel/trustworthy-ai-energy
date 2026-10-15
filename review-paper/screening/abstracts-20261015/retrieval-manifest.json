@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-15",
+  "base_packet": "review-paper/screening/abstracts-20261014",
+  "base_evidence_sha256": "8c49d3da9befef29ef7e00d8c15d2f2198b9b43f63edd16c46cc05d7da83511c",
+  "attempts": [
+    {
+      "paper_id": "P04",
+      "status": "abstract_recovered_from_saved_capture",
+      "source_capture": "review-paper/screening/abstracts-20261014/raw/P04-continuation.html",
+      "sha256": "66961e3e0526f8364cc2a4a770e2c3fe8ff89ff3df378c8ccf4dc785fce6147c",
+      "locator": "xplGlobal.document.metadata.abstract",
+      "note": "No new retrieval; parser extension; identity/content human audit pending"
+    },
+    {
+      "paper_id": "R02",
+      "url": "https://link.springernature.com/article/10.1007/s10462-025-11287-7",
+      "started_utc": "2026-10-15T14:06:22.280765+00:00",
+      "purpose": "15 October public primary-source access check",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "paper_id": "P10",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1093968726013149",
+      "started_utc": "2026-10-15T14:06:23.388616+00:00",
+      "purpose": "15 October public primary-source access check",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 400: Bad Request"
+    },
+    {
+      "paper_id": "P05",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959152426000843",
+      "started_utc": "2026-10-15T14:06:27.622186+00:00",
+      "purpose": "15 October public primary-source access check",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 400: Bad Request"
+    },
+    {
+      "paper_id": "C0032",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7446051",
+      "started_utc": "2026-10-15T14:06:32.128122+00:00",
+      "purpose": "15 October public primary-source access check",
+      "status": "retrieval_failed",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "discovery": {
+    "platform": "Web search; primary-source discovery only, not a subject-database search",
+    "queries": [
+      "\"Multi-Domain Anomaly Detection for Advanced Persistent Threat Detection\" abstract",
+      "\"Domain-adaptive self-supervised learning\" \"corrosion\" abstract",
+      "\"Class-conditional conformal prediction\" \"103701\" arxiv",
+      "\"A survey of deep learning for industrial visual anomaly detection\" \"Li\" arxiv"
+    ],
+    "raw_file": "raw/web-discovery.txt",
+    "sha256": "f40e019b834ca963052a29f0b1a7ca1ea9fea1dbfcda598dd70796f9a1f85341"
+  },
+  "availability": {
+    "pilot_records": 20,
+    "abstracts_available": 16,
+    "unresolved": [
+      "P05",
+      "P10",
+      "R02",
+      "C0032"
+    ],
+    "formal_decisions_entered": 0
+  }
+}

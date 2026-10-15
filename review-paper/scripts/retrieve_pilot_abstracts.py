@@ -46,14 +46,30 @@ class AbstractParser(HTMLParser):
 def text(value):
     return " ".join(html.unescape(re.sub(r"<[^>]*>", " ", value)).split())
 
+def extract_html_abstract(page_text):
+    parser = AbstractParser(); parser.feed(page_text)
+    visible = text(parser.abstract())
+    if visible:
+        return visible
+    # IEEE exposes its article abstract in a JSON document-metadata object.
+    # Decode only the explicit article object, never generic descriptions or scripts.
+    marker = re.search(r"xplGlobal\.document\.metadata\s*=\s*", page_text)
+    if marker:
+        try:
+            metadata, _ = json.JSONDecoder().raw_decode(page_text[marker.end():])
+            if isinstance(metadata, dict) and isinstance(metadata.get("abstract"), str):
+                return text(metadata["abstract"])
+        except (ValueError, TypeError):
+            pass
+    return ""
+
 def saved_abstract(path):
     if path.suffix == ".xml":
         return text(ET.fromstring(path.read_bytes()).findtext(".//{http://www.w3.org/2005/Atom}summary", "")), "arXiv Atom entry/summary"
     if path.suffix == ".json":
         return text(json.loads(path.read_text(encoding="utf-8")).get("message", {}).get("abstract", "")), "Crossref message.abstract (deposited metadata)"
     if path.suffix == ".html":
-        parser = AbstractParser(); parser.feed(path.read_text(encoding="utf-8"))
-        return text(parser.abstract()), "Publisher HTML abstract container"
+        return extract_html_abstract(path.read_text(encoding="utf-8")), "Publisher HTML abstract container or IEEE document metadata.abstract"
     return "", ""
 
 def main():
@@ -95,8 +111,7 @@ def main():
                     (raw / filename).write_bytes(blob)
                     attempt.update({"status": "captured", "final_url": final_url, "raw_file": "raw/" + filename,
                                     "sha256": hashlib.sha256(blob).hexdigest()})
-                    page = AbstractParser(); page.feed(blob.decode(encoding, errors="replace"))
-                    abstract = text(page.abstract())
+                    abstract = extract_html_abstract(blob.decode(encoding, errors="replace"))
                     if abstract:
                         source = final_url; locator = "Explicit HTML abstract container; identity confirmation pending human review"
                         digest = attempt["sha256"]; attempt["status"] = "abstract_retrieved"

@@ -60,3 +60,10 @@ See docs/progression-plan.md for acceptance criteria; this ledger remains the ac
 - [x] Add pending 20-record human decision template and screening workflow.
 - [ ] Resolve five remaining abstract captures, verify source/version identity and complete Daniel's calibration decisions.
 - [ ] Confirm auditor identity/coverage and amend eligibility rules after calibration.
+
+## Calibration reading handoff - 15 October 2026
+- [x] Recover P04 from preserved IEEE embedded metadata and test the parser.
+- [x] Prepare a new dated, readable 20-record calibration packet and pending decision template.
+- [x] Retry the remaining four primary-source captures and preserve failures.
+- [ ] Resolve P05, P10, R02 and C0032 captures; verify source/version identity for the available evidence.
+- [ ] Daniel records actual calibration decisions; name secondary auditor and agree audit coverage.
