@@ -1,0 +1,50 @@
+O2701;X;TA01;Financial chart QA
+O2702;X;TA05;HITL building audit inventory framework; not defect-inspection reliability (consistent with O2696)
+O2703;X;TA01;Podcast episode
+O2704;X;TA05;Review of XAI for visual recognition; explainability only
+O2705;B;;Adjacent non-visual: review of sensor fault diagnosis and calibration in building energy systems (R6, note 5) (title only)
+O2706;X;TA02;Ultrasonic wavefield damage localisation and reporting; imaging NDT without reliability signal (title only)
+O2707;X;TA02;Multimodal XAI turbine vibration monitoring; non-visual
+O2708;X;TA01;Apple classification (title only)
+O2709;X;TA05;RL adaptive XAI for industrial CPS; explainability only
+O2710;X;TA05;Building audit framework; same-title record of O2702 (note 6)
+O2711;X;TA01;Agro-ecosystem disease risk (title only)
+O2712;X;TA02;Bearing multi-source fusion review; non-visual
+O2713;X;TA01;Malware detection
+O2714;X;TA01;Program repair
+O2715;X;TA01;Deepfake detection
+O2716;B;;Adjacent non-visual: sensor-failure diagnosis in pumping wells; thesis version of O2518 (note 13) (R6)
+O2717;X;TA01;Smart city autonomous systems book
+O2718;X;TA01;Larval fish behaviour (title only)
+O2719;X;TA05;Human-centred AI workflow design in dental manufacturing; no inspection-model reliability evaluation
+O2720;X;TA02;Belt conveyor roller audio fault diagnosis; non-visual (title only)
+O2721;X;TA01;Nuclear robotics materials commentary
+O2722;X;TA02;Battery pack residual monitoring; non-visual
+O2723;X;TA01;Auditory hallucination neuroimaging
+O2724;X;TA05;Explainable multimodal fault prioritisation (title only)
+O2725;X;TA01;ISO 27001 audit augmentation
+O2726;X;TA01;Vehicle damage image synthesis
+O2727;X;TA05;AI in semiconductor industry overview chapter
+O2728;X;TA01;Customs risk targeting
+O2729;X;TA05;Crane bridge digital twin platform (title only)
+O2730;X;TA01;Post-disaster view synthesis
+O2731;X;TA05;Railway digital twin keynote
+O2732;X;TA01;Generative sensor fusion standardisation essay
+O2733;X;TA01;Connected worker platform
+O2734;B;;Adjacent non-visual: review and digital-twin framework distinguishing sensor degradation from process change (R6, note 5)
+O2735;X;TA05;YOLOv8 detection in challenging conditions (title only)
+O2736;B;;Adjacent non-visual: soft sensor mitigating sensor failures for turbine casing temperature (R6, note 5)
+O2737;X;TA01;Model collapse architecture preprint
+O2738;X;TA01;AR tool tracking for manual operations
+O2739;X;TA01;Shipyard robotics STS thesis
+O2740;X;TA05;Edge VLM technical report incl. infrastructure anomaly detection; no reliability evaluation
+O2741;X;TA01;Forest management
+O2742;X;TA01;Molten salt design (title only)
+O2743;B;;Review of GeoAI for roadside LiDAR pavement defect and asset extraction; core-context review
+O2744;F;;Critical evaluation showing unified inspection VLM unreliable in practice (R8/R7)
+O2745;X;TA02;AI for solar efficiency and prediction; non-visual
+O2746;X;TA01;Responsible AI book
+O2747;X;TA02;Rolling bearing diagnosis review; non-visual
+O2748;X;TA05;Lab activity report on industrial CV
+O2749;X;TA05;AI in 3D printing overview
+O2750;X;TA01;Industry 5.0 article

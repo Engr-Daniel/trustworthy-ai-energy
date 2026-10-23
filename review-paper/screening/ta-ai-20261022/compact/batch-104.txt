@@ -1,0 +1,40 @@
+O0141;B;;Review of AI in railway infrastructure maintenance; core-context review
+O0142;X;TA05;Graph-based active learning with uncertainty sampling for labelling efficiency (note 8)
+O0143;F;;Multimodal PV defect detection with modality-availability/quality gating, evidential open-set head deferring uncertain cases to human inspection (R1/R2/R5/R6)
+O0144;X;TA05;Two-step suspected-patch anomaly detection for contamination; accuracy-oriented
+O0145;X;TA02;Tabular windshield defect classification with entropy; no image evidence
+O0146;X;TA05;XCT U-Net pore/crack segmentation; label uncertainty noted only as limitation
+O0147;X;TA05;Weakly supervised CLIP crack segmentation; label uncertainty addressed for annotation efficiency, not reliability evaluation
+O0148;X;TA05;Zero-shot AD with internal confidence weighting (note 8)
+O0149;X;TA01;Dental imaging review
+O0150;X;TA05;Unsupervised crack segmentation compared with uncertainty-aware baselines; no reliability evaluation of its own
+O0151;X;TA05;Active learning sample selection for steel defects (note 8) (title only)
+O0152;F;;Sample-preserving evaluation and rank consensus for UAV transmission-line anomaly detection under detector uncertainty (R8/R1) (title only)
+O0153;F;;RGB-D crack measurement system with metrological repeatability/reproducibility uncertainty and harsh field validation (R1/R8)
+O0154;X;TA02;PINN battery thermal anomaly from synthetic sensor data; no image evidence
+O0155;B;;Review of ML-assisted in situ corrosion monitoring incl. probabilistic uncertainty; adjacent non-visual corrosion context (note 5)
+O0156;X;TA05;FCNN PV backsheet degradation segmentation; accuracy
+O0157;X;TA05;LiDAR sinkhole detection near rail tracks and seismic surrogate; no reliability dimension for inspection model
+O0158;F;;Gas turbine blade defect detection with inspector decision support and reported FP/FN (R5); image processing, verify AI component
+O0159;X;TA05;Ensemble wafer defect classification; accuracy
+O0160;X;TA05;PV thermal anomaly detector with cross-dataset check; "uncertainty analysis" not described in abstract (title only claim)
+O0161;X;TA05;Bayes classifier on deep features for PV faults (title only)
+O0162;X;TA03;NDT method selection for ALM aero parts; no learned inspection model
+O0163;X;TA05;Element-level corrosion intensity via late fusion (title only)
+O0164;F;;PCB AOI self-adaptation retraining on exception data after performance degradation from line/lighting variation (R3/R5)
+O0165;F;;Stable scoring for few-shot 3D anomaly detection via stochastic metric modelling (R1 score stability) (title only)
+O0166;X;TA05;CNN casting impeller defects; accuracy
+O0167;X;TA02;Strain-based ANN bridge damage detection with modelling uncertainty; no image evidence
+O0168;X;TA05;Tolerance method for image inspection (title only)
+O0169;X;TA05;Substation scene anomaly discrimination cascade; FP/FN accuracy
+O0170;X;TA03;FPGA hardware for strip defect imaging
+O0171;F;;Image-based corrosion measurement feeding Bayesian degradation and Monte Carlo reliability with uncertainty decomposition for steel towers (R1)
+O0172;X;TA01;Liquor classification (food chemistry)
+O0173;X;TA05;VLM-assisted active learning with uncertainty sampling for bushing defects; annotation efficiency (note 8)
+O0174;X;TA05;PINN bearing fatigue with visual grease inspection (title only)
+O0175;B;;Methodological bridge (medical imaging): deep-ensemble segmentation quality control alerting human operators; transferable referral design (R5)
+O0176;X;TA01;Remote-sensing DNN review; not asset inspection
+O0177;F;;PCB defect classification robust to image uncertainty (low contrast, noise) evaluated across luminance ratios (R3)
+O0178;X;TA05;Siamese network for press-fit curve images; accuracy
+O0179;X;TA05;Transformer SEM wafer defect detection; accuracy
+O0180;X;TA05;Version of O0179

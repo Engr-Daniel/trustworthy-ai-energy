@@ -1,0 +1,50 @@
+O1001;X;TA03;Concrete fatigue life metaheuristics (title only)
+O1002;X;TA01;Planetary geology
+O1003;X;TA01;Asteroid planetary defence
+O1004;X;TA01;Seismic fault AI interpretation for CCS
+O1005;X;TA03;V&V of nuclear surrogate models review; not image inspection
+O1006;X;TA02;Active learning for vibration/process time series
+O1007;X;TA01;Ayurveda
+O1008;X;TA03;Alloy design (title only)
+O1009;X;TA05;Spatial pose uncertainty to estimate robotic task failure for subsea IMR decision support; manipulation not inspection
+O1010;X;TA03;Bridge girder temperature surrogate (title only)
+O1011;X;TA01;Reservoir petrophysics
+O1012;X;TA01;Brain-machine interfaces
+O1013;X;TA02;Knowledge-graph multisensor fault diagnosis for aviation equipment; non-image
+O1014;X;TA01;Soil salinity hyperspectral retrieval
+O1015;X;TA05;Random-forest road damage classification; accuracy
+O1016;X;TA01;Aquaculture fish morphometrics
+O1017;X;TA05;FFF failure detection after power interruption (title only)
+O1018;X;TA02;Distributed acoustic sensing for concreting (title only)
+O1019;X;TA02;Transformer DGA probabilistic PHM
+O1020;X;TA02;PV degradation from MPP data
+O1021;X;TA03;Residual stress surrogate with model error; not inspection
+O1022;X;TA02;GPR deterioration models with NDE data (title only)
+O1023;X;TA01;Nuclear medicine meeting abstracts
+O1024;X;TA02;Transformer oil fuzzy diagnosis
+O1025;X;TA02;Version of O1022
+O1026;X;TA02;PWR coolant fault diagnosis multimodal LLM (title only)
+O1027;X;TA03;Visual analytics of event sequences
+O1028;X;TA03;SEM EPE metrology
+O1029;X;TA02;Version of O1022
+O1030;X;TA05;Pavement damage management framework; no reliability evaluation
+O1031;X;TA03;Solid electrolyte materials review
+O1032;X;TA01;Cardiac MRI uncertainty for human-in-the-loop (methodological; medical)
+O1033;X;TA01;Satellite post-disaster building damage fusion
+O1034;X;TA01;Pharmacometrics journal editorial
+O1035;X;TA02;Version of O1026
+O1036;X;TA03;Ageing dam predictive modelling
+O1037;X;TA02;Graph fault diagnosis with SHAP-LLM explanations; non-image
+O1038;X;TA03;Nuclear fuel thermal design statistics (title only)
+O1039;X;TA03;Quantum sensing monograph
+O1040;X;TA03;Excavation damaged zone prediction (title only)
+O1041;X;TA03;Composite lightning-strike UQ simulation
+O1042;X;TA03;Rotary kiln control (title only)
+O1043;X;TA03;Microgrid operation
+O1044;X;TA05;UGV tunnel-face rock-mass grade classification; robust acquisition but no reliability evaluation signalled
+O1045;X;TA03;Coke-layer thickness reconstruction model (title only)
+O1046;X;TA02;SOFC digital twin UQ (title only)
+O1047;X;TA05;Bayesian self-rectifying network for generic feature/keypoint detection (machine vision; see O0553 for inspection version)
+O1048;X;TA02;Magnetic-field signal diagnostics of electrical machines
+O1049;X;TA03;Load frequency control
+O1050;X;TA02;PV power prediction (title only)

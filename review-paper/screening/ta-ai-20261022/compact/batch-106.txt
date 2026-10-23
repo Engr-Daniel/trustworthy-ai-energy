@@ -1,0 +1,40 @@
+O0221;F;;Few-shot unseen-defect segmentation for polycrystalline silicon panels (R3 unseen/open-set) (title only)
+O0222;F;;Possibilistic confidence-level formalism for ambiguous steel surface defect classification (R1)
+O0223;B;;Review of computer-vision metrology for AM surfaces incl. uncertainty evaluation; core-context review
+O0224;X;TA05;Vision seam tracking for welding robots; not defect inspection reliability
+O0225;X;TA01;Agentic remote-sensing pipeline engineering; not asset inspection
+O0226;X;TA02;Wind-turbine bearing fatigue with visual grease observations as inputs; uncertainty in physics model, no image AI
+O0227;X;TA02;SCADA XGBoost anomaly detection with cross-farm transfer; non-visual
+O0228;X;TA05;YOLO weld defect segmentation (title only)
+O0229;F;;Multisource transfer learning across materials for WAAM balling defect detection (R3 cross-material transfer)
+O0230;X;TA05;Melt-pool NIR imaging statistical anomaly detection with threshold test; no reliability dimension beyond detection
+O0231;X;TA05;Review of point-cloud part classification; not reliability-focused
+O0232;F;;Deep learning decision support for NDT experts on multimodal TFM ultrasonic images in nuclear welds with geometric uncertainty (R5/R1); image-based NDT
+O0233;X;TA05;Adaptive EL solar cell defect detection (title only)
+O0234;X;TA05;Transmission-line connector recognition ("uncertainty" denotes component state); accuracy
+O0235;X;TA05;RBFNN crack detection; accuracy
+O0236;X;TA03;Welding residual-stress simulation; not inspection
+O0237;F;;Multi-task crack foundation model with uncertainty estimation (journal version of O0238) (title only)
+O0238;F;;Crack foundation model with calibrated uncertainty and stability under domain shift across 20 datasets (R1/R3)
+O0239;X;TA01;Stochastic reliability analysis for autonomous driving vision; not inspection
+O0240;B;;Adjacent non-visual: bridge displacement anomaly detection with dynamic conformal calibration and contamination-aware updating (R1/R2)
+O0241;F;;Preprint version of O0238 (R1/R3)
+O0242;F;;Probabilistic entropy-based decisions for bare PCB defects under uncertainty (R1)
+O0243;X;TA02;Strain-based bridge SHM transfer learning sim-to-field; non-visual
+O0244;F;;Railway defect segmentation producing uncertainty maps for explainability (R1)
+O0245;X;TA02;Bayesian NN for SCADA wind-turbine faults; non-visual (adjacent rule considered: generic, not transferable beyond existing B items)
+O0246;B;;Review of AI SHM with computer vision and sensor fusion; core-context review
+O0247;X;TA05;VLM analog gauge reading (title only)
+O0248;F;;Causal-evidential diffusion with visual understanding for IIoT anomaly detection (R1 evidential); modality to verify (title only)
+O0249;F;;Monte Carlo dropout uncertainty for deep vision SHM correlating with errors and triggering human intervention (R1/R5)
+O0250;F;;Bayesian autoencoder with uncertainty-quantified adaptive thresholds for online AM anomaly detection (R1/R2) (title only)
+O0251;F;;Physics-assisted probabilistic learning for infrared gas-leak detection without anomaly data (R1); energy asset (title only)
+O0252;X;TA05;Dam SHM with vision crack segmentation and vibration fusion; accuracy
+O0253;F;;TFT array inspection with variance-aware head quantifying predictive uncertainty (R1)
+O0254;X;TA05;Diffusion augmentation for substation transformer images; accuracy
+O0255;B;;Review of crack detection with SHM and ML; core-context review (title only)
+O0256;B;;Review of monitoring-data-driven bridge reliability incl. visual/NDT data and UQ to maintenance decisions; decision-framing background
+O0257;B;;Review of vision-based measurement for quality control; core-context review (title only)
+O0258;X;TA05;Reference-object segmentation for reactor core inspection video; addresses scaling uncertainty only through detection accuracy
+O0259;X;TA05;Thesis on XAI/UQ in civil engineering; image damage classification part has no reliability evaluation signalled
+O0260;X;TA02;MFL signals encoded as GADF images with temperature scaling; simulation-derived non-optical data (adjacent; leakage audit noted)

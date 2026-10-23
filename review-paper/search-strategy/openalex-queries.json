@@ -1,0 +1,179 @@
+{
+  "protocol_version": "0.4",
+  "field": "title_and_abstract.search",
+  "date_filter": "to_publication_date:2026-10-22",
+  "notes": "OpenAlex boolean search: AND/OR/quoted phrases, stemming applied by OpenAlex, no wildcards. Hit counts are exact result counts for the executed filter on the run date.",
+  "blocks": {
+    "A_context": "(industrial OR manufacturing OR refinery OR petrochemical OR \"oil and gas\" OR offshore OR pipeline OR corrosion OR bridge OR infrastructure OR \"asset inspection\" OR \"power line\" OR \"transmission line\" OR insulator OR substation OR \"power plant\" OR nuclear OR \"wind turbine\" OR \"solar panel\" OR photovoltaic OR weld OR steel OR \"surface defect\" OR railway OR tunnel OR aircraft OR \"aero-engine\" OR concrete OR wafer OR \"printed circuit board\")",
+    "B_visual": "(image OR images OR visual OR vision OR RGB OR camera OR infrared OR thermal OR multispectral OR hyperspectral OR \"point cloud\" OR \"RGB-D\")",
+    "C_task": "(defect OR defects OR anomaly OR anomalies OR inspection OR \"condition assessment\" OR damage OR crack OR corrosion OR fault OR flaw OR \"quality control\")",
+    "D_ai": "(\"machine learning\" OR \"deep learning\" OR \"artificial intelligence\" OR \"neural network\" OR transformer OR \"computer vision\" OR \"foundation model\" OR \"vision-language\" OR CNN OR convolutional OR pretrained OR \"pre-trained\" OR unsupervised OR \"self-supervised\" OR \"few-shot\" OR \"zero-shot\" OR \"data-driven\")",
+    "E1_uncertainty_decision": "(uncertainty OR \"confidence calibration\" OR \"probability calibration\" OR \"Monte Carlo dropout\" OR \"deep ensemble\" OR \"evidential deep learning\" OR \"selective prediction\" OR \"selective classification\" OR abstention OR \"reject option\" OR \"conformal prediction\" OR \"risk control\" OR \"false negative rate\")",
+    "E2_shift_robustness": "(\"domain shift\" OR \"distribution shift\" OR \"dataset shift\" OR \"covariate shift\" OR \"domain adaptation\" OR \"domain generalization\" OR \"out-of-distribution\" OR \"open-set\" OR \"test-time adaptation\" OR corruption OR \"label noise\" OR \"noisy labels\")",
+    "E3_human_multimodal_trust": "(\"human-in-the-loop\" OR \"human-machine\" OR \"missing modality\" OR \"sensor degradation\" OR \"sensor failure\" OR hallucination OR \"visual grounding\" OR trustworthy OR \"trustworthiness\")",
+    "E_any_reliability_broad": "(uncertainty OR calibration OR robustness OR reliability OR \"domain shift\" OR \"distribution shift\" OR \"domain adaptation\" OR \"domain generalization\" OR \"out-of-distribution\" OR \"open-set\" OR \"human-in-the-loop\" OR trustworthy OR trustworthiness OR \"conformal prediction\" OR \"few-shot\" OR \"zero-shot\")",
+    "T_title_task": "(anomaly OR anomalies OR defect OR defects OR inspection OR crack OR corrosion OR damage OR fault)",
+    "T_title_context_visual": "(industrial OR manufacturing OR pipeline OR corrosion OR bridge OR infrastructure OR \"power line\" OR \"transmission line\" OR insulator OR substation OR \"wind turbine\" OR photovoltaic OR solar OR weld OR steel OR surface OR railway OR tunnel OR aircraft OR concrete OR wafer OR PCB OR visual OR vision OR image OR images OR infrared OR thermal OR \"point cloud\")",
+    "E_all_specific": "((uncertainty OR \"confidence calibration\" OR \"probability calibration\" OR \"Monte Carlo dropout\" OR \"deep ensemble\" OR \"evidential deep learning\" OR \"selective prediction\" OR \"selective classification\" OR abstention OR \"reject option\" OR \"conformal prediction\" OR \"risk control\" OR \"false negative rate\") OR (\"domain shift\" OR \"distribution shift\" OR \"dataset shift\" OR \"covariate shift\" OR \"domain adaptation\" OR \"domain generalization\" OR \"out-of-distribution\" OR \"open-set\" OR \"test-time adaptation\" OR corruption OR \"label noise\" OR \"noisy labels\") OR (\"human-in-the-loop\" OR \"human-machine\" OR \"missing modality\" OR \"sensor degradation\" OR \"sensor failure\" OR hallucination OR \"visual grounding\" OR trustworthy OR \"trustworthiness\"))",
+    "G_title_generic_reliability": "(reliable OR reliability OR calibration OR calibrated OR generalization OR generalizable OR \"cross-domain\" OR grounded OR trustworthy OR uncertainty)",
+    "EG_citation_reliability": "((uncertainty OR \"confidence calibration\" OR \"probability calibration\" OR \"Monte Carlo dropout\" OR \"deep ensemble\" OR \"evidential deep learning\" OR \"selective prediction\" OR \"selective classification\" OR abstention OR \"reject option\" OR \"conformal prediction\" OR \"risk control\" OR \"false negative rate\") OR (\"domain shift\" OR \"distribution shift\" OR \"dataset shift\" OR \"covariate shift\" OR \"domain adaptation\" OR \"domain generalization\" OR \"out-of-distribution\" OR \"open-set\" OR \"test-time adaptation\" OR corruption OR \"label noise\" OR \"noisy labels\") OR (\"human-in-the-loop\" OR \"human-machine\" OR \"missing modality\" OR \"sensor degradation\" OR \"sensor failure\" OR hallucination OR \"visual grounding\" OR trustworthy OR \"trustworthiness\") OR calibration OR calibrated OR generalization OR \"cross-domain\" OR grounded OR reliable OR reliability OR robustness OR realistic OR \"real-world\")"
+  },
+  "searches": [
+    {
+      "search_id": "OA-R1",
+      "theme": "Uncertainty, calibration and selective decisions",
+      "families": [
+        "A_context",
+        "B_visual",
+        "C_task",
+        "D_ai",
+        "E1_uncertainty_decision"
+      ],
+      "field": "title_and_abstract.search"
+    },
+    {
+      "search_id": "OA-R2",
+      "theme": "Distribution shift, domain adaptation and robustness",
+      "families": [
+        "A_context",
+        "B_visual",
+        "C_task",
+        "D_ai",
+        "E2_shift_robustness"
+      ],
+      "field": "title_and_abstract.search"
+    },
+    {
+      "search_id": "OA-R3",
+      "theme": "Human oversight, multimodal/sensor failure, grounding and trust",
+      "families": [
+        "A_context",
+        "B_visual",
+        "C_task",
+        "D_ai",
+        "E3_human_multimodal_trust"
+      ],
+      "field": "title_and_abstract.search"
+    },
+    {
+      "search_id": "OA-REV",
+      "theme": "Review overlap (review/survey in title)",
+      "families": [
+        "A_context",
+        "B_visual",
+        "C_task",
+        "D_ai",
+        "E_any_reliability_broad"
+      ],
+      "title_filter": "(\"systematic review\" OR \"literature review\" OR \"scoping review\" OR survey OR review OR \"state of the art\")",
+      "field": "title_and_abstract.search"
+    },
+    {
+      "search_id": "OA-T",
+      "theme": "Records without OpenAlex abstracts: title-only reliability search",
+      "families": [
+        "T_title_task",
+        "T_title_context_visual",
+        "E_all_specific"
+      ],
+      "field": "title.search",
+      "extra_filter": "has_abstract:false"
+    },
+    {
+      "search_id": "OA-G",
+      "theme": "Generic reliability vocabulary restricted to titles",
+      "families": [
+        "A_context",
+        "B_visual",
+        "C_task",
+        "D_ai"
+      ],
+      "field": "title_and_abstract.search",
+      "title_filter": "(reliable OR reliability OR calibration OR calibrated OR generalization OR generalizable OR \"cross-domain\" OR grounded OR trustworthy OR uncertainty)"
+    },
+    {
+      "search_id": "OA-C",
+      "theme": "Citation-based: works citing MVTec AD (W2948982773) with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cites:W2948982773"
+    },
+    {
+      "search_id": "OA-CTF1",
+      "theme": "Citation tracing (forward): works citing included studies, batch 1 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cites:W2906258018|W2991438338|W3015775158|W3035937807|W3089143518|W3120428579|W3121084473|W3153390152|W3186738679|W3195599616|W4200071636|W4221095408|W4221146490|W4221151565|W4283821503|W4307728931|W4312289809|W4313301932|W4319586033|W4327574175|W4361854268|W4379983477|W4380049766|W4384436171|W4385729384|W4386022515|W4386047758|W4386798152|W4388599169|W4389613349|W4390190813|W4390872445|W4391300272|W4391992447|W4392911129|W4394625832|W4400141901|W4401838084|W4401840952|W4402702916|W4402915766|W4403362706|W4403675186|W4403677007|W4403820984|W4404401063|W4405208295|W4405469934|W4405622487|W4405853181"
+    },
+    {
+      "search_id": "OA-CTB1",
+      "theme": "Citation tracing (backward): works cited by included studies, batch 1 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cited_by:W2906258018|W2991438338|W3015775158|W3035937807|W3089143518|W3120428579|W3121084473|W3153390152|W3186738679|W3195599616|W4200071636|W4221095408|W4221146490|W4221151565|W4283821503|W4307728931|W4312289809|W4313301932|W4319586033|W4327574175|W4361854268|W4379983477|W4380049766|W4384436171|W4385729384|W4386022515|W4386047758|W4386798152|W4388599169|W4389613349|W4390190813|W4390872445|W4391300272|W4391992447|W4392911129|W4394625832|W4400141901|W4401838084|W4401840952|W4402702916|W4402915766|W4403362706|W4403675186|W4403677007|W4403820984|W4404401063|W4405208295|W4405469934|W4405622487|W4405853181"
+    },
+    {
+      "search_id": "OA-CTF2",
+      "theme": "Citation tracing (forward): works citing included studies, batch 2 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cites:W4406828510|W4406987426|W4407981214|W4408111739|W4408502165|W4408698065|W4408733407|W4409262179|W4409263150|W4409347419|W4409365849|W4409640729|W4410049652|W4410589941|W4410875402|W4412454437|W4412924568|W4413157177|W4413158262|W4413228915|W4414019887|W4414197158|W4414216434|W4414339914|W4414391539|W4415063196|W4415254729|W4415383680|W4415593444|W4415598724|W4415708953|W4416290824|W4416749071|W4416839779|W7106340102|W7114770269|W7119518054|W7124264274|W7125256039|W7125938166|W7126116191|W7128424760|W7131092005|W7131103794|W7131107081|W7131787837|W7132128976|W7137862888|W7138302000|W7140135285"
+    },
+    {
+      "search_id": "OA-CTB2",
+      "theme": "Citation tracing (backward): works cited by included studies, batch 2 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cited_by:W4406828510|W4406987426|W4407981214|W4408111739|W4408502165|W4408698065|W4408733407|W4409262179|W4409263150|W4409347419|W4409365849|W4409640729|W4410049652|W4410589941|W4410875402|W4412454437|W4412924568|W4413157177|W4413158262|W4413228915|W4414019887|W4414197158|W4414216434|W4414339914|W4414391539|W4415063196|W4415254729|W4415383680|W4415593444|W4415598724|W4415708953|W4416290824|W4416749071|W4416839779|W7106340102|W7114770269|W7119518054|W7124264274|W7125256039|W7125938166|W7126116191|W7128424760|W7131092005|W7131103794|W7131107081|W7131787837|W7132128976|W7137862888|W7138302000|W7140135285"
+    },
+    {
+      "search_id": "OA-CTF3",
+      "theme": "Citation tracing (forward): works citing included studies, batch 3 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cites:W7148178051|W7148596443|W7149711816|W7155107665|W7160294040|W7160966377|W7161831017|W7161993734|W7162470087|W7162543796|W7162763773|W7163030464|W7165493238|W7166638634|W7167092078|W7167222235|W7167266798|W7167336885|W7167363284|W7167631695|W7167638897|W7167831884|W7168141448|W7168182994|W7168286144|W7171563817|W7196930643|W7201855547|W7202172715|W7202178106|W7202228869|W7202285083|W7203619383|W7203625524|W7203687795|W7203771851|W7203775542|W7203780393|W7203819386|W7203894665|W7204210189|W7204222350|W7204818057|W7204945041|W7208715092|W7208755115|W7212848406|W7213549280|W7213914836|W7213941456"
+    },
+    {
+      "search_id": "OA-CTB3",
+      "theme": "Citation tracing (backward): works cited by included studies, batch 3 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cited_by:W7148178051|W7148596443|W7149711816|W7155107665|W7160294040|W7160966377|W7161831017|W7161993734|W7162470087|W7162543796|W7162763773|W7163030464|W7165493238|W7166638634|W7167092078|W7167222235|W7167266798|W7167336885|W7167363284|W7167631695|W7167638897|W7167831884|W7168141448|W7168182994|W7168286144|W7171563817|W7196930643|W7201855547|W7202172715|W7202178106|W7202228869|W7202285083|W7203619383|W7203625524|W7203687795|W7203771851|W7203775542|W7203780393|W7203819386|W7203894665|W7204210189|W7204222350|W7204818057|W7204945041|W7208715092|W7208755115|W7212848406|W7213549280|W7213914836|W7213941456"
+    },
+    {
+      "search_id": "OA-CTF4",
+      "theme": "Citation tracing (forward): works citing included studies, batch 4 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cites:W7214171227|W7214529422|W7214913654|W7219664193|W7219993247|W7220727994"
+    },
+    {
+      "search_id": "OA-CTB4",
+      "theme": "Citation tracing (backward): works cited by included studies, batch 4 of 4, with reliability vocabulary",
+      "families": [
+        "EG_citation_reliability"
+      ],
+      "field": "title_and_abstract.search",
+      "extra_filter": "cited_by:W7214171227|W7214529422|W7214913654|W7219664193|W7219993247|W7220727994"
+    }
+  ],
+  "revision_note": "2026-10-16 block revision after known-item testing of run OPENALEX-20261016-02: C_task adds corrosion/fault/flaw/quality control (P01 missed); D_ai adds learning-paradigm terms because industrial anomaly-detection abstracts often omit generic AI terms (B02 missed); OA-T added because OpenAlex lacks abstracts for some publisher records (P08, P03 missed). Removing D_ai entirely was tested and rejected (uncertainty family 5,485 hits dominated by measurement uncertainty).",
+  "revision_note_2": "2026-10-22 after known-item test of OPENALEX-20261022-01 (6/11 core calibration records retrieved): misses used generic words in titles (Reliable, calibrated, grounded) or lacked industrial context terms while evaluating on industrial benchmarks. Added OA-G (generic reliability words restricted to titles; abstract-wide generic words gave 8,100 hits) and OA-C (citation-based family on the dominant industrial anomaly benchmark). Run as OPENALEX-20261022-02.",
+  "revision_note_3": "2026-10-23: citation tracing families OA-CTF1-4 (forward, cites:) and OA-CTB1-4 (backward, cited_by:) over the 156 included studies that have OpenAlex IDs (P03 is not indexed), restricted by the same reliability vocabulary as OA-C (EG_citation_reliability)."
+}

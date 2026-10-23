@@ -1,0 +1,50 @@
+O5001;X;TA01;Generic federated non-IID representation learning (title only)
+O5002;X;TA05;LMM IAD with expert ROI tokeniser
+O5003;X;TA05;Pseudo-anomaly insertion SSL
+O5004;X;TA05;StyleGAN2 defect generation (title only)
+O5005;X;TA05;Unregularised score generative AD
+O5006;X;TA05;Feature-enhanced SSL IAD
+O5007;X;TA05;Fractal anomaly generation
+O5008;X;TA01;Autonomous-driving accident detection review (note 7)
+O5009;X;TA05;Pick-and-place dataset generation (title only)
+O5010;X;TA05;Zoomed-view AD
+O5011;X;TA05;AdapSyn; same-title record of O4963 (note 6)
+O5012;X;TA05;PaDiM with Fourier convolution
+O5013;X;TA05;Thermal proxies from RGB
+O5014;F;;Optimal decision boundaries for human intervention in one-class industrial inspection models (R5/R2)
+O5015;X;TA05;Physics-guided anomaly generation
+O5016;X;TA05;Adaptive visual defect detection
+O5017;X;TA05;Perceptual-feature anomaly localisation
+O5018;X;TA05;Adaptive memory AD (title only)
+O5019;X;TA05;Bi-Grid reconstruction; same-title record of O4618 (note 6)
+O5020;X;TA01;Hyperspectral environmental anomaly detection
+O5021;X;TA05;Trident distillations
+O5022;X;TA05;Aircraft surface registration AD (title only)
+O5023;X;TA05;Weakly supervised defect localisation
+O5024;X;TA05;CLIP-Core few-shot surface AD
+O5025;X;TA05;U-Net leather defects
+O5026;X;TA05;Robotic assembly detection (title only)
+O5027;X;TA05;Stay cable sheath autoencoder (title only)
+O5028;X;TA05;Residual attention AD (title only)
+O5029;X;TA05;Quantised autoencoder few-shot AD
+O5030;X;TA05;Entropy-based consistency modelling as training signal (note 8)
+O5031;X;TA01;Geochemical anomaly detection
+O5032;X;TA05;Fine-grained text prompts few-shot AD (title only)
+O5033;X;TA05;Attention fusion GAN AD
+O5034;X;TA05;Semi-supervised pavement anomaly detection
+O5035;X;TA05;X-ray component unsupervised detection
+O5036;X;TA05;Self-updated memory clustering AD
+O5037;X;TA05;Feature mask reverse distillation
+O5038;F;;MIAD maintenance inspection dataset under outdoor uncontrolled conditions (R3/R8)
+O5039;X;TA05;View fusion zero-shot multi-view AD
+O5040;X;TA05;Manufacturing data and AI case studies
+O5041;X;TA05;Generative-reconstructive-discriminative AD
+O5042;F;;Comparative evaluation of data-centric (label correction) versus model-centric strategies for optical quality control (R4/R8); verify
+O5043;X;TA05;Food X-ray contamination detection
+O5044;X;TA05;Retrieval-augmented zero/few-shot IAD
+O5045;X;TA05;Feature bank reconstruction AD
+O5046;X;TA05;Interpolated Gaussian descriptor OCC; probable related version of O4905 (note 13), same decision
+O5047;X;TA05;Pixel-point random walk AD
+O5048;X;TA05;Adversarial perturbation SSL AD; perturbation for training, not robustness evaluation
+O5049;F;;Deep one-class classification with adaptive threshold for training sets contaminated by abnormal samples (R4)
+O5050;X;TA01;Indoor mobile robot hazard detection (title only)

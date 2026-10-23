@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/0DJ79xqWOD4DGd/zF4bmAa97CkE</id>
+  <title>arXiv Query: search_query=ti:"Human–machine knowledge hybrid augmentation method for surface defect detection based few-data learning"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:18:25Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Human%E2%80%93machine+knowledge+hybrid+augmentation+method+for+surface+defect+detection+based+few-data+learning%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2304.13963v2</id>
+    <title>Human-machine knowledge hybrid augmentation method for surface defect detection based few-data learning</title>
+    <updated>2023-05-02T02:04:01Z</updated>
+    <link href="https://arxiv.org/abs/2304.13963v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2304.13963v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Visual-based defect detection is a crucial but challenging task in industrial quality control. Most mainstream methods rely on large amounts of existing or related domain data as auxiliary information. However, in actual industrial production, there are often multi-batch, low-volume manufacturing scenarios with rapidly changing task demands, making it difficult to obtain sufficient and diverse defect data. This paper proposes a parallel solution that uses a human-machine knowledge hybrid augmentation method to help the model extract unknown important features. Specifically, by incorporating experts' knowledge of abnormality to create data with rich features, positions, sizes, and backgrounds, we can quickly accumulate an amount of data from scratch and provide it to the model as prior knowledge for few-data learning. The proposed method was evaluated on the magnetic tile dataset and achieved F1-scores of 60.73%, 70.82%, 77.09%, and 82.81% when using 2, 5, 10, and 15 training images, respectively. Compared to the traditional augmentation method's F1-score of 64.59%, the proposed method achieved an 18.22% increase in the best result, demonstrating its feasibility and effectiveness in few-data industrial defect detection.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-04-27T05:49:30Z</published>
+    <arxiv:comment>24 pages, 15 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yu Gong</name>
+    </author>
+    <author>
+      <name>Xiaoqiao Wang</name>
+    </author>
+    <author>
+      <name>Chichun Zhou</name>
+    </author>
+  </entry>
+</feed>

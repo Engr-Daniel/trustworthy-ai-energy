@@ -1,0 +1,50 @@
+O2351;X;TA05;LLM hybrid industrial anomaly detection; no reliability evaluation
+O2352;X;TA04;Special-issue editorial (2006)
+O2353;X;TA05;Explainable thermal-image induction motor fault classification; explainability only
+O2354;F;;False-alarm reduction in railway track inspection with camera and laser data under sensor failure (R6/R2); verify
+O2355;X;TA05;YOLOv8 UAV road damage detection; accuracy-oriented
+O2356;X;TA05;3D defect synthesis for embodied inspection (title only)
+O2357;F;;Drone AI-AR remote bridge inspection with human-machine field trial (R5)
+O2358;X;TA01;Research integrity in evidence-based medicine
+O2359;F;;Trusted anomaly detection of outliers in heterogeneous ground-truth image data (R4/R8); verify context
+O2360;X;TA01;GPU diagnostic automation
+O2361;X;TA05;MLLM industrial anomaly detection dialogue; no reliability evaluation
+O2362;X;TA05;ROI localisation for civil infrastructure assessment; accuracy-oriented
+O2363;X;TA05;Edge analytics for predictive manufacturing; no visual reliability evaluation
+O2364;X;TA01;Dental imaging pipeline
+O2365;F;;Human-machine hybrid prompted defect segmentation generalising to unseen products (R5/R3); verify
+O2366;X;TA05;Black-box explainability for industrial object detection; explainability only
+O2367;X;TA01;Human-in-the-loop anomaly reasoning for financial fraud
+O2368;X;TA05;AI in industrial engineering overview
+O2369;X;TA05;AOI anomaly detection for screws; no reliability evaluation
+O2370;X;TA05;Interpretability-guided loss for data-efficient defect detection
+O2371;B;;Adjacent non-visual: bridge SHM sensor-fault data anomaly detection (R6, consistent with O2304)
+O2372;X;TA01;LLM research-helper trustworthiness for contrail detection (title only)
+O2373;F;;Edge AI-VLM industrial inspection AR with confidence-based triggering and human-in-the-loop (R2/R5)
+O2374;X;TA05;Counterfactual explanation of textile defect classifiers (title only)
+O2375;X;TA01;LLM trustworthiness as research helper for contrail detection
+O2376;X;TA05;Bridge damage captioning (title only)
+O2377;F;;Semantic-AR industrial inspection with confidence-based triggering; journal version of O2373 (note 13)
+O2378;X;TA01;Post-disaster LVLM damage assessment
+O2379;F;;Evaluation of LVLM competency incl. industrial anomaly tasks (R8/R7); verify
+O2380;X;TA01;Generic statistical-model image recognition review
+O2381;X;TA05;Tunnel lining crack detection; accuracy-oriented
+O2382;X;TA02;Smart-grid time-series anomaly detection; non-visual
+O2383;X;TA05;Untrained networks for data-scarce manufacturing (title only)
+O2384;F;;Knowledge-infused crack diagnosis with RAG and human-in-the-loop validation (R5/R7)
+O2385;X;TA05;GIS platform for UAS railway bridge inspection; no reliability evaluation
+O2386;X;TA01;Construction worker-safety inspection (title only)
+O2387;B;;Review of automated grid asset inspection analysing human-machine performance gap; core-context (energy) review
+O2388;X;TA01;Construction safety inspection; same-title record (note 6)
+O2389;X;TA01;Generic trustworthy edge intelligence plenary
+O2390;X;TA01;Dental imaging pipeline; same-content record of O2364 (note 6)
+O2391;X;TA01;IoT cybersecurity
+O2392;X;TA01;Human-in-the-loop anomaly reasoning; preprint of O2367 (note 13)
+O2393;F;;Dual-agent multimodal LLM for reliable tunnel defect detection (R7/R2); verify (title only)
+O2394;X;TA01;Industrial event surveillance via social IoT
+O2395;F;;Human-in-the-loop SEM review system for semiconductor defects (R5)
+O2396;F;;Evaluation of XAI for blue-collar inspectors in car manufacturing visual recognition (R5 human-AI decision); verify
+O2397;X;TA02;Systematic review of motor drive fault and thermal estimation; non-visual
+O2398;X;TA05;Inline machine-vision inspection development framework; no reliability evaluation
+O2399;X;TA05;Improved DeepLabv3+ crack segmentation; accuracy-oriented
+O2400;F;;Zero-shot LPBF anomaly detection via multimodal RAG over literature (R7); verify

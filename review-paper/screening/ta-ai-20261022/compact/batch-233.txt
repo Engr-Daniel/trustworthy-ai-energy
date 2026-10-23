@@ -1,0 +1,50 @@
+O1901;F;;Self-training domain-adaptive crack segmentation across structures, materials and environments (R3)
+O1902;X;TA02;Vibration time-series imaging with open-set fault classification; non-optical signal representation
+O1903;X;TA02;LLM zero-shot fault diagnosis from time series; non-visual (title only)
+O1904;X;TA01;Medical-only endoscopy depth prediction
+O1905;X;TA05;Dye-penetrant defect classification comparison; no reliability signalled (title only)
+O1906;X;TA01;Generic learned input preprocessing for OOD resilience; no inspection context
+O1907;F;;Conditional-diffusion generative classifier OOD detection for inkjet print quality control (R3/R1)
+O1908;X;TA02;Domain-agnostic ViT on wavelet spectra for machinery fault diagnosis; non-optical (title only)
+O1909;X;TA05;Training-free spatial-dependency anomaly detection; no reliability signalled (title only)
+O1910;F;;Self-supervised DINOv2 enhancement for power-system inspection across data distribution gaps (R3); verify evaluation
+O1911;F;;Threaded-insert video inspection with synthetic domain adaptation for depth estimation (R3); verify evaluation
+O1912;X;TA01;Medical-only cross-centre chest X-ray anomaly detection
+O1913;X;TA03;X-ray tomosynthesis distortion correction for solder joints; no learned model
+O1914;X;TA02;Alarm-flood classification in industrial control systems; non-visual
+O1915;F;;Training-free one-shot domain generalisation of detectors to specialised domains incl. industrial defects (R3); verify industrial evaluation
+O1916;X;TA02;Partial domain adaptation for machinery fault diagnosis; non-visual
+O1917;X;TA05;X-ray topography micropipe characterisation in SiC wafers; no reliability signalled (title only)
+O1918;F;;Controllable synthesis for generalisable crack segmentation under domain shift with benchmark (R3)
+O1919;X;TA01;Agricultural synthetic-to-real datasets; not asset inspection
+O1920;X;TA02;Semi-supervised ViT with OOD filtering for rotating machinery; non-visual (title only)
+O1921;F;;Event-camera generalised machine fault diagnosis (R3) (title only, consistent with O1710)
+O1922;X;TA01;Medical-only brain MRI benchmark
+O1923;X;TA01;Video anomaly detection with continual adaptation in surveillance settings (note 7)
+O1924;X;TA01;Public-safety video anomaly detection (note 7)
+O1925;F;;Controllable synthesis for generalisable crack segmentation; preprint of O1918 (note 13)
+O1926;F;;Surgical-instrument defect QA addressing poor transfer from industrial images (R3); verify evaluation
+O1927;X;TA01;Generic standalone OOD monitor for CNN classifiers; industrial inspection only as motivation
+O1928;X;TA01;Medical-only brain MRI benchmark; same-title record (note 6)
+O1929;F;;RGB-D road surface damage detection with self-supervised domain adaptation (R3); verify evaluation
+O1930;X;TA02;Data-centre sensor-channel residual anomaly detection; non-visual (title only)
+O1931;X;TA05;CAD-integrated micro-component defect detection; interpretability, no reliability evaluation
+O1932;X;TA02;Inter-shaft bearing fault diagnosis from CWT images; non-optical signal representation
+O1933;X;TA02;Coal-fired plant fault diagnosis from process data; non-visual
+O1934;X;TA05;Unified multi-class anomaly detection; heterogeneity only motivational (note 1)
+O1935;F;;Calibrated latency-aware PCB AOI detector with fixed-operating-point reliability (R1); verify calibration measured (note 9)
+O1936;X;TA01;Outside asset-inspection context: plant disease review
+O1937;F;;Adaptive few-shot TPL part quality classification detecting unseen defect classes and new geometries (R3 open-set)
+O1938;X;TA01;Medical-only brain tumour segmentation generalisation
+O1939;F;;Open-world airfield foreign-object debris detection with ID/OOD handling (R3)
+O1940;F;;Active learning with domain adaptation (R3); context to verify (title only, note 4)
+O1941;X;TA01;Medical-only VLM distribution attacks
+O1942;X;TA01;Autonomous driving hazard recognition (note 7)
+O1943;F;;Neurosymbolic novel defect detection (R3 open-set) (title only)
+O1944;F;;Multi-source satellite/UAV/ground fusion for transmission-line inspection addressing modal differences (R6); verify reliability evaluation
+O1945;X;TA05;Self-supervised repair autoencoder for structural AD; no reliability evaluation
+O1946;X;TA01;Medical-only dermatology anomaly localisation
+O1947;F;;Framework for reproducible PCBA AOI defect datasets (R8) (title only)
+O1948;F;;Federated learning for quality inspection under non-IID production-site data (R3); verify shift evaluation
+O1949;X;TA02;Vibration-based tunnel damage assessment with domain-adaptive digital twins; non-visual (title only)
+O1950;X;TA05;Machine-vision optical metrology of AM metals; no reliability evaluation

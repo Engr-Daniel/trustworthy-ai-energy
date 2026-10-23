@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/SvwP2YU+Beb97tHEUR4cxTO619M</id>
+  <title>arXiv Query: search_query=ti:"RDDPM Robust Denoising Diffusion Probabilistic Model for Unsupervised Anomaly Segmentation"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:25:07Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22RDDPM+Robust+Denoising+Diffusion+Probabilistic+Model+for+Unsupervised+Anomaly+Segmentation%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2508.02903v1</id>
+    <title>RDDPM: Robust Denoising Diffusion Probabilistic Model for Unsupervised Anomaly Segmentation</title>
+    <updated>2025-08-04T21:10:26Z</updated>
+    <link href="https://arxiv.org/abs/2508.02903v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.02903v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent advancements in diffusion models have demonstrated significant success in unsupervised anomaly segmentation. For anomaly segmentation, these models are first trained on normal data; then, an anomalous image is noised to an intermediate step, and the normal image is reconstructed through backward diffusion. Unlike traditional statistical methods, diffusion models do not rely on specific assumptions about the data or target anomalies, making them versatile for use across different domains. However, diffusion models typically assume access to normal data for training, limiting their applicability in realistic settings. In this paper, we propose novel robust denoising diffusion models for scenarios where only contaminated (i.e., a mix of normal and anomalous) unlabeled data is available. By casting maximum likelihood estimation of the data as a nonlinear regression problem, we reinterpret the denoising diffusion probabilistic model through a regression lens. Using robust regression, we derive a robust version of denoising diffusion probabilistic models. Our novel framework offers flexibility in constructing various robust diffusion models. Our experiments show that our approach outperforms current state of the art diffusion models, for unsupervised anomaly segmentation when only contaminated data is available. Our method outperforms existing diffusion-based approaches, achieving up to 8.08\% higher AUROC and 10.37\% higher AUPRC on MVTec datasets. The implementation code is available at: https://github.com/mehrdadmoradi124/RDDPM</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-04T21:10:26Z</published>
+    <arxiv:comment>10 pages, 5 figures. Accepted to the ICCV 2025 Workshop on Vision-based Industrial InspectiON (VISION)</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Mehrdad Moradi</name>
+    </author>
+    <author>
+      <name>Kamran Paynabar</name>
+    </author>
+  </entry>
+</feed>

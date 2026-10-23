@@ -51,3 +51,18 @@ Abstract availability is now 15/20: C0028 has a matching-title arXiv:2107.10880 
 
 ## Current handoff - 15 October 2026
 Use review-paper/screening/abstracts-20261015/reading-packet.md and human-decisions-template.csv. Availability is 16/20: P04 recovered from embedded IEEE JSON in the saved capture; P05, P10, R02 and C0032 remain unresolved. Earlier dated packets are preserved. All human decisions/audits remain pending. Daniel is primary screener; secondary auditor not yet named. Canonical records/counts, archived workbook and live Sheet were not changed. Local validator/template checks and 17 regression tests passed.
+
+## Manuscript scaffold - 15 October 2026
+Daniel requested a template only, with expected IEEE/Overleaf headings and guidance rather than synthesis. Sources are review-paper/manuscript/main.tex, refrence.bib and figures/. Local upload bundle: review-paper/manuscript-overleaf.zip. IEEEtran journal layout, visible writing instructions, empty tables/figures, no filled findings or bibliography entries. Bibliography is disabled until verified entries are cited. Static structural/ZIP checks passed; local TeX compiler is unavailable, so no PDF compilation is claimed.
+
+## Current handoff - 22 October 2026
+Protocol v0.5 governs. Daniel delegated screening/eligibility to the AI assistant (v0.4); every decision needs a defensible rationale, recall matters, Q1/PRISMA-ScR target. Title/abstract screening is complete: confirmed-decisions.csv has 5,585 rows (785 F, 2 U, 406 B, 4,392 X); consistency rules are in screening/ta-ai-20261022/screening-notes.md. Studies come from corpus/study-linkage.csv (verified links only); report records are never merged. Full text uses open-access copies only, via fulltext/retrieval-plan.csv, scripts/retrieve_fulltext.py (locate, then download) and logs/hashes in fulltext/. PDFs and text are git-ignored. The OpenAlex key lives outside the repo (OPENALEX_API_KEY env var only). Daniel's audit (all FT includes plus 10% of TA exclusions) is pending before submission. Do not commit or push without asking Daniel.
+
+## Current handoff - 23 October 2026
+Charting is complete for the 157 included studies (charting/charting.csv, form v0.2). Manuscript draft v1 is in manuscript/main.tex. Regenerate it after any record change: make_figures.py, then make_bib.py, then make_tables.py. Open items:
+- Daniel's audit (screening/audit-20261023/audit-sample.csv).
+- Optional manual retrieval of the 568 unretrieved reports into fulltext/manual/, then `retrieve_fulltext.py --stage ingest --supplier "..."`.
+- The abstract-level tier.
+- Citation tracing.
+- Author inputs marked [Author input required] in main.tex.
+Nothing has been committed since ca19572; ask Daniel before committing or pushing.

@@ -1,0 +1,50 @@
+O4451;X;TA05;Dual memory reverse distillation (title only)
+O4452;X;TA05;Multistage latent residual AD (title only)
+O4453;F;;Synthetic data contribution to metallic defect segmentation under realistic evaluation settings (R8); verify
+O4454;X;TA01;Generic universal novelty detection under train/test shift
+O4455;B;;Coalitional Bayesian autoencoders; preprint of O4307 (note 13)
+O4456;X;TA01;Video anomaly reasoning (title only)
+O4457;X;TA05;Coarse-to-fine non-contrastive AD
+O4458;F;;Unified AD learning invariant patterns across domain shift between seen and unseen categories (R3)
+O4459;X;TA05;Deviation networks few-shot AD; no reliability dimension
+O4460;X;TA05;Dual-constraint autoencoder AD
+O4461;X;TA05;Generalised VAE one-class abnormality detection
+O4462;X;TA05;Diversity-measurable AD
+O4463;X;TA05;GAN defect image synthesis
+O4464;X;TA01;Cereal grain recognition dataset
+O4465;F;;Benchmark for pixel-level anomaly detection under continual distribution change (R3/R8)
+O4466;X;TA05;Multimodal conditional AD (title only)
+O4467;X;TA02;Circuit breaker diagnostics from vibration/acoustics; non-visual
+O4468;X;TA05;Generative defect synthesis on MVTec
+O4469;X;TA05;Dual-branch ensemble IAD; ensemble not for uncertainty
+O4470;X;TA05;Stain-noise corrupted AE training
+O4471;X;TA01;Deepfake detection
+O4472;X;TA05;Memory-augmented insulator anomaly detection
+O4473;X;TA05;Metal sheet grid defect classification
+O4474;X;TA05;LLM-prompted few-shot AD (title only)
+O4475;X;TA05;CLIP-guided train surface defect detection
+O4476;X;TA05;Conditioned diffusion AD (title only)
+O4477;X;TA05;Diffusion-generated few-shot AD
+O4478;X;TA05;Dual generative networks for surface stains
+O4479;F;;AutoVI dataset benchmarking unsupervised methods under realistic automotive acquisition conditions (R8)
+O4480;X;TA05;Teacher-student foreign object intrusion
+O4481;X;TA05;Sparse reconstruction real-time AD
+O4482;X;TA05;Semi-supervised AD with anomaly-only loss (title only)
+O4483;X;TA05;Biomimetic perception IAD
+O4484;F;;Distillation AD robust to varying views, poses and illumination in unstructured industrial environments (R3)
+O4485;X;TA05;Latent selection and weighting AD
+O4486;B;;Systematic review of the synthetic-to-real gap in computer vision; R3 methodological review background
+O4487;F;;Fully unsupervised anomaly classification and segmentation with noisy training data (R4) (title only)
+O4488;F;;Unsupervised AD with self-training on contaminated training sets (R4)
+O4489;X;TA05;MobileNetV4 packaging seal inspection
+O4490;X;TA05;Adaptive diffusion multi-class AD (title only)
+O4491;X;TA05;Expert-collaborative multimodal IAD reasoning (title only)
+O4492;X;TA01;Medical-only zero-shot AD
+O4493;X;TA05;Anomaly-driven generation (title only)
+O4494;X;TA01;Texture geometry transfer graphics
+O4495;X;TA05;AnoOnly preprint; same-content record of O4482 (note 6)
+O4496;F;;Large-scale industrial sorting-machine dataset for near- to far-OOD detection research (R3/R8)
+O4497;F;;Online zero-shot AD guarding memory updates against unreliable evidence (R2/R3); verify
+O4498;X;TA05;Content-style alignment surface inspection (title only)
+O4499;X;TA05;Puzzle-solving novelty detection
+O4500;X;TA05;Unseen anomaly generation

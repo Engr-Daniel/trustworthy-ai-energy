@@ -1,0 +1,50 @@
+O3901;X;TA02;GPR urban road image recognition; imaging NDT without reliability method (note 12) (title only)
+O3902;X;TA01;UAV vision-language navigation
+O3903;X;TA01;UAV vision-language navigation; same-title record (note 6)
+O3904;F;;Generalisability of detectors for defective glass insulators in UAV power-line inspection (R3) (title only)
+O3905;X;TA01;Hyperspectral crop classification
+O3906;X;TA03;Camera calibration optimisation for photogrammetry
+O3907;X;TA05;Generalised attention crack segmentation; generality claim without shift evaluation
+O3908;X;TA02;Review of GPR and AI for concrete subsurface sensing; imaging NDT without reliability focus (title only)
+O3909;X;TA02;Transformer monitoring from DGA and sensor data; non-visual
+O3910;X;TA02;Thermal profile prediction in AM; non-visual
+O3911;X;TA02;Generalisation of hammering-test ML; acoustic (title only)
+O3912;X;TA01;Educational resource on quality control
+O3913;F;;Physics-grounded real-world video anomaly dataset exposing gap from static benchmarks (R8)
+O3914;F;;CLIP-based cross-domain industrial anomaly detection across categories, materials and imaging conditions (R3)
+O3915;F;;Reliable defect detection in laser AM addressing domain-specific challenges (R3/R8); verify
+O3916;X;TA03;UGV control for power-line inspection; not inspection-model reliability
+O3917;X;TA02;GPR roadway and bridge deck inspection (2016)
+O3918;X;TA03;Indoor point-cloud semantic building reconstruction
+O3919;F;;Hybrid AI-vision and classical-sensing aerial inspection for robust urban infrastructure anomaly detection (R6); verify
+O3920;X;TA01;Generic explainable additive neural networks
+O3921;X;TA02;GPR tunnel lining defect segmentation; imaging NDT without reliability method (note 12) (title only)
+O3922;X;TA02;LLM few-shot edge fault diagnosis from signals; non-visual
+O3923;X;TA01;Driving simulation evaluation (title only)
+O3924;F;;Super-resolution for reliable industrial inspection under mixed degradations (R3 corruption robustness) (title only)
+O3925;X;TA03;Visual gauge calibration inspection (2011)
+O3926;X;TA02;GPR road underground defect classification; imaging NDT without reliability method (note 12)
+O3927;F;;Knowledge-grounded MLLM framework for generalisable PV fault diagnosis (R3/R7); verify modality
+O3928;X;TA01;Landslide hazard assessment (title only)
+O3929;X;TA01;Medical-only PET/CT anomaly detection benchmark (title only)
+O3930;X;TA05;Optimised deep learning PV fault classification; accuracy-oriented
+O3931;X;TA03;API 650 storage tank inspection framework; no learned model
+O3932;X;TA01;Generic compression augmentation for CNN generalisation (title only)
+O3933;F;;AI-supported X-ray defect recognition improving agreement rates and consistent probability of detection (R8/R5)
+O3934;X;TA02;Seismic damage assessment from ground-motion wavelet images; non-optical
+O3935;X;TA05;X-ray weld micro-defect detection framework; reliability claimed (title only)
+O3936;X;TA03;Camera self-calibration dissertation
+O3937;X;TA05;Generalisation-driven two-stage anomaly detection; generality claim (title only)
+O3938;X;TA03;SEM image enhancement for metrology
+O3939;X;TA05;Industry-fit crack detection in ground steel; accuracy-oriented
+O3940;X;TA02;GPR tunnel lining damage classification; imaging NDT without reliability method (note 12)
+O3941;X;TA02;GPR ballast FDTD simulations
+O3942;F;;Reliability study of automated defect assessment in optical pulsed thermography (R8); verify (title only)
+O3943;X;TA05;Prototype-based generalised industrial AD; accuracy-oriented
+O3944;X;TA05;Ballast degradation by computer vision compared with GPR
+O3945;X;TA05;CNN PV hotspot identification; accuracy-oriented
+O3946;X;TA02;GPR rebar clutter suppression for ballastless tracks
+O3947;X;TA02;Spacecraft telemetry fault diagnostics
+O3948;X;TA03;Vision-based angle measurement with calibration
+O3949;X;TA05;Medical-imaging enhancement methods applied to energy imaging (simulated); no reliability evaluation
+O3950;X;TA03;Camera calibration verification

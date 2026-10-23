@@ -1,0 +1,25 @@
+O5201;X;TA05;Real-time narrow fabric AD
+O5202;X;TA05;Curve-like structure segmentation
+O5203;X;TA01;Generic SAM focused segmentation
+O5204;X;TA05;Efficient multimodal fusion IAD
+O5205;X;TA05;Printed fabric segmentation (title only)
+O5206;X;TA01;Cultural heritage monitoring
+O5207;X;TA05;Global-local anomaly generator few-shot IAD
+O5208;X;TA01;Facial anomaly appraisal
+O5209;X;TA05;Hypergraph logical AD (title only)
+O5210;X;TA05;Nested U-Net evaluation on MVTec
+O5211;F;;Self-supervised AD trained on anomalous (contaminated) training data via iterative latent token masking (R4)
+O5212;X;TA05;Latent anomaly suppression reverse distillation
+O5213;X;TA05;Segmentation-guided denoising student-teacher (title only)
+O5214;X;TA05;Two-stage autoencoder surface defects
+O5215;X;TA05;Multimodal coating defect detection
+O5216;X;TA05;Mixed noise mutual constraint AD (title only)
+O5217;X;TA05;Frozen DINOv3 multi-view IAD (title only)
+O5218;X;TA05;Dual-prompt zero-shot AD
+O5219;X;TA05;Few-shot metal defect segmentation
+O5220;X;TA01;Change captioning
+O5221;X;TA05;CPU socket inspection architecture
+O5222;X;TA01;Generic federated continual learning (title only)
+O5223;X;TA05;Synthetic-anomaly distillation (title only)
+O5224;X;TA05;Patch feature distribution multiscale defects
+O5225;X;TA05;LCD/OLED defect detection review

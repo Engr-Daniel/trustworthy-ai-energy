@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/pxXG0LVl4M3gkONDApRDp/mfwQE</id>
+  <title>arXiv Query: search_query=ti:"Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:23:23Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Learning+Topology-Aware+Representations+via+Test-Time+Adaptation+for+Anomaly+Segmentation%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2606.28268v1</id>
+    <title>Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation</title>
+    <updated>2026-06-26T17:04:42Z</updated>
+    <link href="https://arxiv.org/abs/2606.28268v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.28268v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail to preserve structural consistency under noise and texture variation. Moreover, they typically treat anomaly maps as flat intensity fields, ignoring the higher-order spatial relationships that characterise complex defect geometries. We introduce TopoTTA (Topological Test-Time Adaptation), a novel framework that integrates persistent homology, a tool from topological data analysis, into the TTA pipeline to enforce geometric and structural coherence during adaptation. By applying multi-level cubical complex filtration to anomaly score maps, TopoTTA derives robust topological pseudo-labels that guide a lightweight test-time classifier, enhancing segmentation quality without retraining the backbone model. The approach avoids reliance on method-specific raw-score thresholding for mask binarisation, preserves connectivity, and generalises across both 2D and 3D modalities. Extensive experiments across six standard benchmarks (MVTec AD, VisA, Real-IAD, MVTec 3D-AD, AnomalyShapeNet, and MVTec LOCO) demonstrate an average 15% F1 improvement over state-of-the-art unsupervised anomaly detection and segmentation methods, with the largest gains on anomalies exhibiting complex geometric or structural variations. These findings suggest that integrating topological reasoning into test-time adaptation provides a principled route to structure-aware generalisation, bridging the gap between geometric learning and robust adaptation.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-26T17:04:42Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Ali Zia</name>
+    </author>
+    <author>
+      <name>Usman Ali</name>
+    </author>
+    <author>
+      <name>Abdul Rehman</name>
+    </author>
+    <author>
+      <name>Umer Ramzan</name>
+    </author>
+    <author>
+      <name>Kang Han</name>
+    </author>
+    <author>
+      <name>Muhammad Faheem</name>
+    </author>
+    <author>
+      <name>Shahnawaz Qureshi</name>
+    </author>
+    <author>
+      <name>Wei Xiang</name>
+    </author>
+  </entry>
+</feed>

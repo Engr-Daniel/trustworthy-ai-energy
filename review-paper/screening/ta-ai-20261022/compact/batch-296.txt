@@ -1,0 +1,50 @@
+O5051;X;TA05;Image-level synthesis and perturbation SSL
+O5052;X;TA05;Controllable industrial image augmentation (title only)
+O5053;B;;Survey of safe multimodal learning systems covering robustness, alignment and monitoring; methodological background (R3/R6/R7)
+O5054;X;TA05;Self-prompted LVLM defect diagnosis
+O5055;X;TA05;LCD weak anomaly synthesis (title only)
+O5056;X;TA05;Proxy metric learning coresets (title only)
+O5057;X;TA05;SSL IAD in smart manufacturing
+O5058;F;;Adversarial example detection improving screw detection under dust pollution in industrial systems (R3 adversarial/corruption)
+O5059;X;TA05;Textile defect exploratory data analysis
+O5060;X;TA05;Synthetic images for AD (title only)
+O5061;X;TA05;Few-shot PV film defect detection; accuracy-oriented
+O5062;X;TA05;Railway turnout PatchCore (title only)
+O5063;X;TA05;Railroad surrounding UAV risk perception
+O5064;X;TA05;Dense contrastive patterns AD
+O5065;X;TA01;Generic wavelet CNN unit
+O5066;X;TA05;ResNet50 defect detection
+O5067;X;TA05;LPIPS AM inspection
+O5068;X;TA05;Casting pixel-level AD system
+O5069;X;TA05;Spiking VAE AD
+O5070;X;TA05;Secondary-guided diffusion IAD
+O5071;X;TA05;Few-shot defect segmentation with normal regularisation
+O5072;X;TA05;Controlled diffusion anomaly generation
+O5073;X;TA01;Ultra-fine-grained categorisation benchmark
+O5074;X;TA05;Seg-YOLO handloom defects
+O5075;X;TA05;Multi-scale diffusion AD (title only)
+O5076;X;TA05;Live-line strain clamp DR anomaly detection; accuracy-oriented
+O5077;X;TA05;Symmetric normalizing flow (title only)
+O5078;X;TA05;Distillation and quantisation for edge (title only)
+O5079;X;TA05;Prompt learner multimodal IAD
+O5080;X;TA05;Instance-aware zero-shot multi-instance AD
+O5081;X;TA05;ViT distillation multi-texture AD
+O5082;X;TA05;Real-time high-resolution defect network
+O5083;X;TA05;Visual AD with limited labels (proceedings record, title only)
+O5084;X;TA05;Convolutional autoencoder machinery AD
+O5085;X;TA05;Versatile outlier detection across image domains (title only)
+O5086;X;TA01;Marine environmental monitoring
+O5087;X;TA01;Surveillance action recognition (note 7)
+O5088;X;TA05;Complementary prototypes reconstruction
+O5089;X;TA05;Convolutional autoencoder industrial AD
+O5090;X;TA05;Deep anomaly scoring weakly supervised (title only)
+O5091;X;TA05;Feature correspondence AD (title only)
+O5092;X;TA05;Global-to-local AD
+O5093;X;TA05;Fourier-convolutional PaDiM
+O5094;X;TA05;Kernel density sparse representation IAD
+O5095;X;TA05;Tensor distillation for cyber-physical AD
+O5096;X;TA01;Medical brain MRI AD
+O5097;X;TA05;Template-augmented U-Net AD
+O5098;X;TA05;Unified reference representation (title only)
+O5099;X;TA05;Multi-scale masking reconstruction
+O5100;X;TA05;Divide-and-conquer few-shot AD (title only)

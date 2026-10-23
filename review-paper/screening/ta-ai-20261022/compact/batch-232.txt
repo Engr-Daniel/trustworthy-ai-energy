@@ -1,0 +1,50 @@
+O1851;F;;Cross-dataset generalisation evaluation of crack classification models (R3/R8)
+O1852;F;;Multi-source domain adaptation for food-packaging date-label quality control (R3); probable version of O1785
+O1853;F;;Unsupervised open-set UAV railway anomaly detection under illumination and occlusion (R3)
+O1854;F;;Domain adaptation of AM melt-pool monitoring models for digital-twin reuse (R3)
+O1855;F;;Synthetic tunnel point clouds with transfer learning to real scans (R3 sim-to-real); verify shift evaluation
+O1856;X;TA02;Bearing fault diagnosis from vibration peaks; non-visual
+O1857;F;;Sensor-visual fusion for robust bridge SHM (R6); verify (title only, note 4)
+O1858;X;TA05;VLM text-generation defect detection for rocket-motor X-ray; no grounding or hallucination evaluation signalled
+O1859;F;;SAM adaptation for battery radiographic inspection under complex imaging conditions (R3); verify (title only)
+O1860;X;TA05;Comparative exemplar anomaly localisation; accuracy-oriented
+O1861;F;;Cross-domain few-shot image identification for quality control across scenarios (R3)
+O1862;F;;Substation pointer-meter reading robust to image corruption (R3 corruption robustness)
+O1863;B;;Survey of concrete crack detection within multimodal SHM; core-context review
+O1864;X;TA01;Medical-only chest X-ray anomaly detection
+O1865;F;;Population Stability Index for monitoring distribution shift of in-use industrial ML models (R3); verify vision context
+O1866;B;;Adjacent non-visual: survey of OOD generalisation and detection in intelligent fault diagnosis; transferable reliability taxonomy (R3, note 5)
+O1867;X;TA01;Generic OOD-generalisation diagnostic framework for hybrid vision architectures; no inspection context
+O1868;X;TA01;Deepfake forensics; outside asset inspection
+O1869;X;TA02;Bridge damage detection from multichannel sensor data; non-visual
+O1870;X;TA05;Industrial zero-shot segmentation benchmark and prompt baseline; no reliability framing
+O1871;X;TA05;Prompt-learning industrial AD; no reliability signalled (title only)
+O1872;X;TA05;Unified few-shot anomaly detection boundary construction; accuracy-oriented
+O1873;X;TA05;Scientometric review of ML across bridge lifecycle; not visual-inspection reliability focused
+O1874;F;;Multi-modal infrared power-equipment fault diagnosis with cross-device generalisation and corruption robustness (R3/R6) (title only)
+O1875;X;TA05;Low-contrast X-ray defect segmentation; no reliability signalled (title only)
+O1876;X;TA05;Semi/self-supervised multi-label underwater inspection imagery; label-efficiency focus
+O1877;X;TA05;Diffusion-augmented representation pre-training for IAD; accuracy-oriented
+O1878;X;TA02;LLM test-time adjustment for zero-shot fault diagnosis; non-visual (title only)
+O1879;F;;Synthetic BIM data with domain adaptation for on-site rebar segmentation (R3)
+O1880;X;TA02;Bridge hinge-joint damage identification from monitoring data; non-visual
+O1881;F;;Knowledge-grounded VLM decision support for LNG carrier inspections (R7) (title only)
+O1882;X;TA01;Generic transformer domain generalisation; no inspection context
+O1883;X;TA02;Ultrasonic-signal SHM of concrete thermal fatigue; non-visual
+O1884;F;;Open-set fault diagnosis using CLIP (R3); modality to verify (title only, note 4)
+O1885;F;;Label-free masonry crack domain adaptation with confidence-guided refinement and calibrated predictions (R3/R1)
+O1886;X;TA05;Hot-side infrared prediction of glass bottle quality; no reliability evaluation
+O1887;X;TA05;Self-supervised AOI segmentation; distribution shift only motivational (note 1)
+O1888;X;TA05;Visual quality inspection on embedded devices; efficiency focus
+O1889;X;TA01;Food adulteration image classification; not asset inspection
+O1890;X;TA05;Wafer defect VQA synthesis; label cleaning is an internal step without evaluation (note 8 analogue)
+O1891;F;;Woven fabric pattern recognition addressing acquisition-condition domain shift (R3); verify evaluation
+O1892;X;TA03;Underwater robot pipeline tracking control; no inspection reliability
+O1893;X;TA02;Single-domain generalisation for machinery fault diagnosis; non-visual
+O1894;X;TA05;Physics-informed diffusion NDT defect synthesis; data generation without reliability evaluation
+O1895;X;TA01;Generic hardware fault injection for CNNs; no inspection context
+O1896;X;TA02;Domain-adaptive ML for battery precursor co-precipitation; process data
+O1897;X;TA05;3D pore segmentation in AM CT; accuracy-oriented
+O1898;F;;Domain-adapted (gradient reversal) SiC wafer defect detection (R3)
+O1899;X;TA02;SynRM motor fault classification; non-visual
+O1900;X;TA05;Masked distillation anomaly detection; generic robustness (title only)

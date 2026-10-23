@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/NyDH9a8bWZ8oLVbLtl3PzhRAmJY</id>
+  <title>arXiv Query: search_query=ti:"An efficient and uncertainty-aware reinforcement learning framework for quality assurance in extrusion additive manufacturing"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:00:02Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22An+efficient+and+uncertainty-aware+reinforcement+learning+framework+for+quality+assurance+in+extrusion+additive+manufacturing%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2503.00971v1</id>
+    <title>An Efficient and Uncertainty-aware Reinforcement Learning Framework for Quality Assurance in Extrusion Additive Manufacturing</title>
+    <updated>2025-03-02T17:47:08Z</updated>
+    <link href="https://arxiv.org/abs/2503.00971v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.00971v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Defects in extrusion additive manufacturing remain common despite its prevalent use. While numerous AI-driven approaches have been proposed to improve quality assurance, the inherently dynamic nature of the printing process poses persistent challenges. Regardless of how comprehensive the training dataset is, out-of-distribution data remains inevitable. Consequently, deterministic models often struggle to maintain robustness and, in some cases, fail entirely when deployed in new or slightly altered printing environments. This work introduces an agent that dynamically adjusts flow rate and temperature setpoints in real time, optimizing process control while addressing bottlenecks in training efficiency and uncertainty management. It integrates a vision-based uncertainty quantification module with a reinforcement learning controller, using probabilistic distributions to describe printing segments. While the underlying networks are deterministic, these evolving distributions introduce adaptability into the decision-making process. The vision system classifies material extrusion with a certain level of precision, generating corresponding distributions. A deep Q-learning controller interacts with a simulated environment calibrated to the vision system precision, allowing the agent to learn optimal actions while demonstrating appropriate hesitation when necessary. By executing asynchronous actions and applying progressively tightened elliptical reward shaping, the controller develops robust, adaptive control strategies that account for the coupling effects between process parameters. When deployed with zero-shot learning, the agent effectively bridges the sim-to-real gap, correcting mild and severe under- and over-extrusion reliably. Beyond extrusion additive manufacturing, this scalable framework enables practical AI-driven quality assurance across various additive manufacturing processes.</summary>
+    <category term="eess.SY" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-02T17:47:08Z</published>
+    <arxiv:primary_category term="eess.SY"/>
+    <arxiv:journal_ref>Additive Manufacturing, Volume 110, 104912 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Xiaohan Li</name>
+    </author>
+    <author>
+      <name>Sebastian Pattinson</name>
+    </author>
+    <arxiv:doi>10.1016/j.addma.2025.104912</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.addma.2025.104912" title="doi"/>
+  </entry>
+</feed>

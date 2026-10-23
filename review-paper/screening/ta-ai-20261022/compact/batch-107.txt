@@ -1,0 +1,40 @@
+O0261;X;TA05;Thesis on labelled-data acquisition and CT defect segmentation under artifacts; data efficiency/accuracy focus
+O0262;F;;Selective classification cascade delegating hard defect images from edge to higher-capacity models (R2)
+O0263;X;TA01;Seismic fault interpretation for reservoirs; geological not asset inspection
+O0264;X;TA01;Medical MRI artifact detection
+O0265;X;TA05;Miter gate corrosion diagnostics/prognostics (title only)
+O0266;X;TA03;Tunnelling congress AI review; not inspection reliability evidence
+O0267;X;TA05;Fuzzy uncertainty for streaming active learning in defect detection (note 8) (title only)
+O0268;X;TA05;X-ray component anomaly detection with entropy-aware loss used internally; cross-category generalisation reported without shift framing (notes 2/8)
+O0269;X;TA05;THz CNN delamination imaging; accuracy
+O0270;X;TA02;Fuel-cell fault classification from process data; non-visual
+O0271;X;TA02;Acceleration signals as grayscale images for bridge damage transfer learning; non-optical simulation data
+O0272;X;TA02;IIoT tabular anomaly detection (SECOM/MNIST); not inspection imagery
+O0273;X;TA03;Transformer condition assessment chapter (title only)
+O0274;B;;Methodological bridge: robustness and abstention of VLMs under uncertain inputs; transferable hallucination/abstention evidence (R2/R7)
+O0275;X;TA05;AI overlay metrology focusing; measurement performance, not defect reliability
+O0276;X;TA02;Acoustic-emission scalograms for tool fault diagnosis; non-optical
+O0277;X;TA01;Medical CMR uncertainty quality control
+O0278;X;TA03;Entropy-constrained classical image processing; no learned model
+O0279;X;TA05;Fuzzy cork stopper classification (title only)
+O0280;X;TA05;Improved YOLOv5 steel defects; accuracy
+O0281;F;;Physics-aware network with uncertainty quantification for infrared NDT defect detection (R1) (title only)
+O0282;B;;Review of AI for laser thermographic NDT of AM products incl. trust and uncertainty calibration; core-context review
+O0283;X;TA01;Molecular docking inspection
+O0284;X;TA02;Fuel-cell PINN uncertainty code deposit; non-visual
+O0285;F;;Unsupervised ultrasonic B-scan wheelset detection under cross-condition shift with uncertainty-guided expert review loop; deployed (R3/R5)
+O0286;X;TA02;Tabular cable condition records; not image inspection
+O0287;X;TA05;Aero-bearing wear anomaly assessment (title only)
+O0288;F;;Active learning and new ground-truth-free calibration metrics for visual inspection on real manufacturing data (R1)
+O0289;F;;PV fault diagnosis with MC-dropout uncertainty, selective abstention, leakage-controlled splits and cross-dataset validation (R1/R2/R8)
+O0290;B;;Review of drone thermal/hyperspectral inspection for quality management incl. emissivity uncertainty and generalisation; background review
+O0291;B;;Review of infrared thermography QA with emissivity-related measurement uncertainty; background (R6 framing)
+O0292;F;;Fuzzy-logic NDI for aircraft fault diagnosis (title only; verify learned component and uncertainty handling)
+O0293;X;TA05;Vision TIG weld classification with robot control; accuracy
+O0294;X;TA01;Medical CMR (version of O0277)
+O0295;F;;Leather defect classification with reject option withholding unreliable decisions for human experts (R2/R5)
+O0296;X;TA05;Active learning with uncertainty sampling for imbalanced structural defects (note 8)
+O0297;X;TA05;Ultrasonic parameter-space representation to aid ML; not reliability evaluation
+O0298;B;;Review of ML in industrial X-ray CT; core-context review (title only)
+O0299;F;;Vision-guided tactile perception to resolve visual uncertainty from lighting/shadows in crack detection (R6/R3)
+O0300;X;TA05;TPL quality-control thesis; bootstrap UQ for machine-health statistics, image classification reliability not signalled

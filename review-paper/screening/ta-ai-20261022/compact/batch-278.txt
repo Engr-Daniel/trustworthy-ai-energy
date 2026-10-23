@@ -1,0 +1,50 @@
+O4151;X;TA02;Ground cable leak current monitoring
+O4152;X;TA03;Space data centre reliability
+O4153;X;TA03;Gabor minimal-path crack labelling; classical method
+O4154;X;TA05;YOLO soldering splash inspection; accuracy-oriented
+O4155;X;TA03;Weld quality assurance framework
+O4156;X;TA01;Medical ground-truth image generation
+O4157;X;TA02;Superheater tube damage prediction
+O4158;X;TA02;Transformer DGA diagnosis reliability (2011)
+O4159;X;TA03;Memristor fabrication
+O4160;X;TA02;Single-phase ground fault location
+O4161;X;TA03;Fault rupture geomechanics
+O4162;F;;Quality-aware multimodal reliability framework fusing defect images and inspection data for tunnel health assessment (R6/R8); verify
+O4163;X;TA03;Nanocluster structure prediction
+O4164;X;TA03;TSV thermal fatigue
+O4165;X;TA03;Finger implant design
+O4166;X;TA01;Enterprise software visual testing (title only)
+O4167;X;TA05;MAE remote assessment of machine tool components; reliability claimed (title only)
+O4168;X;TA02;Mining safety monitoring (title only)
+O4169;X;TA01;Human LoRA concept
+O4170;X;TA02;Equipment root cause analysis review
+O4171;X;TA02;Combined-cycle plant failure prediction
+O4172;X;TA01;NIR wheat flour calibration (title only)
+O4173;X;TA02;Wind farm ground fault stability
+O4174;X;TA02;Bayesian network transformer reliability
+O4175;X;TA03;Structured-light sensor calibration (1995)
+O4176;X;TA03;Stripe projector calibration (1998)
+O4177;X;TA02;GPR insulation bonding classification (title only)
+O4178;X;TA02;GPR insulation bonding classification; same-title record (note 6)
+O4179;X;TA05;Class-added rail infrastructure detection with self-ensemble masks; incremental classes, not reliability (title only)
+O4180;X;TA01;Medical-only mislabel detection
+O4181;X;TA02;GPR tunnel void inversion; imaging NDT without reliability method (note 12)
+O4182;X;TA02;Voltage and cable fault monitoring
+O4183;X;TA01;Archaeological sensing calibration (title only)
+O4184;X;TA03;Liquid coolant reliability analysis
+O4185;B;;Adjacent imaging NDT (GPR): rebar detection generalisation across clear, interfering and blurry field conditions (R3, note 12)
+O4186;X;TA01;Cobot computation offloading
+O4187;X;TA01;NIR wheat calibration
+O4188;X;TA01;NIR wheat calibration; same-title record (note 6)
+O4189;X;TA02;Motor controller reliability
+O4190;X;TA03;Hand-eye calibration
+O4191;X;TA01;Seismic first-break interpretation (1984)
+O4192;X;TA01;Generic neural architecture search
+O4193;X;TA01;Hybrid intelligence automation
+O4194;X;TA01;Fetoscope calibration
+O4195;X;TA03;Semiconductor device reliability review
+O4196;X;TA02;Heat network reliability
+O4197;X;TA01;Roadside assistance
+O4198;X;TA05;AI PCB reliability testing for IPC compliance; product reliability
+O4199;X;TA01;Cervical cell detection (title only)
+O4200;X;TA01;Radiology reporting agent

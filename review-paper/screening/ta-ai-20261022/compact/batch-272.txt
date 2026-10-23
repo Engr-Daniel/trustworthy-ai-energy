@@ -1,0 +1,50 @@
+O3851;X;TA03;Infrared 3D reconstruction with sensor calibration (title only)
+O3852;X;TA05;CNN hyperparameter study for PV panel condition recognition
+O3853;X;TA05;Monocular rooftop geometry assessment; not defect reliability
+O3854;X;TA01;Wildfire damage assessment (title only)
+O3855;X;TA03;Pipeline robot camera calibration (2009)
+O3856;F;;Synthetic training data to improve generalisation given correlated video frames in quality inspection (R3/R8); verify
+O3857;F;;Reliability-aware dual-expert cross-domain crack segmentation with label-free silent-rate failure probe (R2/R3)
+O3858;X;TA02;Terahertz circuit-board defect characterisation with branchy network; non-optical (title only)
+O3859;X;TA01;Spacecraft onboard imaging pipeline
+O3860;X;TA03;Classical CV conveyor belt inspection engine with synthetic ground truth; no learned model
+O3861;X;TA05;Domain knowledge injection into SAM for fabric defects; task adaptation
+O3862;F;;Generalisation of detectors for UAV insulator inspection under challenging meteorological conditions (R3/R8) (title only)
+O3863;F;;Tool-grounded refutation agent for reliable cross-domain visual anomaly detection (R7/R3)
+O3864;X;TA02;Lightweight GPR pavement defect detection; imaging NDT without reliability method (note 12)
+O3865;X;TA05;Ground wire strand defect detection under illumination variation; robustness claimed, accuracy-oriented
+O3866;X;TA01;Volcanic thermal feature detection
+O3867;X;TA02;Aircraft wing damage detection generalisation from FE data; non-visual
+O3868;X;TA02;Ultrasonic guided-wave ground wire corrosion assessment; non-visual
+O3869;B;;Methodological bridge (medical imaging): quality-control-driven segmentation for reliable automated analysis; transferable failure-detection design (R2, consistent with O1714) (title only)
+O3870;X;TA05;3D stereo weld seam segmentation; reliability claimed without evaluation
+O3871;X;TA03;Single-camera calibration for dimensional inspection
+O3872;F;;CycleGAN restoration for reliable crack width detection under shadow and motion blur (R3)
+O3873;X;TA05;CT defect detection in high-reliability components; component reliability, not model reliability
+O3874;X;TA02;GPR rebar detection dissertation; imaging NDT without reliability method (note 12)
+O3875;F;;Multi-algorithm cross-validation with consistency arbitration and confidence-weighted fusion for substation defect detection (R1/R2); verify
+O3876;X;TA03;Neural-network imaging sensor calibration (2006)
+O3877;X;TA02;GPR road underground defect detection; imaging NDT without reliability method (note 12) (title only)
+O3878;F;;Attention DropBlock framework for real-time cross-domain defect classification (R3)
+O3879;F;;Distribution-free false-alarm calibration and chance-corrected spatial evaluation for industrial anomaly detection (R2/R8)
+O3880;X;TA05;Generalised zero-shot structural damage state identification; no shift framing (note 2)
+O3881;F;;Train-calibrated bounded multi-evidence fusion for RGB-3D industrial anomaly detection (R6/R1); verify
+O3882;X;TA05;Passive stereo 3D inspection system; measurement accuracy
+O3883;X;TA01;Drone detection for airport security
+O3884;F;;Meta-learning framework for cross-domain defect recognition (R3)
+O3885;X;TA02;Cross-domain mechanical fault diagnosis from signal RGB mapping; non-optical
+O3886;F;;Cross-domain micro-scratch detection in PV glass across coatings, batches, cameras and illumination (R3)
+O3887;F;;Pantograph-catenary state detection with runtime reliability monitoring of DNN decisions (R2)
+O3888;X;TA05;Hybrid CNN-KNN 3D printing defect identification; accuracy-oriented
+O3889;X;TA05;Cross-domain image analysis for EUV via defect quantification; metrology, no reliability evaluation
+O3890;X;TA01;Banking anomaly recognition
+O3891;X;TA05;Cross-modal UAV-ground fusion for road anomaly severity; fusion without reliability evaluation
+O3892;F;;Reliable continuous training for deep-learning inspection systems (R3/R8) (title only)
+O3893;F;;In-domain versus cross-domain transfer learning for concrete damage detection addressing generalisability (R3); verify
+O3894;X;TA01;Flooded region classification across geographies; not asset inspection
+O3895;X;TA01;Tea processing hyperspectral quality; not asset inspection (title only)
+O3896;F;;Attack-inspired calibration loss for calibrating crack recognition (R1)
+O3897;X;TA03;Microwave inverse-scattering data calibration
+O3898;X;TA01;Agri-food inspection pipeline efficiency
+O3899;X;TA05;TSN networking for visual quality control
+O3900;X;TA03;Camera calibration for PCB jet printing inspection

@@ -1,0 +1,50 @@
+O1601;F;;Vision-based ultrathin wafer detaping evaluation with domain adaptation for environmental variation (R3)
+O1602;F;;Sequential parameter-efficient domain adaptation of SAM for additive-manufacturing XCT defects across scan conditions (R3)
+O1603;F;;Active transfer learning with domain adaptation for substation fence corrosion segmentation (R3)
+O1604;X;TA05;Few-shot SMD assembly inspection dataset; annotation pipeline described but annotation reliability not evaluated
+O1605;F;;Large-scale bridge inspection photo multi-label classification addressing data representativeness (R8); verify evaluation
+O1606;B;;Review of UAV-based PV inspection covering generalisation, domain adaptation and RGB-thermal fusion; core-context (energy) review
+O1607;X;TA05;High-resolution teacher-student anomaly segmentation; accuracy-oriented
+O1608;F;;Reasoning-aware VLM for PV defect inspection linking visual evidence to diagnoses across EL, thermal and RGB (R7)
+O1609;F;;Zero-shot industrial defect detection with domain-adaptive priors and Bayesian inference under domain shift (R3/R1)
+O1610;F;;Unsupervised domain adaptation for concrete crack segmentation across materials and imaging conditions (R3)
+O1611;F;;Identifying novel defects (OOD) during AI visual quality inspection (R3)
+O1612;F;;OOD detection for wafer map defects with outlier exposure (R3)
+O1613;X;TA05;Zero-shot prompt-based anomaly detection; no reliability signalled (title only, note 2)
+O1614;F;;Physics-aware unsupervised cross-domain adaptation for underwater concrete crack imagery (R3); verify inspection task (title only)
+O1615;F;;Deep-learning steel microstructure grading with round-robin evidence of metallographer grading variability (R4)
+O1616;F;;Domain-generalised steel surface defect detection (R3) (title only)
+O1617;X;TA05;Zero-shot prompt-enhanced anomaly detection; no reliability signalled (title only, note 2)
+O1618;X;TA01;Medical-only unsupervised anomaly detection survey (note 7)
+O1619;F;;Cross-domain few-shot metal surface defect recognition (R3)
+O1620;B;;Review of infrared-thermography deep learning for PV fault detection; core-context (energy) review
+O1621;B;;Methodological bridge (maritime autonomy): VLM hazard detection with operational-design-domain departure detection, operator fallback and human override; transferable runtime-assurance design (R2/R5)
+O1622;X;TA05;Concept-based interpretable zero-shot AD; interpretability is not a reliability dimension (title only)
+O1623;X;TA05;Lightweight tunnel crack detection; accuracy and speed
+O1624;F;;Few-shot structural damage classification framed around generalisation to new structural and material types (R3); verify evaluation
+O1625;X;TA01;Outside asset-inspection context: marine plankton imagery
+O1626;F;;Meta-learning-guided industrial anomaly detection robust to label noise (R4)
+O1627;X;TA05;One-class classifier transformation for unsupervised AD; no reliability signalled (title only)
+O1628;X;TA05;Feature-reconstruction industrial AD; accuracy-oriented
+O1629;F;;Noisy-label correction for X-ray tire defect detection motivated by inter/intra-observer variability (R4)
+O1630;X;TA01;Vehicle insurance damage assessment; not industrial asset inspection
+O1631;F;;Self-evolving PV EL defect detection under continual data shift from evolving inspection and labelling (R3/R4)
+O1632;X;TA02;Wind turbine drivetrain diagnosis from tower vibrations encoded as images; non-optical signal representation
+O1633;F;;Data augmentation studied against sparsity, imbalance and data shift in manufacturing defect detection (R3); verify shift evaluation
+O1634;X;TA01;Outside asset-inspection context: seed quality review
+O1635;F;;Steel microstructure grading with round-robin grader variability (R4); preprint of O1615 (note 6)
+O1636;B;;Synthesis of deep-learning autonomous infrastructure inspection across assets; core-context review
+O1637;X;TA05;Zero-shot CLIP AD; natural-to-industrial pretraining gap only motivational (consistent with O1517)
+O1638;B;;Survey of industrial anomaly detection from normal-only training to foundation-model priors; core-context review
+O1639;X;TA05;Post-hoc false-alarm filtering for unsupervised AD; precision improvement without reliability evaluation
+O1640;X;TA01;Medical-only mandibular CT segmentation review
+O1641;F;;Cross-dataset zero-shot texture anomaly segmentation framed as generalisation to unseen domains (R3)
+O1642;F;;PCBA defect classification with OOD detection of new defect categories (R3)
+O1643;X;TA02;Power-plant thermal system fault diagnosis from 1D process signals; non-visual
+O1644;X;TA05;Multi-scenario foundation-model defect detection; no reliability signalled (title only)
+O1645;X;TA02;Review of self-supervised cross-condition industrial fault diagnosis; non-visual signals
+O1646;F;;Virtual-real cooperative diffusion for robust PCB defect classification (R3 sim-to-real); verify (title only, note 4)
+O1647;X;TA01;Generic vision foundation model deployment chapter; no industrial inspection context
+O1648;X;TA05;Semi-supervised magnetic tile defect classification; no reliability signalled (title only)
+O1649;X;TA03;Hyperspectral image denoising; no inspection task
+O1650;X;TA05;Zero-shot texture anomaly detection; no shift framing (note 2)

@@ -1,0 +1,50 @@
+O0551;X;TA01;Seismic fault imaging calibration for geoscience; not asset inspection (methodologically relevant but outside context)
+O0552;B;;Special section editorial on inspection uncertainties in SHM; framing background
+O0553;F;;Bayesian self-rectifying crack segmentation handling label uncertainty (false-positive labels) for robotic inspection (R4/R1)
+O0554;X;TA05;Vision vibration measurement on bridges (title only)
+O0555;X;TA02;Turbine rotor digital twin with D-S multisensor fusion; non-image
+O0556;X;TA01;General corner-case VLM curation
+O0557;X;TA05;UAV Mask R-CNN road crack system; accuracy
+O0558;X;TA03;Proceedings volume (title only)
+O0559;X;TA03;Nuclear safety AI review (CFD/PSA); not image inspection
+O0560;X;TA05;Infrared arrester heating defect detection; reduces manual reading uncertainty but no reliability evaluation
+O0561;X;TA02;Composite damage prediction framework (title only)
+O0562;X;TA01;Glacier terminus remote sensing
+O0563;X;TA02;EV battery fault prognosis (title only)
+O0564;X;TA02;Ultrasonic ToF weld microstructure inversion; non-optical
+O0565;X;TA02;Vibration-based nuclear piping monitoring
+O0566;X;TA01;Highway traffic anomaly detection
+O0567;X;TA03;Evolutionary image processing book
+O0568;X;TA02;Electromagnetic casing inspection with ensemble Kalman filter; non-image
+O0569;X;TA02;Scour damage functions (title only)
+O0570;X;TA02;MFL casing corrosion detection; non-optical
+O0571;X;TA01;Materials texture informatics
+O0572;X;TA05;Fuzzy neural network road/bridge surface diseases; generic fuzziness, no reliability evaluation
+O0573;X;TA05;AM layerwise surface measurement (title only)
+O0574;F;;Bayesian/frequentist analysis of false positives, false negatives and base-rate bias in image-based SHM with human-in-the-loop strategies (R8/R5)
+O0575;X;TA02;Aero-engine rub-impact domain generalisation on vibration data with label-noise aggregation; non-image
+O0576;X;TA02;3D IC thermal interface characterisation (title only)
+O0577;X;TA01;Healthcare IT AI
+O0578;B;;Review of AI-driven NDI across UT, RT, IRT and vision incl. domain generalisation and reliability; core-context review
+O0579;X;TA05;Ensemble transfer learning railway track faults; accuracy
+O0580;X;TA03;AI in electrical engineering overview
+O0581;X;TA03;Construction risk DSS concept
+O0582;X;TA05;Multi-sensor (incl. RGB/thermal) Dempster-Shafer fire detection; safety detection not asset defect inspection
+O0583;X;TA03;Robotic contact measurement filter; not visual inspection
+O0584;X;TA05;Machining tool identification from point clouds; not defect reliability
+O0585;X;TA02;River temperature forecasting
+O0586;X;TA03;Mineral exploration ML review (title only)
+O0587;X;TA03;AM composite property uncertainty calibration from DIC; not inspection
+O0588;X;TA02;Synthetic modal frequencies for bridge damage; non-image
+O0589;X;TA01;Generic fuzzy level-set segmentation (medical/natural)
+O0590;X;TA03;AI in heat and mass transfer chapter (title only)
+O0591;X;TA05;Punch wear estimation from images; not defect inspection reliability
+O0592;X;TA05;IR thermography concrete strength probabilistic assessment; sensitivity analysis on mask contamination (borderline, not defect inspection)
+O0593;X;TA03;Enterprise BPM AI
+O0594;X;TA02;Version of O0568
+O0595;F;;Bayesian KAN for PV defect detection (R1 Bayesian uncertainty) (title only)
+O0596;F;;Bridge damage-level classification weighting attention-map confidence with image-text multimodal input (R1/R7)
+O0597;B;;Special issue editorial on UQ and management for AM quality control and certification; framing background
+O0598;X;TA05;RetinaNet X-ray turbine blade drilling defects; accuracy
+O0599;X;TA01;Aircraft navigation integrity
+O0600;X;TA02;Power converter fault diagnosis; non-image

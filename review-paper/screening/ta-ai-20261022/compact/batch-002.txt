@@ -1,0 +1,60 @@
+C0063;X;TA03;CFD verification/validation/UQ procedures; no AI visual inspection task
+C0064;F;;Active learning with uncertainty sampling and expert annotation workflow for industrial defect detection (R1/R4/R5)
+C0065;B;;Broad review of automated visual surface defect detection for metal products; core-context background
+C0066;X;TA03;Stochastic Galerkin UQ numerical method; no inspection task
+C0067;X;TA03;Rule-based digital image processing for tiling inspection; no learned AI component (title only)
+C0068;X;TA03;Industrial UQ in simulation; no inspection task
+C0069;X;TA01;Monocular 3D object detection with UQ; no industrial inspection context (title only)
+C0070;F;;Mask-grounded visual question answering for industrial surface inspection (R7 grounding) (title only)
+C0071;X;TA03;Turbomachinery simulation UQ; no AI inspection task
+C0072;F;;Same-title version of C0070; mask-grounded VQA for surface inspection (R7)
+C0073;F;;Vision transformers with conformal calibration for industrial anomaly detection (R1/R2) (title only)
+C0074;X;TA01;Healthcare data subgroup anomaly detection
+C0075;X;TA01;Detector calibration for autonomous driving; not industrial inspection
+C0076;B;;Adjacent non-visual: calibration-aware industrial time-series anomaly detection; transferable score-calibration method (note 5)
+C0077;X;TA02;UAV flight anomaly detection false-alarm calibration; telemetry, not image inspection (title only)
+C0078;F;;Confidence-aware VAE-GAN anomaly detection (R1); context and modality unknown, verify at full text
+C0079;X;TA02;UAV anomaly detection under contamination; telemetry, not image inspection (title only)
+C0080;X;TA05;Training-free coreset IAD; accuracy/memory on MVTec AD
+C0081;F;;Coverage-aware score calibration for 3D industrial anomaly localisation (R1) (title only)
+C0082;X;TA03;Encrypted network traffic anomaly detection
+C0083;X;TA03;CAN bus traffic intrusion detection
+C0084;X;TA02;Same-title version of C0079; UAV telemetry anomaly detection
+C0085;X;TA02;Industrial process predictive monitoring; no image evidence signalled (title only)
+C0086;X;TA01;Weakly supervised video anomaly detection (surveillance)
+C0087;X;TA05;YOLO variant for PCB defect detection; accuracy/speed
+C0088;X;TA02;Industrial IoT multivariate time-series anomaly detection; no image evidence; adjacent rule not met
+C0089;X;TA05;Pseudo-anomaly learning IAD; accuracy-oriented (title only)
+C0090;X;TA03;ICS attack modelling and detection; security task
+C0091;X;TA02;Multivariate Gaussian sensor anomaly detection; no image evidence
+C0092;X;TA01;Weakly supervised video anomaly detection (surveillance)
+C0093;X;TA04;Bibliography front/back matter; not a research report
+C0094;X;TA02;Gaussian sensor anomaly detection; no image evidence
+C0095;B;;Adjacent non-visual: conformal deep autoencoder for trustworthy ICS anomaly detection; transferable conformal method (note 5) (title only)
+C0096;X;TA03;Graph anomaly detection for security with conformal risk control; not inspection
+C0097;X;TA03;ICS anomaly/intrusion detection on edge devices; security task
+C0098;F;;Online conformal risk control for streaming detection under frame skipping and drift (R2/R3); visual context to verify (title only)
+C0099;X;TA03;Generic anomaly detection chapter; no inspection context
+C0100;X;TA03;ICS (SWaT) cyber-physical anomaly detection; security, no images
+C0101;X;TA02;Time-series anomaly detection for servers/ICS; no image evidence
+C0102;X;TA03;Comparison of ICS attack-detection methods; security task, no images
+C0103;F;;Iterative removal of misleading training data for robust IAD under noisy data (R4) on KSDD2/MVTec AD
+C0104;X;TA01;Generic distributed conformal anomaly detection; no industrial inspection or condition-monitoring context
+C0105;X;TA03;Federated learning for ICS/SCADA security
+C0106;X;TA03;PLC program instrumentation for ICS anomaly detection
+C0107;X;TA03;ICS network intrusion detection (SWaT)
+C0108;B;;Adjacent non-visual: conformal ML for reliable anomaly detection in industrial cyber-physical systems; transferable conformal guarantees (note 5) (title only)
+C0109;X;TA03;ICS sensor anomaly/attack detection; no images
+C0110;X;TA03;ICS spatio-temporal autoencoder; security, no images
+C0111;X;TA03;Invariant-rule ICS attack detection
+C0112;X;TA03;Incremental learning for ICS anomaly detection; security, no images
+C0113;B;;Adjacent non-visual: conformal anomaly detection for industrial fleet condition monitoring (district heating); transferable conformal method (note 5)
+C0114;X;TA03;ICS time-series anomaly detection (SWaT/WADI)
+C0115;X;TA03;Privacy-preserving collaborative ICS threat detection
+C0116;X;TA05;Prototype/anomaly-generation IAD; accuracy-oriented (title only)
+C0117;X;TA05;CNN/SSD corrosion detection on ship images; accuracy comparison
+C0118;X;TA05;Classical vs deep corrosion detection accuracy comparison
+C0119;X;TA05;YOLO comparison for road damage; accuracy/speed
+C0120;X;TA05;Deep learning corrosion detection; accuracy-oriented (title only)
+C0121;X;TA03;Generic object detection chapter; no inspection context
+C0122;X;TA04;Database entry; not a research report

@@ -1,0 +1,50 @@
+O0651;X;TA03;Molten-pool process modelling; not inspection reliability
+O0652;X;TA01;InSAR bridge deformation review (radar remote sensing)
+O0653;X;TA01;Medical retinopathy
+O0654;X;TA05;YOLOv8 ceramic product classification; accuracy
+O0655;B;;Conceptual framework for robotic infrastructure inspection with asset-specific adaptation and safety assurance; framing background
+O0656;X;TA01;Geophysics ML editorial
+O0657;X;TA02;Localised SHM dissertation (strain/hybrid); non-visual focus
+O0658;F;;Vision-based uncertainty quantification feeding an RL controller for extrusion AM quality assurance (R1)
+O0659;X;TA01;Human movement analysis
+O0660;X;TA01;MRI reconstruction editorial
+O0661;X;TA02;Eddy-current neuro-fuzzy transmission tower defects; non-optical
+O0662;X;TA01;Robot perception in the wild thesis (driving/forestry)
+O0663;X;TA01;Subsurface geological diagnosis
+O0664;X;TA03;AM material property UQ from DIC
+O0665;X;TA01;Analytical chemistry AI review
+O0666;X;TA05;Thermal-aware scheduling for DNN defect detection; computing reliability not inspection reliability
+O0667;X;TA05;Active learning for PCB damage labelling (note 8)
+O0668;X;TA01;Ophthalmology editorial
+O0669;X;TA02;Mine thermal hazard model (title only)
+O0670;X;TA05;Annotation-efficient defect segmentation (title only)
+O0671;X;TA05;AM powder morphology tracking (title only)
+O0672;X;TA05;Version of O0670
+O0673;X;TA03;Chipless RFID detection
+O0674;X;TA01;Mobility scooter obstacle detection
+O0675;X;TA01;Seismic surface waves
+O0676;X;TA01;Ophthalmology editorial
+O0677;X;TA03;Least-squares deep learning review
+O0678;X;TA03;Bridge fatigue fracture-mechanics framework
+O0679;X;TA05;Stereo reconstruction with learned per-pixel uncertainty guiding search for inspection imaging; reconstruction not defect reliability (note 8)
+O0680;F;;Risk-aware segmentation refinement with gating and hybrid audit accepting, rejecting or escalating refinements in electronic inspection (R2/R5)
+O0681;X;TA05;LPBF thermal-imaging anomaly detection thesis; UQ applies to simulation models
+O0682;X;TA03;Dual-use production optimisation
+O0683;X;TA03;Concrete material design ML
+O0684;B;;Special section on human-AI partnership in next-generation factories incl. inspection; framing background (R5)
+O0685;X;TA05;Fuzzy-CNN simulated drone pipeline crack detection; accuracy
+O0686;X;TA01;Trajectory anomaly detection
+O0687;X;TA01;Healthcare IT AI
+O0688;X;TA02;Guided-wave rod stress identification
+O0689;X;TA03;Overlay metrology ML
+O0690;X;TA03;Review of ML in SPC broadly
+O0691;X;TA03;Concrete strength prediction
+O0692;X;TA03;Overlay metrology ML
+O0693;X;TA03;Thermoelectric materials (title only)
+O0694;X;TA03;Atomistic ML review
+O0695;X;TA01;Food supply-chain AI review
+O0696;X;TA01;Microplastic spectroscopy
+O0697;X;TA03;Civil engineering education AI
+O0698;X;TA01;Ophthalmology scoping review
+O0699;X;TA01;Spacecraft pose estimation
+O0700;B;;Methodological bridge (medical imaging): uncertainty maps and image-level failure prediction for referral to human inspection (R1/R5)

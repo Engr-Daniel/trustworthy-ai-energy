@@ -1,0 +1,40 @@
+O0021;F;;UAV corrosion grading of rail bridges with re-inspection triggering and acknowledged missing adjudication of negatives (R5/R8)
+O0022;X;TA05;Thermal insulator fault SVM classification; accuracy only
+O0023;F;;Bayesian Proto-MAML with predictive-distribution uncertainty-aware anomaly scoring (R1)
+O0024;X;TA05;Detection confidence/position-quality module for transmission-line defects; calibration not measured (note 9)
+O0025;X;TA05;MC-dropout active learning for steel defect labelling efficiency with simulated verification; uncertainty not evaluated as output (note 8)
+O0026;X;TA05;Transmission-line defect recognition by edge matching; accuracy (title only)
+O0027;X;TA05;Aircraft damage CNN with limited/imbalanced data; recall-focused accuracy only
+O0028;X;TA05;GAN-based steel plate defect recognition (title only)
+O0029;F;;Probabilistic deep learning for concrete surface damage identification (R1) (title only)
+O0030;B;;Review of gear defect vision recommending FP/FN and stability-under-change evaluation; evaluation-gap review (R8)
+O0031;X;TA03;Rule-based Hough/edge thermocouple joint inspection; no learned AI
+O0032;F;;Segmentation inspection with boundary-aware evaluation accounting for annotation uncertainty (R4/R8)
+O0033;F;;Vision-foundation-model defect inspection handling domain shifts with uncertainty-calibrated decisions (R1/R3)
+O0034;X;TA01;Agricultural pear grading; not industrial asset inspection
+O0035;X;TA05;LPBF thermal-imaging defect prediction; no reliability dimension signalled (title only)
+O0036;X;TA05;Fuzzy CNN validated on MNIST/ELPV; efficiency only
+O0037;X;TA05;Crack segmentation with heterogeneous image fusion; accuracy (title only)
+O0038;X;TA05;Uncertainty sampling for active-learning weld defect detection; labelling efficiency only (note 8)
+O0039;B;;Adjacent non-visual: uncertainty-informed anomaly scores for wind-turbine fault detection under OOD regimes (energy asset, R1/R3)
+O0040;X;TA05;Ensemble DNN for PV visual faults; accuracy only
+O0041;F;;Uncertainty quantification for image-based crack segmentation (R1) (title only)
+O0042;F;;Measurement uncertainty and traceability of CNN machine-vision defect measurements (R1)
+O0043;X;TA05;Two-stage diffusion IAD (title only)
+O0044;F;;Confidence sieve learning for surface defect detection under process/label uncertainty (R4) (title only)
+O0045;F;;Conformal anomaly detection across NDT modalities to quantify decision uncertainty (R1/R2) (title only)
+O0046;X;TA02;Rail-car sensor measurements anomaly detection; no image evidence, no transferable reliability method
+O0047;X;TA03;Rule-based rivet image processing
+O0048;F;;Zero-shot IAD with prompt uncertainty and manual-review decision outputs (R2/R5)
+O0049;X;TA02;Power-plant operating-data anomaly detection; no image evidence
+O0050;F;;Dempster-Shafer evidential fusion of CNNs accounting for uncertainty in PV visual faults (R1)
+O0051;F;;Conformal risk control for industrial surface defect segmentation with guarantees (R2)
+O0052;X;TA05;YOLO small defects in PV infrared images; accuracy (title only)
+O0053;F;;Quantifying uncertainty in quality standards for needle tip inspection using synthetic images (R4/R8)
+O0054;X;TA05;Image-point cloud bridge defect localisation; accuracy (title only)
+O0055;X;TA05;ViT weld defect classification; accuracy
+O0056;F;;PV defect analysis with Monte Carlo dropout uncertainty and confidence prediction (R1)
+O0057;X;TA05;Uncertainty-gated prompt adapter used internally for few-shot accuracy; uncertainty not evaluated (note 8)
+O0058;X;TA05;Bayesian module used internally to improve anomaly restoration accuracy; uncertainty not evaluated as output (note 8)
+O0059;X;TA05;Vague image-processing fault detection system; no reliability evaluation
+O0060;B;;Adjacent: SNGP uncertainty and OOD detection for wire-rope MFL signals encoded as images; transferable UQ method, not optical imaging

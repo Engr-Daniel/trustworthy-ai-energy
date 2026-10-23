@@ -1,0 +1,50 @@
+O3151;X;TA05;Concrete construction monitoring review (title only)
+O3152;X;TA05;Review of grid-connected PV faults and predictive maintenance; not visual-inspection focused
+O3153;X;TA03;CFRP micromechanics deep learning review
+O3154;X;TA03;Robust B-spline tunnel lining modelling; no learned inspection model
+O3155;X;TA01;Astronomical spectra quality assessment
+O3156;X;TA04;Editorial (systems pharmacology)
+O3157;X;TA05;Systematic review of AI for automotive quality management; not visual-inspection reliability focused
+O3158;X;TA03;Medium entropy alloy AM review
+O3159;B;;Review of automatic optical inspection in electronics; core-context review
+O3160;X;TA02;Systematic review of AI predictive maintenance from sensor data; non-visual
+O3161;X;TA01;Fetal anomaly meta-analysis
+O3162;X;TA02;Pipeline MFL inspection review; non-visual (title only)
+O3163;X;TA02;Predictive maintenance review; preprint of O3160 (note 13)
+O3164;B;;Review of machine-vision device fault diagnosis with transformers; core-context review
+O3165;X;TA05;AI and SHM review (title only)
+O3166;B;;Review of UAV 3D measurement for crack monitoring of quasi-brittle structures; core-context review
+O3167;B;;Review of machine-vision asphalt crack detection; core-context review
+O3168;B;;Review of bolted-connection state detection on transmission towers incl. machine vision; core-context (energy) review
+O3169;X;TA04;Book review
+O3170;X;TA02;MEMS accelerometer review; non-visual
+O3171;X;TA02;Nuclear reactor cooling predictive maintenance review; non-visual
+O3172;X;TA01;Part-feeding survey (1991, title only)
+O3173;B;;Review of infrared and voiceprint fault detection for power equipment; core-context (energy) review
+O3174;X;TA05;Automated railway condition survey preliminary study; no reliability evaluation
+O3175;X;TA03;Sensor-based railway track fault detection systems review
+O3176;X;TA01;Skin cancer detection survey
+O3177;X;TA03;Composite battery pack manufacturing review
+O3178;B;;Review of multimodal fusion fault detection in PV systems; core-context (energy) review (R6 relevant)
+O3179;X;TA01;Generic object detection review
+O3180;X;TA01;Suspicious movement detection review (title only)
+O3181;X;TA01;Traffic pattern recognition review
+O3182;X;TA01;FPS game cheating detection survey
+O3183;X;TA05;AI conveyor belt monitoring review; not visual-inspection reliability focused
+O3184;X;TA01;Temporal image forensics
+O3185;X;TA01;Agricultural product components review
+O3186;X;TA01;NIR spectroscopy food review
+O3187;B;;Critical review of condition monitoring in AM incl. optical and thermal in-situ monitoring; core-context review
+O3188;X;TA03;Electrical steel coatings review
+O3189;X;TA03;Substation environmental control review
+O3190;X;TA01;Generic digital image processing review
+O3191;X;TA01;Violence detection review (title only)
+O3192;X;TA05;Critical review of c-Si PV degradation and fault mechanisms; not AI-inspection focused
+O3193;X;TA01;Fish quality imaging review
+O3194;X;TA01;Task scheduling survey (title only)
+O3195;X;TA05;AI quality control in EV production review (title only)
+O3196;B;;Review of UAV pipeline and corridor monitoring; core-context (energy) review
+O3197;X;TA05;Systematic review of AI for Quality 4.0; not visual-inspection focused
+O3198;X;TA03;1988 infrared transmission-line survey; no learned model
+O3199;X;TA05;Systematic review of illumination adaptation for robotic sorting; not inspection reliability
+O3200;X;TA01;Traffic surveillance vision survey

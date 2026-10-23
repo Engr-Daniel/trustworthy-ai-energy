@@ -1,0 +1,50 @@
+O3351;X;TA03;EV battery safety review
+O3352;X;TA03;EV cooling technologies review
+O3353;X;TA03;LPBF Inconel meltpool review
+O3354;X;TA02;Battery storage HIL modelling review
+O3355;X;TA03;Water jet machining review
+O3356;X;TA05;AI for ocean CCUS monitoring review
+O3357;X;TA02;Embedded sensors for composite SHM review
+O3358;F;;Annotation system combining active semi-supervised learning, calibration and selective human review for inspection perception (R1/R4/R5); verify industrial evaluation
+O3359;X;TA03;Hydrogen storage modelling review
+O3360;X;TA01;Peptide drug delivery review (title only)
+O3361;X;TA01;Orthopaedic implants review
+O3362;X;TA03;Laser beam oscillation review
+O3363;X;TA01;Stroke detection AI review
+O3364;X;TA03;Gas separation membranes review (title only)
+O3365;X;TA01;Adversarial attacks on autonomous driving review (title only)
+O3366;X;TA01;One-class classification variable selection review
+O3367;X;TA02;Traction inverter review
+O3368;X;TA03;Alloy coatings review
+O3369;X;TA04;Annual review overview (1998)
+O3370;X;TA02;Battery management review
+O3371;X;TA03;High entropy alloys review
+O3372;X;TA01;Surgery peer review commentary
+O3373;X;TA01;Integrated pest management review
+O3374;F;;Domain-adaptation YOLOv5 for industrial defect inspection (R3) (title only, note 4)
+O3375;F;;Trustworthy surface defect detection learned from noisy labels via rough sets (R4) (title only)
+O3376;F;;Domain adaptation for semiconductor defect image classification (R3); same-title record of O1463 (note 6)
+O3377;X;TA03;Corrosion uncertainty modelling for steel structures (1999); no learned inspection model (title only)
+O3378;B;;Survey of automation-enabled human-in-the-loop systems for infrastructure visual inspection (2018); R5 core-context review (title only)
+O3379;X;TA03;Pipeline reliability under corrosion uncertainty; no learned inspection model (title only)
+O3380;X;TA03;Inspection sizing uncertainty in pipeline corrosion growth; no learned visual model (title only)
+O3381;F;;Trustworthy and reproducible benchmarking for industrial anomaly detection (R8); record is software, verify linked report (title only)
+O3382;X;TA03;Chloride corrosion uncertainty modelling for bridges; no learned inspection model (title only)
+O3383;X;TA03;XFEM crack growth uncertainty in welded joints; no learned inspection model (title only)
+O3384;F;;Multi-architecture ensemble with confidence calibration bridging PCB defect detection domain gap (R1/R3) (title only)
+O3385;F;;Rail surface defect detection with cross-modal prediction uncertainty from image-point cloud fusion (R1/R6) (title only)
+O3386;X;TA03;Risk-informed pipeline maintenance with epistemic corrosion uncertainty; no learned visual model (title only)
+O3387;F;;Monocular-depth-guided open-set surface defect segmentation (R3 open-set) (title only)
+O3388;X;TA02;Wind turbine blade icing prediction from SCADA with selective ensembles; non-visual (title only)
+O3389;F;;Wind turbine anomaly detection frameworks with uncertainty (R1); modality to verify (title only, note 4)
+O3390;X;TA02;Wind turbine gearbox diagnosis under noisy labels; non-visual (title only, consistent with O1992)
+O3391;F;;Deep-learning image processing for trustworthy equipment fault diagnostics (R1/R5); verify (title only, note 4)
+O3392;X;TA05;XAI-based evaluation of CNN infrastructure defect detection; explainability only (title only)
+O3393;F;;Source-free test-time adaptation for online surface defect detection (R3) (title only)
+O3394;F;;Cross-supervised contrastive domain adaptation for steel defect segmentation (R3) (title only)
+O3395;F;;Transferable visual pattern memory for domain adaptation in anomaly detection (R3) (title only)
+O3396;X;TA05;Holographic HMI for anomaly detection (title only)
+O3397;X;TA01;Disaster damage image domain adaptation; not asset inspection (title only)
+O3398;F;;Semi-supervised domain generalisation for pipeline corrosion leakage risk (R3); modality to verify (title only, note 4)
+O3399;X;TA02;Probabilistic offshore wind turbine fatigue crack propagation prediction; non-visual (title only)
+O3400;X;TA02;Wind turbine gearbox fault detection under distribution shift; non-visual signals (title only)

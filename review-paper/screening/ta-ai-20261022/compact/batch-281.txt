@@ -1,0 +1,50 @@
+O4301;F;;Open-set supervised anomaly detection for seen and unseen anomaly classes in industrial inspection (R3 open-set)
+O4302;X;TA01;Generic open-set recognition prototypes (title only)
+O4303;F;;Risk-calibrated task-aware evidence gating for reliable industrial VQA (R1/R2/R7) (title only)
+O4304;F;;Domain adaptation for 3D industrial object detection from synthetic to real (R3)
+O4305;B;;MVTec AD dataset; foundational industrial anomaly detection benchmark background (R8 context)
+O4306;X;TA01;Generic pixel-level OOD detection (title only)
+O4307;B;;Adjacent non-visual: coalitional Bayesian autoencoders with epistemic uncertainty for condition monitoring under covariate shift (R1/R3, note 14)
+O4308;X;TA05;Adversarially learned noise corruption for AE anomaly detection; representation training, not reliability evaluation
+O4309;X;TA01;Medical-only OOD benchmark (note 7)
+O4310;B;;Methodological bridge: calibrated ensemble uncertainty for anomaly alert prioritisation and human review; transferable triage design (R1/R5)
+O4311;X;TA05;Diffusion reconstruction calibration for multi-class AD; reconstruction artefacts, not output grounding (title only)
+O4312;X;TA01;Handwritten text recognition generalisation
+O4313;X;TA01;Medical-only OOD detection (title only)
+O4314;B;;Generalised OOD detection decision rule with false-discovery guarantees; foundational selective-decision method (R2/R3)
+O4315;X;TA01;Generic unsupervised OOD data invariants (title only)
+O4316;X;TA01;Generic subspace OOD and anomaly detection method
+O4317;X;TA01;Generic open-set recognition method
+O4318;F;;Distribution prototype diffusion learning for open-set supervised anomaly detection (R3 open-set)
+O4319;F;;Memory-guided few-shot anomaly detection with domain adaptation (R3) (title only)
+O4320;F;;Real-IAD multi-view dataset addressing benchmark saturation and real-application gap (R8)
+O4321;X;TA01;Generic structural hallucination in image translation (title only)
+O4322;X;TA05;Unsupervised AD for real-world cable inspection (title only)
+O4323;X;TA01;Generic class and instance uncertainty for OOD detection
+O4324;X;TA05;Composite anomaly score for imbalanced industrial data (title only)
+O4325;F;;Few-shot meta-learning for cross-domain visual inspection (R3)
+O4326;X;TA02;Realistic Li-ion battery fault detection from operational data; non-visual
+O4327;F;;Diverse anomaly feature distributions for open-set supervised AD (R3 open-set) (title only)
+O4328;X;TA05;Human-in-the-loop image annotation tool (title only)
+O4329;B;;Methodological bridge (logistics vision): cost-aware selective classification for parcel damage detection; transferable selective-prediction design (R2) (title only)
+O4330;X;TA05;RealNet synthetic anomaly feature selection; accuracy-oriented
+O4331;F;;Real-world 6D-pose industrial anomaly detection dataset addressing pose-invariant benchmark limits (R8/R3); verify
+O4332;F;;Manifold-informed meta-learning for OOD detection and classification in small industrial datasets (R3)
+O4333;X;TA01;Agricultural peanut anomaly dataset; not asset inspection
+O4334;X;TA05;Photometric stereo anomaly dataset; multi-lighting input, not shift evaluation
+O4335;F;;Distribution-aligned score fusion for industrial anomaly detection under domain shift (R3)
+O4336;X;TA05;Transformer furniture surface defect detection (title only)
+O4337;F;;Multi-scale fusion for cross-domain anomaly detection (R3) (title only)
+O4338;F;;Unified adversarial alignment for unsupervised cross-domain industrial anomaly detection (R3) (title only)
+O4339;F;;Reliable anomaly detection and localisation bridging research and real factory deployment (R8); verify
+O4340;F;;Benchmarking framework for anomaly localisation toward real-world AVI deployment (R8) (title only)
+O4341;X;TA01;Generic continual learning data collection
+O4342;X;TA05;Multi-category industrial AD dataset with unified CLIP framework; no reliability framing
+O4343;F;;Domain robustness of contrastive vision-language models (R3); context to verify (title only, note 4)
+O4344;F;;Open-set industrial surface defect recognition for unknown classes (R3 open-set)
+O4345;F;;Cross-domain few-shot defect segmentation for robotic inspection (R3) (title only)
+O4346;F;;Real-IAD D3 multimodal dataset addressing gap to real industrial environments (R8)
+O4347;X;TA05;Reliable distillation for AD; data shift refers to teacher-target statistics, not deployment shift
+O4348;X;TA01;CCTV abandoned object detection
+O4349;F;;Benchmark of self-supervised and pretrained AD methods for real-world industrial applications (R8)
+O4350;F;;Domain-specific robustness evaluation of VLMs (R3); context to verify (title only, note 4)

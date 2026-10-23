@@ -1,0 +1,50 @@
+O2951;B;;Review of deep learning in automated power line inspection; core-context (energy) review
+O2952;B;;Review of autonomous vision-based power line inspection and deep learning (2018); core-context (energy) review (title only)
+O2953;B;;Review of computer vision for civil infrastructure SHM; core-context review (title only)
+O2954;B;;In-depth review of deep learning for power line component detection and fault diagnosis; core-context (energy) review (title only)
+O2955;B;;Review of deep-learning chip surface defect inspection; core-context review
+O2956;B;;Review of deep learning for metal surface defect detection; core-context review
+O2957;X;TA05;Review of computer vision for concrete property assessment; materials characterisation, not reliability
+O2958;B;;Systematic review of AI for 3D-imaging pavement damage detection; core-context review
+O2959;B;;Review of vision-based pothole detection; core-context review
+O2960;X;TA01;Generic deep-learning computer vision review
+O2961;B;;Review of aerial infrared thermography for PV plant inspection; core-context (energy) review
+O2962;X;TA02;Review of few-shot vibration fault diagnosis; non-visual
+O2963;B;;Survey of RGB, 3D and multimodal unsupervised industrial anomaly detection; core-context review (title only)
+O2964;B;;Review of deep learning for concrete crack detection and measurement; core-context review
+O2965;B;;Comparative review of deep-learning detection and segmentation for metal surface defects; core-context review
+O2966;B;;Survey of multimodal computer-vision corrosion assessment; core-context review
+O2967;B;;Review of offshore wind turbine blade SHM incl. surface defect detection; core-context (energy) review
+O2968;B;;Review of UAV thermal imaging and deep learning for PV plant anomaly detection; core-context (energy) review (title only)
+O2969;B;;Survey of foundation-model-based industrial defect detection; core-context review
+O2970;B;;Survey of concrete surface crack detection methods; core-context review
+O2971;B;;Brief review of image-based ML textile defect detection; core-context review
+O2972;B;;Review of computer-vision damage detection in steel structures; core-context review
+O2973;B;;Review of road damage detection and severity recognition; core-context review
+O2974;B;;Review of deep learning PV module defect detection; core-context (energy) review
+O2975;X;TA01;Generic ML computer vision review
+O2976;B;;Review of machine-vision surface defect detection; core-context review
+O2977;B;;Systematic review of deep learning concrete crack detection incl. field-deployment limits; core-context review
+O2978;B;;Critical survey of ML vision inspection in semiconductors assessing strength of evidence for reported accuracy; core-context review (R8 relevant)
+O2979;B;;Review of image-based crack detection; core-context review
+O2980;X;TA02;Systematic review of AM anomaly detection from non-visual signals
+O2981;B;;Practice review of AI computer-vision industrial quality inspection; core-context review
+O2982;B;;Review of defect detection in aircraft materials with deep learning; core-context review
+O2983;B;;Systematic review of UAV-image ML insulator fault detection; core-context (energy) review
+O2984;X;TA02;Network anomaly detection review
+O2985;B;;Systematic review of PCB defect detection methods; core-context review
+O2986;B;;State-of-the-art review of AI visual inspection incl. benchmarks and challenges; core-context review
+O2987;B;;Review of deep learning for wafer defect detection; core-context review
+O2988;X;TA05;Deep transfer learning for industrial automation review; not visual-inspection reliability focused
+O2989;B;;Review of deep learning concrete crack inspection; core-context review
+O2990;B;;Review of open-access power line inspection image datasets; core-context (energy) dataset review (R8 relevant)
+O2991;B;;Review of object detection for automated solar panel inspection; core-context (energy) review
+O2992;B;;Survey of AI visual defect detection in automotive manufacturing; core-context review
+O2993;B;;Review of machine vision systems for industrial defect detection; core-context review
+O2994;X;TA02;Systematic review of ML mechanical fault diagnosis; non-visual
+O2995;B;;Review of machine-vision weld defect detection; core-context review (title only)
+O2996;X;TA01;Agricultural multispectral UAV dataset review
+O2997;B;;Comparative review of metal surface defect detection; conference version of O2965 (note 13)
+O2998;X;TA05;ML on depth maps and images for tunnel equipment surveying; no reliability evaluation
+O2999;B;;Review of automatic wooden surface defect detection; core-context review
+O3000;X;TA05;Narrow-technique review of autoencoder-clustering anomaly detection (note 3)

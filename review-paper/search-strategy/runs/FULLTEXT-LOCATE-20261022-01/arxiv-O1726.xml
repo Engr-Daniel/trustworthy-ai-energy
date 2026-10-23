@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/Ka4zU9CzqBk1FUCV4Yd2YL0i+Ew</id>
+  <title>arXiv Query: search_query=ti:"Semantic-Guided Robustness Tuning for Few-Shot Transfer Across Extreme Domain Shift"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:07:28Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Semantic-Guided+Robustness+Tuning+for+Few-Shot+Transfer+Across+Extreme+Domain+Shift%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>0</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+</feed>

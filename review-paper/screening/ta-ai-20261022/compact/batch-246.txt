@@ -1,0 +1,50 @@
+O2551;X;TA02;Slug detection from oil-well time series; non-visual
+O2552;F;;Human-centric MLOps blueprint with audit protocol and human-in-the-loop annotation for visual QC (R5/R8); verify evaluation
+O2553;X;TA01;Science communication commentary
+O2554;X;TA05;Explainable bolt-loosening detection; explainability only
+O2555;X;TA05;Explainable few-shot materials framework; preprint record (note 6)
+O2556;X;TA05;XAI for manufacturing monitoring; explainability only
+O2557;X;TA05;ResNet bead bubble defect detection (title only)
+O2558;X;TA05;Interpretable point-cloud segmentation for power equipment; interpretability only
+O2559;B;;Review of AI for safety inspection of chemical storage tanks incl. vision and NDT; core-context review
+O2560;B;;Review of ML for NDE data analysis; core-context review
+O2561;X;TA04;Editorial (human-robot collaboration)
+O2562;X;TA01;Government archive digitalisation (title only)
+O2563;X;TA02;Equipment monitoring dashboard from sensor streams; non-visual
+O2564;F;;Multimodal RAG LPBF anomaly detection; conference version of O2400 (note 13)
+O2565;B;;NDE 4.0 overview of inspection, data fusion and AI; core-context review (title only)
+O2566;X;TA01;Lithology recognition and trajectory analytics
+O2567;X;TA02;Compressor stall warning from CWT pressure images; non-optical
+O2568;X;TA01;Dental pulpotomy (title only)
+O2569;X;TA01;Mango quality XAI
+O2570;X;TA01;Industry 5.0 AI chapter
+O2571;X;TA01;Government archive digitalisation
+O2572;X;TA05;Overview of human-machine collaboration in semiconductor processes; no reliability evaluation
+O2573;X;TA01;Kaplan-Meier curve digitisation
+O2574;X;TA04;Conference call for papers
+O2575;X;TA05;Reconstruction-based anomaly detection dissertation for cyber-physical systems; modality and reliability evaluation unclear
+O2576;X;TA01;Fish quality XAI review
+O2577;X;TA01;Multi-robot perception and control
+O2578;X;TA01;Image manipulation localisation
+O2579;X;TA01;Socio-technical manufacturing essay
+O2580;X;TA05;Wire harness design review (title only)
+O2581;X;TA03;AR human-machine interfaces for SHM; no learned inspection model reliability
+O2582;X;TA01;Construction worker-safety robot inspection
+O2583;X;TA01;Non-clinical laboratory AI (title only)
+O2584;X;TA01;Art market anti-money laundering (title only)
+O2585;X;TA05;In-line code inspection on plastic containers (title only)
+O2586;X;TA02;Wind turbine insulated bearing diagnosis from multi-source data (title only)
+O2587;X;TA01;Fruit grading
+O2588;F;;Transfer-learning ensemble crack classification with multi-dataset validation (R3/R8); verify cross-dataset design
+O2589;X;TA05;AI defect detection for diamond growth modelling
+O2590;X;TA01;Hybrid control architecture human-machine cooperation (title only)
+O2591;X;TA01;Medical device cybersecurity
+O2592;X;TA01;Intelligent systems handbook (2003)
+O2593;X;TA01;Radiology report generation evaluation
+O2594;X;TA01;UAV object manipulation review (title only)
+O2595;X;TA05;Intelligent glasses for aviation maintenance QC; no AI reliability evaluation
+O2596;X;TA01;Chest X-ray report trustworthiness thesis
+O2597;X;TA01;Enterprise data leakage detection
+O2598;X;TA03;Non-scholarly transformer maintenance notes
+O2599;X;TA01;Intelligent systems handbook (2003)
+O2600;X;TA01;Clinical validation of generative AI therapeutics

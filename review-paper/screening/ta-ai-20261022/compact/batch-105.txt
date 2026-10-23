@@ -1,0 +1,40 @@
+O0181;X;TA05;General review of fuzzy logic in computer vision; not inspection-specific reliability evidence
+O0182;F;;Thesis on deep visual anomaly detection under training-data contamination and anomaly heterogeneity in industrial inspection (R4)
+O0183;F;;Probability-of-detection evaluation with uncertainty for AI crack detection in steel bridges compared with visual inspection (R8/R5)
+O0184;X;TA02;Spectroscopic (non-imaging) industrial analytics under drift; adjacent but spectra, not images
+O0185;X;TA02;PV electrical signals as time-frequency images; noise robustness on non-visual measurements
+O0186;X;TA05;Microstructure-to-property surrogate; not defect inspection reliability
+O0187;X;TA05;Lightweight flow-based IAD; accuracy/efficiency
+O0188;X;TA01;Neurosurgery AI review
+O0189;F;;Uncertainty-driven trustworthy defect detection in powder-bed images (R1) (title only)
+O0190;X;TA05;Zero-shot AD with entropy-guided routing; cross-dataset ZSAD without shift framing (note 2)
+O0191;X;TA05;Active learning with user input for solder AOI; labelling efficiency (note 8)
+O0192;X;TA05;YOLOv10 pipeline cracks; accuracy
+O0193;X;TA05;Drill-bit blade identification; not defect reliability
+O0194;X;TA05;YOLOv7 chip defects; accuracy
+O0195;F;;Rail joint insulator thickness regression with prediction uncertainty and "unable to determine" deferral to manual inspection; operational system (R1/R2/R5)
+O0196;X;TA05;Uncertainty-guided diffusion augmentation for small-sample defects (note 8) (title only)
+O0197;X;TA02;OOD detection benchmark for time-series; non-visual
+O0198;X;TA03;Melt-pool surrogate modelling; not inspection
+O0199;X;TA01;Agricultural plant disease with evidential calibration
+O0200;F;;Thesis on XCT probability of detection and measurement uncertainty incl. simulation-based POD (R1/R8); verify learned component
+O0201;X;TA05;Vague CV fault identification system
+O0202;X;TA03;Climate-driven corrosion risk mapping; not image inspection
+O0203;X;TA05;Federated PV fault detection; privacy/accuracy, no reliability dimension
+O0204;X;TA01;Cardiology anomaly detection
+O0205;X;TA05;AM property prediction from images (title only)
+O0206;X;TA03;Manufacturing website image labelling; not inspection
+O0207;X;TA02;Offshore wind SCADA early warning (title only)
+O0208;F;;ML for inspection process under label uncertainty (R4) (title only)
+O0209;F;;Fabric defect framework targeting low false alarms with mixed unlabeled data, lighting variation and contamination (R3/R4)
+O0210;X;TA03;Version of O0198
+O0211;X;TA05;1995 ANN for infrared thermography of composites (title only)
+O0212;F;;Bayesian segmentation with MC-dropout model uncertainty for catenary contact-wire support defects (R1)
+O0213;X;TA01;VLM confidence metrics for robotics/medical; no inspection context
+O0214;X;TA02;Strain-gauge sensor fault diagnosis; non-visual
+O0215;F;;Conformalised quantile regression uncertainty maps for SEM image prediction in semiconductor lithography (R1/R2); manufacturing context, inspection relevance to verify
+O0216;F;;Video WAAM monitoring with autoencoder and T2 control chart giving quality index with quantified uncertainty (R1)
+O0217;B;;Review of ML concrete crack detection noting UQ needs; core-context review
+O0218;X;TA05;Gaussian box uncertainty used internally to refine insulator detection (notes 8/9)
+O0219;B;;Methodological bridge (aviation perception): calibrated predictive uncertainty with integrity monitoring to reject faulty vision outputs; transferable runtime-assurance design (R1/R2)
+O0220;X;TA05;Infrared thermography investigation for concrete decks; no learned reliability component signalled

@@ -1,0 +1,50 @@
+O1301;X;TA03;Navigation road-state architecture; no image-based inspection task with reliability evaluation
+O1302;X;TA01;Outside asset-inspection context: atomic layer deposition monograph
+O1303;X;TA01;Outside asset-inspection context: history of economic thought
+O1304;X;TA01;Outside asset-inspection context: microarray bioinformatics
+O1305;X;TA01;Outside asset-inspection context: first-principles materials databases for Mars
+O1306;X;TA01;Outside asset-inspection context by title: coastal hydrogeodynamic analysis
+O1307;X;TA01;Outside asset-inspection context: urban vegetation transpiration dataset
+O1308;X;TA02;Power-system supply security; no image modality
+O1309;X;TA04;Conference special issue editorial
+O1310;X;TA03;Seismic reservoir characterization; no image-based AI inspection task
+O1311;X;TA04;Journal summaries paratext
+O1312;X;TA01;Outside asset-inspection context: retail demand forecasting
+O1313;X;TA04;Editorial (built environment)
+O1314;X;TA04;Editorial (cardiovascular tissue)
+O1315;X;TA04;Guest editorial (distribution systems)
+O1316;X;TA01;Outside asset-inspection context by title: wildfire spread simulation
+O1317;X;TA01;Outside asset-inspection context: wildfire spread simulation with satellite fire data
+O1318;X;TA04;Technology focus column summarising conference papers
+O1319;X;TA04;Editorial (urban flood studies)
+O1320;X;TA04;Editorial (slope monitoring research topic)
+O1321;X;TA04;Guest editorial (multi-energy microgrid)
+O1322;X;TA03;Luminescence data-analysis software; no AI inspection task
+O1323;X;TA02;Wellhead pressure prediction by title; no image modality
+O1324;X;TA01;Outside asset-inspection context: nonlinear differential equations overview
+O1325;X;TA04;Symposium preview
+O1326;X;TA04;Editorial (engineering heritage)
+O1327;X;TA02;Home energy management optimisation; no image modality
+O1328;X;TA03;Microstructure reconstruction methods; no AI inspection task
+O1329;X;TA01;Geological fracture modelling in shale reservoirs; not asset inspection
+O1330;X;TA01;Outside asset-inspection context: fisheries acoustics symposium
+O1331;X;TA01;Outside asset-inspection context: 1965 satellite attitude estimation
+O1332;X;TA01;LLM epistemic reasoning; no industrial or visual context
+O1333;X;TA03;General robotics book chapter; no AI inspection task
+O1334;X;TA04;Editorial (citriculture)
+O1335;X;TA02;Data-center cooling telemetry dataset; no image modality
+O1336;X;TA03;Classical image restoration chapter; no learned model or inspection task
+O1337;X;TA01;Outside asset-inspection context: biosurveillance
+O1338;X;TA04;Editorial (risk analysis)
+O1339;X;TA04;Abstract supplement
+O1340;X;TA01;Outside asset-inspection context: religion
+O1341;X;TA04;Conference proceedings volume record
+O1342;X;TA01;Outside asset-inspection context: poultry processing robotics
+O1343;X;TA01;Outside asset-inspection context: radiotherapy 4DCT
+O1344;X;TA04;Editorial (radiation oncology)
+O1345;X;TA01;Outside asset-inspection context: cardiovascular clinical AI perspective
+O1346;X;TA04;Guest editorial (integrated energy situational awareness)
+O1347;X;TA01;Outside asset-inspection context: plateau open-data framework
+O1348;X;TA01;Outside asset-inspection context: military AI commentary
+O1349;X;TA01;Outside asset-inspection context: ecological open data
+O1350;X;TA01;Outside asset-inspection context: Barrett's esophagus biopsy

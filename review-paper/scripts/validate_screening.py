@@ -9,6 +9,9 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 TA = {"Pending", "Retrieve full text", "Exclude", "Background/supporting", "Unclear"}
 FT = {"Pending", "Include", "Exclude", "Background/supporting", "Unclear"}
 PLACEHOLDERS = {"", "pending", "not assigned", "not started", "unknown"}
+# Protocol v0.4 (2026-10-16) adds disclosed AI-assisted bases under Daniel's delegation.
+HUMAN_BASIS = "Human assessment"
+AI_BASES = {"Human assessment with AI-assisted resolution", "AI-assisted under human delegation"}
 
 def require(condition, message):
     if not condition: raise ValueError(message)
@@ -39,7 +42,10 @@ def validate_evidence(rows, known_ids, reasons):
         require(audit in {"Pending", "Complete", "Discrepancy unresolved"}, "Unknown audit status")
         if decision != "Pending":
             require(assigned(row["Reviewer"]), "Missing human reviewer: " + ident)
-            require(row["Review Basis"] == "Human assessment", "Decision is not documented as human assessment: " + ident)
+            basis = row["Review Basis"]
+            require(basis == HUMAN_BASIS or basis in AI_BASES, "Undocumented review basis: " + ident)
+            if basis in AI_BASES:
+                require(float(row["Protocol Version"]) >= 0.4, "AI-assisted basis before protocol v0.4: " + ident)
             valid_date(row["Decision Date"], "Missing decision date: " + ident)
             require(assigned(row["Protocol Version"]), "Missing protocol version: " + ident)
             require(assigned(row["Evidence Locator"]), "Missing screening evidence locator: " + ident)
@@ -77,7 +83,8 @@ def validate_ledger(ledger, counts, evidence, reasons):
                 require(not row[reason_field], "Exclusion reason on pending decision: " + ident)
                 continue
             require(proof is not None and proof["Decision"] == decision, "Missing/mismatched human decision evidence: " + ident)
-            require(row["Reviewer 1"] == proof["Reviewer"], "Ledger/evidence reviewer mismatch: " + ident)
+            # Reviewer 1 lists each stage's reviewer ("TA reviewer | FT reviewer" when they differ).
+            require(proof["Reviewer"] in [x.strip() for x in row["Reviewer 1"].split(" | ")], "Ledger/evidence reviewer mismatch: " + ident)
             require(row[reason_field] == proof["Reason Code"], "Ledger/evidence exclusion reason mismatch: " + ident)
             require(assigned(row["Decision Rationale"]) and bool(row["Decision Date"]), "Missing ledger rationale/date: " + ident)
             valid_date(row["Decision Date"], "Missing ledger date")
@@ -91,12 +98,17 @@ def validate_ledger(ledger, counts, evidence, reasons):
         dated=[indexed[(ident,stage)]["Decision Date"] for stage in ["TA","FT"] if (ident,stage) in indexed and indexed[(ident,stage)]["Decision"] != "Pending"]
         if dated:
             require(row["Decision Date"] == max(dated), "Ledger date does not match latest stage decision: " + ident)
+        if row["Included in synthesis?"] == "Provisional - audit pending":
+            require(row["FT Final"] == "Include" and assigned(row["Study ID"]) and row["Study ID"] != "Not linked", "Provisional synthesis without eligible linked study: " + ident)
         if row["Included in synthesis?"] == "Yes":
             require(row["FT Final"] == "Include" and assigned(row["Study ID"]) and row["Study ID"] != "Not linked", "Synthesis inclusion without eligible linked study: " + ident)
             proof = indexed.get((ident, "FT"))
             require(proof is not None and proof["Audit Status"] == "Complete", "Synthesis inclusion before documented audit: " + ident)
     observed = {"formal_screened": sum(r["TA Final"] != "Pending" for r in ledger),
                 "formal_included": sum(r["FT Final"] == "Include" for r in ledger)}
+    for key, value in [("formal_background", sum(r["FT Final"] == "Background/supporting" or (r["TA Final"] == "Background/supporting") for r in ledger))]:
+        if key in counts:
+            observed[key] = value
     for key, value in observed.items():
         require(counts[key] == value, "Screening count mismatch: " + key)
     return observed

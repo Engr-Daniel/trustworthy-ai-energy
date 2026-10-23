@@ -38,6 +38,15 @@ class ScreeningTests(unittest.TestCase):
             with self.subTest(field=field), self.assertRaises(ValueError):
                 validate_evidence([row], {"P01"}, REASONS)
 
+    def test_stage_reviewers_listed_and_checked_per_stage(self):
+        row = ledger(); row.update({"FT Final": "Include", "FT Decision R1": "Include", "Retrieval Result": "Retrieved",
+                                    "Reviewer 1": "Daniel Oyewale | Claude"})
+        ft = evidence("FT", "Include"); ft["Reviewer"] = "Claude"
+        validate_ledger([row], {"formal_screened": 1, "formal_included": 1}, [evidence(), ft], REASONS)
+        ft["Reviewer"] = "Someone else"
+        with self.assertRaisesRegex(ValueError, "reviewer mismatch"):
+            validate_ledger([row], {"formal_screened": 1, "formal_included": 1}, [evidence(), ft], REASONS)
+
     def test_retrieval_failure_is_not_exclusion_reason(self):
         row = evidence(decision="Exclude"); row["Reason Code"] = "NR01"
         with self.assertRaisesRegex(ValueError, "Invalid exclusion reason"):

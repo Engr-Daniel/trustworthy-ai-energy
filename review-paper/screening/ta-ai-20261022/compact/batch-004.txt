@@ -1,0 +1,60 @@
+C0183;X;TA05;Thermographic metal-part anomaly detection; no reliability dimension signalled (title only)
+C0184;F;;VAE coating inspection designed for robustness to part and positioning variability in acquisition (R3)
+C0185;X;TA05;Semi-supervised visual quality anomaly detection; accuracy-oriented (title only)
+C0186;X;TA02;Binary sensor network node inspection; no image evidence
+C0187;X;TA02;Multivariate industrial sensor anomaly detection; no image evidence
+C0188;B;;Adjacent non-visual: industrial IoT fault detection with missing sensor data; transferable missing-input reliability (R6) (note 5) (title only)
+C0189;B;;Same-title version of C0188; adjacent missing-sensor reliability
+C0190;F;;Industrial anomaly detection under missing modality (R6) (title only)
+C0191;F;;Multimodal RGB/3D industrial anomaly detection robust to missing modality and incomplete sensor data (R6)
+C0192;X;TA01;SAR-optical disaster damage mapping (remote sensing), not asset inspection (title only)
+C0193;B;;Adjacent non-visual: industrial/railway sensor anomaly detection with independent threshold calibration, corruption and alarm-burden evaluation (R1/R2/R5)
+C0194;X;TA02;Multivariate time-series anomaly detection; no image evidence
+C0195;X;TA02;Acoustic quantum-kernel anomaly detection; no image evidence
+C0196;X;TA01;Autonomous-vehicle sensor anomaly detection with uncertainty; not industrial inspection
+C0197;F;;Uncertainty propagation of defect-free image statistics for visual anomaly inspection (R1)
+C0198;X;TA02;IoT multisource sensor fusion with missing modality; no image inspection or industrial context signalled (title only)
+C0199;X;TA01;Surveillance video anomaly detection
+C0200;F;;Last-layer Laplace calibrated scores and posterior uncertainty for IAD with flagging for human review (R1/R2/R5)
+C0201;X;TA02;Review of IIoT sensor-stream anomaly detection; no image evidence
+C0202;F;;Vision-language guided explainable industrial anomaly segmentation (R7 grounding to verify) (title only)
+C0203;X;TA05;PCA cascade anomaly detection for efficiency; accuracy/speed
+C0204;X;TA01;General VLM hallucination grounding; no industrial inspection context (title only)
+C0205;X;TA05;Vision-language fusion IAD with synthetic data; accuracy-oriented (title only)
+C0206;F;;LVLM aircraft inspection with inspectors in the loop; consistency of decisions and reasoning across runs (R5/R7)
+C0207;X;TA03;Linguistics dialogue grounding
+C0208;F;;Expert-guided IAD with evaluated cross-domain transfer robustness (R3)
+C0209;X;TA03;Philosophy of grounding
+C0210;X;TA05;CLIP-aligned anomaly backbone; accuracy/few-shot performance
+C0211;X;TA05;Neural-network tolerance zone vision inspection thesis; accuracy only
+C0212;X;TA03;Electrical grounding of cranes; not AI inspection
+C0213;X;TA05;Same-title version of C0211
+C0214;X;TA03;Electrical grounding of cranes
+C0215;X;TA03;Stereo-vision sewer inspection with image processing; no learned AI or reliability evaluation
+C0216;X;TA01;Robotic vision-language-action grounding; not inspection
+C0217;X;TA03;Language grounding chapter
+C0218;X;TA03;1989 line-scan laundry inspection; no learned AI
+C0219;X;TA01;Generic visual grounding; no inspection context
+C0220;X;TA03;1997 textile web machine vision; no learned AI reliability component
+C0221;X;TA05;Classical machine-vision surface inspection; detection rates only
+C0222;X;TA03;3D inspection viewpoint planning; no learned inspection model signalled (title only)
+C0223;F;;MLLM IAD with prototype memory adapting to distribution shift on changing lines and grounded localisation (R3/R7)
+C0224;F;;Reliability-aware compact AI for predictive maintenance (R1/R2 signalled); modality uncertain, verify (title only)
+C0225;X;TA03;HPC for visual inspection; no reliability AI component
+C0226;X;TA03;Illumination for photomask inspection; no AI
+C0227;X;TA03;Photometric-stereo stone inspection; no learned AI
+C0228;X;TA05;Deformation inspection from image sequences (title only)
+C0229;X;TA03;1969 manual IC visual inspection
+C0230;B;;Reliability modelling of production systems controlled by automated visual inspection; inspection-error framing background
+C0231;X;TA03;Visual inspection standards for solder joints; no AI
+C0232;X;TA03;1994 automated IC wire inspection; no reliability AI component (title only)
+C0233;X;TA03;Image-quality effects on classical defect segmentation; no learned AI
+C0234;B;;Human reliability of bridge visual inspectors compared with automated inspection; human-oversight (R5) background
+C0235;X;TA03;Solder joint visual inspection; no AI (title only)
+C0236;X;TA03;1991 automated PCB inspection (title only)
+C0237;X;TA03;Analog cellular neural processor hardware for inspection
+C0238;X;TA03;Automated visual inspection textbook chapter
+C0239;X;TA03;Light-field inspection (title only)
+C0240;B;;Pairing human and machine vision in industrial inspection; human-machine decision framing (R5) background (title only)
+C0241;X;TA03;Human factors of inspection system development; no AI reliability evidence
+C0242;X;TA03;1987 thick-film machine vision

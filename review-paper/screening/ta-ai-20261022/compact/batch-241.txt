@@ -1,0 +1,50 @@
+O2301;X;TA01;Generic natural-language visual grounding thesis
+O2302;X;TA05;Drone tunnel crack detection; accuracy-oriented
+O2303;F;;Human-machine interaction issues when a surface-inspection classifier learns from imperfect human labels (R4/R5)
+O2304;B;;Adjacent non-visual: CV-based detection of SHM data anomalies from sensor failures; transferable sensor-failure method (R6, consistent with O1738)
+O2305;X;TA02;Bridge SHM data anomaly identification; non-visual (title only)
+O2306;X;TA01;Medical-only saliency explainability
+O2307;X;TA05;End-of-line CNN quality classification; accuracy-oriented
+O2308;F;;Self-supervised melt-pool monitoring addressing annotation verification in a human-in-the-loop setting (R4/R5); verify evaluation
+O2309;F;;Confidence-interval verification for industrial ViT with early exit and handover to technicians (R2/R5)
+O2310;X;TA05;Explainable GAN defect simulation; explainability only
+O2311;F;;CNN fault diagnosis of substation infrared sensors (R6 sensor failure)
+O2312;X;TA04;Editorial (AI in visual inspection)
+O2313;B;;Review of AI trustworthiness challenges and toolkits in manufacturing incl. quality control; core-context review
+O2314;F;;Visual-RAG cascade suppressing VLM hallucination in wind turbine blade defect recognition (R7); record is code deposit, verify linked report
+O2315;F;;Human-in-the-loop AI triage of subsea pipeline inspection imagery (R5)
+O2316;X;TA05;Synthetic image pipeline for metal surface inspection; no reliability evaluation
+O2317;X;TA01;Anomaly detection in human-robot collaboration; not asset inspection (title only)
+O2318;X;TA01;Autonomous driving VLM (note 7)
+O2319;X;TA05;Human-machine synthetic data for defect detection; no reliability signalled (title only)
+O2320;X;TA02;Considerations for AI in nuclear plants; not visual inspection evidence
+O2321;X;TA05;Ensembled CNN railway defect detection; ensemble not used for uncertainty (title only)
+O2322;X;TA05;Tiny-part vision inspection; accuracy-oriented
+O2323;X;TA05;Mining geotechnical anomaly segmentation dataset; no reliability framing
+O2324;X;TA01;Industrial design image recognition
+O2325;X;TA01;Corrosion inhibition ML
+O2326;X;TA05;Multimodal LMM tunnel damage dialogue; interaction without reliability evaluation
+O2327;F;;Trustworthy AI with IIoT for multimodal AM quality control (R5/R6); verify reliability content
+O2328;X;TA05;Digital-twin LVLM fault diagnosis; no reliability signalled (title only)
+O2329;F;;Human-in-the-loop decision support for zero-defect manufacturing (R5) (title only)
+O2330;X;TA01;Generic AI applications overview
+O2331;F;;RGB-event fusion IAD under low light, motion and glare (R3 acquisition robustness/R6)
+O2332;X;TA05;Counterfactual-attention wafer map classification; explainability only (title only)
+O2333;X;TA01;Agricultural cocoa bean grading (consistent with O1757)
+O2334;F;;Deployment evaluation showing benchmark-to-real instability of 19 AD models with human-in-the-loop tool (R8/R5)
+O2335;X;TA05;Manufacturing VLM with RAG data creation; no reliability evaluation
+O2336;F;;Human-in-the-loop glass bottle finish inspection under severe imbalance (R5) (title only)
+O2337;X;TA01;Radiology agentic workflow review
+O2338;X;TA01;Aviation data-driven AI review
+O2339;B;;Review of AI in quality control incl. computer vision across manufacturing; core-context review
+O2340;X;TA05;Full-process tunnel lining crack framework; interactive UI without reliability evaluation
+O2341;F;;Interactive explainable anomaly detection for industrial settings (R5); verify (title only)
+O2342;F;;RGB-D damage segmentation with depth hallucination for missing depth at test time (R6 missing modality)
+O2343;X;TA05;Self-labelling coating inspection; label efficiency
+O2344;X;TA01;E-commerce review assistance
+O2345;X;TA05;Binocular road condition detection; trustworthiness claimed without evaluation (note 1)
+O2346;X;TA02;Human-in-the-loop time-series anomaly detection; non-visual
+O2347;X;TA03;Review of oilfield corrosion detection methods; no AI visual inspection focus
+O2348;F;;Real-time weld defect video analytics with safety and trustworthiness analysis (R8); verify
+O2349;X;TA05;AI and CV in the garment industry (title only)
+O2350;B;;Survey of AI-enabled industrial product defect detection; core-context review

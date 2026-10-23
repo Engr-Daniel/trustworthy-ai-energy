@@ -1,0 +1,50 @@
+O2101;X;TA02;Cross-domain rotating machinery diagnosis fusing vibration and MTF images; non-optical
+O2102;X;TA01;Medical-only knee MRI domain translation
+O2103;X;TA01;Outside asset-inspection context: plant health monitoring
+O2104;X;TA01;Medical image reconstruction
+O2105;X;TA05;Adversarial learning for FDM fault diagnosis with imbalance; no reliability signalled (title only)
+O2106;X;TA01;Outside asset-inspection context: plant disease under corruption
+O2107;X;TA01;Maritime object detection review; not asset-inspection focused
+O2108;X;TA01;Forest LiDAR tree segmentation
+O2109;X;TA01;Medical-only retinal screening
+O2110;X;TA02;Cross-condition bearing fault diagnosis; non-visual
+O2111;X;TA02;Incipient fault diagnosis in rotating machinery; non-visual (title only)
+O2112;X;TA01;Radiation soft errors in edge CNN execution; not inspection reliability
+O2113;X;TA01;Fish histopathology (title only)
+O2114;X;TA05;Explainable transfer-learning crack detection; domain shift only listed as challenge
+O2115;X;TA01;Non-scholarly standards proposal
+O2116;X;TA02;IMU-based road surface classification; non-visual
+O2117;X;TA02;Cross-domain rotary machinery PHM dissertation; non-visual
+O2118;X;TA02;Sensor selection for failure-mode recognition; non-visual
+O2119;X;TA02;Cross-domain aero-engine gas-path diagnosis; non-visual
+O2120;X;TA01;Medical-only MRI quality assessment
+O2121;X;TA01;Computational pathology artefact processing
+O2122;X;TA01;Spatio-temporal dynamics forecasting (title only)
+O2123;X;TA01;Spatio-temporal dynamics forecasting; same-title record (note 6)
+O2124;X;TA02;Cross-domain bearing fault diagnosis; non-visual (title only)
+O2125;X;TA03;Industrial gripper pose estimation; not a defect or condition inspection task
+O2126;X;TA01;Medical-only Alzheimer MRI (title only)
+O2127;X;TA01;Wildfire smoke segmentation; not asset inspection
+O2128;X;TA01;Outside asset-inspection context: wheat rust dataset
+O2129;X;TA01;Dermoscopic artefact detection (title only)
+O2130;X;TA01;Computational pathology artefact processing; same-title record (note 6)
+O2131;F;;Fine-tuning SAM on GAN-based simulation for experimental industrial XCT (R3 sim-to-real)
+O2132;X;TA02;Vibration-based pump fault diagnosis; non-visual
+O2133;X;TA05;Efficient underwater pipeline segmentation; generalisation only motivational (note 1)
+O2134;F;;MMD transfer learning for cross-domain structural damage identification (R3); modality to verify (title only, consistent with O1717)
+O2135;F;;Cross-domain PCBA visual question answering addressing standards-to-production domain shift (R3)
+O2136;F;;Federated road damage detection across countries; preprint of O2035 (note 13)
+O2137;X;TA03;Guided thermal super-resolution; not inspection reliability
+O2138;X;TA02;Acoustic-emission fatigue crack prediction; non-visual
+O2139;X;TA02;Semi-supervised adversarial cross-domain bearing diagnosis; non-visual
+O2140;X;TA02;Physics-informed power converter fault diagnosis; non-visual
+O2141;X;TA01;Underwater vision review and benchmark; not asset-inspection focused (title only)
+O2142;X;TA01;Visual analytics for data readiness; no inspection context
+O2143;F;;Point-cloud network resilient to corruption and missing regions in rail manufacturing inspection (R3/R6)
+O2144;X;TA01;Visual analytics for data readiness; same-title record (note 6)
+O2145;X;TA01;Forest disturbance monitoring
+O2146;X;TA05;Transfer vs contrastive learning for imbalanced steel coil quality; no reliability evaluation
+O2147;X;TA01;Baggage X-ray security inspection (title only)
+O2148;X;TA02;Industrial anomalous sound detection; non-visual
+O2149;X;TA01;Generic multi-source adaptation for visual classification (title only)
+O2150;X;TA04;Erratum

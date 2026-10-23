@@ -1,0 +1,50 @@
+O2251;X;TA01;Human rights essay
+O2252;X;TA01;Political commentary
+O2253;X;TA01;Cardiac calcium imaging perspective
+O2254;X;TA01;Essay
+O2255;X;TA01;Essay
+O2256;X;TA01;Sports commentary
+O2257;B;;Survey of deep learning for vision-based industrial surface defect recognition; core-context review
+O2258;X;TA05;Explainable AI for vision-based surface defect detection; explainability is not a reliability dimension
+O2259;X;TA05;CNN electronics defect detection; accuracy-oriented
+O2260;X;TA05;Explainability-driven solder joint inspection (SolderNet); trustworthiness via XAI only
+O2261;F;;Robust unsupervised surface AD with training data polluted by random events and sensor failure (R4/R6)
+O2262;X;TA05;SolderNet journal version; explainability only (note 13)
+O2263;X;TA05;Engine piston chamber machining defect detection; accuracy-oriented
+O2264;X;TA05;SolderNet preprint; explainability only (note 13)
+O2265;B;;Review of AI and computer vision for real-time industrial quality control; core-context review
+O2266;X;TA05;YOLOv8 PV infrared defect detection; accuracy and speed
+O2267;X;TA05;CNN thermal-wave subsurface anomaly characterisation; accuracy-oriented
+O2268;F;;Human-in-the-loop ML pipe corrosion inspection deployed in a chemical plant (R5)
+O2269;F;;Decoupled detector-to-language pipeline for grounded wind turbine blade defect reports (R7); verify grounding evaluation
+O2270;X;TA05;Self-supervised automatic annotation for online inspection; no reliability evaluation
+O2271;X;TA02;Smart-grid communication anomaly detection; non-visual
+O2272;B;;Review of AI-enabled bridge inspection incl. practical implementation challenges; core-context review
+O2273;F;;Retrieval-augmented generation for industrial surface defect detection (R7) (title only)
+O2274;F;;VLM-assisted radiographic weld interpretation supporting inspectors (R5/R7); verify evaluation
+O2275;X;TA05;Retrieval-based zero-shot defect segmentation; accuracy-oriented
+O2276;B;;Review of ML for PV defect detection; core-context (energy) review (title only, note 3)
+O2277;F;;Trustworthy event-based vision detection of drone propeller faults (R5); verify reliability content (title only)
+O2278;X;TA05;Grad-CAM steel defect classification; explainability only
+O2279;F;;Operation of human-in-the-loop pipe corrosion inspection system; probable journal version of O2268 (note 13) (R5)
+O2280;X;TA05;Solar cell EL defect detection; accuracy-oriented
+O2281;X;TA05;Trustworthy and secure gasket defect detector; claims without reliability evaluation (note 1)
+O2282;F;;Zero-defect CV architecture with human-in-the-loop optimisation (R5); verify evaluation
+O2283;F;;Trustworthy AI framework for real-time FDM surface anomaly detection (R1/R5); verify reliability content
+O2284;X;TA01;Generic vision foundation model chapter
+O2285;X;TA05;AM defect classification with active learning; human-in-the-loop only for annotation (note 8)
+O2286;X;TA05;Computer vision QC architecture overview; no reliability evaluation
+O2287;X;TA05;Segmentation-aware VLM defect diagnosis; no reliability signalled (title only)
+O2288;F;;Zero-shot grounded multimodal industrial anomaly detection with evidence-linked reports (R7/R6)
+O2289;X;TA05;Transfer learning for infrared inspection of manufactured parts; accuracy-oriented
+O2290;F;;Hallucination-mitigating VLM manufacturing anomaly detection (R7)
+O2291;X;TA05;Sonar point-cloud bridge substructure defect inspection; no reliability signalled (title only)
+O2292;F;;UGV-UAV solar farm inspection with human-in-the-loop decision mechanism (R5); verify evaluation
+O2293;F;;Human-centred fatigue crack inspection combining computer vision and augmented reality (R5)
+O2294;F;;Zero-shot IAD with chain-of-thought reasoning addressing weak visual grounding (R7); verify evaluation
+O2295;X;TA01;Corrosion inhibitor design
+O2296;X;TA02;Explainable gearbox fault diagnosis; non-visual
+O2297;X;TA05;VLM semantic 3D annotation for infrastructure inspection; no reliability signalled (title only)
+O2298;B;;Adjacent non-visual: sensor degradation detection for nuclear condition monitoring; transferable sensor-failure method (R6, note 5)
+O2299;F;;Automated analysis of XAI explanations to flag abnormal model behaviour in infrastructure image diagnostics (R8/R2)
+O2300;X;TA05;UAV and ML bridge inspection system; no reliability signalled (title only)

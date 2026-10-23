@@ -1,0 +1,75 @@
+# Full-text decisions, 2026-10-22. Format: Paper ID;I|B|X|U;FT code;page locator;rationale
+P01;I;;pp.1-2, 10-11;Corrosion pixel segmentation (RGB) with three Bayesian variants (variational inference, MC dropout) giving aleatoric/epistemic uncertainty maps for decision makers; OOD motivation (R1, R3)
+C0208;X;FT06;pp.1, 12;Few-/zero-shot IAD; cross-domain robustness asserted from standard MVTec/VisA results only, no shift or reliability evaluation
+C0223;I;;pp.2, 4, 8, 12;MLLM-based IAD on edge with adaptive prototype memory evaluated under simulated distribution shift (accuracy degradation, ablation) (R3; R7 grounding is architectural only)
+O0021;I;;pp.2-3, 14;UAV corrosion grading of steel railway bridges (adjacent infrastructure); image-derived corrosion-severity proxy calibrated on ultrasonic data with propagated uncertainty bounds; safety operator override (R1 primary, R5 design)
+O0048;X;FT06;pp.1-2;Zero-shot IAD with pseudo-defect prompt calibration of thresholds; "risk control" stated as motivation without risk, calibration or false-alarm evaluation
+O0053;I;;pp.1-2, 5;IVF needle manufacturing inspection; quantifies uncertainty in the quality standard with ordinal logistic regression on image-derived tip geometry using rendered synthetic images (R4 annotation/standard reliability, R1)
+O0056;I;;pp.1-2, 16;PV defect segmentation with MC-dropout uncertainty and reported ECE; discusses domain-shift detection and human-in-the-loop (R1, R3)
+O0085;I;;pp.2-5, 16;Pipeline corrosion/erosion image classification with uncertainty quantification flagging ambiguous samples, zero-shot cross-domain tests on two public datasets and leakage-free evaluation (R1, R3, R8); preprint
+O0106;I;;pp.1-2, 4, 21;Adaptive defect diagnosis under non-stationary production (lighting/material drift) with MMD shift detector, MC-dropout uncertainty and confidence-driven pseudo-labelling (R3, R1)
+O0143;I;;pp.1-3;PV defect diagnosis fusing imaging with other modalities; uncertainty-gated fusion robust to missing or corrupted sensor modalities, supporting maintenance prioritisation and human-in-the-loop (R6, R1, R5)
+O0212;I;;p.1;Railway catenary contact-wire support defect detection with deep Bayesian segmentation networks (uncertainty) plus geometric priors (R1); electrified rail infrastructure
+O0216;X;FT06;pp.1, 11, 16;WAAM video anomaly monitoring with autoencoder features and T2 control chart; contamination-percentile threshold and Bayesian hyperparameter optimisation are not reliability evaluation
+O0288;I;;pp.1-2, 12, 14;Active learning with model calibration measurements for manufacturing visual inspection; score-based deferral of products to manual inspection; oracle mislabelling discussed (R1, R2, R5)
+O0289;I;;pp.1-2, 6;PV fault image diagnosis with MC-dropout uncertainty, confidence-aware selective abstention, cross-domain secondary test and hash-based leakage prevention (R1, R2, R3, R8)
+O0310;I;;p.1;Road asset digital twinning from monocular RGB point clouds with quantitative uncertainty analysis of image-derived geometry and ML element classification (R1; adjacent infrastructure); primary report of study with O0309
+O0309;X;FT04;p.1;Conference version of the study reported in O0310 (same authors and title; verified linkage)
+O0336;I;;p.1;Human-AI collaborative prompt segmentation for industrial defects; uncertainty estimation identifies ambiguous cases and routes them to human experts (R5, R1, R2)
+O0371;I;;pp.1, 10;Deep-learning super-resolution X-ray CT of AM lattice defects with task-based measurement uncertainty quantification and hallucination assessment (R1, R7)
+O0410;I;;p.1;Railway LiDAR point-cloud segmentation for asset inspection evaluated under cross-sensor and spatial domain shift, with ensemble robustness and uncertainty patterns (R3, R1; adjacent rail)
+O0449;I;;p.1, p.6;Bayesian deep learning for image-based structural health monitoring with pixel uncertainty and a threshold mechanism alerting human operators to uncertain predictions (R1, R5; adjacent civil infrastructure); venue scope mismatch noted for appraisal
+O0484;X;FT02;p.1;Laser-sheet weld monitoring in which machine learning selects measurement set-up by p-value; the learned component configures sensing rather than performing an inspection task
+O0510;X;FT04;p.1;Duplicate record of O0484 (identical PDF, same SHA256; verified linkage S0016)
+O0541;I;;pp.1-2;Deep reinforcement learning active perception for robotic crack assessment under occlusion and poor lighting, evaluated in a photo-realistic simulator against passive raster scanning (R3 acquisition variation, R8 realism)
+O0574;I;;p.1;Bayesian and frequentist evaluation of image-based structural damage detection precision under low damage prevalence (base-rate effects on positive predictive value) (R8, R1; adjacent infrastructure)
+O0852;I;;pp.1, 3, 13;Aerospace robotic assembly with YOLO11n defect detection using leakage-controlled locked testing, perturbation robustness and bootstrap uncertainty; recommends human review of low-confidence detections (R8, R3)
+O1465;I;;p.2;Master's thesis on railway tie fault classification from images analysing the effect of label noise (R4; adjacent rail)
+O1478;I;;pp.1-3;Foundation vision models for manufacturing defect recognition under open-set conditions, scoring novel defects for human review, with a factory-realistic evaluation protocol (R3 open-set, R8)
+O1493;I;;p.1;Risk-calibrated few-shot industrial AD with human-in-the-loop review: category-level target violations, inspection workload, cost, controlled distribution shifts and human-review error (R2, R5, R3); empirical, not conformal, guarantees
+O1522;I;;p.1;Plant-adaptive federated meta-learning for few-shot defect recognition evaluated under cross-factory domain shift (R3)
+O1533;I;;pp.1, 7;Synthetic-to-real domain adaptation for instance segmentation and dimension measurement of sheet-metal parts, quantifying the synthetic-to-real gap (R3)
+O1612;X;FT05;p.1;OOD detection for unseen semiconductor wafer-map defect types (GAN plus outlier exposure); full text in Korean (English abstract only), outside the protocol's English full-text restriction; potentially eligible (R3), reported as a language exclusion
+O1633;I;;pp.2-3, 10;Study of data augmentation for manufacturing visual defect detection that quantifies dataset domain shift and its correlation with performance; taxonomy of data shift incl. sensor degradation (R3, R8)
+O1676;I;;p.1, p.8;Class-wise histogram-matching domain adaptation for bridge element segmentation under domain shift; leakage-aware splits (R3, R8; adjacent infrastructure)
+O1681;I;;p.1, p.7, p.31;MVTec AD 2 benchmark addressing saturation of MVTec AD/VisA, with lighting-change test scenarios for real-world shift, mislabel checks and a held-out evaluation server (R8, R3, R4)
+O1703;I;;p.1;Domain adversarial training for concrete crack image classification across domains (R3; adjacent infrastructure)
+O1748;I;;pp.1, 6;Dataset review and cross-dataset experiments for exposed-rebar detection in UAS bridge inspection, documenting domain shift, leakage risk and annotation errors (R8, R3, R4; adjacent infrastructure)
+O1771;I;;pp.1-2;Validation standards for production-line defect-detection models: low-FPR operation, calibration, robustness under domain shift and inter-operator threshold variance (R8, R1, R5)
+O1774;I;;pp.1, 3, 18;Master's thesis on domain adaptation and deployment of anomaly detection for powder spreading in laser powder bed fusion layer images, with operator feedback (R3)
+O1857;X;FT06;pp.1-3, 5-6;Bridge SHM fusing crack images with sensor data; cross-domain generalisation is asserted but no held-out-domain or shift evaluation was identified (single datasets with cross-validation)
+O1861;X;FT06;p.1;Cross-domain few-shot image classification evaluated separately on industrial (NEU-CLS) and medical datasets; data-scarcity framing, not deployment-shift evaluation (screening note 2)
+O1963;I;;pp.2, 4;Cross-condition benchmark for vision-based nugget-size prediction in resistance spot welding under abnormal process conditions, documenting generalisation limits under distribution shift (R3, R8)
+O2036;I;;pp.1-2;OOD detection for diffusion-based sparse-view CT reconstruction to flag hallucination risk, motivated for industrial and clinical CT inspection (R3, R7); context partly generic, charted as adjacent
+O2054;I;;p.2;Generative augmentation to generalise pavement distress segmentation, evaluated under varying distribution-shift scenarios (R3; adjacent road infrastructure)
+O2081;I;;pp.1, 3;CycleGAN translation between simulated and experimental industrial CT to close the synthetic-to-real gap for AI-based NDT defect inspection (R3)
+O2143;I;;pp.1, 10;Rail-transit manufacturing point-cloud reconstruction robust to corrupted sensor data (occlusion, missing regions, density loss) (R6, R3)
+O2268;I;;p.1;Human-in-the-loop machine learning for external pipe-corrosion image inspection in chemical plants (R5; core context); probable companion of O2279 (note 13)
+O2279;I;;p.1;Operational evaluation of the human-in-the-loop pipe-corrosion inspection system in chemical plants (R5); same authors as O2268, separate report not merged
+O2282;X;FT03;pp.3, 6, 9;Architecture and position article on AI computer vision for zero-defect manufacturing; no eligible empirical reliability evaluation
+O2292;I;;p.1;Collaborative UGV-UAV solar farm inspection with YOLOv5 and a human-in-the-loop decision mechanism in the cognitive framework, evaluated in simulation (R5; core energy)
+O2308;X;FT06;p.1;Self-supervised learning for limited labelled manufacturing QC data; data efficiency only
+O2311;I;;pp.1, 4;CNN transfer learning classifying failure modes of substation infrared monitoring sensors from their image outputs (e.g. floating image under interference) (R6 sensor failure; core energy)
+O2331;I;;pp.1, 6, 12;RGB-event fusion with multimodal LLMs for industrial AD, targeting misaligned perception and diagnostic hallucination of tiny defects (R7)
+O2357;I;;p.2;Drone, AI and augmented reality assisting bridge inspectors in remote visual inspection with a field trial (R5; adjacent infrastructure)
+O2377;I;;pp.1, 8, 10;Edge AI plus VLM verifier for dynamic industrial inspection with a human-in-the-loop fail-safe interface to mitigate hallucination (R5, R7)
+O2442;X;FT06;pp.2-3;Interpretable distillation for online defect detection; human-machine collaboration is motivational (interpretability), with no human-AI process or referral evaluated
+O3405;I;;pp.1, 3, 39;Multimodal robotic welding defect benchmark with missing-modality and held-out corruption robustness, seed-level CIs and split-composition caveats (R6, R3, R8)
+O3756;X;FT06;p.1;AnoGAN anomaly detection in X-ray CT of electronic parts with analyst confirmation; manual review is a workflow step, not an evaluated human-AI or reliability mechanism
+O3847;X;FT06;p.1;Print defect detection with frequency-domain correction for illumination variation; generalisability asserted without shift evaluation
+O3886;I;;pp.1-2;YOLOv11-ODConv micro-scratch detection in PV glass manufacturing evaluated for accuracy and calibration on unseen manufacturing domains (coating, batch, camera, illumination) (R3, R1; core energy manufacturing)
+O3893;X;FT06;p.1;Damage detection comparing ImageNet versus in-domain pretraining for transfer learning; "cross-domain" refers to the pretraining source, not deployment shift (screening note 2)
+O3896;I;;p.1;Attack-inspired calibration loss correcting miscalibration of crack recognition DNNs (R1; adjacent infrastructure)
+O3914;I;;p.1, p.6;CLIP-based cross-domain industrial AD addressing degradation when target domains differ, with fixed target-independent checkpoint selection (R3, R8)
+O3971;X;FT03;p.1;Architecture position article on modular AI infrastructure for steel operations; no eligible empirical evidence
+O3980;I;;p.1, p.5;Cross-domain melt-pool defect detection in data-scarce laser DED via federated transfer learning; label subjectivity noted (R3)
+O4335;X;FT05;p.1;Distribution-aligned score fusion for industrial AD under domain shift (AeBAD-S); full text in Chinese, outside the English full-text restriction; potentially eligible (R3), reported as a language exclusion
+O4339;X;FT06;p.1;Anomaly detection system for manufacturing motivated by research-to-factory gaps; contributions are preprocessing, feature augmentation and loss design evaluated on MVTec AD accuracy, with no reliability or realism evaluation
+O4361;I;;p.2;MVTec-C benchmark of unsupervised AD robustness to production-relevant corruptions (noise, blur, illumination) with comparative analysis (R3, R8)
+O4379;I;;pp.1, 5-6;One-stage defect localisation evaluated in simulated unseen test scenarios (lighting, chromatism) where baselines degrade (R3)
+O4622;I;;pp.1-2, 10;Field experiments in manufacturing visual quality inspection showing that explainable-AI heatmaps improve human task performance in human-AI collaboration (R5)
+O4624;I;;p.1, p.9;Pixel-level visual AD in a continual-learning setting where the input distribution changes over time; several AD methods adapted with replay (R3)
+O4881;I;;pp.1-2;Systematic benchmark of unsupervised AD methods for assembled-PCB inspection under a strict one-class protocol with default configurations reflecting deployment, including a high-density real assembly dataset (R8)
+O5167;I;;pp.1, 3, 12;Concept extraction for CNNs in industrial quality control so that experts can detect biases, shortcut features and data leakage (R8)
+P11;I;;pp.1, 5, 15;Domain adaptation for corrosion segmentation in infrastructure (locks, dams) from laboratory to real-world images; label-noise effects noted as untested (R3)
+O1385;X;FT05;pp.1-3;Spanish-language doctoral thesis on ML seismic exposure/vulnerability from remote sensing (Lorca, Port-au-Prince); outside the English full-text restriction; context (building stock exposure) is also doubtful for asset inspection

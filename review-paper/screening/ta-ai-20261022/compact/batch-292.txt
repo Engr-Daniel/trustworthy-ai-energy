@@ -1,0 +1,50 @@
+O4851;X;TA05;Noise-scale anomaly synthesis (title only)
+O4852;X;TA05;Feature fusion attention AD (title only)
+O4853;X;TA05;Parameter-efficient multi-class AD (title only)
+O4854;X;TA05;Mixed-attention autoencoder multi-class AD
+O4855;X;TA01;Medical-only GAN AD (title only)
+O4856;X;TA05;Object-detection surface defect systematic review; no reliability focus
+O4857;F;;Continual AD for dynamic industrial settings with emerging products, defects and operating modes (R3); verify shift framing (consistent with O4624)
+O4858;X;TA05;Wavelet prompt zero-shot AD
+O4859;X;TA05;Multi-channel distillation segmentation
+O4860;X;TA05;Fractal pre-training for AD; data privacy
+O4861;X;TA05;Hierarchical flow few-shot AD; domain adaptation to new categories (note 2)
+O4862;X;TA05;LoRA defect augmentation (title only)
+O4863;X;TA05;Deployment-oriented memory inspection of moulded parts (title only)
+O4864;X;TA05;Input-reference unified AD
+O4865;X;TA05;Cross-channel projection anomaly segmentation
+O4866;X;TA05;Gaussian mixture flow unified AD (title only)
+O4867;X;TA05;Reflective surface anomaly detection; accuracy-oriented
+O4868;X;TA05;Hierarchical CLIP zero-shot AD
+O4869;X;TA05;Wavelet restoration module (title only)
+O4870;X;TA05;Contradiction one-class classification (title only)
+O4871;X;TA05;Multi-level feature adaptation zero-shot AD
+O4872;X;TA05;SAM zero-shot logical AD (title only)
+O4873;X;TA05;Wavelet MoE prompt zero-shot AD
+O4874;X;TA05;Controllable anomaly generator
+O4875;X;TA05;Serial distillation AD
+O4876;X;TA05;Normal-semantics GAN AD
+O4877;X;TA05;Mean-shift novelty detection
+O4878;X;TA05;Adaptive patch control localisation
+O4879;X;TA05;Reconstruction distillation AD (title only)
+O4880;X;TA05;Time-aware diffusion multi-class AD
+O4881;F;;Systematic benchmark of unsupervised AD methods for assembled-PCB inspection under strict one-class protocol (R8); verify
+O4882;X;TA01;Human monitoring region anomalies
+O4883;X;TA05;Segment-element AD
+O4884;X;TA05;Memory flow AD (title only)
+O4885;X;TA05;Logical anomaly synthesis
+O4886;X;TA01;Video anomaly detection (note 7)
+O4887;X;TA05;Attention ASPP surface AD (title only)
+O4888;X;TA05;Morphological transformation AD
+O4889;F;;Unsupervised IAD using paired well-lit and low-light images (R3 illumination); verify
+O4890;X;TA05;Multi-modal prompt zero-shot AD
+O4891;X;TA05;Multi-frequency structure AD for wild backgrounds; accuracy-oriented
+O4892;X;TA05;Multi-layer PatchCore PCB (title only)
+O4893;X;TA05;Class- and state-agnostic zero-shot IAD (title only)
+O4894;X;TA05;Model-compression benchmark for IoT VAD; efficiency trade-off, not data reliability
+O4895;X;TA05;Gated autoencoder nearest-neighbour AD (title only)
+O4896;X;TA05;Multiresolution transformer AD (title only)
+O4897;X;TA05;Kernel RPCA defect detection
+O4898;X;TA01;Medical-only CLIP AD
+O4899;X;TA05;Differential distillation AD
+O4900;X;TA05;VAE anomaly localisation

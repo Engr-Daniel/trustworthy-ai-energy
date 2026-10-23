@@ -1,0 +1,50 @@
+O0451;X;TA05;Post-earthquake building damage CNN-BiGRU; not inspection reliability evaluation
+O0452;X;TA01;Medical histology artifact uncertainty
+O0453;F;;Fusion of NDT classifiers for underwater structure defect detection (R6 multimodal) (title only)
+O0454;X;TA01;Archaeology review
+O0455;X;TA03;Nuclear ML platform; not inspection
+O0456;X;TA01;Materials microstructure classification
+O0457;X;TA03;Food HACCP AI review
+O0458;X;TA05;Batik defect CNN comparison; accuracy
+O0459;X;TA03;AM process monitoring review (general); reliability not central
+O0460;B;;PRISMA-guided review of computational intelligence for in-service bridge assessment; core-context review
+O0461;X;TA01;Satellite earthquake damage detection; not asset inspection AI reliability
+O0462;X;TA05;Robotic inspection with digital-twin fatigue prognosis; uncertainty in fracture model, not inspection model
+O0463;X;TA05;GNN reserve capacity from simulated point clouds; not inspection reliability
+O0464;X;TA01;Seismic gas hydrate imaging
+O0465;X;TA02;Tabular rapid visual screening scores
+O0466;X;TA05;Transfer learning bearing lubricant corrosion (title only)
+O0467;X;TA03;Composite PSP UQ (title only)
+O0468;X;TA05;Active learning to reduce annotation in vision gear monitoring (note 8)
+O0469;B;;Review of AI tunnel leakage detection with multimodal fusion (title only)
+O0470;F;;Parallel SVM-CNN cross-evaluation to trace and check classifier decisions in composite inspection (R7/R2)
+O0471;X;TA02;Floor vibration source detection
+O0472;X;TA05;Faster R-CNN pick-and-place CPS; not inspection reliability
+O0473;X;TA05;Crack entropy measures for seismic damage (title only)
+O0474;X;TA05;Compressed-sensing reconstruction robustness for microwave/pipeline imaging; not inspection-model reliability
+O0475;X;TA02;Acoustic-emission source localisation BNN; non-visual
+O0476;X;TA01;SAR SHM chapter (title only)
+O0477;F;;Manometer reading by inspection robots robust to viewpoint, lighting and scale variation (R3)
+O0478;X;TA02;Offshore jacket damage detection under environmental uncertainty; likely vibration-based (title only)
+O0479;X;TA01;Agricultural tomato grading
+O0480;X;TA05;CNN damage detection supporting residual capacity assessment; reliability not evaluated
+O0481;X;TA05;RetinaNet ceramic bearing defects; accuracy
+O0482;X;TA03;Glass chemistry ML
+O0483;X;TA03;Version of O0455
+O0484;F;;Online ML check of optical weld measurement setup maintaining measurement uncertainty under changing conditions (R1/R6)
+O0485;X;TA01;UAV visual servoing control
+O0486;X;TA02;Condition monitoring PdM (title only)
+O0487;X;TA05;CNN crack dimension regression; accuracy
+O0488;X;TA01;Medical lateral flow tests
+O0489;X;TA05;Statistical melt-pool time-series anomaly detection; thresholds via hypothesis testing, no reliability evaluation beyond detection
+O0490;X;TA05;Multimodal perception in robotic manufacturing (title only)
+O0491;F;;Ship deficiency image pre-screening with leakage-controlled partitions and adaptive thresholds for risk-oriented inspection (R8/R2)
+O0492;X;TA05;Solar cell inline characterisation thesis; not reliability-focused
+O0493;X;TA01;Radar georeferencing for geomonitoring
+O0494;X;TA05;Satellite hazard monitoring around substations; not asset defect inspection reliability
+O0495;X;TA03;Alloy design
+O0496;X;TA01;VLA navigation hallucination detection
+O0497;B;;Monograph framework for quantum-materials defect detection with calibration and selective prediction; methodological background (non-empirical)
+O0498;B;;Editorial on generative AI/VLM grounding and verification in maintenance; framing background (R7)
+O0499;X;TA03;Concrete hydration heat prediction (title only)
+O0500;X;TA05;Fatigue life regression from micrographs with uncertainty on synthetic data; not inspection

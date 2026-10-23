@@ -1,0 +1,50 @@
+O5101;X;TA05;Egocentric vision for industrial inspection (title only)
+O5102;X;TA05;Fusion-restoration multimodal AD (title only)
+O5103;X;TA05;Patch-to-pixel diffusion localisation
+O5104;X;TA01;Medical 3D printed vascular model
+O5105;X;TA01;Face de-identification
+O5106;X;TA01;CNN evaluation on embedded accelerator
+O5107;X;TA05;VCP-CLIP stabilisation
+O5108;X;TA01;Pupillary distance measurement
+O5109;X;TA01;Iris recognition
+O5110;X;TA05;Interpretable multimodal semantic IAD (title only)
+O5111;X;TA05;DINO-refined CLIP anomaly maps
+O5112;X;TA05;Inpainting anomaly generation (title only)
+O5113;X;TA05;Training-free few-shot defect classification
+O5114;X;TA05;Contrastive unified AD framework
+O5115;X;TA05;Steel wire unsupervised CNN
+O5116;X;TA05;Traffic equipment distillation AD
+O5117;X;TA05;Foundation-model multi-class AD
+O5118;X;TA05;AI AD for smart manufacturing (title only)
+O5119;F;;Unsupervised anomaly detection and segmentation on dirty (contaminated) industrial training sets (R4)
+O5120;X;TA05;Structural engineering ML review (title only)
+O5121;X;TA05;Fine-grained perception AD (title only)
+O5122;X;TA05;Thin-plate spline proxy task AD
+O5123;F;;Self-trained one-class classification for fully unlabelled data containing anomalies (R4); verify image evaluation
+O5124;X;TA05;Denoising autoencoder fabric defects
+O5125;X;TA05;Point-annotation anomaly localisation
+O5126;X;TA05;Multi-scale reverse distillation (title only)
+O5127;X;TA02;Piezoelectric susceptance damage detection; non-visual
+O5128;X;TA05;MAE rail insulator defect detection
+O5129;X;TA05;Fourier heat-map perturbation analysis of PaDiM; frequency sensitivity, not deployment shift
+O5130;X;TA05;Two-stream reverse distillation
+O5131;X;TA05;Component-level feature enhancement IAD
+O5132;X;TA05;Feature-patching Deep SVDD
+O5133;X;TA05;Patch distance autoencoder (title only)
+O5134;X;TA05;Cross-image transfer for texture AD; false-detection reduction, accuracy-oriented
+O5135;F;;MSC-AD multi-scene casting dataset exposing gap between general benchmarks and industrial scenes (R8/R3); verify (consistent with O4572)
+O5136;X;TA05;Produce-once utilise-twice AD
+O5137;X;TA05;Cross-scale denoising distillation
+O5138;X;TA05;Multi-category anomaly editing
+O5139;X;TA05;Weakly supervised defect localisation
+O5140;X;TA05;Lightweight reconstruction network
+O5141;X;TA05;Non-coupled student fusion (title only)
+O5142;X;TA05;Multi-view attention surface defects
+O5143;X;TA05;Endogenous enhancement GAN (title only)
+O5144;X;TA05;Dynamic multi-expert continual AD (title only, consistent with O4776)
+O5145;X;TA05;Few-shot defect image generation
+O5146;X;TA01;Image semantic communication
+O5147;X;TA05;Proxy-task few-shot IAD
+O5148;X;TA05;Screw rotational imaging framework
+O5149;X;TA05;VQ-VAE inner metrics AD
+O5150;X;TA05;Adaptive loss weighting distillation

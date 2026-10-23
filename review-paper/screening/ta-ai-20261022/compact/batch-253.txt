@@ -1,0 +1,50 @@
+O2901;X;TA04;Editorial (AI-based energy storage)
+O2902;X;TA01;Aviation tutoring systems (2000)
+O2903;X;TA04;Special issue introduction (IoT/CPS)
+O2904;X;TA04;Editorial and news
+O2905;X;TA01;ChatGPT dermatopathology
+O2906;X;TA01;Triboelectric sensors
+O2907;X;TA01;Paper mills and research integrity
+O2908;X;TA01;Library AI agents
+O2909;X;TA01;Smart healthcare
+O2910;X;TA01;Food industry cybersecurity
+O2911;X;TA01;Generative AI regulation commentary
+O2912;X;TA04;Book review
+O2913;X;TA01;Low-code study data
+O2914;X;TA04;Book review
+O2915;X;TA04;Editorial (education)
+O2916;X;TA01;Podcast episode
+O2917;X;TA01;Podcast episode; same-title record (note 6)
+O2918;X;TA01;E-government data quality
+O2919;X;TA04;Editorial (marketing)
+O2920;X;TA01;N=1 therapy report
+O2921;X;TA01;Non-scholarly manifesto
+O2922;X;TA01;Non-scholarly doctrine
+O2923;X;TA04;Index paratext
+O2924;X;TA01;Disability services
+O2925;X;TA01;Geriatric care
+O2926;X;TA01;Political essay
+O2927;X;TA01;Literary essay
+O2928;X;TA01;Nursing competition report
+O2929;X;TA04;Keyword index
+O2930;X;TA01;Poem
+O2931;X;TA01;Style guide entry
+O2932;B;;Review of computer vision for oil and gas pipeline asset inspection; core-context (energy) review
+O2933;B;;Systematic review of deep learning for aero-engine blade defect detection; core-context review
+O2934;B;;Review of computer-vision bridge inspection and monitoring; core-context review
+O2935;B;;Systematic review of machine-vision railway defect detection; core-context review
+O2936;B;;Systematic survey of deep image anomaly detection in industrial inspection; core-context review
+O2937;B;;Review of drone and deep-learning wind turbine blade inspection; core-context (energy) review
+O2938;B;;State-of-the-art review of machine-vision defect detection; core-context review
+O2939;B;;Review of CNN surface defect detection in manufacturing; core-context review
+O2940;B;;Systematic review of computer vision for end-of-line antenna part inspection; core-context review
+O2941;B;;Review of computer vision for solar panel defect recognition; core-context (energy) review
+O2942;B;;Review of deep learning for solar panel fault detection; core-context (energy) review
+O2943;X;TA04;Peer-review report
+O2944;X;TA04;Peer-review report; same-title record (note 6)
+O2945;X;TA04;Peer-review report; same-title record (note 6)
+O2946;B;;Survey of deep learning for aircraft surface defect detection; core-context review
+O2947;B;;Review of metal surface defect detection technologies; core-context review
+O2948;B;;Survey of vision-based steel surface defect detection; core-context review
+O2949;B;;Systematic review of AI with infrared thermography for concrete defect detection; core-context review
+O2950;B;;Review of AI and computer vision for railway track safety; core-context review

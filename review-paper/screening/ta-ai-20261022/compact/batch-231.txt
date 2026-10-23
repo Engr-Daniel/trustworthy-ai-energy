@@ -1,0 +1,50 @@
+O1801;X;TA01;Cross-domain synthesis of anomaly detection interpretability across network, financial and cyber-physical data; not visual asset inspection
+O1802;X;TA01;Medical-only PET imaging AI
+O1803;F;;Domain adaptation for cross-scenario strip steel defect recognition (R3) (title only)
+O1804;X;TA01;Medical-only segmentation domain adaptation (note 7)
+O1805;X;TA05;Distillation-based fabric anomaly detection; accuracy-oriented
+O1806;F;;Infrastructure deterioration level estimation with noisy multi-engineer labels via DivideMix (R4)
+O1807;X;TA01;Surveillance video anomaly detection (note 7)
+O1808;X;TA01;Medical-only OOD detection for breast screening (note 7)
+O1809;X;TA03;Training-free image processing for PV thermal anomaly pre-annotation; no learned model
+O1810;B;;Methodological bridge (vision-based control): reachability-based runtime monitor detecting OOD-induced system-level failures; transferable runtime-assurance design (R2/R3)
+O1811;X;TA01;Medical-only chest X-ray classification
+O1812;X;TA02;Domain-generalised rotary machine fault diagnosis; non-visual
+O1813;F;;VAND 3.0 challenge on anomaly detection robust to real-world distribution shifts (R3/R8)
+O1814;F;;UAV/UGV unsupervised domain-adaptive crack recognition to real sites (R3); probable version of O1538, linkage to verify
+O1815;B;;Adjacent non-visual: transfer learning with domain alignment and Bayesian range estimation for corrosion inference from crack widths; transferable shift/uncertainty method (R1/R3, note 5)
+O1816;X;TA01;Post-disaster satellite building damage assessment; not asset inspection (consistent with O1709)
+O1817;B;;Adjacent imaging NDT (GPR B-scans): few-shot detection with cross-domain generalisation; transferable shift method (consistent with O1550)
+O1818;X;TA05;Church crack detection; accuracy-oriented
+O1819;X;TA05;RGB-IR PV anomaly classification pipeline; no reliability evaluation
+O1820;F;;Domain-adaptive laser point-cloud synthesis for fibre-placement defect detection (R3) (title only)
+O1821;F;;Multi-scale domain-adversarial YOLOv8 for online soft-packaging defect detection (R3)
+O1822;F;;Cross-domain RGB-to-3D anomaly detection transfer (R3)
+O1823;X;TA05;Fine-tuning bias in CLIP Gaussian AD; adaptation effect on accuracy, no shift evaluation
+O1824;X;TA01;Monocular 3D detection domain adaptation for driving scenes (note 7)
+O1825;F;;Domain-adapted CNNs for weld classification (R3) (title only)
+O1826;X;TA01;Outside asset-inspection context: plant disease detection
+O1827;X;TA05;Adapting foundation models to sewer defect classification; task adaptation, no shift framing (title only)
+O1828;X;TA05;ML tool for electron-microscopy nanomaterial analysis; no reliability evaluation
+O1829;X;TA02;Cross-condition acoustic fault diagnosis via spectrograms; non-optical signal representation
+O1830;F;;Evaluation of infrared thermography dataset for bridge-deck delamination detection (R8); verify evaluation design
+O1831;B;;Survey of real-world industrial defect detection incl. open-set frameworks; preprint of O1514 (note 6)
+O1832;X;TA05;CPS architecture for UAV PV late-fusion inspection; no reliability evaluation
+O1833;X;TA05;Semantic augmentation for PV EL defect recognition; no reliability signalled (title only)
+O1834;X;TA05;Noise-injection multi-discriminator anomaly detection; no reliability signalled (title only)
+O1835;X;TA02;Review of neural-network bearing fault diagnosis; non-visual
+O1836;B;;Adjacent imaging NDT (ultrasonic phased-array TFM images): domain adaptation for pipeline weld defect recognition; transferable shift method (note 5)
+O1837;X;TA01;Generic image segmentation review (title only)
+O1838;X;TA01;Generic image processing review
+O1839;F;;Domain-aware augmentation for industrial anomaly detection under production-environment shift (R3); verify evaluation
+O1840;X;TA05;Analysis of VLM anomaly classification/segmentation methods; no reliability dimension
+O1841;F;;Cross-site generalisation of tunnel point-cloud element classification (R3)
+O1842;F;;Domain adaptation of corrosion assessment from indoor to outdoor images (R3); journal version of O1541, linkage to verify
+O1843;X;TA02;Zero-shot bearing fault diagnosis; non-visual (title only)
+O1844;X;TA05;Post-hoc false-positive classifier for unsupervised AD (consistent with O1639)
+O1845;X;TA05;Synthetic CAD data for assembly inspection; no shift evaluation signalled
+O1846;X;TA02;Rolling-bearing time-frequency images across conditions; non-optical signal representation
+O1847;X;TA02;Cross-condition few-shot fault diagnosis; non-visual
+O1848;X;TA01;Medical-only endoscopy edge system
+O1849;X;TA05;Wear-particle microscopy multi-task classification; no reliability evaluation
+O1850;X;TA05;Ensemble EfficientNet PV fault classification; ensemble not used for uncertainty

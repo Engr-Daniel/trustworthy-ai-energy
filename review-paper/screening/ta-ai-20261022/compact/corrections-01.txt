@@ -1,0 +1,5 @@
+# Recoded 2026-10-22 under screening note 8; original decisions remain in packet-01.csv
+C0064;X;TA05;Uncertainty/representativeness active learning for bottle defect labelling efficiency; uncertainty not evaluated as output; annotation workflow described, not evaluated (note 8)
+C0053;X;TA05;Uncertainty-guided annotation selection for minimal-annotation defect detection; labelling efficiency (note 8) (title only)
+O0015;X;TA05;MC-dropout uncertainty sampling for active-learning crack segmentation; labelling efficiency only (note 8)
+C0049;B;;Historical: knowledge-based uncertainty management for defect classification in automated visual inspection (1997); fails learned-model condition, kept for lineage of uncertainty handling (note 11)

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api//+nWk1Iun4qg20aCoasIIcLxLSQ</id>
+  <title>arXiv Query: search_query=ti:"Trimming the Risk Towards Reliable Continuous Training for Deep Learning Inspection Systems"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:22:00Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Trimming+the+Risk+Towards+Reliable+Continuous+Training+for+Deep+Learning+Inspection+Systems%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2409.09108v1</id>
+    <title>Trimming the Risk: Towards Reliable Continuous Training for Deep Learning Inspection Systems</title>
+    <updated>2024-09-13T15:02:13Z</updated>
+    <link href="https://arxiv.org/abs/2409.09108v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.09108v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The industry increasingly relies on deep learning (DL) technology for manufacturing inspections, which are challenging to automate with rule-based machine vision algorithms. DL-powered inspection systems derive defect patterns from labeled images, combining human-like agility with the consistency of a computerized system. However, finite labeled datasets often fail to encompass all natural variations necessitating Continuous Training (CT) to regularly adjust their models with recent data. Effective CT requires fresh labeled samples from the original distribution; otherwise, selfgenerated labels can lead to silent performance degradation. To mitigate this risk, we develop a robust CT-based maintenance approach that updates DL models using reliable data selections through a two-stage filtering process. The initial stage filters out low-confidence predictions, as the model inherently discredits them. The second stage uses variational auto-encoders and histograms to generate image embeddings that capture latent and pixel characteristics, then rejects the inputs of substantially shifted embeddings as drifted data with erroneous overconfidence. Then, a fine-tuning of the original DL model is executed on the filtered inputs while validating on a mixture of recent production and original datasets. This strategy mitigates catastrophic forgetting and ensures the model adapts effectively to new operational conditions. Evaluations on industrial inspection systems for popsicle stick prints and glass bottles using critical real-world datasets showed less than 9% of erroneous self-labeled data are retained after filtering and used for fine-tuning, improving model performance on production data by up to 14% without compromising its results on original validation data.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-13T15:02:13Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Altaf Allah Abbassi</name>
+    </author>
+    <author>
+      <name>Houssem Ben Braiek</name>
+    </author>
+    <author>
+      <name>Foutse Khomh</name>
+    </author>
+    <author>
+      <name>Thomas Reid</name>
+    </author>
+  </entry>
+</feed>

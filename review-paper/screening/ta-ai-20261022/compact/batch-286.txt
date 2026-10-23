@@ -1,0 +1,50 @@
+O4551;X;TA05;Positive-unlabelled few-shot AD (title only)
+O4552;X;TA05;WinCLIP for indoor building defects; accuracy-oriented
+O4553;X;TA05;Normal-reference attention defect detection
+O4554;X;TA05;Physics-aware defect generation (title only)
+O4555;F;;Evaluation of AD methods on metal parts under complex real-world acquisition conditions beyond MVTec-style settings (R3/R8)
+O4556;X;TA05;VLLM logical AD; accuracy-oriented
+O4557;X;TA05;Defect synthesis IAD (title only)
+O4558;X;TA05;Concrete defect autoencoder (title only)
+O4559;X;TA01;Facial emotion recognition
+O4560;X;TA01;Supermarket goods AD dataset
+O4561;X;TA05;CLIP multimodal defect classification
+O4562;X;TA05;Optimal transport few-shot IAD
+O4563;X;TA01;Generic zero-shot object-level OOD detection
+O4564;X;TA05;Multi-sensor AD dataset; fusion of complementary sensors, not sensor failure
+O4565;X;TA05;DIC crack segmentation with BIM
+O4566;X;TA05;Frozen DINOv2 PV EL anomaly detection; no reliability framing
+O4567;X;TA05;Mask-guided augmentation (title only)
+O4568;X;TA05;Lightweight unified AD
+O4569;X;TA05;Point-cloud PatchCore for masonry bridge cracks
+O4570;X;TA05;Battery surface AD dataset (title only)
+O4571;X;TA01;Generic steerable representations (title only)
+O4572;F;;Casting surface dataset emphasising domain diversity in real data for subtle defects (R3/R8); verify
+O4573;X;TA05;SAM adaptation for AD (title only)
+O4574;X;TA05;Synthetic anomaly generation (title only)
+O4575;X;TA05;Meta-learning wind turbine few-shot defect detection; data scarcity
+O4576;X;TA02;Radar clutter target detection; non-visual
+O4577;X;TA05;Multi-level structure AD
+O4578;X;TA05;Memory autoencoder AD
+O4579;X;TA05;Physics simulation pre-training for door defects
+O4580;X;TA05;Pharmaceutical tablet CNN (title only)
+O4581;X;TA05;Long-tailed AD with learnable class names; class imbalance, not reliability
+O4582;X;TA05;Mamba-UNet surface defects
+O4583;X;TA01;Network traffic anomaly detection
+O4584;X;TA05;Large-small model collaboration IAD
+O4585;X;TA05;Batch zero-shot IAD (title only)
+O4586;F;;Adaptive deviation learning for visual AD under training-data contamination (R4)
+O4587;X;TA05;Aircraft screen self-supervised AD
+O4588;X;TA05;KNN autoencoder outlier detection (title only)
+O4589;X;TA05;VLM differential train surface AD; accuracy-oriented
+O4590;X;TA05;Federated multimodal IIoT anomaly detection; privacy, not reliability
+O4591;X;TA05;Denoising autoencoder AD (title only)
+O4592;X;TA05;Dual-branch multi-class AD
+O4593;X;TA05;Hybrid YOLO defect classification
+O4594;X;TA05;Feature denoising autoencoder AD
+O4595;X;TA05;Memory-augmented GAN AD
+O4596;X;TA01;Driving anomaly instance segmentation benchmark (note 7)
+O4597;X;TA05;Manifold-constrained multi-class AD
+O4598;X;TA05;One-shot metal defect segmentation (title only)
+O4599;X;TA05;Augmentation framework AD
+O4600;X;TA05;Training-free multimodal zero-shot AD; cross-domain calibration is feature alignment (note 9)

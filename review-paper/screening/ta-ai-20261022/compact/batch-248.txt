@@ -1,0 +1,50 @@
+O2651;X;TA01;Histopathology colitis quantification
+O2652;X;TA01;Generic LVLM object hallucination analysis
+O2653;X;TA01;Political essay
+O2654;X;TA01;Urban tree risk assessment (title only)
+O2655;X;TA01;Cardiovascular adversarial defence
+O2656;X;TA02;Nonstationary process monitoring (title only)
+O2657;X;TA02;XAI predictive maintenance of induction motors; non-visual
+O2658;X;TA05;WSN and UAV aircraft SHM; no reliability evaluation
+O2659;X;TA02;3D mode-shape recognition from FE/measurement data; non-visual
+O2660;X;TA05;Smart drilling review
+O2661;X;TA01;Medical report generation interpretability review
+O2662;X;TA05;LLM insight generation in textile manufacturing
+O2663;X;TA02;Offshore process root-cause analytics; non-visual
+O2664;X;TA01;Neuron EM synthetic data
+O2665;X;TA01;Generic label-flipping poisoning detection
+O2666;X;TA01;Worker activity recognition for safety
+O2667;X;TA02;PMSM demagnetisation fault diagnosis (title only)
+O2668;X;TA01;Cytopathology human-machine teaming (title only)
+O2669;X;TA01;Pilot spatial disorientation
+O2670;X;TA03;Water conveyance tunnel safety technologies review
+O2671;X;TA05;AI preventive maintenance Industry 5.0 architecture
+O2672;X;TA01;Histological WSI segmentation
+O2673;X;TA01;Low-altitude infrastructure survey
+O2674;X;TA05;Manufacturability analysis (title only)
+O2675;F;;RAG-grounded multimodal damage analysis mitigating hallucination (R7); verify asset context
+O2676;X;TA05;AI and automation in manufacturing overview
+O2677;B;;Adjacent non-visual: detection of faulty sensors in bridge SHM data via GAF-CNN (R6, consistent with O2371)
+O2678;X;TA01;Vehicle damage assessment VLM grounding (consistent with O1630)
+O2679;X;TA01;Maritime compliance reasoning (title only)
+O2680;X;TA05;Machine vision in CPS; no reliability evaluation
+O2681;X;TA01;Anaesthesiology human-machine interface
+O2682;X;TA01;Teleoperation haptic feedback
+O2683;X;TA01;Podcast episode
+O2684;X;TA01;Generic AI security risk framework
+O2685;X;TA01;Parkinson visual hallucinations
+O2686;F;;Ceramic plate AI inspection deployment with worker acceptance assessment (R5 human factors); verify
+O2687;X;TA02;Grain temperature sensor preprocessing; non-visual
+O2688;X;TA01;Predictive maintenance curriculum
+O2689;X;TA05;Aligning human and machine attention in industrial AI; explainability (title only)
+O2690;X;TA01;Fault-tolerant flight control (2006)
+O2691;X;TA01;Human reliability analysis of interface errors (title only)
+O2692;F;;Augmented-intelligence human-machine decision support for subsea asset inspection (R5)
+O2693;X;TA01;Steel mill retrofitting design thinking
+O2694;X;TA01;Autonomous software architectures
+O2695;X;TA01;Welding worker safety gaze estimation
+O2696;X;TA05;Building audit framework (title only)
+O2697;X;TA01;Industrial informatics grand challenges
+O2698;X;TA01;Deepfake misinformation
+O2699;X;TA01;Blockchain quality management review
+O2700;X;TA02;Crack width prediction from SHM time series; non-visual

@@ -1,0 +1,50 @@
+O0901;X;TA02;Wireless strain-sensor SHM with incomplete data; non-image
+O0902;F;;Risk-aware multimodal agent for power equipment inspection with hybrid perception and environmental reasoning (R5/R6) (title only)
+O0903;X;TA03;Fire fragility curves (title only)
+O0904;X;TA03;Renewable grid ML editorial
+O0905;X;TA03;Literature list (PV survey)
+O0906;X;TA01;Reservoir development
+O0907;F;;Semantic segmentation with uncertainty quantification for facade delamination detection (R1) (title only)
+O0908;X;TA03;Literature list (PV survey)
+O0909;X;TA02;Travelling-wave waveform images for line fault diagnosis; non-optical
+O0910;X;TA01;Human-robot collaboration safety monitoring; not defect inspection
+O0911;X;TA02;Liquid moulding process-disturbance diagnosis from process data
+O0912;X;TA01;Medical equipment risk control
+O0913;X;TA03;Welding CFD review
+O0914;X;TA01;Shorebird condition monitoring
+O0915;X;TA03;PV/T coolant study
+O0916;X;TA01;Solar wind forecasting
+O0917;X;TA01;Medical uncertainty thesis
+O0918;X;TA02;Seismic time-series super-resolution
+O0919;X;TA01;Alfalfa yield
+O0920;X;TA01;Quaternion AI thesis (weather restoration generic)
+O0921;X;TA02;Guided-wave time-frequency images for deck cracks; non-optical
+O0922;X;TA01;Geological fracture hydrodynamics
+O0923;B;;Special section on probabilistic digital twins in AM quality and reliability; framing background
+O0924;X;TA03;Power system monitoring editorial
+O0925;X;TA02;Smart meter network estimation
+O0926;X;TA01;STM microscopy automation
+O0927;X;TA03;Multi-domain active learning review
+O0928;X;TA01;Aerosol retrieval
+O0929;X;TA03;Management handbook
+O0930;X;TA03;Quantum industrial intelligence monograph
+O0931;X;TA01;Chest X-ray dataset
+O0932;X;TA05;Digital-twin framework for UAV post-earthquake inspection; environmental uncertainty in acquisition but no inspection-model reliability evaluation
+O0933;X;TA03;Visualisation dissertation
+O0934;X;TA03;School infrastructure prioritisation
+O0935;X;TA01;Robot localisation in construction meshes
+O0936;X;TA05;AM accelerated qualification digital twins thesis; process uncertainty not inspection-model reliability
+O0937;X;TA03;Enhanced FMEA bridge risk
+O0938;X;TA05;Tunnel joint vulnerability localisation (title only)
+O0939;X;TA02;Digital twin PdM IIoT (title only)
+O0940;X;TA03;Forestry PV energy internet
+O0941;X;TA01;Radiotherapy dosimetry
+O0942;X;TA03;Naphtha cracking optimisation (title only)
+O0943;X;TA01;Astronomy software
+O0944;X;TA03;Review of AI for aluminium tooling lifecycle; transfer caveats, not inspection evidence
+O0945;B;;Critical review on measurement assurance for NDE 4.0 with uncertainty maps, qualification V-model and AI inference layers; framing background (R1/R8)
+O0946;X;TA03;Stereophotometry roughness measurement uncertainty; no learned model
+O0947;X;TA01;Quantitative MRI editorial
+O0948;X;TA05;YOLOv11 fuzzy attention pavement cracks; accuracy
+O0949;X;TA01;Factory mobile manipulation supervised autonomy; not inspection
+O0950;X;TA02;GIS partial-discharge PdM review; non-image

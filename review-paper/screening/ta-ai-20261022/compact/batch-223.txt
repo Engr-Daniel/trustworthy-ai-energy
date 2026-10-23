@@ -1,0 +1,50 @@
+O1401;X;TA01;Outside asset-inspection context: demography commentary
+O1402;X;TA01;Outside asset-inspection context: pharmacokinetic modelling
+O1403;X;TA01;Outside asset-inspection context: exoplanet habitability software
+O1404;X;TA04;Society news column
+O1405;X;TA04;Guest editorial (Industry 4.0 human-centricity)
+O1406;X;TA01;Outside asset-inspection context: essay
+O1407;X;TA04;Author index paratext
+O1408;X;TA04;Editorial guide to review articles
+O1409;X;TA01;Outside asset-inspection context: radiation oncology guidelines
+O1410;X;TA01;Outside asset-inspection context: thyroid surgery
+O1411;X;TA01;Outside asset-inspection context: speculative mathematics
+O1412;X;TA04;Closing remarks to featured collection
+O1413;X;TA01;Outside asset-inspection context: therapeutics essay
+O1414;X;TA04;Erratum
+O1415;X;TA04;Guest editorial (marketing)
+O1416;X;TA04;Book review
+O1417;X;TA04;Book reviews
+O1418;X;TA01;Outside asset-inspection context: workforce learning media analysis
+O1419;X;TA01;Outside asset-inspection context: clinical meta-analysis
+O1420;X;TA01;Outside asset-inspection context: clinical meta-analysis (same-title record, note 6)
+O1421;X;TA01;Outside asset-inspection context: yeast biology
+O1422;X;TA01;Outside asset-inspection context: internet policy
+O1423;X;TA04;Book reviews
+O1424;X;TA01;Outside asset-inspection context: radiotherapy chart checking
+O1425;X;TA01;Outside asset-inspection context: paediatric infectious diseases
+O1426;X;TA01;Outside asset-inspection context: philosophy of technology
+O1427;X;TA04;Table of contents paratext
+O1428;X;TA01;Outside asset-inspection context: stochastic processes
+O1429;X;TA04;Untitled introduction with no assessable content
+O1430;X;TA04;Guest editorial (supply chain transparency)
+O1431;X;TA01;Outside asset-inspection context: religious studies
+O1432;X;TA04;Guest editorial (power flow control)
+O1433;X;TA01;Outside asset-inspection context: mining community agreements
+O1434;X;TA01;Outside asset-inspection context: healthcare delivery
+O1435;X;TA01;Outside asset-inspection context: surgical training
+O1436;X;TA01;Outside asset-inspection context: Anthropocene essay
+O1437;X;TA04;Meeting abstracts volume
+O1438;X;TA01;Outside asset-inspection context: multiple sclerosis history
+O1439;X;TA01;Outside asset-inspection context: neuroscience essay
+O1440;X;TA01;Outside asset-inspection context: longevity essay
+O1441;X;TA01;Outside asset-inspection context: legal education
+O1442;X;TA04;Guest editorial (CSR)
+O1443;X;TA04;Index paratext
+O1444;X;TA04;Guest editorial (psychobiography)
+O1445;X;TA04;Guest editorial (careers and smart technology)
+O1446;X;TA01;Outside asset-inspection context: ethics of torture
+O1447;X;TA01;Outside asset-inspection context: colorectal surgery
+O1448;F;;Domain adaptation for steel surface defect visual inspection (R3) (title only, note 4)
+O1449;X;TA05;Few-shot steel defect detection framed as data scarcity, not distribution shift (note 2)
+O1450;X;TA05;Zero-shot CLIP IAD with test-time adaptation for hard anomaly types; no shift framing (note 2)

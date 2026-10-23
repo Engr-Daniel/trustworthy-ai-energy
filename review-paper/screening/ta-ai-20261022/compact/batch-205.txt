@@ -1,0 +1,50 @@
+O0501;X;TA02;Wind-turbine digital twin with simulation-based anomaly detection; non-visual
+O0502;X;TA02;Dam deformation forecasting from monitoring series; non-visual
+O0503;X;TA01;Medical imaging thesis
+O0504;X;TA01;Tourism risk identification
+O0505;X;TA05;Multimodal mine tunnel collapse susceptibility; calibration mentioned only in passing, not inspection reliability (verify not needed)
+O0506;F;;RGB-hyperspectral fusion crack segmentation targeting robust field predictions on embedded platforms (R6/R3)
+O0507;F;;Uncertainty correction for projecting multi-camera defect segmentations onto 3D reference geometry (R1)
+O0508;F;;Probabilistic image-based seismic damage monitoring of RC joints (R1) (title only)
+O0509;F;;AOI substrate defect classification handling uncertain and out-of-domain (unknown) defects under changing process conditions (R1/R3)
+O0510;F;;Version of O0484 (R1/R6)
+O0511;X;TA05;RF-DETR PCB benchmark result; explicitly no uncertainty interval
+O0512;X;TA03;AI conference proceedings (title only)
+O0513;X;TA05;Grid-inspection humanoid framework; uncertainty in state estimation, anomaly module not evaluated for reliability
+O0514;X;TA03;Ultrasonic TFM image simulation (title only)
+O0515;X;TA03;LMD thermal-image surrogate; not inspection
+O0516;X;TA02;Bridge deterioration modelling from inspection records; non-image
+O0517;F;;Preprint of O0249: MC-dropout uncertainty for reliable deep vision SHM triggering human intervention (R1/R5)
+O0518;X;TA01;Flood detection
+O0519;X;TA03;Melt-pool surrogate (title only)
+O0520;X;TA02;Multi-sensor strain/FBG SHM; non-visual
+O0521;X;TA05;Semi-supervised surface inspection (title only)
+O0522;B;;Review of PBF Ni-superalloy cracking assessing ML monitoring by calibration, label reliability and transferability; background (R8 framing)
+O0523;X;TA03;1998 AI-in-engineering proceedings
+O0524;X;TA05;UAV crack detection fused with FE surrogate (title only)
+O0525;X;TA02;FBG sensor SHM on synthetic data
+O0526;B;;Review of NDE and ML for AM lattice structures (title only)
+O0527;X;TA02;Ultrasonic crack sizing representation; non-image focus
+O0528;X;TA03;Probabilistic fatigue prediction (title only)
+O0529;X;TA01;VLM auditors of computer-use agents
+O0530;X;TA01;Mammography phantom QC
+O0531;F;;Active perception with deep RL for robotic damage inspection under occlusion/lighting uncertainty (R3) (title only; see O0541)
+O0532;F;;Grand challenge on cross-scenario defect detection in unseen production environments with severity grading (R3/R8)
+O0533;X;TA03;Financial risk assessment
+O0534;X;TA05;CNN defect detection in LPBF in-situ images; accuracy
+O0535;X;TA03;DED temperature prediction with UQ; not inspection
+O0536;B;;Review of bridge condition rating highlighting visual-inspection subjectivity and uncertainty; framing background
+O0537;X;TA03;Earthquake engineering DL review
+O0538;X;TA03;Mass concrete thermal cracking reliability simulation
+O0539;X;TA01;Dental AI
+O0540;X;TA02;Wellbore temperature logs
+O0541;F;;Active-vision deep RL robotic inspection addressing data-collection uncertainty (occlusion, lighting) (R3)
+O0542;X;TA01;Fisheries AI review
+O0543;X;TA03;Casting process robust design under uncertainty; not inspection
+O0544;F;;Railway bolt anomaly detection under environmental uncertainty (noise, illumination, viewpoint) (R3)
+O0545;X;TA05;Active-learning microstructure segmentation (materials analysis; note 8)
+O0546;X;TA01;Pathology screening validation
+O0547;X;TA02;Rapid visual screening of buildings from attribute data with uncertainty and thresholds; not image-based
+O0548;X;TA03;Conference proceedings (title only)
+O0549;X;TA01;Vehicle detection in thermography
+O0550;F;;In-situ layer-wise anomaly detection for DED certification addressing process uncertainty (R8 certification); verify reliability evaluation

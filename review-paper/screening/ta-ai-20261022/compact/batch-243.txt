@@ -1,0 +1,50 @@
+O2401;F;;Aerial road-damage grounding benchmark for VLMs and agents (R7/R8)
+O2402;X;TA05;Point-cloud robotic arm control; not inspection reliability
+O2403;F;;Credible anti-noise fault diagnosis network (R1); modality to verify (title only, note 4)
+O2404;X;TA05;Transfer learning for imbalanced substation thermal fault data; no reliability evaluation
+O2405;X;TA01;Commonsense visual anomaly benchmark from social media
+O2406;X;TA02;Ultraprecision machining monitoring from signals; non-visual
+O2407;X;TA05;RAG-enhanced LLM industrial anomaly detection; no visual reliability evaluation
+O2408;X;TA01;Smart home IoT anomaly detection
+O2409;X;TA04;Editorial (deep learning for industrial applications)
+O2410;F;;Interactive explanatory human-in-the-loop support system for industrial quality control (R5)
+O2411;X;TA01;Pharmaceutical manufacturing AI review
+O2412;X;TA02;PMSM demagnetisation diagnosis; non-visual
+O2413;X;TA01;Neuro-oncological imaging commentary
+O2414;X;TA05;CNN crack detection in nuclear steam-cycle remote visual inspection; accuracy-oriented
+O2415;X;TA05;Modified ConvNeXt PV fault diagnosis; no reliability signalled (title only)
+O2416;X;TA01;VLM self-assessment calibration in 3D scene authoring; not inspection
+O2417;X;TA05;Colour recognition in factory processes (title only)
+O2418;X;TA01;VANET intrusion detection
+O2419;X;TA01;Medical imaging dataset guidelines
+O2420;F;;Human-machine interaction during online inspection classifier training with imperfect labels (R4/R5); conference version of O2303 (note 13)
+O2421;X;TA05;Concept bottleneck explainable visual anomaly detection; explainability only
+O2422;X;TA05;Generic explainable vehicle inspection framework; no reliability evaluation
+O2423;F;;LVLM effectiveness assessment incl. industrial tasks; preprint of O2379 (note 13)
+O2424;X;TA01;UAS imaging and sensing book; not inspection reliability
+O2425;X;TA05;Carpet inspection data-collection design proposal
+O2426;F;;Interactive explanatory human-in-the-loop quality control; preprint of O2410 (note 13)
+O2427;X;TA05;Non-contact corrosion detection dissertation; no reliability signalled
+O2428;X;TA01;Automated exam proctoring
+O2429;X;TA01;3D visual grounding for embodied AI
+O2430;X;TA01;Marine image annotation assistant
+O2431;X;TA01;Agricultural apple defect XAI
+O2432;X;TA02;Random forest smart manufacturing tabular data; non-visual
+O2433;X;TA05;Review of AI in underwater welding (title only)
+O2434;X;TA01;Food safety detection system
+O2435;X;TA02;Process-variable fault classification; non-visual
+O2436;X;TA01;AI acceptance in construction
+O2437;X;TA01;UAS imaging and sensing book volume 1
+O2438;X;TA05;RL sequential wafer map measurement; efficiency, no reliability evaluation
+O2439;X;TA05;Noise-resilient SOM crack segmentation; consistent with O1983
+O2440;X;TA02;Rectifier fault diagnosis code record; non-visual
+O2441;X;TA01;Astronomy spectral vetting agent
+O2442;F;;Human-machine collaborative interpretable distillation for online defect detection (R5); verify (title only)
+O2443;X;TA01;Astronomy spectral vetting agent; same-title record (note 6)
+O2444;X;TA01;Autonomous vehicle secure communication
+O2445;X;TA05;LLM with explainable fuzzy inference for steel defect detection; explainability only (title only)
+O2446;X;TA01;Video anomaly detection explanations (note 7)
+O2447;X;TA01;Astronomy spectral vetting agent; same-title record (note 6)
+O2448;X;TA01;Database anomaly detection
+O2449;X;TA05;Comparative study of anomaly detection explainability frameworks; explainability only
+O2450;X;TA05;Neighbourhood-attention CNN PV IR diagnostics; reliability claimed without evaluation (note 1)

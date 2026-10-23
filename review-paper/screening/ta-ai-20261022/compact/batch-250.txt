@@ -1,0 +1,50 @@
+O2751;X;TA01;Cytopathology LLM review
+O2752;X;TA05;LLM/VLM knowledge graph for grid disaster risk; no reliability evaluation
+O2753;X;TA01;Food safety law review
+O2754;X;TA05;Ensemble and EigenCAM drone object detection; explainability, ensemble not for uncertainty
+O2755;X;TA01;Commercial video analytics platform description
+O2756;X;TA01;Flood dataset
+O2757;X;TA05;Rockfall structural dynamics review
+O2758;X;TA01;Flood dataset; same-title record (note 6)
+O2759;X;TA05;Smart casting robot system
+O2760;B;;Cyber-physical protocol for provenance and integrity of SHM inspection imagery; supporting evidence on input-data integrity for visual inspection
+O2761;X;TA01;AI software testing review
+O2762;X;TA01;Papyri ink detection report
+O2763;X;TA01;AI adoption chapter (title only)
+O2764;X;TA01;Deepfake detection
+O2765;X;TA01;Self-evolving digital twins chapter
+O2766;X;TA01;Flood dataset; journal record (note 6)
+O2767;X;TA05;SHM systems with AI and digital twins (title only)
+O2768;X;TA05;Shoe tongue locating machine; classical image processing
+O2769;X;TA01;Multi-sensor localisation
+O2770;X;TA01;UAV intrusion detection survey (title only)
+O2771;X;TA01;UAV intrusion detection survey
+O2772;X;TA01;UAV intrusion detection survey; same-title record (note 6)
+O2773;X;TA05;Hierarchical occlusion heatmaps; explainability only
+O2774;F;;LMM agentic X-ray NDT analysis with critical self-assessment for reliability (R1/R7)
+O2775;X;TA01;Robot manipulator shared control
+O2776;X;TA01;Misleading chart QA
+O2777;X;TA01;Networked systems formal verification
+O2778;X;TA01;Liver cirrhosis XAI
+O2779;X;TA01;Unsafe behaviour detection (title only)
+O2780;X;TA04;Proceedings title page
+O2781;X;TA01;Small satellite autonomy
+O2782;X;TA01;Livestock health monitoring
+O2783;X;TA01;Project management safety thesis
+O2784;X;TA01;Medical-only chest radiograph labels
+O2785;X;TA01;Precision agriculture digital twin
+O2786;X;TA05;AI condition reporting case study for train maintenance; no reliability evaluation
+O2787;X;TA01;Generic parameter-efficient VLM adaptation
+O2788;X;TA01;Flood monitoring
+O2789;X;TA01;Landslide disaster response
+O2790;X;TA01;Landslide disaster response; same-title record (note 6)
+O2791;X;TA01;Eye centre localisation
+O2792;X;TA01;AI software assembly failure taxonomy
+O2793;X;TA01;Industry 5.0 service migration
+O2794;X;TA02;Multivariate time-series failure prediction; non-visual
+O2795;X;TA01;Manual assembly activity recognition
+O2796;X;TA05;Educational sorting demonstrator
+O2797;X;TA01;Invasive insect egg detection
+O2798;X;TA01;Smart factory AGV trust framework
+O2799;X;TA01;Clinical data engineering
+O2800;X;TA01;Off-road freespace detection (title only)

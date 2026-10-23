@@ -1,0 +1,50 @@
+O0951;X;TA05;In-situ FFF fault detection with optical camera; process uncertainty motivation, no reliability evaluation
+O0952;X;TA03;Geopolymer concrete durability prediction
+O0953;X;TA02;Transformer insulation ageing Bayesian digital twin (title only)
+O0954;X;TA03;Data science manufacturing special issue editorial
+O0955;X;TA03;Complementary NDT (InSAR, GPR) for road resilience; no learned inspection model
+O0956;X;TA03;Electromagnetic tomography reconstruction GAN; not inspection reliability
+O0957;X;TA01;ECG foundation model calibration
+O0958;X;TA01;EEG augmentation
+O0959;X;TA02;PdM review for power infrastructure (sensor-centric)
+O0960;X;TA03;Bridge flood fragility
+O0961;X;TA01;Cloud capacity forecasting
+O0962;B;;Comprehensive review of AI-driven SHM incl. vision-based inspection; core-context review
+O0963;X;TA03;Monograph on multimodal infrastructure analytics governance
+O0964;X;TA01;Cardiology guidelines
+O0965;X;TA05;Active learning via pixel difficulty for distress segmentation (note 8) (title only)
+O0966;X;TA03;Nanocomposite manufacturing review
+O0967;X;TA01;Data centre management
+O0968;X;TA03;Coke drum integrity decision framework; no image AI evidence
+O0969;X;TA01;Brain imaging editorial
+O0970;X;TA03;Damage mechanics calibration dataset
+O0971;X;TA03;Water-in-crude analytical methods review
+O0972;X;TA01;Urban heat island
+O0973;X;TA03;Concrete design multi-agent system
+O0974;X;TA02;Shield tunnelling strata identification from vibration spectrograms
+O0975;X;TA01;Electrochemical microscopy
+O0976;B;;Review of agentic AI for SHM, robotics and digital twins incl. trustworthy autonomy and uncertainty-aware decisions; framing background
+O0977;X;TA04;Correction notice
+O0978;X;TA03;Human-robot collaboration special issue editorial
+O0979;X;TA01;Brain MRI
+O0980;X;TA05;Gaussian-splatting bridge reconstruction (title only)
+O0981;X;TA03;HSE governance and leak detection review; not image inspection evidence
+O0982;B;;Critical narrative review of YOLO road crack detection incl. evaluation, cross-domain and calibration issues; core-context review (R8)
+O0983;X;TA03;Wildfire ignition probability near power lines; not inspection model reliability
+O0984;X;TA01;Urdu OCR dataset
+O0985;B;;Critical review of PV diagnostics-to-maintenance frameworks incl. imaging, AI and domain shift; energy-context review
+O0986;X;TA03;Industrial water treatment AI review
+O0987;X;TA03;Green value stream mapping
+O0988;X;TA01;Medical retinopathy (title only)
+O0989;X;TA03;Phishing homograph detection
+O0990;X;TA01;Human motion analysis
+O0991;X;TA01;Reservoir development
+O0992;X;TA02;Tool wear monitoring review
+O0993;X;TA05;Infrared small-object YOLO with box positional uncertainty in loss (note 9); not defect inspection reliability
+O0994;X;TA02;Aircraft storage state estimation from telemetry
+O0995;X;TA02;Transformer reliability from failure data
+O0996;X;TA05;Quality risk early warning MCDM with proxy anomaly datasets; not inspection reliability evaluation
+O0997;X;TA03;ISS thermal surrogate
+O0998;X;TA03;Fuzzy MCDM for selecting AI tools
+O0999;X;TA03;Mineral thermal analysis (title only)
+O1000;X;TA03;Composite virtual manufacturing

@@ -1,0 +1,50 @@
+O2051;X;TA05;Domain-specific MLLM for power inspection; task adaptation without shift evaluation (consistent with O1827)
+O2052;F;;Explainable AI revealing Clever Hans effects in unsupervised (incl. anomaly detection) models (R8 evaluation validity); verify industrial evaluation
+O2053;X;TA01;Medical-only ECG classification
+O2054;F;;Generative approach to generalise pavement distress segmentation (R3) (title only)
+O2055;X;TA01;Medical-only ultrasound explainability audit under shift
+O2056;X;TA01;Precision agriculture and remote sensing label efficiency
+O2057;X;TA05;Pose-estimation pipeline for flexible quality inspection; accuracy-oriented
+O2058;X;TA05;Active learning to prioritise inspection annotation; uncertainty used internally (note 8)
+O2059;X;TA01;Outside asset-inspection context: vineyard inspection
+O2060;X;TA05;Real-time gear classification; accuracy and speed
+O2061;X;TA01;FPGA CNN accelerator radiation reliability; not inspection model reliability
+O2062;F;;Camera-LiDAR pavement fault detection with domain generalisation (R3/R6); record is a talk, verify linked report
+O2063;X;TA01;Astronomy deep-learning commentary (title only)
+O2064;F;;Neuro-symbolic defect classification using cross-modal disagreement and retrieval augmentation (R1/R7) (title only)
+O2065;X;TA02;Spindle thrust bearing fault diagnosis; non-visual (title only)
+O2066;X;TA01;Generic real-time object detection framework
+O2067;X;TA01;Medical-only ultrasound quality metrics (title only)
+O2068;X;TA05;Semi-supervised UAV pavement distress detection; label efficiency (title only)
+O2069;B;;Adjacent imaging NDT (GPR): GAN-based sim-to-real domain adaptation for target detection (note 12)
+O2070;X;TA01;Generic cross-domain visual transfer network; no inspection context
+O2071;X;TA05;Sparse-representation electrical equipment recognition; noise robustness claimed without shift evaluation
+O2072;X;TA02;Injection moulding cycle-level process dataset; non-visual
+O2073;X;TA01;High-entropy alloy design review
+O2074;X;TA01;Crop protein prediction domain adaptation
+O2075;X;TA01;RF classification on degraded hardware for aircraft; not inspection
+O2076;X;TA01;Wildfire image dataset; not asset inspection
+O2077;X;TA01;Flood scene generation for disaster response
+O2078;X;TA04;Conference call for papers
+O2079;F;;Physics-based rendering and style transfer for synthetic-to-real AM segmentation (R3)
+O2080;X;TA01;Non-scholarly smart-grid firmware blueprint
+O2081;F;;CycleGAN simulation-real CT translation addressing domain gap in NDT (R3)
+O2082;X;TA05;Carton picking and inspection pipeline; robustness to glare not evaluated as shift
+O2083;X;TA01;Irrigation canal mapping from remote sensing
+O2084;X;TA01;Medical-only universal segmentation
+O2085;X;TA01;Political science thesis
+O2086;X;TA02;Review of ML for PV performance forecasting; non-visual
+O2087;X;TA01;Catastrophic forgetting claim for text-to-SQL
+O2088;X;TA01;Medical-only volumetric segmentation (title only)
+O2089;F;;Fractal-simulation hybrid system for real-world crack segmentation addressing OOD generalisation (R3)
+O2090;X;TA01;Outside asset-inspection context: plant disease review
+O2091;X;TA05;Deep-learning flame monitoring in cement kilns; no reliability evaluation
+O2092;X;TA02;CLIP-based cross-domain online fault diagnosis from small fault samples; non-visual signals
+O2093;X;TA01;VLM-as-judge audit for text-in-image editing
+O2094;X;TA01;Generic adaptation of large models (title only)
+O2095;X;TA02;Sensorless tire health monitoring; non-visual
+O2096;X;TA01;Seismic resolution enhancement (title only)
+O2097;X;TA02;Federated domain-generalised rotating machinery diagnosis (abstract mismatched to title); non-visual
+O2098;X;TA03;Diffusion-based multimodal battery characterisation imaging; no inspection reliability task
+O2099;X;TA02;Cross-domain bearing diagnosis with STFT image features; non-optical signal representation
+O2100;X;TA01;Medical-only segmentation robustness

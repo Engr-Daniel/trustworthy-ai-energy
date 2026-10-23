@@ -1,0 +1,50 @@
+O3701;F;;VLM transmission-line fault detection improving field reliability across multi-region corridor imagery (R3); verify evaluation
+O3702;F;;Evaluation of generalisation, bias and overconfidence in metal surface defect detectors (R8/R3/R1)
+O3703;X;TA05;Knowledge-augmented canal leak detection from satellite imagery; reliability claimed without evaluation (note 1)
+O3704;X;TA05;Coupled conv-transformer concrete damage segmentation; cross-domain refers to architecture
+O3705;X;TA05;Cross-domain anomaly injection for zero-shot anomaly synthesis; data generation
+O3706;X;TA05;Unsupervised GGMM radiographic weld defect classification (title only)
+O3707;X;TA05;Few-shot X-ray defect detection with diffusion priors; generalisation to novel defects without shift framing (note 2)
+O3708;X;TA05;Texture-debiased reliable prototype segmentation; accuracy-oriented
+O3709;X;TA05;Zero-shot generalised anomaly detection alignment; no shift framing (note 2)
+O3710;X;TA05;Crack width identification with pixel calibration; camera calibration, not probability calibration
+O3711;X;TA05;Feature-calibrated few-shot catenary anomaly detection; shift only motivational (note 1)
+O3712;X;TA05;Display panel defect detection network; reliability claimed without evaluation
+O3713;X;TA05;Spatially grounded diffusion anomaly synthesis; data generation (title only)
+O3714;X;TA05;PMML representation for CNN deployment; not inspection reliability evaluation
+O3715;X;TA02;GPR tunnel defect and thickness identification; imaging NDT without reliability method (note 12) (title only)
+O3716;F;;Cross-domain few-shot defect classification of industrial parts (R3)
+O3717;F;;Cross-domain translation for underwater concrete crack image enhancement (R3); verify inspection task (title only, consistent with O1614)
+O3718;X;TA05;Cost-sensitive crack localisation for bridge inspection; accuracy trade-off without reliability evaluation
+O3719;F;;Inspection reliability of PCB quality control with CNNs (R8); verify (title only, note 4)
+O3720;X;TA05;PET cap quality control with camera calibration; accuracy-oriented
+O3721;X;TA03;Morphology-based surface defect detection; no learned model (title only)
+O3722;F;;Cross-domain generative diagnosis of pipeline defects with limited field data (R3); modality to verify (title only, note 4)
+O3723;F;;Cross-domain few-shot transfer from steel to aero-engine blade defects (R3)
+O3724;X;TA02;Semi-supervised GPR inversion for concrete subsurface defects; imaging NDT without reliability method (note 12)
+O3725;X;TA05;EfficientNet corrosion classification for storage tanks; accuracy-oriented
+O3726;X;TA05;Dual-branch CLIP zero-shot AD; generality claim (title only, note 2)
+O3727;X;TA02;Bispectrum images for wind turbine gearbox diagnosis; non-optical
+O3728;F;;Self-supervised distillation for remote defect detection under wireless transmission noise, compression and packet loss (R3/R6)
+O3729;F;;Cross-domain features for resistance spot weld visual inspection (R3); verify meaning of cross-domain (title only)
+O3730;X;TA05;Physics-informed defect detection on optical wedge plates; generalisation claim (title only)
+O3731;F;;Wafer map classification generalising across production lines with unseen private dataset test (R3)
+O3732;X;TA03;Pulsed thermal tomography of calibrated AM defects; no learned model
+O3733;F;;Cross-domain zero-shot anomaly detection via logit-space consistency (R3) (title only)
+O3734;X;TA02;Insulator production process analytics; non-visual
+O3735;X;TA05;Weakly supervised attention defect detection; reliability claimed without evaluation
+O3736;F;;Cross-domain multilevel feature alignment for synthetic-to-real insulator defect detection (R3)
+O3737;X;TA02;1D-CNN GPR bridge deck defect detection; non-image NDT
+O3738;X;TA05;CNN PV thermal anomaly detection; accuracy-oriented
+O3739;X;TA05;Integrated transmission-line inspection platform design
+O3740;B;;Adjacent imaging NDT (GPR): cross-dataset generalisation of GPR image classification (R3, note 12)
+O3741;F;;Explainable and calibrated hierarchical deep learning for thermal infrared PV fault diagnosis (R1)
+O3742;F;;Limits of anomaly detection: defect size beyond which defects are reliably recognised (R8)
+O3743;X;TA05;Cross-domain anomaly injection; journal version of O3705 (note 13)
+O3744;X;TA01;Video anomaly detection (note 7)
+O3745;X;TA05;Calibrated feature fusion for few-shot IAD; feature alignment, not probability calibration (note 9)
+O3746;X;TA05;Dictionary-lookup few-shot anomaly segmentation; no shift framing (note 2)
+O3747;X;TA04;Peer-review report
+O3748;X;TA04;Peer-review report
+O3749;X;TA04;Peer-review report
+O3750;X;TA04;Peer-review report

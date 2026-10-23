@@ -1,0 +1,50 @@
+O4651;X;TA05;Coupled unsupervised-supervised surface AD; threshold calibration is not probability calibration (note 9)
+O4652;X;TA05;Generative attention AD
+O4653;X;TA05;Underground cable pipeline reconstruction AD; accuracy-oriented
+O4654;X;TA05;Gabor U-Net-ViT defect detection (title only)
+O4655;X;TA05;Edge and cloud deployment trade-offs; efficiency, not reliability
+O4656;X;TA05;Prior-guided few-shot IAD
+O4657;X;TA05;Railway anomalous object detection (title only)
+O4658;F;;Selecting image anomaly detectors without labelled validation data via synthetic anomalies (R8); verify industrial evaluation
+O4659;X;TA05;Ball screw pitting self-supervised detection
+O4660;X;TA05;Intra-class variance suppression IAD
+O4661;X;TA05;SAM compression for edge; efficiency
+O4662;X;TA05;Attribute restoration AD
+O4663;X;TA05;VAE-GAN semi-supervised AD
+O4664;X;TA05;Inpainting diffusion defect generation; data generation
+O4665;X;TA05;Classical and quantum AI manufacturing AD (title only)
+O4666;X;TA05;Patch autoencoder image decomposition
+O4667;X;TA05;Image-aware prompt zero-shot segmentation (title only)
+O4668;X;TA05;Multi-scale distillation AD
+O4669;X;TA05;EfficientAD; foundational efficiency method without reliability dimension
+O4670;X;TA05;Generative product AD
+O4671;X;TA01;Tactile sensor design
+O4672;X;TA05;CBiGAN AD
+O4673;X;TA05;High-speed rail zero-shot AD (title only)
+O4674;X;TA05;Multimodal-prompt continual AD; catastrophic forgetting, not shift framing
+O4675;X;TA05;X-ray weld discriminative AD
+O4676;X;TA05;EV manufacturing few-shot AD; false-positive reduction, accuracy-oriented
+O4677;X;TA05;Attention image AD (title only)
+O4678;X;TA05;Autoencoder-ViT hybrid AD
+O4679;X;TA05;AIGC for industry defect detection overview; generative methods, not reliability
+O4680;X;TA05;Self-supervised masking AD
+O4681;X;TA05;Zoom-aware UAV bolt inspection; outdoor robustness claimed, accuracy-oriented
+O4682;X;TA05;Texture complexity reconstruction network
+O4683;X;TA05;Edge-information two-stage AD
+O4684;F;;Continual visual AD on edge devices under dynamic data distributions (R3) (consistent with O4368)
+O4685;X;TA05;Normalizing flow with motion detection (title only)
+O4686;X;TA05;Attention-guided localisation (title only)
+O4687;X;TA05;Masked reverse distillation
+O4688;X;TA01;Human scene recognition perception
+O4689;X;TA01;Virtual try-on
+O4690;X;TA05;Explainable MLLM IAD; mask grounding is localisation, not output verification
+O4691;X;TA01;Spider species OOD detection
+O4692;X;TA05;Density description AD (title only)
+O4693;X;TA05;Synthesis-guided AD with LLM analysis (title only)
+O4694;B;;Review of benchmarks for manufacturing visual defect detection; evaluation-validity background (R8) (title only)
+O4695;X;TA05;ControlNet anomaly generation
+O4696;X;TA05;Global-local patch localisation
+O4697;X;TA05;FCDD explainable one-class; explanation not evaluated as reliability
+O4698;X;TA05;Two-stage few-shot AD
+O4699;X;TA01;Food safety hazard detection
+O4700;X;TA05;Continual diffusion AD; reconstruction hallucination, not output grounding (note 9 analogue)

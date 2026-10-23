@@ -1,0 +1,55 @@
+{
+  "run_id": "OPENALEX-ABSTRACTS-20261022-01",
+  "purpose": "Abstract enrichment of existing records by DOI",
+  "pages": [
+    {
+      "file": "lookup-001.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "408cf8c8a0904aba74a74498953e42420fcf668ffc99b09f8f9e98add270c057"
+    },
+    {
+      "file": "lookup-002.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "0a91a1770917e23227f70feabe9af533468c333f6ff2c794a3bb8754c9193c57"
+    },
+    {
+      "file": "lookup-003.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "a16aed0eae13748d9c5ac44eb3125b542a5e390cc388e0e970137362d63cd8d7"
+    },
+    {
+      "file": "lookup-004.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "78ddec74b7260725f48058473e740cacf14790d74e7fa1bbea9b47e193b9b53a"
+    },
+    {
+      "file": "lookup-005.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "b7336fbd1ec2fc12f5d75639d12cca10828fc9fea2d1729de8ffaf288e8a01ec"
+    },
+    {
+      "file": "lookup-006.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "e8faec95a62dc177989eb38fa51bae1457af077d30894b4e0fbe1b6a30c5f162"
+    },
+    {
+      "file": "lookup-007.json",
+      "status": 200,
+      "requested": 50,
+      "sha256": "ca01d7add2ad84b5461238135eb6d9ced4c74c545238050373601114ed7fcbf0"
+    },
+    {
+      "file": "lookup-008.json",
+      "status": 200,
+      "requested": 6,
+      "sha256": "21861846ec7596f96f1e218757b72abedc0398fe696d798a9b5daaa8a4113735"
+    }
+  ],
+  "started_utc": "2026-10-22T12:24:21.781238+00:00"
+}

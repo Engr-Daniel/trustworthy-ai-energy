@@ -1,0 +1,50 @@
+O3801;X;TA03;CNN calibration of CT rotation axis; not inspection model reliability
+O3802;F;;Generalisable pipeline defect detection with visual-text alignment for dynamic service scenarios (R3) (title only)
+O3803;X;TA05;Insulator inspection ML; reliability claimed without evaluation
+O3804;F;;Assembly anomaly inspection via reference-view synthesis robust to positional and viewpoint variation (R3 acquisition variation)
+O3805;X;TA02;Cross-domain few-shot bearing fault diagnosis; non-visual
+O3806;F;;Cross-domain defect detection network for migration to new industrial domains (R3)
+O3807;X;TA01;Hyperspectral remote-sensing anomaly detection band selection
+O3808;X;TA02;GPR tunnel lining defect detection; imaging NDT without reliability method (note 12) (title only)
+O3809;X;TA02;GPR railway subgrade defect identification; imaging NDT without reliability method (note 12)
+O3810;X;TA01;Post-earthquake damage image triage toolset
+O3811;X;TA05;Robotic 3D tunnel damage measurement
+O3812;X;TA01;Generic cross-domain few-shot object detection study (title only)
+O3813;X;TA01;Medical-only cervical image quality
+O3814;X;TA02;GPR tunnel lining defect detection; imaging NDT without reliability method (note 12)
+O3815;X;TA03;UAV visual positioning for bridge inspection; not inspection-model reliability
+O3816;X;TA05;AI in oil and gas safety monitoring overview
+O3817;F;;Vision foundation model for robust, generalisable road marking damage evaluation under real-world variability (R3)
+O3818;X;TA02;GPR tunnel lining anomaly detection; imaging NDT without reliability method (note 12) (title only)
+O3819;X;TA05;YOLOv8 packaging defect detection; accuracy-oriented
+O3820;X;TA05;Diffusion-based anomaly synthesis; data generation
+O3821;F;;Multi-scale cross-domain visual anomaly detection for real-world traffic equipment (R3) (title only)
+O3822;X;TA02;GPR tunnel lining defect detection; imaging NDT without reliability method (note 12)
+O3823;X;TA02;Few-shot cross-domain motor diagnosis from vibration dot patterns; non-optical
+O3824;X;TA02;Subdomain adaptive cross-domain industrial fault diagnosis; non-visual
+O3825;X;TA01;Medical-only cervical image quality; same-title record (note 6)
+O3826;X;TA05;Cigarette manufacturing quality control segmentation; accuracy-oriented
+O3827;X;TA01;Generic hardware-fault-aware training
+O3828;X;TA02;Random-forest GPR bridge deck assessment; imaging NDT without reliability method (note 12)
+O3829;X;TA05;Semi-supervised crack AD in stamped parts (title only)
+O3830;X;TA02;GPR tunnel lining quality assurance; imaging NDT without reliability method (note 12)
+O3831;X;TA01;Medical-only image classification
+O3832;F;;Step transfer learning to generalise crack detection across concrete datasets (R3); verify cross-dataset evaluation
+O3833;X;TA05;Foundation-model weld radiograph segmentation (title only)
+O3834;X;TA05;Mobile ground robot infrastructure mapping and defect detection
+O3835;X;TA02;Pulsed eddy current flaw detection; non-visual
+O3836;X;TA02;GPR pavement anomaly detection; imaging NDT without reliability method (note 12)
+O3837;F;;Wafer defect detection generalising to unseen fabs via discrepancy-aware preprocessing (R3)
+O3838;X;TA02;Simulation-driven GPR rebar clutter elimination; imaging NDT without reliability method (note 12)
+O3839;X;TA02;GPR rebar clutter elimination chapter; imaging NDT without reliability method (note 12)
+O3840;X;TA05;ML solder bump reliability; product reliability
+O3841;F;;Style-augmented vision model with domain-generalised fusion for powder-bed AM anomaly detection (R3) (title only)
+O3842;X;TA02;GPR with vision foundation model for concealed steel members; imaging NDT without reliability method (note 12)
+O3843;F;;YOLOv8 PV hotspot segmentation examining generalisation challenges (R3/R8); verify
+O3844;X;TA01;FPGA traffic sign CNN radiation reliability
+O3845;X;TA05;Hybrid transfer learning solar cell defect classification; accuracy-oriented
+O3846;X;TA03;Superalloy welding reliability (title only)
+O3847;F;;Print defect detection robust to master-to-capture variation and illumination shifts (R3 acquisition variation); verify
+O3848;X;TA05;Multi-level VLM features for zero-shot AD; no shift framing (note 2)
+O3849;X;TA05;Transformer wafer map diagnosis; reliability claimed without evaluation
+O3850;X;TA05;Hybrid garbage and industrial surface classifier; not reliability-focused

@@ -1,0 +1,50 @@
+O0301;X;TA01;Generic 6D object pose uncertainty (BOP benchmark); not defect inspection
+O0302;F;;Ensemble ELM weld radiograph classification flagging uncertain discontinuities for specialist review (R2/R5)
+O0303;F;;Underwater crack segmentation with uncertainty-aware confidence and robustness to turbidity/lighting (R1/R3)
+O0304;F;;Leakage-controlled temporal crack severity prediction with reproducible split rules (R8)
+O0305;X;TA02;Guided-wave pipeline wall-loss monitoring; non-visual
+O0306;B;;Review of measurement uncertainty and quality risk incl. intelligent inspection and CV in power/infrastructure projects; framing background
+O0307;X;TA01;Medical MRI synthesis
+O0308;X;TA01;Drill-cutting photo quality filtering for geology; not asset inspection
+O0309;F;;Uncertainty analysis of monocular image-derived point clouds for road infrastructure twinning (R1/R6)
+O0310;F;;Version of O0309 (R1/R6)
+O0311;X;TA01;Drug-discovery microscopy classification
+O0312;F;;Underwater structural damage detection with probabilistic enhancement handling image-degradation uncertainty (R1/R3)
+O0313;X;TA01;Subsurface seismic interpretation review
+O0314;X;TA01;Agricultural coffee-bean grading with active learning
+O0315;X;TA05;FCN structural damage segmentation (title only)
+O0316;F;;Multimodal electronic defect detection with uncertainty-modulated modality fusion (R1/R6)
+O0317;X;TA05;3D laser micro-defect measurement network; accuracy
+O0318;X;TA02;PV/T performance prediction review; non-visual
+O0319;X;TA05;Unsupervised pulsed-thermography source separation; detection accuracy
+O0320;B;;Systematic review of AI in civil-infrastructure SHM; core-context review
+O0321;X;TA05;Generative AI for as-damaged wall modelling; not inspection reliability
+O0322;X;TA01;Version of O0301
+O0323;X;TA05;Feature-importance updating for crack classification (title only)
+O0324;X;TA01;Version of O0301
+O0325;X;TA02;Wind-turbine bearing hybrid model with visual-inspection observation uncertainty as model input (as O0226)
+O0326;X;TA02;AM defect characterisation from mechanical properties (title only)
+O0327;X;TA01;Drone device malfunction detection in surveillance setting
+O0328;X;TA03;Template-matching camera inspection; no learned model
+O0329;F;;Thesis: robust crack segmentation under noise with knowledge distillation and human-in-the-loop disaster assessment (R3/R5)
+O0330;X;TA05;Multimodal PV fault ensemble; accuracy
+O0331;F;;Visual inspection with calibrated probability threshold routing uncertain products to manual revision and active learning (R1/R2/R5)
+O0332;F;;Endoscopic coating damage segmentation on low-quality video with domain gap and adversarial training (R3)
+O0333;X;TA01;Medical image curation
+O0334;X;TA01;Astronomical seeing prediction
+O0335;B;;Historical: fuzzy reasoning radiographic weld inspection (2003); lineage of uncertainty handling (note 11) (title only)
+O0336;F;;Human-AI collaborative defect segmentation routing ambiguous cases to experts via uncertainty estimation (R2/R5)
+O0337;X;TA02;Tabular damage intensity of mining-area masonry; not image inspection
+O0338;F;;Preprint version of O0299 (R6/R3)
+O0339;F;;Deep ensembles with decomposed and calibrated uncertainty for AM porosity with operator decision support (R1/R5/R6)
+O0340;X;TA02;Bridge condition records clustering; non-visual
+O0341;X;TA05;Faster R-CNN tire defects; accuracy
+O0342;X;TA02;Impact-echo signal spectrograms with domain adaptation; non-optical
+O0343;F;;Ceramic tile 3D range-image inspection with robust learning phase and uncertainty-dependent inspection stringency (R1); verify
+O0344;X;TA05;Point-cloud micro-deformation detection (title only)
+O0345;X;TA01;Soil liquefaction time-frequency images
+O0346;X;TA05;Active learning sampling strategies for porosity detection; annotation efficiency (note 8)
+O0347;X;TA05;Uncertainty-aware convolution used internally in YOLO for container defects (note 8)
+O0348;X;TA02;Bayesian corrosion simulation updating; non-image
+O0349;X;TA05;Infrared optical tomography with XCT for AM defects; not reliability focused
+O0350;X;TA05;YOLO packaging defect classification; accuracy

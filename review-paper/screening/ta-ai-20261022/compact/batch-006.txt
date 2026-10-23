@@ -1,0 +1,60 @@
+C0303;X;TA03;Political science (version of C0299)
+C0304;X;TA01;Generic fair abstention in prediction; no inspection context (title only)
+C0305;X;TA03;Automated visual inspection systems chapter (title only)
+C0306;X;TA05;Commercial vision system deployment description; no reliability evaluation
+C0307;X;TA05;RGB-thermal fusion comparison for facade defects; accuracy/efficiency only
+C0308;X;TA01;Multimodal robot teaching; not inspection
+C0309;X;TA05;Diffusion defect synthesis for data scarcity; accuracy gains
+C0310;X;TA05;Thermal AFP defect detection with decision support described but not evaluated as reliability
+C0311;X;TA03;Optical multimodal defect characterisation instrumentation; no learned AI reliability
+C0312;X;TA01;Sensor extrinsic calibration for driving
+C0313;X;TA03;Virtual inspection sampling strategy in wafer fabs (title only)
+C0314;X;TA05;RGB-D rail defect network; accuracy on benchmark
+C0315;X;TA03;RGB-D measurement accuracy for bridge defect area; no learned inspection model
+C0316;X;TA03;Thermal calibration via optical material identification; no AI inspection model
+C0317;X;TA05;MFL multimodal 3D defect reconstruction; accuracy only
+C0318;F;;Hardware-agnostic industrial anomaly detection via thermal proxies (R3 sensor/hardware generalisation) (title only)
+C0319;X;TA01;Agricultural pest detection
+C0320;X;TA03;Multimodal capture/dataset tooling (title only)
+C0321;X;TA05;YOLO wood defect detection; efficiency (title only)
+C0322;F;;Blind restoration of degraded industrial images for defect inspection (R3/R6 image degradation) (title only)
+C0323;X;TA03;Interferometry illumination
+C0324;F;;RGB-D rail defect inspection explicitly handling poor-quality depth maps (R6 sensor quality)
+C0325;F;;Real-world industrial ultrasonic B-scan weld dataset evaluating lab-trained models on field data (R8 evaluation realism)
+C0326;F;;Drone thermal bridge-deck delamination with acquisition-timing conditions studied (R3 acquisition conditions)
+C0327;X;TA05;1995 neural texture defect classifier; accuracy
+R01;B;;Survey of deep industrial image anomaly detection; core review for overlap
+R03;B;;Survey of visual anomaly detection challenges; review for overlap
+R04;B;;Review of vision-based industrial anomaly detection pipeline including evaluation; review for overlap
+R05;B;;Survey of industrial image anomaly detection methods and benchmarks; review for overlap (title only)
+R06;B;;Survey of real-world industrial surface defect detection challenges; review for overlap (title only)
+R07;B;;Metrological survey of automated visual surface inspection; measurement-reliability review (title only)
+R08;B;;Systematic review of deep defect detection on electronic assemblies; core-context review (title only)
+P07;F;;Nuisance-filtered anomaly detection under acquisition distribution shift on AeBAD-S (R3)
+P09;F;;Detector-relative risk certificates for selective restoration with review deferral (R2/R5)
+R10;B;;Survey of RGB, 3D and multimodal unsupervised industrial anomaly detection; review for overlap (R6 framing)
+R11;B;;Survey and benchmark of image-based automated quality control methods; review/benchmark background
+P11;F;;Domain adaptation for corrosion segmentation from laboratory to real-world infrastructure images (R3)
+F01;B;;PRISMA-ScR reporting guideline; methodology reference
+F02;B;;PRISMA-S search reporting guideline; methodology reference
+B04;B;;PaDiM foundational anomaly detection baseline; supporting method context (title only)
+O0001;X;TA05;Stacked CNN ensemble for aircraft defects used to improve accuracy; no uncertainty evaluation
+O0002;F;;Borescope defect detection showing synthetic-only training fails on real images and uncertain model reliability (R3 sim-to-real/R8)
+O0003;X;TA01;Materials-science microscopy defect segmentation; not asset or product inspection
+O0004;X;TA05;YOLOv5 PCB defects with image subtraction; accuracy
+O0005;F;;VAE with conformal anomaly detection giving calibrated p-values on industrial images, calibration-set size effects (R1/R2)
+O0006;B;;Methodological bridge: comparative study of confidence calibration across vision and medical imaging; transferable calibration evidence
+O0007;F;;Fuzzy CNN for PV electroluminescence defects addressing annotation noise and uncertainty (R4)
+O0008;B;;Adjacent non-visual: wind-turbine SCADA thermal anomaly prognostics with conformal prediction across 207 turbines (energy asset, R1/R2)
+O0009;X;TA05;Aircraft corrosion detection accuracy vs operators; no reliability design
+O0010;X;TA05;Ensemble transfer learning for steel strip defects; accuracy (title only)
+O0011;B;;Review of computer-vision PV fault diagnosis toward trustworthy maintenance decisions; core-context review
+O0012;B;;Adjacent non-visual: transformer life prediction with measurement-error uncertainty modelling in a nuclear plant (energy asset, R1)
+O0013;X;TA01;Medical/dermatology zero-shot anomaly detection
+O0014;X;TA05;Thermal/RGB wind-turbine blade classification; accuracy
+O0015;F;;Monte Carlo dropout uncertainty for active learning in concrete crack segmentation (R1/R4)
+O0016;F;;Uncertainty-aware defect localisation with limited-data robustness testing on MVTec AD (R1)
+O0017;X;TA05;Bolt defect detection model comparison; accuracy/false negatives only
+O0018;B;;Review of automated pipeline condition assessment with ML; core-context review (title only)
+O0019;F;;Reliability-oriented concrete defect classification framework (title only)
+O0020;B;;PRISMA systematic review of AI/image corrosion assessment in oil and gas pipelines; core-context review

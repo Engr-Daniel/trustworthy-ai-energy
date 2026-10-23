@@ -1,0 +1,50 @@
+O1451;X;TA05;Zero-shot anomaly detection adapters for unseen categories; no shift framing (note 2)
+O1452;F;;Online active learning and incremental training adapting surface inspection to production-line distribution shift (R3)
+O1453;F;;One-shot unsupervised domain adaptation for rail surface defect segmentation across service conditions (R3)
+O1454;F;;Domain-aligned self-supervised few-shot defect detection under cross-domain manufacturing shift (R3)
+O1455;F;;Industrial IAD benchmark covering noisy-label and continual settings under uniform evaluation (R4/R8)
+O1456;F;;Noisy-label prompt learning for few-shot industrial anomaly detection (R4)
+O1457;F;;Domain generalisation for photovoltaic silicon wafer defect classification under cross-domain shift (R3)
+O1458;B;;Broad book-chapter overview of AI wafer inspection in semiconductor manufacturing; core-context background (note 3)
+O1459;F;;Domain-resilient segmentation of industrial surface defects under cross-domain shift (R3); verify empirical evaluation
+O1460;F;;Few-shot aero-engine blade anomaly detection under domain shift with VLMs (R3) (title only)
+O1461;B;;Survey of computer-vision anomaly detection for industrial components noting distribution shift and generalisation challenges; core-context review
+O1462;F;;Optical-to-X-ray modality gap for PCB defect detection (R3)
+O1463;F;;Domain adaptation for semiconductor defect image classification (R3)
+O1464;F;;Parameter-efficient SAM adaptation for steel defects framed as domain shift to new production environments (R3)
+O1465;F;;Railway tie condition classification from aerial imagery with label-noise analysis (R4)
+O1466;F;;Few-shot metal surface defect segmentation with cross-domain generalisation (R3) (title only)
+O1467;F;;Domain-generalised few-shot industrial defect detection under cross-domain shift (R3)
+O1468;X;TA05;Zero-shot VLM industrial anomaly detection; no reliability signalled (title only, note 2)
+O1469;F;;Data-poisoning attacks on steel surface defect detectors (R3 adversarial, note 10)
+O1470;F;;Data-poisoning attacks on steel surface defect detectors (R3 adversarial); same-title record (note 6)
+O1471;B;;Survey of deep-learning steel surface defect detection; core-context review
+O1472;F;;Few-shot PEFT of foundation models for PCB inspection under optics/illumination domain shift with reliability analysis (R3/R1)
+O1473;F;;OOD detection for NDE visual inspection with forwarding to human analysis (R3/R5)
+O1474;F;;Unsupervised domain adaptation for visual anomaly detection in NDE (R3) (title only)
+O1475;F;;Domain-adapted attention heads for zero-shot AD across industrial and medical datasets; consistent with C0048 (note 6); verify shift framing
+O1476;X;TA05;Multi-label concrete bridge defect classification; accuracy-oriented
+O1477;F;;Same-title record of domain-adapted zero-shot AD (note 6) (title only)
+O1478;F;;Foundation vision models for open-set manufacturing defect recognition (R3 open-set)
+O1479;F;;Multistep domain adaptation for rail surface defect detection on unseen domains (R3)
+O1480;F;;Few-shot cross-domain industrial defect detection with foundation models (R3)
+O1481;F;;Meta-learning for cross-domain generalisation in few-shot industrial defect detection (R3)
+O1482;F;;Domain-aware knowledge adaptation of CLIP for anomaly detection across unseen domains (R3)
+O1483;X;TA02;Nuclear reactor neutron-flux signal unfolding; non-visual
+O1484;X;TA05;Few-shot SAM prompting for aero-engine blade defects; no reliability signalled (title only)
+O1485;X;TA05;YOLOv8 mechanical part defect detection; accuracy and speed
+O1486;F;;Unsupervised domain adaptation for crack detection (R3) (title only)
+O1487;F;;Substation equipment visual defect detection motivated by label noise (R4); verify whether noise is handled
+O1488;X;TA05;Pseudo-RGB hyperspectral representation for food quality tasks; no reliability evaluation
+O1489;F;;Synthetic data and domain adaptation for defect detection transferred across inspection areas and lighting (R3)
+O1490;X;TA05;Language-free zero-shot anomaly detection; no shift framing (note 2)
+O1491;X;TA05;Zero-shot AD with test-time adaptation; no shift framing (title only, note 2)
+O1492;X;TA05;Comparison of unsupervised anomaly localisation methods on standard benchmarks; accuracy-oriented
+O1493;F;;Risk-calibrated few-shot IAD with pass/manual-review/reject decisions and leakage-avoiding calibration (R2/R5/R8)
+O1494;X;TA05;Computer-vision quality control deployment overview; accuracy and speed
+O1495;F;;Wafer defect pattern classification with OOD detection (R3) (title only)
+O1496;X;TA02;Domain-generalised machinery fault diagnosis from diagnostic signals; non-visual (consistent with O0243)
+O1497;F;;Cross-modal few-shot IAD with cross-domain generalisation (R3) (title only)
+O1498;X;TA01;Medical-only MRI anomaly detection for radiotherapy pipelines (note 7)
+O1499;F;;Open-set supervised 3D industrial anomaly detection for unknown defects (R3 open-set)
+O1500;F;;Unsupervised continual learning for surface inspection under gradually varying domains (R3) (title only)

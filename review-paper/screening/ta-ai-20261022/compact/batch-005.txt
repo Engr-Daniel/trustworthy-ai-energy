@@ -1,0 +1,60 @@
+C0243;X;TA05;SOM wood-inspection classifier evaluated for real-time speed; no reliability evaluation
+C0244;B;;Human factors and reliability of airframe visual inspection; human inspection reliability background (R5 framing)
+C0245;X;TA03;Machine vision textbook chapter
+C0246;X;TA03;Machine vision textbook chapter
+C0247;F;;Case study of AI-assisted wafer and fab tooling inspection in a book on working with AI; human-AI deployment (R5) to verify (title only)
+C0248;B;;Empirical human visual inspection reliability and inspector confidence for precision parts; human baseline background (R5)
+C0249;X;TA05;Industrial park anomaly dataset with improved YOLO; no reliability dimension signalled (title only)
+C0250;X;TA02;Spacecraft telemetry anomaly benchmark; no image evidence
+C0251;B;;Multi-view normal-vector industrial anomaly benchmark (Real-IAD MVN); benchmark substrate background (title only)
+C0252;F;;RobustAD real-world benchmark with controlled domain shifts and relative-drop metric for industrial anomaly detection (R3/R8)
+C0253;X;TA01;Video anomaly detection benchmark; not inspection
+C0254;F;;Temporal robustness benchmark for deployed food-inspection camera with temporal splits and drift analysis (R3/R8)
+C0255;X;TA02;Voraus-AD robot telemetry dataset; no image evidence (title only)
+C0256;X;TA02;Robot IoT telemetry benchmark; no image evidence
+C0257;F;;Realistic industrial anomaly benchmark with realistic defect ratios addressing dataset limitations (R8)
+C0258;X;TA01;Patrol-robot surveillance anomaly benchmark; not asset inspection
+C0259;X;TA05;Multi-scenario anomaly dataset with model comparison; accuracy only
+C0260;X;TA05;RGB ensembles on AutoVI; accuracy-oriented (title only)
+C0261;X;TA02;IoT anomaly benchmark; no image evidence
+C0262;F;;Pose-agnostic anomaly detection benchmark addressing pose misalignment and unfair protocols (R3/R8)
+C0263;X;TA02;Tabular anomaly detection benchmark
+C0264;X;TA05;Same-title version of C0260
+C0265;X;TA02;Streaming (tabular/time-series) anomaly benchmark (title only)
+C0266;F;;Industrial anomaly detection under view and illumination shifts on AeBAD-S (R3) (title only)
+C0267;F;;Generative lighting augmentation for robustness to glare/shadows evaluated on MVTec AD 2 (R3)
+C0268;X;TA03;ICS network intrusion dataset
+C0269;X;TA02;Satellite acquisition data anomaly detection; no image inspection
+C0270;X;TA02;Urban lighting system anomaly detection; sensor data (title only)
+C0271;X;TA03;Daylight illuminance validation dataset
+C0272;X;TA02;Audio forensics anomaly dataset
+C0273;X;TA02;Aviation flight-data anomaly benchmark
+C0274;X;TA03;Title insurance; unrelated
+C0275;X;TA03;Financial fraud detection
+C0276;X;TA02;Survey of industrial-process anomaly detection and maintenance; non-visual
+C0277;X;TA04;Peer-review report
+C0278;X;TA04;Peer-review report
+C0279;B;;Deployment-oriented survey of industrial visual anomaly synthesis including failure modes and reliable inspection; review background
+C0280;X;TA04;Peer-review report
+C0281;X;TA03;Generic anomaly detection survey; no inspection context
+C0282;B;;Survey of unsupervised industrial image anomaly detection and datasets; core-context review background
+C0283;X;TA03;Negative-selection anomaly detection survey; no inspection context
+C0284;X;TA01;Generic class-imbalance anomaly detection survey; no inspection context (title only)
+C0285;X;TA05;Dual-teacher distillation for medical/industrial AD; accuracy-oriented (title only)
+C0286;X;TA01;Drug-target interaction prediction
+C0287;X;TA01;Selective prediction for general VQA; no inspection context
+C0288;B;;Human visual search in industrial inspection (dataset version of C0290); human inspection background (R5)
+C0289;B;;Human visual search in industrial inspection; human inspection background (R5) (title only)
+C0290;B;;Human visual search and industrial inspection; human inspection background (R5) (title only)
+C0291;X;TA03;Image-processing inspection automation; no learned AI reliability (title only)
+C0292;X;TA01;Biomedical question answering
+C0293;X;TA03;Visual inspection algorithms chapter (1992)
+C0294;X;TA03;1978 essay on automatic visual inspection
+C0295;X;TA03;Industrial image processing outlook chapter
+C0296;X;TA05;Siamese network electronic component inspection; accuracy-oriented (title only)
+C0297;B;;Methodological bridge (medical imaging): conformal sets, selective abstention and recalibration under corruption shift with exchangeable-unit analysis; transferable to asset-level inspection (protocol v0.3 bridge rule)
+C0298;X;TA03;1983 automated visual inspection overview
+C0299;X;TA03;Political science (elections)
+C0300;X;TA03;Visual inspection system architecture with operator interaction; no learned AI reliability evaluation
+C0301;X;TA03;Intelligent visual inspection book chapter (title only)
+C0302;X;TA03;Political science (version of C0299)

@@ -1,0 +1,10 @@
+Paper ID,Study ID,TA Decision,Full Title,Year,Record Type,DOI,arXiv ID,OpenAlex ID,OA Status,Candidate PDF URLs,Candidate Landing Pages,Plan Date
+C0009,Not linked,Background/supporting,Outlier Exposure in Visual Industrial Anomaly Detection - Survey,2024,proceedings-article,10.1109/icdmw65004.2024.00008,,,unknown,,,2026-10-23
+O0727,Not linked,Background/supporting,Toward trustworthy and explainable AI-driven industrial fault diagnosis: A data-to-deployment review,2026,article,10.1016/j.rineng.2026.113189,,W7214197073,gold,,https://doi.org/10.1016/j.rineng.2026.113189,2026-10-23
+O0761,Not linked,Background/supporting,Human-in-the-loop artificial intelligence in the energy sector: a systematic review of paradigm shifts toward Industry 5.0,2026,review,10.1016/j.adapen.2026.100267,,W7135113925,gold,,https://doi.org/10.1016/j.adapen.2026.100267,2026-10-23
+O1537,Not linked,Background/supporting,A comprehensive survey on industrial image anomaly detection,2026,book-chapter,10.1007/s11042-026-21809-2,,W7171550489,closed,,,2026-10-23
+R01,Not linked,Background/supporting,Deep Industrial Image Anomaly Detection: A Survey,2024,journal-article,10.1007/s11633-023-1459-z,,,unknown,,,2026-10-23
+R05,Not linked,Background/supporting,"A survey on industrial image anomaly detection: methods, benchmarks and rethinks",2025,journal-article,10.1016/j.measurement.2025.118377,,,unknown,,,2026-10-23
+R06,S0035,Background/supporting,"A comprehensive survey for real-world industrial surface defect detection: Challenges, approaches, and prospects",,unresolved,,,,unknown,,,2026-10-23
+R10,Not linked,Background/supporting,"A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection",2025,journal-article,10.1016/j.inffus.2025.103139,,W4409195436,hybrid,,https://doi.org/10.1016/j.inffus.2025.103139,2026-10-23
+R11,Not linked,Background/supporting,A Survey of Methods for Automated Quality Control Based on Images,2023,journal-article,10.1007/s11263-023-01822-w,,,unknown,,,2026-10-23

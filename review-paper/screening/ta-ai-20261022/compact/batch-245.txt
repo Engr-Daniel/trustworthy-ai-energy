@@ -1,0 +1,50 @@
+O2501;X;TA01;Video surveillance anomaly detection (note 7)
+O2502;X;TA01;Image captioning overview
+O2503;X;TA01;Satellite imagery labelling tool
+O2504;X;TA05;Explainable few-shot materials engineering framework (title only)
+O2505;X;TA05;Capsule networks for IIoT visual inspection; no reliability evaluation
+O2506;X;TA02;Seismic event detection from bridge monitoring data; non-visual
+O2507;X;TA01;Bean leaf disease classification
+O2508;X;TA01;Public administration AI accountability
+O2509;F;;LLM-as-judge reliability assessment of crack segmentation under UAV degradations (R2/R3)
+O2510;X;TA01;Visual privacy audit pipeline
+O2511;X;TA01;Video game glitch detection
+O2512;X;TA05;XAI for civil infrastructure integrity assessment; explainability only
+O2513;F;;Adversarial-example defence for PCB inspection (R3 adversarial, note 10)
+O2514;X;TA03;CT-based UHPFRC tensile strength estimation; property estimation
+O2515;F;;Multimodal learning and GPT for indoor building defect inspection with on-site human interaction (R5); verify
+O2516;X;TA05;Review of ML in automotive manufacturing; not visual-reliability focused
+O2517;X;TA01;Pharmaceutical pill identification
+O2518;B;;Adjacent non-visual: ML diagnosis of sensor faults from dynamometer cards in pumping wells; transferable sensor-fault method (R6, note 5)
+O2519;X;TA05;XAI scratch detection on plastic parts; explainability only
+O2520;B;;Review of intelligent PV fault detection across sensing modalities and generalisation; core-context (energy) review
+O2521;X;TA05;Grad-CAM YOLOv11 PCB AOI; explainability only
+O2522;X;TA01;Spacecraft vehicle health management
+O2523;X;TA01;Topic-issue reprint book
+O2524;X;TA01;Database management AI
+O2525;X;TA01;Topic-issue reprint book; same-title record (note 6)
+O2526;X;TA01;Trusted IoT network survey
+O2527;X;TA01;Archaeological remote sensing tool
+O2528;X;TA01;AI-generated image detection
+O2529;X;TA01;AI in mechanical engineering concepts
+O2530;X;TA01;Food safety microbiological hazards review (title only)
+O2531;X;TA01;Disaster severity assessment
+O2532;X;TA05;Review of AI for satellite assembly incl. inspection; not reliability focused
+O2533;X;TA05;Explainable few-shot materials framework; same-title record (note 6)
+O2534;X;TA02;Thermal power plant human-machine system stability; non-visual
+O2535;X;TA02;Power-plant condition diagnosis software; non-visual
+O2536;X;TA01;Industry 5.0 AI book
+O2537;X;TA05;Explainable lightweight PatchCore for edge inspection; explainability and efficiency
+O2538;F;;Human-in-the-loop VLM fire-service installation inspection addressing regulatory hallucination (R5/R7)
+O2539;F;;Human-in-the-loop AR crack detection digital twin (R5) (title only)
+O2540;X;TA01;Generic adversarial ML security overview
+O2541;X;TA05;Multi-dataset YOLO comparison on textured surfaces; no shift evaluation design
+O2542;B;;Adjacent non-visual: virtual-sensor detection of sensor faults and drift in district heating; transferable sensor-failure method (R6, note 5)
+O2543;X;TA01;Liver cirrhosis biomarkers
+O2544;F;;Causality-guided FDM fault diagnosis under visual interference (R3) (title only)
+O2545;X;TA01;AI governance in electronic physics
+O2546;X;TA05;Bridge crack classification by multi-characteristic parameters; no reliability evaluation
+O2547;F;;Socio-technical analysis of reference dependence and measurement validity in human-in-the-loop AI inspection (R8/R5)
+O2548;X;TA01;Low-altitude urban governance benchmark
+O2549;X;TA01;Meat quality AI review
+O2550;X;TA05;PV cell quality estimation from HALM data; no reliability evaluation

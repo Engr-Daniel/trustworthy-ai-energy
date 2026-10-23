@@ -1,0 +1,50 @@
+O2451;X;TA05;LLM QC report generation from detector outputs; no reliability evaluation
+O2452;X;TA01;Enterprise multi-cloud computer vision governance
+O2453;X;TA05;Explainable clustering for wafer map patterns; no reliability evaluation
+O2454;B;;Adjacent non-visual: RUL prediction robust to partial sensor failure; transferable missing-sensor method (R6, note 5)
+O2455;X;TA05;Synthetic thermogram crack detection; no reliability evaluation
+O2456;F;;2D-3D multimodal industrial AD robust to noisy depth and missing modalities (R6)
+O2457;X;TA02;Visualisation and explainable ML for manufacturing operations; non-visual
+O2458;X;TA01;Geological core image inpainting
+O2459;F;;Colour plus hallucinated depth features for damage segmentation without depth sensing (R6); journal version of O2342 (note 13)
+O2460;X;TA01;AI-generated video detection survey
+O2461;X;TA01;Special-issue book of feature papers
+O2462;X;TA01;ECG diagram interpretation (title only)
+O2463;X;TA01;Optical flow and stereo label generation
+O2464;X;TA01;Remote sensing change detection with crowdsourcing
+O2465;X;TA05;Industry 4.0 inspection approach; no reliability evaluation
+O2466;X;TA05;Physics-informed concrete fracture diagnostics (title only)
+O2467;X;TA01;Knowledge-enhanced VLM reproduction
+O2468;X;TA05;Review of AI in AM with digital twins (title only)
+O2469;X;TA01;Disaster severity scoring
+O2470;X;TA05;SEM metallic failure analysis expert system; no reliability evaluation
+O2471;B;;Methodological bridge (medical imaging): diffusion-based segmentation quality control detecting hallucinated outputs; transferable failure-detection design (R2/R7, consistent with O1714)
+O2472;X;TA05;Energy-efficient multimodal foundation models at the edge; efficiency
+O2473;F;;AR trust factors in human-in-the-loop aircraft cabin inspection user study (R5)
+O2474;F;;Human-in-the-loop hybrid decision framework with risk-aware decision layer for strip flatness detection (R5/R2)
+O2475;X;TA01;Human-robot collaboration safety
+O2476;X;TA05;Conceptual ViT-digital twin framework; no reliability evaluation
+O2477;X;TA01;AI in automation book
+O2478;X;TA01;Exoskeletons for labour safety
+O2479;X;TA05;Machine vision fault detection in assembly machines (title only)
+O2480;B;;Book chapter on human-in-the-loop visual inspection via XAI and active learning; R5 background
+O2481;B;;Adjacent non-visual: self-supervised learning robust to industrial sensor drift; transferable sensor-degradation method (R6, note 5)
+O2482;X;TA05;Edge AI for UAV infrastructure inspection; efficiency focus
+O2483;X;TA05;Robotic tunnel inspection tool positioning
+O2484;X;TA01;GPU feature extraction efficiency
+O2485;X;TA01;Food quality hyperspectral XAI review
+O2486;X;TA02;Boiler water level fault diagnosis; non-visual
+O2487;X;TA01;Redundant water-level measurement for flooding; not asset inspection
+O2488;X;TA02;Wind turbine SCADA knowledge graph; non-visual
+O2489;X;TA05;Interpretable prototypical insulator damage detection; explainability only
+O2490;F;;Multimodal RAG and chain-of-thought to reduce VLM hallucination in bridge crack diagnosis (R7)
+O2491;X;TA01;AI fault tree analysis in aerospace
+O2492;F;;Multi-illumination BGA inspection exposing spurious-artefact attention via explainability (R8 shortcut/R3)
+O2493;X;TA01;Bibliometric landscape of data mining
+O2494;X;TA01;Intelligent systems handbook (2003)
+O2495;X;TA05;Multi-agent RAG defect detection system for new processes; no reliability evaluation
+O2496;X;TA05;Four-stage one-class surface AD (title only)
+O2497;X;TA02;Power-system cyber anomaly detection; non-visual
+O2498;X;TA05;Geometric inductive biases for 3D point clouds in grid inspection; interpretability and efficiency
+O2499;X;TA05;Vision-based transport and QC system
+O2500;F;;Grounded violation evaluator for visual inspection (R7) (title only)

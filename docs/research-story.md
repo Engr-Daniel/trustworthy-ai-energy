@@ -363,3 +363,61 @@ Prepared a new dated 20-record evidence snapshot, readable packet and pending hu
 Daniel remains primary human screener; secondary auditor identity/coverage and all human decisions remain pending. Canonical corpus records, snapshot counts 433/360/230, workbook and live Sheet were unchanged. Locally the record validator, 20-row pending template check and all 17 regression tests passed. These establish software/evidence consistency, not completed screening or search completeness.
 
 Published the dated handoff in commit [f001e65](https://github.com/Engr-Daniel/trustworthy-ai-energy/commit/f001e65fef72a7eb6bc4102228b30de0d4ab0236). Verified [Actions run 38748755935](https://github.com/Engr-Daniel/trustworthy-ai-energy/actions/runs/38748755935): all four Windows/Ubuntu and Python 3.10/3.12 jobs passed the record validator and all 17 regression tests. This does not establish human eligibility decisions or audit completion.
+
+## Session 10 - Manuscript writing scaffold, 15 October 2026
+At Daniel's request, created a template-only IEEE journal LaTeX manuscript under review-paper/manuscript/, with main.tex, the requested refrence.bib spelling and a figures folder. Added writing instructions under every heading/subheading, five figure placeholders, six table placeholders, and search/codebook/reporting appendices. Used the current scoping-review protocol and official IEEE/PRISMA-ScR resources to ground structure. No synthesis, final review counts, author affiliations, grants or references were fabricated. The bibliography remains inactive until verified entries and citations are added.
+
+Created the local manuscript-overleaf.zip upload bundle and checked environment/brace balance, unique labels, bibliography paths and archive contents. No local LaTeX compiler is installed; Overleaf PDF compilation is still unverified. No screening, extraction, corpus counts, workbook or live Sheet changes were made.
+
+## Session 11 - Delegated pipeline start, 16 October 2026
+Daniel reported reviewing the work so far and judging all 20 calibration records as passing, and asked to finish the review by running the pipeline. He delegated eligibility judgment to the AI assistant: non-visual studies may enter only with a defensible rationale, unsupported records may be removed, recall of useful work matters and the target is a Q1 journal. Recorded as protocol v0.4 (amendments.csv). His 20 judgments were recorded as human assessments. The assistant's refinements (seven reviews, methodology or foundational benchmarks moved to background/supporting; C0028 audio and C0032 cyber-intrusion excluded) are logged as AI-assisted resolution under delegation, not as independent dual review.
+
+Scopus/WoS/IEEE Xplore exports are unavailable, so OpenAlex Boolean title/abstract searches were designed. Run -01 failed on cursor pagination (HTTP 401). Run -02 completed, but known-item testing missed P01, P08, B02 and P03: the AI block was too strict, the task block lacked "corrosion" and some publisher records lack OpenAlex abstracts. Blocks were revised and a no-abstract title family added; dropping the AI block entirely was tested and rejected. Run -03 failed when the shared free daily budget was exhausted. A personal OpenAlex key was requested with Daniel's consent and awaits his activation.
+
+## Session 12 - Definitive search, delegated screening and linkage, 22 October 2026
+Daniel activated the personal OpenAlex key. The key is held outside the repository and is never written into saved URLs. Run OPENALEX-20261022-01 completed the five v0.4 families (R1 1,459; R2 932; R3 842; REV 640; title-only OA-T 339). Run -02 added a title-restricted generic reliability family (OA-G 976) and a citation family of works citing MVTec AD with reliability vocabulary (OA-C 1,062). All 6,250 OpenAlex occurrences were integrated as identification events with checksummed pages. Unique report records rose from 360 to 5,585; 1,098 occurrences were duplicates. A DOI lookup (OPENALEX-ABSTRACTS-20261022-01) recovered 178 abstracts for the 360 earlier records. Of the rest, 160 had no OpenAlex abstract, 18 were not found and 4 had no identifier.
+
+Known-item check: 7 of the 10 primary seed studies were retrieved. Two of the seven (P02, P05) were retrieved but not deduplicated, because the seed records carry no identifiers. P03, P07 and P09 were not returned by any family. Reviews and benchmark seeds were mostly not returned by the reliability families; they stay in the corpus as seeds. This is reported as a recall limitation of a single-index search.
+
+Title/abstract screening of all 5,585 records was completed under the v0.4 delegation, in compact rationale batches expanded into provenance packets 01-18. The outcome was 785 retrieve full text, 2 unclear, 406 background/supporting and 4,392 excluded. Exclusions by reason: TA05 1,574; TA01 1,355; TA03 684; TA02 614; TA04 165. Of the full-text decisions, 235 rest on title/metadata only and 210 carry an explicit verification flag. Screening notes 1-14 fix the consistency rules: zero-shot only as shift, imaging NDT, version consistency, non-visual fault diagnosis. Two earlier B decisions were recoded under note 14 in a later packet; the original packets remain. This is AI-assisted single-reviewer screening, not independent dual review. Daniel's audit sample is still pending.
+
+Version linkage: 209 same-title candidates were compared on authors, year, type, venue and identifiers. 144 links were verified and form 104 multi-report studies (study-linkage.csv). 4 were distinct works sharing a title and 21 were spurious non-Latin or empty-title candidates. 40 stay unverified for lack of metadata. Two studies carry conflicting title/abstract decisions (B04/O4549; P05/O3428), to be resolved at full text. The 787 full-text reports correspond to 766 studies.
+
+Protocol v0.5 records the full-text procedure: open-access retrieval only, study-level decisions, NR01 for unretrieved reports and a separate abstract-level tier. The retrieval plan (fulltext/retrieval-plan.csv) found open-access locations for 426 of the 787 reports. A logged arXiv exact-title and DOI location run (FULLTEXT-LOCATE-20261022-01) was started. Validation passed (6,683 occurrences, 5,585 reports) and all 17 regression tests passed.
+
+### Full-text stage, 22 October 2026 (continued)
+Retrieval used open-access copies only. The locate run (FULLTEXT-LOCATE-20261022-01) logged 531 requests, all but one successful. It added 12 arXiv versions by exact title; the DOI lookup found no new open-access locations. The download stage then retrieved 219 of 787 reports (207 located copies, 12 arXiv versions). Of the 568 not retrieved, 355 had no open-access location and 213 failed at every location, mostly publisher refusals (HTTP 403) of automated download. These are listed in fulltext/not-retrieved.csv and remain NR01 candidates. None was excluded for failed retrieval. Three primary seeds missing from the OpenAlex results (P03, P07, P09) were retrieved from their arXiv identifiers.
+
+All 219 retrieved reports were assessed for full-text eligibility (packets ft-01 and ft-02) against the v0.4 criteria, with page locators:
+
+| Decision | Reports |
+|---|---|
+| Include | 157 |
+| Background/supporting | 11 |
+| Exclude FT06 (no reliability dimension) | 23 |
+| Exclude FT04 (secondary version of a linked study) | 15 |
+| Exclude FT03 (no eligible empirical evidence) | 5 |
+| Exclude FT05 (non-English full text) | 3 |
+| Exclude FT01 (outside context) | 3 |
+| Exclude FT02 (task or modality mismatch) | 2 |
+
+Two of the three FT05 exclusions (O1612, O4335) are otherwise likely eligible. They are reported as language exclusions rather than read. Consistency rules carried over from screening: zero-shot/few-shot AD counts as R3 only with an explicit shift evaluation, "calibration" only when probability calibration is measured, and imaging NDT outside the listed modalities is background. One TA "Unclear" record (O1385) was resolved to full text by protocol rule before its FT decision.
+
+A ledger-schema issue surfaced: the single "Reviewer 1" column could not hold different reviewers for TA and FT. It now lists each stage's reviewer ("Daniel Oyewale | Claude ..."), and the validator checks each stage's evidence reviewer against that list; a regression test was added. All 24 tests pass and validation is clean. A manual-ingest stage (retrieve_fulltext.py --stage ingest) can register PDFs that Daniel obtains through institutional access, with supplier and SHA256 recorded.
+
+## Session 13 - Charting, synthesis and manuscript draft, 22-23 October 2026
+The charting form was piloted on ten diverse included studies and revised to v0.2. The pilot showed that counting needed separate fields for shift origin, guarantee type and human role, plus controlled vocabularies for context and validation maturity. All 157 included studies were then charted from full text with page locators (charting/charting.csv; compact source in charting/compact/chart-001.txt; expand_charting.py validates vocabulary and inclusion status).
+
+Evidence map (studies; dimensions multi-label):
+- Context: manufacturing 105, adjacent infrastructure 27, energy 21, other 4.
+- Dimensions: R3 99, R8 50, R1 43, R4 29, R5 25, R7 24, R2 16, R6 12.
+- Maturity: 98 public benchmark, 46 offline industrial data, 8 field validation, 4 deployed or operational, 1 human-subject experiment.
+- Decision guarantees: finite-sample 4 (conformal, risk control, tolerance limits, binomial certificates); empirical operating points 16.
+- Human role: evaluated with humans 7, designed into workflow 23.
+- Recency: 105 studies (67%) are from 2025-2026.
+
+Interpretation, separated from these counts: evidence thins along the inspection chain, from model-level robustness to calibrated scores, decision guarantees and evaluated human review. Studies with natural shifts, field data or audits repeatedly report that benchmark scores overstate inspection reliability.
+
+Eight closest prior reviews were retrieved as open access and characterised from their full texts for the comparison table. Manuscript draft v1 (manuscript/main.tex) was written in the IEEE scaffold. Every count comes from generated macros (make_figures.py, make_tables.py). The bibliography (169 entries) is generated by make_bib.py: each included study's title was matched against page 1 of its retrieved text, and the few metadata gaps are filled from documented primary-source overrides. Integrity checks found no missing cite keys, undefined macros or unbalanced braces; no LaTeX compiler is installed, so Overleaf compilation is the first typesetting check.
+
+The audit sample for Daniel is in screening/audit-20261023/: 157 full-text inclusions, 439 random title/abstract exclusions (seed 20261023) and 62 recommended full-text exclusions or background decisions. Validation is clean and all 26 tests pass.

@@ -1,0 +1,697 @@
+Paper ID,URL,Via,HTTP,Content-Type,Bytes,SHA256,Outcome,Time UTC
+C0191,https://www.mdpi.com/1424-8220/25/21/6529/pdf?version=1761215189,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T13:55:21.187722+00:00
+C0191,https://doi.org/10.3390/s25216529,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T13:55:23.076583+00:00
+C0208,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0353291&type=printable,OpenAlex location (pdf),200,application/pdf,2673928,7b55e3b6141abde4a21336c8b7d53847d41f82e8020b5a1da450719832df0220,PDF,2026-10-22T13:55:29.577243+00:00
+C0223,https://link.springer.com/content/pdf/10.1007/s44163-026-02008-2.pdf,OpenAlex location (pdf),200,application/pdf,2482288,dc1a82c1af680e8f8398b663dceaa9ec1f547d860d705f051b9a035fe14be736,PDF,2026-10-22T13:55:38.611440+00:00
+C0257,https://www.mdpi.com/2076-3417/15/20/10885/pdf?version=1760097851,OpenAlex location (pdf),403,text/html,416,,Not a PDF/failed,2026-10-22T13:55:43.323857+00:00
+C0257,https://doi.org/10.3390/app152010885,landing page,403,text/html,403,,Not a PDF/failed,2026-10-22T13:55:45.134551+00:00
+C0266,https://papers.ssrn.com/sol3/Delivery.cfm/7cd1fbdf-a443-4d63-ad7e-97e7941668fe-MECA.pdf?abstractid=7536676&mirid=1,OpenAlex location (pdf),403,text/html; charset=UTF-8,6015,,Not a PDF/failed,2026-10-22T13:55:48.104085+00:00
+C0266,https://doi.org/10.2139/ssrn.7536676,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T13:55:52.076567+00:00
+O0002,https://www.mdpi.com/2813-4648/3/1/4/pdf?version=1738745401,OpenAlex location (pdf),403,text/html,410,,Not a PDF/failed,2026-10-22T13:55:53.308760+00:00
+O0002,https://doi.org/10.3390/jeta3010004,landing page,403,text/html,397,,Not a PDF/failed,2026-10-22T13:55:55.119162+00:00
+O0021,https://www.nature.com/articles/s41598-026-68249-4_reference.pdf,OpenAlex location (pdf),200,application/pdf,5695899,6fb87fd303c7d24e535fd249010c3602d45d28a999eb543b7426e8f57a8eacd6,PDF,2026-10-22T13:56:20.367549+00:00
+O0032,https://www.mdpi.com/1424-8220/26/9/2608/pdf?version=1776944506,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T13:56:30.118185+00:00
+O0032,https://doi.org/10.3390/s26092608,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T13:56:31.974566+00:00
+O0048,https://soapubs.com/index.php/AIDT/article/download/2674/2439,OpenAlex location (pdf),200,application/pdf,772450,f748266c72c780c154494cbd8c2a74fed332d9a5bf78baf1ba2a5cce1aab0fb8,PDF,2026-10-22T13:56:41.548717+00:00
+O0051,https://www.mdpi.com/2227-7390/13/15/2430/pdf?version=1753708097,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T13:56:47.549205+00:00
+O0051,https://doi.org/10.3390/math13152430,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T13:56:49.547372+00:00
+O0053,https://link.springer.com/content/pdf/10.1007/s00170-022-10249-5.pdf,OpenAlex location (pdf),200,application/pdf,1693498,2015b289b910920ee399f12b0bd3c11de5ef31f23a60ae08512ab7c7098c209c,PDF,2026-10-22T13:56:58.804032+00:00
+O0056,https://cspub-ijcisim.org/index.php/ijcisim/article/download/2917/2326,OpenAlex location (pdf),200,application/pdf,893489,d68944cb813de735e5b402efda1248ac8c677f1641ed16512e1aa17af08bd99d,PDF,2026-10-22T13:57:11.051891+00:00
+O0079,https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/08/e3sconf_icepp2026_05002.pdf,OpenAlex location (pdf),403,text/html,93,,Not a PDF/failed,2026-10-22T13:57:18.699073+00:00
+O0079,https://doi.org/10.1051/e3sconf/202669005002,landing page,403,text/html,93,,Not a PDF/failed,2026-10-22T13:57:20.948522+00:00
+O0080,https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/08/e3sconf_icepp2026_05002.pdf,OpenAlex location (pdf),403,text/html,93,,Not a PDF/failed,2026-10-22T13:57:22.583765+00:00
+O0080,https://doi.org/10.1051/e3sconf/202669005002,landing page,403,text/html,93,,Not a PDF/failed,2026-10-22T13:57:24.718579+00:00
+O0085,https://www.researchsquare.com/article/rs-10406726/latest.pdf,OpenAlex location (pdf),200,application/pdf,3470122,5858cb31c5ea6273f6836aff73e5add6531b9004f6feeb0283970caad6d56ffc,PDF,2026-10-22T13:57:30.466991+00:00
+O0106,https://rsisinternational.org/journals/ijriss/uploads/vol10-iss3-pg3636-3660-202604_pdf.pdf,OpenAlex location (pdf),200,application/pdf,1525257,375aa7d39ae0a8110f41d1febd2437362551a446ce92d8aa261e219ebe762f47,PDF,2026-10-22T13:57:36.737098+00:00
+O0110,https://www.mdpi.com/1424-8220/22/22/8986/pdf?version=1668936684,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T13:57:44.059496+00:00
+O0110,https://doi.org/10.3390/s22228986,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T13:57:46.072077+00:00
+O0137,https://www.mdpi.com/1996-1073/19/4/1013/pdf,OpenAlex location (pdf),403,text/html,409,,Not a PDF/failed,2026-10-22T13:57:47.273868+00:00
+O0137,https://doi.org/10.3390/en19041013,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T13:57:49.165245+00:00
+O0143,https://cspub-ijcisim.org/index.php/ijcisim/article/download/4248/3423,OpenAlex location (pdf),200,application/pdf,931525,aaf9e8fea8e1bd99536f6dcac8f870b5b3622120eca9533f65e8793fa69e5014,PDF,2026-10-22T13:57:53.222859+00:00
+O0158,https://www.mdpi.com/2226-4310/8/2/30/pdf?version=1611659238,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T13:57:57.719419+00:00
+O0158,https://doi.org/10.3390/aerospace8020030,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T13:57:59.424189+00:00
+O0171,https://www.mdpi.com/2075-5309/16/11/2250/pdf?version=1780626329,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T13:58:00.638853+00:00
+O0171,https://doi.org/10.3390/buildings16112250,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T13:58:02.481718+00:00
+O0212,https://ieeexplore.ieee.org/ielx7/6287639/8600701/08911386.pdf,OpenAlex location (pdf),200,application/pdf,2635052,c5c535f3b2755e5b3a69fc4878e1c36f1007fb0ea39b33ff65674cbce4938de9,PDF,2026-10-22T13:58:14.687203+00:00
+O0216,https://link.springer.com/content/pdf/10.1007/s40194-025-02280-3.pdf,OpenAlex location (pdf),200,application/pdf,2351491,2980be2b58d178d23c254c31519a109ef441db61ff72934b1794f920bf7849ca,PDF,2026-10-22T13:58:29.580485+00:00
+O0229,https://academic.oup.com/jcde/article-pdf/10/4/1423/50849591/qwad067.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5771,,Not a PDF/failed,2026-10-22T13:58:33.494435+00:00
+O0229,https://doi.org/10.1093/jcde/qwad067,landing page,403,text/html; charset=UTF-8,5699,,Not a PDF/failed,2026-10-22T13:58:35.914330+00:00
+O0253,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/sil2/1914287,OpenAlex location (pdf),403,text/html; charset=UTF-8,5782,,Not a PDF/failed,2026-10-22T13:58:37.650378+00:00
+O0253,https://doi.org/10.1049/sil2/1914287,landing page,403,text/html; charset=UTF-8,5764,,Not a PDF/failed,2026-10-22T13:58:40.446936+00:00
+O0288,https://link.springer.com/content/pdf/10.1007/s10845-023-02098-0.pdf,OpenAlex location (pdf),200,application/pdf,1541567,f73c00e59614658ac03dbaa31a1946ee138f937cc572a13ae26a7761d675b256,PDF,2026-10-22T13:58:45.145860+00:00
+O0289,https://www.nature.com/articles/s41598-026-66049-4.pdf,OpenAlex location (pdf),200,application/pdf,7926567,e441f7a557804c1a9208a0c20ba372a27716b30702d5da21567396181b7a0b3a,PDF,2026-10-22T13:59:00.835904+00:00
+O0302,http://repositorio.utfpr.edu.br/jspui/handle/1/2890,OpenAlex location (pdf),200,text/html; charset=utf-8,484183,,Not a PDF/failed,2026-10-22T13:59:12.416379+00:00
+O0303,https://www.mdpi.com/2412-3811/10/10/255/pdf?version=1758635770,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T13:59:13.630763+00:00
+O0303,https://doi.org/10.3390/infrastructures10100255,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T13:59:15.432908+00:00
+O0309,https://isprs-annals.copernicus.org/articles/X-4-W8-2025/479/2026/isprs-annals-X-4-W8-2025-479-2026.pdf,OpenAlex location (pdf),200,application/pdf,1142628,8a28787af9b345bef598711f0c61c88f57175a011cfd8497c9c5cdcb17876f16,PDF,2026-10-22T13:59:21.306429+00:00
+O0310,https://isprs-annals.copernicus.org/articles/X-4-W8-2025/479/2026/isprs-annals-X-4-W8-2025-479-2026.pdf,OpenAlex location (pdf),200,application/pdf,1142628,8a28787af9b345bef598711f0c61c88f57175a011cfd8497c9c5cdcb17876f16,PDF,2026-10-22T13:59:27.533866+00:00
+O0312,https://journals.sagepub.com/doi/pdf/10.1177/14759217251357260?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5833,,Not a PDF/failed,2026-10-22T13:59:29.875484+00:00
+O0312,https://doi.org/10.1177/14759217251357260,landing page,403,text/html; charset=UTF-8,5743,,Not a PDF/failed,2026-10-22T13:59:32.108395+00:00
+O0336,https://link.springer.com/content/pdf/10.1007/s00170-026-17765-8.pdf,OpenAlex location (pdf),200,application/pdf,1984449,626bc25d82737f46e2132078b3b375d37fdeaa2268cd054128e7ba2a9f01b87c,PDF,2026-10-22T13:59:38.214165+00:00
+O0351,https://kclpure.kcl.ac.uk/ws/files/143057062/Ball_Bonding_Inspections_using_a_Conjoint_Framework_with_Machine_Learning_and_Human_Judgement.pdf,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T14:00:19.793355+00:00
+O0351,https://kclpure.kcl.ac.uk/portal/en/publications/9d16714a-80c3-446d-a173-11e706dc715b,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T14:00:52.076608+00:00
+O0371,https://www.nature.com/articles/s41598-025-20372-4.pdf,OpenAlex location (pdf),200,application/pdf,8173296,cf242738e0f0092988ef7e6416ca43fea4e64acd485a4f9fc777f37f639ac4e1,PDF,2026-10-22T14:01:42.372550+00:00
+O0406,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.70127,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T14:01:46.778849+00:00
+O0406,https://doi.org/10.1111/mice.70127,landing page,200,text/html;charset=UTF-8,2780,,Not a PDF/failed,2026-10-22T14:01:49.120555+00:00
+O0410,https://isprs-annals.copernicus.org/articles/XI-2-2026/85/2026/isprs-annals-XI-2-2026-85-2026.pdf,OpenAlex location (pdf),200,application/pdf,1046914,dfff0d7fcf9d91b02c727c57cef01c60311c8bdc0afabd4f407bdd78a00e1cbe,PDF,2026-10-22T14:01:58.858154+00:00
+C0191,https://www.mdpi.com/1424-8220/25/21/6529/pdf?version=1761215189,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:02:48.041869+00:00
+C0191,https://doi.org/10.3390/s25216529,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:02:50.044535+00:00
+C0257,https://www.mdpi.com/2076-3417/15/20/10885/pdf?version=1760097851,OpenAlex location (pdf),403,text/html,416,,Not a PDF/failed,2026-10-22T14:02:51.231315+00:00
+C0257,https://doi.org/10.3390/app152010885,landing page,403,text/html,403,,Not a PDF/failed,2026-10-22T14:02:53.179696+00:00
+C0266,https://papers.ssrn.com/sol3/Delivery.cfm/7cd1fbdf-a443-4d63-ad7e-97e7941668fe-MECA.pdf?abstractid=7536676&mirid=1,OpenAlex location (pdf),403,text/html; charset=UTF-8,6015,,Not a PDF/failed,2026-10-22T14:02:55.599802+00:00
+C0266,https://doi.org/10.2139/ssrn.7536676,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:02:58.057760+00:00
+O0002,https://www.mdpi.com/2813-4648/3/1/4/pdf?version=1738745401,OpenAlex location (pdf),403,text/html,410,,Not a PDF/failed,2026-10-22T14:02:59.280447+00:00
+O0002,https://doi.org/10.3390/jeta3010004,landing page,403,text/html,397,,Not a PDF/failed,2026-10-22T14:03:01.103304+00:00
+O0032,https://www.mdpi.com/1424-8220/26/9/2608/pdf?version=1776944506,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:03:02.340228+00:00
+O0032,https://doi.org/10.3390/s26092608,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:03:04.074176+00:00
+O0051,https://www.mdpi.com/2227-7390/13/15/2430/pdf?version=1753708097,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:03:05.304366+00:00
+O0051,https://doi.org/10.3390/math13152430,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:03:07.235232+00:00
+O0079,https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/08/e3sconf_icepp2026_05002.pdf,OpenAlex location (pdf),403,text/html,93,,Not a PDF/failed,2026-10-22T14:03:09.522715+00:00
+O0079,https://doi.org/10.1051/e3sconf/202669005002,landing page,403,text/html,93,,Not a PDF/failed,2026-10-22T14:03:11.919067+00:00
+O0080,https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/08/e3sconf_icepp2026_05002.pdf,OpenAlex location (pdf),403,text/html,93,,Not a PDF/failed,2026-10-22T14:03:13.489483+00:00
+O0080,https://doi.org/10.1051/e3sconf/202669005002,landing page,403,text/html,93,,Not a PDF/failed,2026-10-22T14:03:15.657342+00:00
+O0110,https://www.mdpi.com/1424-8220/22/22/8986/pdf?version=1668936684,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:03:17.229222+00:00
+O0110,https://doi.org/10.3390/s22228986,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:03:19.062788+00:00
+O0137,https://www.mdpi.com/1996-1073/19/4/1013/pdf,OpenAlex location (pdf),403,text/html,409,,Not a PDF/failed,2026-10-22T14:03:20.306612+00:00
+O0137,https://doi.org/10.3390/en19041013,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:03:22.216126+00:00
+O0158,https://www.mdpi.com/2226-4310/8/2/30/pdf?version=1611659238,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T14:03:23.473196+00:00
+O0158,https://doi.org/10.3390/aerospace8020030,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:03:25.317332+00:00
+O0171,https://www.mdpi.com/2075-5309/16/11/2250/pdf?version=1780626329,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:03:26.541900+00:00
+O0171,https://doi.org/10.3390/buildings16112250,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:03:28.777816+00:00
+O0229,https://academic.oup.com/jcde/article-pdf/10/4/1423/50849591/qwad067.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5771,,Not a PDF/failed,2026-10-22T14:03:30.374004+00:00
+O0229,https://doi.org/10.1093/jcde/qwad067,landing page,403,text/html; charset=UTF-8,5699,,Not a PDF/failed,2026-10-22T14:03:32.564561+00:00
+O0253,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/sil2/1914287,OpenAlex location (pdf),403,text/html; charset=UTF-8,5782,,Not a PDF/failed,2026-10-22T14:03:34.127951+00:00
+O0253,https://doi.org/10.1049/sil2/1914287,landing page,403,text/html; charset=UTF-8,5764,,Not a PDF/failed,2026-10-22T14:03:36.500473+00:00
+O0302,http://repositorio.utfpr.edu.br/jspui/handle/1/2890,OpenAlex location (pdf),200,text/html; charset=utf-8,484183,,Not a PDF/failed,2026-10-22T14:03:43.420171+00:00
+O0303,https://www.mdpi.com/2412-3811/10/10/255/pdf?version=1758635770,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:03:44.651082+00:00
+O0303,https://doi.org/10.3390/infrastructures10100255,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:03:46.452049+00:00
+O0312,https://journals.sagepub.com/doi/pdf/10.1177/14759217251357260?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5833,,Not a PDF/failed,2026-10-22T14:03:48.139664+00:00
+O0312,https://doi.org/10.1177/14759217251357260,landing page,403,text/html; charset=UTF-8,5743,,Not a PDF/failed,2026-10-22T14:03:50.279807+00:00
+O0351,https://kclpure.kcl.ac.uk/ws/files/143057062/Ball_Bonding_Inspections_using_a_Conjoint_Framework_with_Machine_Learning_and_Human_Judgement.pdf,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T14:04:22.843484+00:00
+O0351,https://kclpure.kcl.ac.uk/portal/en/publications/9d16714a-80c3-446d-a173-11e706dc715b,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T14:04:55.149755+00:00
+O0406,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.70127,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T14:04:56.654593+00:00
+O0406,https://doi.org/10.1111/mice.70127,landing page,200,text/html;charset=UTF-8,2780,,Not a PDF/failed,2026-10-22T14:04:59.199704+00:00
+O0449,https://africanjournalofbiomedicalresearch.com/index.php/AJBR/article/download/8803/7352,OpenAlex location (pdf),404,text/html; charset=utf-8,22,,Not a PDF/failed,2026-10-22T14:05:01.509054+00:00
+O0449,https://doi.org/10.53555/ajbr.v27i6s.8803,landing page,200,text/html; charset=utf-8,35690,,Not a PDF/failed,2026-10-22T14:05:04.443847+00:00
+O0449,https://africanjournalofbiomedicalresearch.com/index.php/AJBR/article/download/8803/7439,citation_pdf_url from landing page,200,application/pdf,1932526,ea6ddcab48150eab196f4ae7826a10c0614ee3bdb8f92593f968a9fa928d2bda,PDF,2026-10-22T14:05:08.083237+00:00
+O0470,https://www.sciencedirect.com/science/article/pii/S027861252100159X/pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,832805,,Not a PDF/failed,2026-10-22T14:05:20.350057+00:00
+O0470,https://doi.org/10.1016/j.jmsy.2021.07.022,landing page,200,text/html;charset=UTF-8,2755,,Not a PDF/failed,2026-10-22T14:05:22.851259+00:00
+O0484,https://acta.imeko.org/index.php/acta-imeko/article/download/IMEKO-ACTA-05%20%282016%29-04-02/pdf,OpenAlex location (pdf),200,application/pdf,663802,fe05f781e6f4ebb0bd50ba2f9d7c5be8f76071967107d8106bdf132be3a3360f,PDF,2026-10-22T14:05:27.498646+00:00
+O0510,https://ricerca.univaq.it/bitstream/11697/120693/1/finale.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5736,,Not a PDF/failed,2026-10-22T14:05:30.924453+00:00
+O0510,https://acta.imeko.org/index.php/acta-imeko/article/download/IMEKO-ACTA-05%20%282016%29-04-02/pdf,OpenAlex location (pdf),200,application/pdf,663802,fe05f781e6f4ebb0bd50ba2f9d7c5be8f76071967107d8106bdf132be3a3360f,PDF,2026-10-22T14:05:34.697771+00:00
+O0541,https://www.dpi-proceedings.com/index.php/shm2023/article/download/36973/35548,OpenAlex location (pdf),200,application/pdf,1495889,83880df7c6aa7aae8ad01a1f48579b6ab047c4c17385325a46eae948c7f19317,PDF,2026-10-22T14:05:39.479319+00:00
+O0574,https://link.springer.com/content/pdf/10.1007/s00477-024-02898-7.pdf,OpenAlex location (pdf),200,application/pdf,2773403,5ae8faeeedd531c19d2afa3f6d9507d22e95a08abfc5861c07e40ba5fcc5dbf4,PDF,2026-10-22T14:05:47.674579+00:00
+O0852,https://ephijse.com/index.php/SE/article/download/407/491,OpenAlex location (pdf),200,application/pdf,629559,3804d2f2dde4011874d8df65abe36ccc46b9587f04ef6978ef0dee4a9338d963,PDF,2026-10-22T14:05:54.651259+00:00
+O0858,https://iopscience.iop.org/article/10.1088/1361-6501/ae9f82/pdf,OpenAlex location (pdf),200,text/html;charset=UTF-8,178201,,Not a PDF/failed,2026-10-22T14:05:59.545346+00:00
+O0858,https://doi.org/10.1088/1361-6501/ae9f82,landing page,200,text/html; charset=UTF-8,14371,,Not a PDF/failed,2026-10-22T14:06:37.559692+00:00
+O1076,https://www.tandfonline.com/doi/pdf/10.1080/00401706.2026.2672595?needAccess=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5871,,Not a PDF/failed,2026-10-22T14:06:39.242231+00:00
+O1076,https://doi.org/10.1080/00401706.2026.2672595,landing page,403,text/html; charset=UTF-8,5790,,Not a PDF/failed,2026-10-22T14:06:41.392824+00:00
+O1385,http://oa.upm.es/58190/1/Tesis_YolandaTorresFernandez_UPM_2.pdf,OpenAlex location (pdf),200,application/pdf,45311205,315ea02516c6960898b51601406d9b78101d58a04bf33c1cc0df9108ea8e21e2,PDF,2026-10-22T14:09:03.486680+00:00
+O1456,https://www.mdpi.com/2079-9292/14/20/4016/pdf?version=1760431700,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:09:04.295473+00:00
+O1456,https://doi.org/10.3390/electronics14204016,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:09:06.082937+00:00
+O1459,https://smsrj.com/index.php/smsrj/article/download/31/77,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T14:09:49.407965+00:00
+O1459,https://smsrj.com/index.php/smsrj/article/view/31,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T14:10:21.882734+00:00
+O1465,https://vtechworks.lib.vt.edu/bitstreams/c77b1be1-4782-49a1-b95e-8aeb47ff8896/download,OpenAlex location (pdf),200,application/pdf;charset=UTF-8,3406024,24916e20a6e9c5c682a6ee32d1d767dc6fd3df37b9b8373f2fc8701943769169,PDF,2026-10-22T14:10:28.669200+00:00
+O1472,https://www.mdpi.com/2313-433X/11/11/415/pdf?version=1763389133,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:10:31.458835+00:00
+O1472,https://doi.org/10.3390/jimaging11110415,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:10:33.284357+00:00
+O1478,https://jogss.org/index.php/JGS/article/download/55/81,OpenAlex location (pdf),200,application/pdf,585747,418ef833b2e9d07509e1bbb56599109b5e5e4fd5fbc15496821390b1765fd765,PDF,2026-10-22T14:10:37.666610+00:00
+O1493,https://dergipark.org.tr/en/download/article-file/6043235,OpenAlex location (pdf),200,application/pdf,1502961,9bbc205723f30d03dd1413a17d0abb31afbfed537f252e8c41d6bd4929053ea3,PDF,2026-10-22T14:10:44.307521+00:00
+O1522,https://eccsubmit.com/index.php/congress/article/download/248/418,OpenAlex location (pdf),200,application/pdf,1335379,facd1404f25f9db6d064c53825cc599b3d65dc996a20a76b0e5d4cc67962bf96,PDF,2026-10-22T14:10:49.668991+00:00
+O1525,https://www.mdpi.com/1424-8220/21/14/4929/pdf?version=1626939099,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:10:52.048426+00:00
+O1525,https://doi.org/10.3390/s21144929,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:10:53.786826+00:00
+O1533,https://doi.org/10.17683/ijomam/issue21.29,OpenAlex location (pdf),200,application/pdf,468720,cbf53c3e554d51aabb607aa21a17fa1d5908de07ae363065a2c6a64d9d52dcf5,PDF,2026-10-22T14:10:58.237465+00:00
+O1558,https://doi.org/10.63367/199115992025103605009,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T14:11:37.182579+00:00
+O1564,https://academic.oup.com/jcde/advance-article-pdf/doi/10.1093/jcde/qwaf105/64660692/qwaf105.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5883,,Not a PDF/failed,2026-10-22T14:11:38.921228+00:00
+O1564,https://doi.org/10.1093/jcde/qwaf105,landing page,403,text/html; charset=UTF-8,5696,,Not a PDF/failed,2026-10-22T14:11:41.121640+00:00
+O1598,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pip.3518,OpenAlex location (pdf),403,text/html; charset=UTF-8,5749,,Not a PDF/failed,2026-10-22T14:11:42.723122+00:00
+O1598,https://doi.org/10.1002/pip.3518,landing page,403,text/html; charset=UTF-8,5719,,Not a PDF/failed,2026-10-22T14:11:44.976432+00:00
+O1605,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2072,OpenAlex location (pdf),403,text/html; charset=UTF-8,5773,,Not a PDF/failed,2026-10-22T14:11:46.478483+00:00
+O1605,https://doi.org/10.1002/cepa.2072,landing page,403,text/html; charset=UTF-8,5722,,Not a PDF/failed,2026-10-22T14:11:48.740830+00:00
+O1612,https://www.jksqm.org/upload/pdf/jksqm-53-3-329.pdf,OpenAlex location (pdf),200,application/pdf,598300,1467ad67e08312861ea5f657d8be49f00fb0e5c595a9af76bbc5110e28881642,PDF,2026-10-22T14:11:57.933726+00:00
+O1633,https://link.springer.com/content/pdf/10.1007/978-3-662-66769-9_6.pdf,OpenAlex location (pdf),200,application/pdf,859193,ead402d51492ef8d13c755633f8050dd2b2c381fc05bd73f93eb974d1a0100ec,PDF,2026-10-22T14:12:05.899400+00:00
+O1653,https://www.mdpi.com/2079-9292/15/5/979/pdf?version=1772187028,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T14:12:08.532770+00:00
+O1653,https://doi.org/10.3390/electronics15050979,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T14:12:10.339969+00:00
+O1676,https://link.springer.com/content/pdf/10.1007/s13349-025-00922-0.pdf,OpenAlex location (pdf),200,application/pdf,3494281,3f49f9c02c389bcc5af2457e21cf2391dc732da32ad9596fcd0091b2c41f31db,PDF,2026-10-22T14:12:16.267823+00:00
+O1681,https://link.springer.com/content/pdf/10.1007/s11263-026-02743-0.pdf,OpenAlex location (pdf),200,application/pdf,6623666,0c24a00a4f45bd6fc2e2fc21c5a81e59270ee97ae05e40c82a8423d7c4c0544b,PDF,2026-10-22T14:12:23.294669+00:00
+O1703,https://link.springer.com/content/pdf/10.1007/s43503-022-00008-6.pdf,OpenAlex location (pdf),200,application/pdf,4105605,c05ac67b8e33302cb3f667269a98df1abd2c58f83f9eec912e1ae52e250f8e5c,PDF,2026-10-22T14:12:39.075387+00:00
+O1707,https://www.mdpi.com/2075-4701/12/11/1963/pdf?version=1668681168,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:12:41.103005+00:00
+O1707,https://doi.org/10.3390/met12111963,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:12:42.920973+00:00
+O1712,https://iopscience.iop.org/article/10.1088/1755-1315/1661/1/012026/pdf,OpenAlex location (pdf),200,text/html; charset=UTF-8,14371,,Not a PDF/failed,2026-10-22T14:13:29.999304+00:00
+O1712,https://doi.org/10.1088/1755-1315/1661/1/012026,landing page,200,text/html; charset=UTF-8,14371,,Not a PDF/failed,2026-10-22T14:13:34.637690+00:00
+O1713,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.13087,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T14:13:36.268855+00:00
+O1713,https://doi.org/10.1111/mice.13087,landing page,200,text/html;charset=UTF-8,2713,,Not a PDF/failed,2026-10-22T14:13:38.688167+00:00
+O1748,https://isprs-annals.copernicus.org/articles/XI-2-2026/767/2026/isprs-annals-XI-2-2026-767-2026.pdf,OpenAlex location (pdf),200,application/pdf,1779757,ad800461c8d1fc5bc06de2f681c23b0504fcba01a5deb1e624fb196bf2fca115,PDF,2026-10-22T14:13:46.385637+00:00
+O1752,https://www.mdpi.com/2504-2289/10/1/3/pdf,OpenAlex location (pdf),403,text/html,406,,Not a PDF/failed,2026-10-22T14:13:50.830171+00:00
+O1752,https://doi.org/10.3390/bdcc10010003,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:13:52.798980+00:00
+O1771,"https://journal-knu.com.ua/web/uploads/pdf/Journal of Kryvyi Rih National University, Vol 23, No 2, 2025-46-58.pdf",OpenAlex location (pdf),404,text/html; charset=UTF-8,20209,,Not a PDF/failed,2026-10-22T14:13:55.889454+00:00
+O1771,https://doi.org/10.31721/2306-5451-2025-2-23-46-58,landing page,200,text/html; charset=UTF-8,70342,,Not a PDF/failed,2026-10-22T14:13:58.506846+00:00
+O1771,"https://journal-knu.com.ua/web/uploads/pdf/Journal of Kryvyi Rih National University, Vol 23, No 2, 2025_-46-58.pdf",citation_pdf_url from landing page,200,application/pdf,1550766,cf97b890b1dd3ce3c3bb625e44d8aff448414eda5c7a435725dbd4f1478baa0f,PDF,2026-10-22T14:14:01.463121+00:00
+O1774,https://mcgill.scholaris.ca/bitstreams/c1fc9319-7512-46f4-a445-a8c917b0cb12/download,OpenAlex location (pdf),200,application/pdf;charset=UTF-8,5425445,3fe525feb8ea523cf524d9677ffbbd00fd1fefbb068a35140c00fe2e0a293685,PDF,2026-10-22T14:14:18.998372+00:00
+O1800,https://www.mdpi.com/2071-1050/18/13/6684/pdf?version=1782910559,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:14:30.921566+00:00
+O1800,https://doi.org/10.3390/su18136684,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:14:32.938033+00:00
+O1821,https://www.mdpi.com/2076-3417/16/8/3786/pdf?version=1776073338,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:14:34.124445+00:00
+O1821,https://doi.org/10.3390/app16083786,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:14:35.914153+00:00
+O1830,https://www.mdpi.com/2076-3417/14/6/2455/pdf?version=1710411586,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:14:37.198145+00:00
+O1830,https://doi.org/10.3390/app14062455,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:14:39.034109+00:00
+O1851,https://www.degruyterbrill.com/document/doi/10.1515/jmbm-2025-0074/pdf,OpenAlex location (pdf),202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:14:42.590491+00:00
+O1851,https://doi.org/10.1515/jmbm-2025-0074,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:14:44.332589+00:00
+O1857,https://www.researchsquare.com/article/rs-9815812/latest.pdf,OpenAlex location (pdf),200,application/pdf,630856,add84c53e6a64b2aa0d865c96756db0f9b06a8219240eadbdc15729edb594c39,PDF,2026-10-22T14:14:48.211668+00:00
+O1861,https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1681254/pdf,OpenAlex location (pdf),200,application/pdf,5611373,5f6eb6a2673886515d4aa30467427fc044e7b920c7a277d8cd8cd299201678b5,PDF,2026-10-22T14:14:56.935373+00:00
+O1963,https://www.researchsquare.com/article/rs-8194392/latest.pdf,OpenAlex location (pdf),200,application/pdf,1825738,7d821b68917b800b99702f53f07e5b0a97fe48cacfbded29a8293f8cac0bee5e,PDF,2026-10-22T14:15:04.918152+00:00
+O2035,https://www.sciencedirect.com/science/article/pii/S1474034626009997/pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,832805,,Not a PDF/failed,2026-10-22T14:15:12.914766+00:00
+O2035,https://doi.org/10.1016/j.aei.2026.105307,landing page,200,text/html;charset=UTF-8,2708,,Not a PDF/failed,2026-10-22T14:15:15.987787+00:00
+O2036,https://www.nature.com/articles/s41598-026-70507-4_reference.pdf,OpenAlex location (pdf),200,application/pdf,3698608,7dc368b23a814670a2f66f8fb979d04c97bed1ad521eb05c5bb2112d86072067,PDF,2026-10-22T14:15:34.773364+00:00
+O2054,https://www.researchsquare.com/article/rs-4889058/latest.pdf,OpenAlex location (pdf),200,application/pdf,2478300,85e53617e56cf5ce6cafda07669941f6c92fcb62b579e839412f14dc221f7854,PDF,2026-10-22T14:15:45.995595+00:00
+O2079,https://www.mdpi.com/2504-4494/8/2/66/pdf?version=1711615517,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T14:15:51.435462+00:00
+O2079,https://doi.org/10.3390/jmmp8020066,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:15:53.231789+00:00
+O2081,https://www.ndt.net/article/ctc2026/papers/ict26_Contribution_244.pdf,OpenAlex location (pdf),200,application/pdf,1960015,66f15319f4b09c78d3d0733e6ae014cada6cd62c44c93ea97d8d43af7d40d202,PDF,2026-10-22T14:15:56.643894+00:00
+O2143,https://publications.eai.eu/index.php/sis/article/download/13054/4170,OpenAlex location (pdf),200,application/pdf,1695968,3bd7db4882cb2e1fbb7c49632b918fc7593a20607c27a51f7ee28a2f36aa7f75,PDF,2026-10-22T14:16:01.103519+00:00
+O2268,https://papers.phmsociety.org/index.php/phmap/article/download/3699/2165,OpenAlex location (pdf),200,application/pdf,499804,8820ca9b800b27108cb2ab4fc1caf5f97c82f4ac962849a7944bc3b90aa5bd37,PDF,2026-10-22T14:16:06.336963+00:00
+O2279,https://www.davidpublisher.com/Public/uploads/Contribute/65aa254a87b2e.pdf,OpenAlex location (pdf),200,application/pdf,629217,e731172fc1d1497366b4db4dc643de869c65705383af7b964e86ec1c744a5163,PDF,2026-10-22T14:16:15.489312+00:00
+O2282,https://www.jisem-journal.com/index.php/journal/article/download/11304/5255,OpenAlex location (pdf),200,application/pdf,592450,a46b34f8372e6719bde6b172d534808d240ed3fa7bf1e5c9c3e64ad43720fcf0,PDF,2026-10-22T14:16:24.954126+00:00
+O2292,https://link.springer.com/content/pdf/10.1007/s10846-025-02265-w.pdf,OpenAlex location (pdf),200,application/pdf,2791074,582e85415129ac2ce6ac47014f930e5f30766fc749e8183569b65d931d421813,PDF,2026-10-22T14:16:36.820129+00:00
+O2294,https://dl.acm.org/doi/pdf/10.1145/3833142.3833145?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5796,,Not a PDF/failed,2026-10-22T14:16:40.220336+00:00
+O2294,https://doi.org/10.1145/3833142.3833145,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T14:16:42.557358+00:00
+O2303,http://eprints.uwe.ac.uk/11059/1/05196708.pdf,OpenAlex location (pdf),ConnectionError,,0,,Not a PDF/failed,2026-10-22T14:17:13.901653+00:00
+O2308,https://ijisae.org/index.php/IJISAE/article/download/7874/6893,OpenAlex location (pdf),200,application/pdf,730225,3da76d5cffee3a63a7974e4b4db4b706255d9451200ec17e0b975827431d5487,PDF,2026-10-22T14:17:19.572602+00:00
+O2311,https://link.springer.com/content/pdf/10.1007/978-981-96-2409-6_14.pdf,OpenAlex location (pdf),200,application/pdf,1067950,99ac54e0580fe9fd256984a9da40f4a764e7e725f92b0b23aa619adf295e5499,PDF,2026-10-22T14:17:26.436284+00:00
+O2331,https://www.nature.com/articles/s41598-026-69071-8_reference.pdf,OpenAlex location (pdf),200,application/pdf,4894931,324a302be0932ef6864dac5b25289e4c0daed88945b3cd9c985c6ea19b7cf742,PDF,2026-10-22T14:17:35.212796+00:00
+O2357,https://nrc-publications.canada.ca/eng/view/author/version/?id=9504cb21-624a-4f6a-be13-6dd06003f0bd,OpenAlex location (pdf),200,application/pdf;charset=UTF-8,859788,a42dc1b44b50716ef581eefaca11a22f4ad585f013980aa8ab98cc082bc15cfc,PDF,2026-10-22T14:17:51.657915+00:00
+O2373,https://www.preprints.org/frontend/manuscript/9c391c5a36be8ed49366a764f20d8183/download_pub,OpenAlex location (pdf),403,text/html,452,,Not a PDF/failed,2026-10-22T14:17:53.547315+00:00
+O2373,https://doi.org/10.20944/preprints202512.2091.v1,landing page,403,text/html,408,,Not a PDF/failed,2026-10-22T14:17:55.510397+00:00
+O2377,https://glintopenaccess.com/IJIRA/Articles/IJIRA-26-01.pdf,OpenAlex location (pdf),200,application/pdf,946996,d298dc337a736fa2b05f9625c93bd06dbb3e9ccd726bc90ed5dd5b4a8627e300,PDF,2026-10-22T14:18:00.214531+00:00
+O2420,http://eprints.uwe.ac.uk/11114/1/11114.pdf,OpenAlex location (pdf),ConnectionError,,0,,Not a PDF/failed,2026-10-22T14:18:33.028310+00:00
+O2442,https://www.researchsquare.com/article/rs-7043856/latest.pdf,OpenAlex location (pdf),200,application/pdf,973868,bf97ba366098a4ac20658c1aec729851f336afcf69aded343d33610f1f37bb5c,PDF,2026-10-22T14:18:37.609448+00:00
+O2552,https://www.mdpi.com/2079-9292/15/15/3370/pdf?version=1785466545,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:18:41.743121+00:00
+O2552,https://doi.org/10.3390/electronics15153370,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:18:44.567595+00:00
+O3405,https://www.researchsquare.com/article/rs-10675288/latest.pdf,OpenAlex location (pdf),200,application/pdf,375919,3e94fb13daf91ae401700498da11b27a5d278202097dbc101f2621fcd8e83a71,PDF,2026-10-22T14:18:47.838702+00:00
+O3497,https://link.springer.com/content/pdf/10.1007/978-3-031-39603-8_68.pdf,OpenAlex location (pdf),200,text/html; charset=utf-8,321837,,Not a PDF/failed,2026-10-22T14:18:55.613674+00:00
+O3497,https://doi.org/10.1007/978-3-031-39603-8_68,landing page,200,text/html; charset=utf-8,321837,,Not a PDF/failed,2026-10-22T14:19:00.225527+00:00
+O3695,https://www.mdpi.com/2227-9717/13/6/1628/pdf?version=1747914639,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:19:01.537146+00:00
+O3695,https://doi.org/10.3390/pr13061628,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:19:03.463887+00:00
+O3702,https://www.mdpi.com/2227-9717/12/3/456/pdf?version=1708701741,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T14:19:04.715397+00:00
+O3702,https://doi.org/10.3390/pr12030456,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T14:19:06.468263+00:00
+O3753,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/stc/6269747,OpenAlex location (pdf),403,text/html; charset=UTF-8,5779,,Not a PDF/failed,2026-10-22T14:19:08.306780+00:00
+O3753,https://doi.org/10.1155/stc/6269747,landing page,403,text/html; charset=UTF-8,5728,,Not a PDF/failed,2026-10-22T14:19:10.822919+00:00
+O3756,https://www.osti.gov/servlets/purl/1641538,OpenAlex location (pdf),200,application/pdf,5008273,30881ebae7bfafa2246ee8da6b84922f28d295f211f8342d545fb2a5846e5c72,PDF,2026-10-22T14:19:54.544228+00:00
+O3785,https://www.mdpi.com/1424-8220/24/5/1368/pdf?version=1708441132,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:19:55.999379+00:00
+O3785,https://doi.org/10.3390/s24051368,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:19:57.770378+00:00
+O3794,https://www.mdpi.com/2673-7418/6/3/46/pdf?version=1778155898,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T14:19:59.008512+00:00
+O3794,https://doi.org/10.3390/geomatics6030046,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:20:01.216996+00:00
+O3832,https://rgu-repository.worktribe.com/file/2256328/1/SOHAIB%202024%20Generalizing%20infrastructure%20inspection%20%28AAM%29,OpenAlex location (pdf),403,text/html; charset=UTF-8,5983,,Not a PDF/failed,2026-10-22T14:20:03.833607+00:00
+O3832,https://rgu-repository.worktribe.com/output/2256328,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T14:20:05.553105+00:00
+O3847,https://ieomsociety.org/proceedings/bangkok2026/28.pdf,OpenAlex location (pdf),200,application/pdf,597426,761f4cc3729160a7bfd3b6437c3379242494342459c1ac44bce599a822cbaa38,PDF,2026-10-22T14:20:10.322388+00:00
+O3884,https://peerj.com/articles/cs-2757.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5662,,Not a PDF/failed,2026-10-22T14:20:11.672043+00:00
+O3884,https://doi.org/10.7717/peerj-cs.2757,landing page,403,text/html; charset=UTF-8,5629,,Not a PDF/failed,2026-10-22T14:20:13.990008+00:00
+O3886,http://www.wpias.edu.pl/ojs/index.php/JAAT/article/download/388/443,OpenAlex location (pdf),200,application/pdf,4720864,29898f340374205de267fd3e19c0fa26a9758c7d0036a2b66646396eb96cf881,PDF,2026-10-22T14:20:22.031482+00:00
+O3893,https://link.springer.com/content/pdf/10.1007/s00521-021-06279-x.pdf,OpenAlex location (pdf),200,application/pdf,1605327,d7d79f760783fdecdd2e41e213ca51390795d643b43d52fda6f20c4aa32164fe,PDF,2026-10-22T14:20:30.243470+00:00
+O3896,https://ojs.aaai.org/index.php/AAAI/article/download/33755/35910,OpenAlex location (pdf),200,application/pdf,1755136,8c1a1ca65e71d2433c82a5190041e5f38d1c427929f15dabc16ca4df13c786c4,PDF,2026-10-22T14:20:43.078803+00:00
+O3914,https://www.nature.com/articles/s41598-026-72195-6_reference.pdf,OpenAlex location (pdf),200,application/pdf,1801757,e14eb5c46d4a3230fb825421809a7ce0110866e24016e43b8a8c30100036f1a2,PDF,2026-10-22T14:20:49.377519+00:00
+O3971,https://ppublishing.org/media/uploads/journals/article/EJT-5-26_p16-22.pdf,OpenAlex location (pdf),200,application/pdf,248082,fe0695172c536b2925a39e71efbbafcc8d93c53179534488f5805133cdd24708,PDF,2026-10-22T14:20:53.376111+00:00
+O3980,https://www.researchsquare.com/article/rs-7002574/latest.pdf,OpenAlex location (pdf),200,application/pdf,2810217,222072aa44a55d25fa341e35d492ca569c840d269641931c0dbbce3228a7d12d,PDF,2026-10-22T14:20:58.140560+00:00
+O4095,https://www.mdpi.com/1996-1944/18/24/5579/pdf,OpenAlex location (pdf),403,text/html,410,,Not a PDF/failed,2026-10-22T14:21:03.000048+00:00
+O4095,https://doi.org/10.3390/ma18245579,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:21:05.169499+00:00
+O4335,https://pdf.hanspub.org/jsta_2960659.pdf,OpenAlex location (pdf),200,application/pdf,2344100,48864a8f4f283b9764d650b20acdb51cb85f9af53eb66893b7c882f09ba69c66,PDF,2026-10-22T14:21:10.111921+00:00
+O4339,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10283825.pdf,OpenAlex location (pdf),200,application/pdf,5163687,c0482d27941cae71ef67a3e40fa031fec6bbb5d89fc3a9904123ba6dd61891d3,PDF,2026-10-22T14:21:34.503926+00:00
+O4361,https://justc.ustc.edu.cn/en/article/pdf/preview/10.52396/JUSTC-2022-0165.pdf,OpenAlex location (pdf),200,application/pdf,9371353,e522c017594b456b32d02cdac5578afd5f3a1c9fe5ae013a5c8a27c2fb9d5ed8,PDF,2026-10-22T14:23:33.946221+00:00
+O4379,https://ojs.aaai.org/index.php/AAAI/article/download/33324/35479,OpenAlex location (pdf),200,application/pdf,9052923,d4b86f27beeb25884de31db7fd3e68d709baffa0ae6d47919504e30dea68b125,PDF,2026-10-22T14:25:50.442697+00:00
+O4406,https://journals.sagepub.com/doi/pdf/10.1177/00405175261490431?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5833,,Not a PDF/failed,2026-10-22T14:25:52.382076+00:00
+O4406,https://doi.org/10.1177/00405175261490431,landing page,403,text/html; charset=UTF-8,5743,,Not a PDF/failed,2026-10-22T14:25:54.839817+00:00
+O4622,https://www.nature.com/articles/s41598-024-82501-9.pdf,OpenAlex location (pdf),200,application/pdf,1982481,02870d036f521edc4f20426b7c0c1c96b0ab6b91786c7c0bcd6202f659833a38,PDF,2026-10-22T14:26:21.039447+00:00
+O4624,https://link.springer.com/content/pdf/10.1007/s12530-025-09732-7.pdf,OpenAlex location (pdf),200,application/pdf,3122565,8c254c7069d3a6089c049cbf4f3c9c4666f6757e4d8c10552503a95c01a7c2da,PDF,2026-10-22T14:26:38.896549+00:00
+O4747,https://www.mdpi.com/2227-7390/13/24/3920/pdf,OpenAlex location (pdf),403,text/html,408,,Not a PDF/failed,2026-10-22T14:26:42.457897+00:00
+O4747,https://doi.org/10.3390/math13243920,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T14:26:44.576106+00:00
+O4881,https://sol.sbc.org.br/index.php/semish/article/download/43544/43307,OpenAlex location (pdf),200,application/pdf,1597378,7be80f635443f9b68550055314b7e7e3330224031184b28d66848f072fbbf6b5,PDF,2026-10-22T14:26:52.723068+00:00
+O4889,https://academic.oup.com/jcde/article-pdf/12/5/41/63003048/qwaf043.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5765,,Not a PDF/failed,2026-10-22T14:26:54.366075+00:00
+O4889,https://doi.org/10.1093/jcde/qwaf043,landing page,403,text/html; charset=UTF-8,5693,,Not a PDF/failed,2026-10-22T14:26:56.756842+00:00
+O5042,https://www.mdpi.com/2079-9292/14/22/4366/pdf?version=1762528647,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T14:26:57.980399+00:00
+O5042,https://doi.org/10.3390/electronics14224366,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T14:26:59.828976+00:00
+O5119,https://www.mdpi.com/1999-5903/14/3/86/pdf?version=1647266807,OpenAlex location (pdf),403,text/html,410,,Not a PDF/failed,2026-10-22T14:27:01.024662+00:00
+O5119,https://doi.org/10.3390/fi14030086,landing page,403,text/html,397,,Not a PDF/failed,2026-10-22T14:27:02.827747+00:00
+O5167,https://link.springer.com/content/pdf/10.1007/s10994-023-06373-2.pdf,OpenAlex location (pdf),200,application/pdf,3169811,2b7a957a7f347bde52332ae83dd22c12711bed65877647c6619d00f8ecb3280d,PDF,2026-10-22T14:27:13.044731+00:00
+O5179,https://www.mdpi.com/1424-8220/23/23/9360/pdf?version=1700734168,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T14:27:18.977551+00:00
+O5179,https://doi.org/10.3390/s23239360,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T14:27:20.805489+00:00
+O5211,https://pmc.ncbi.nlm.nih.gov/articles/PMC7616405/pdf/EMS197106.pdf,OpenAlex location (pdf),200,text/html; charset=utf-8,1817,,Not a PDF/failed,2026-10-22T14:27:23.153065+00:00
+O5211,https://www.ncbi.nlm.nih.gov/pmc/articles/7616405,landing page,200,text/html; charset=utf-8,21352,,Not a PDF/failed,2026-10-22T14:27:25.599118+00:00
+P01,https://www.nature.com/articles/s41529-022-00232-6.pdf,OpenAlex location (pdf),200,application/pdf,14553150,6fead502b57919e09adfa324e5e636b5ec8774efd82144e761b6eeef8a4fe0ae,PDF,2026-10-22T14:27:48.481978+00:00
+P10,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.70077,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T14:27:50.512943+00:00
+P10,https://doi.org/10.1111/mice.70077,landing page,200,text/html;charset=UTF-8,2749,,Not a PDF/failed,2026-10-22T14:27:56.192442+00:00
+P11,https://link.springer.com/content/pdf/10.1007/s13349-025-01003-y.pdf,OpenAlex location (pdf),200,application/pdf,3688023,415baaa2d304f7bb5defcce3622b9acf8a36a06bd34d531098affe1873c13cf2,PDF,2026-10-22T14:28:05.352063+00:00
+B03,https://arxiv.org/pdf/2310.18961,OpenAlex location (pdf),200,application/pdf,43655054,866380d391bd39c304153aa19ac8520aba412d5615c74a9d542170f7c4c8a7b4,PDF,2026-10-22T14:33:23.808112+00:00
+B05,https://arxiv.org/pdf/2403.12580,OpenAlex location (pdf),200,application/pdf,14888342,aed295f438358cd9c4a091ed14f1f037854c68bee0648ba4bdbdbfac9a987958,PDF,2026-10-22T14:34:27.983694+00:00
+C0001,https://doi.org/10.2139/ssrn.7230717,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:34:36.528987+00:00
+C0025,https://doi.org/10.2139/ssrn.6574201,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:34:40.237973+00:00
+C0041,https://arxiv.org/pdf/2411.16049,OpenAlex location (pdf),200,application/pdf,6421748,d9c45eab76b668df35f2c0adf9719e2f7e2bdbf381c0672a6a8ea817e769bbe4,PDF,2026-10-22T14:35:44.592827+00:00
+C0045,https://arxiv.org/pdf/2602.05426,OpenAlex location (pdf),200,application/pdf,1644621,c3c669388dd8c42f0e36f374951cea914e42a55f30c8efed9c41fb5170d5eefc,PDF,2026-10-22T14:35:57.030855+00:00
+C0048,https://doi.org/10.2139/ssrn.5211961,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:36:07.196895+00:00
+C0070,https://doi.org/10.2139/ssrn.7218460,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:36:09.855904+00:00
+C0072,https://doi.org/10.2139/ssrn.7218465,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:36:12.301814+00:00
+C0073,https://doi.org/10.2139/ssrn.5495023,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:36:15.292777+00:00
+C0103,https://arxiv.org/pdf/2408.11561,arXiv exact-title search (pdf),200,application/pdf,4754556,5ed95b070df75655f16ecac95800abb91f5bb66ff32a43980c96f1eed040e7cb,PDF,2026-10-22T14:36:37.804353+00:00
+C0181,https://doi.org/10.1016/j.compind.2024.104198,landing page,200,text/html;charset=UTF-8,2820,,Not a PDF/failed,2026-10-22T14:36:41.245122+00:00
+C0191,https://www.mdpi.com/1424-8220/25/21/6529/pdf?version=1761215189,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:36:42.546558+00:00
+C0191,https://doi.org/10.3390/s25216529,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:36:44.365529+00:00
+C0200,https://doi.org/10.1109/access.2026.3702052,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:36:46.241358+00:00
+C0202,https://doi.org/10.2139/ssrn.5745634,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:36:48.567098+00:00
+C0254,https://doi.org/10.1109/access.2026.3691935,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:36:50.424509+00:00
+C0257,https://www.mdpi.com/2076-3417/15/20/10885/pdf?version=1760097851,OpenAlex location (pdf),403,text/html,416,,Not a PDF/failed,2026-10-22T14:36:52.005702+00:00
+C0257,https://doi.org/10.3390/app152010885,landing page,403,text/html,403,,Not a PDF/failed,2026-10-22T14:36:53.979631+00:00
+C0266,https://papers.ssrn.com/sol3/Delivery.cfm/7cd1fbdf-a443-4d63-ad7e-97e7941668fe-MECA.pdf?abstractid=7536676&mirid=1,OpenAlex location (pdf),403,text/html; charset=UTF-8,5994,,Not a PDF/failed,2026-10-22T14:36:56.131816+00:00
+C0266,https://doi.org/10.2139/ssrn.7536676,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:36:58.483260+00:00
+O0002,https://www.mdpi.com/2813-4648/3/1/4/pdf?version=1738745401,OpenAlex location (pdf),403,text/html,410,,Not a PDF/failed,2026-10-22T14:36:59.844212+00:00
+O0002,https://doi.org/10.3390/jeta3010004,landing page,403,text/html,397,,Not a PDF/failed,2026-10-22T14:37:01.707976+00:00
+O0005,https://doi.org/10.58286/33081,landing page,200,text/html; charset=UTF-8,78903,,Not a PDF/failed,2026-10-22T14:37:06.922535+00:00
+O0005,https://www.ndt.net/article/ecndt2026/papers/ECNDT_2026_ID_321.pdf,citation_pdf_url from landing page,200,application/pdf,590214,6b9e14f59dd135708e9cf3fe4fe214b2957f7d355d85f955ca32dab0b4b611c0,PDF,2026-10-22T14:37:09.772409+00:00
+O0023,https://arxiv.org/pdf/2601.19992,OpenAlex location (pdf),200,application/pdf,12791362,72d4beea62d2d88127e77c70a35c8138326a20ce848116c9bfdd0c7d97a12545,PDF,2026-10-22T14:38:56.683019+00:00
+O0032,https://www.mdpi.com/1424-8220/26/9/2608/pdf?version=1776944506,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:39:00.757428+00:00
+O0032,https://doi.org/10.3390/s26092608,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:39:02.715876+00:00
+O0041,https://infoscience.epfl.ch/handle/20.500.14299/244243,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:39:06.465239+00:00
+O0042,https://doi.org/10.1016/j.cirp.2025.03.023,landing page,200,text/html;charset=UTF-8,2716,,Not a PDF/failed,2026-10-22T14:39:11.090012+00:00
+O0045,https://doi.org/10.2139/ssrn.7602427,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:39:19.412060+00:00
+O0050,https://doi.org/10.1016/j.nxener.2025.100509,landing page,200,text/html;charset=UTF-8,2697,,Not a PDF/failed,2026-10-22T14:39:21.829350+00:00
+O0051,https://www.mdpi.com/2227-7390/13/15/2430/pdf?version=1753708097,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:39:23.179013+00:00
+O0051,https://doi.org/10.3390/math13152430,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:39:25.168043+00:00
+O0079,https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/08/e3sconf_icepp2026_05002.pdf,OpenAlex location (pdf),403,text/html,93,,Not a PDF/failed,2026-10-22T14:39:28.719367+00:00
+O0079,https://doi.org/10.1051/e3sconf/202669005002,landing page,403,text/html,93,,Not a PDF/failed,2026-10-22T14:39:30.972984+00:00
+O0080,https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/08/e3sconf_icepp2026_05002.pdf,OpenAlex location (pdf),403,text/html,93,,Not a PDF/failed,2026-10-22T14:39:33.431556+00:00
+O0080,https://doi.org/10.1051/e3sconf/202669005002,landing page,403,text/html,93,,Not a PDF/failed,2026-10-22T14:39:35.866165+00:00
+O0091,https://doi.org/10.1016/j.mtcomm.2026.115245,landing page,200,text/html;charset=UTF-8,2759,,Not a PDF/failed,2026-10-22T14:39:39.950126+00:00
+O0110,https://www.mdpi.com/1424-8220/22/22/8986/pdf?version=1668936684,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:39:41.273820+00:00
+O0110,https://doi.org/10.3390/s22228986,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:39:43.366823+00:00
+O0115,http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-590533,landing page,200,text/html; charset=utf-8,7128,,Not a PDF/failed,2026-10-22T14:39:49.405850+00:00
+O0119,https://doi.org/10.5281/zenodo.21973409,landing page,200,text/html; charset=utf-8,94288,,Not a PDF/failed,2026-10-22T14:39:54.233827+00:00
+O0129,https://doi.org/10.1111/mice.13315,landing page,200,text/html;charset=UTF-8,2740,,Not a PDF/failed,2026-10-22T14:39:56.898920+00:00
+O0135,https://arxiv.org/pdf/2605.20159,OpenAlex location (pdf),200,application/pdf,3507177,3e33f02ca10f1c99cd062ae712dc89c1807a69d026fc4dae38fe8a86f0ec2aeb,PDF,2026-10-22T14:41:37.399004+00:00
+O0137,https://www.mdpi.com/1996-1073/19/4/1013/pdf,OpenAlex location (pdf),403,text/html,409,,Not a PDF/failed,2026-10-22T14:41:42.004475+00:00
+O0137,https://doi.org/10.3390/en19041013,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:41:43.860454+00:00
+O0139,https://doi.org/10.1016/j.autcon.2025.106716,landing page,200,text/html;charset=UTF-8,2708,,Not a PDF/failed,2026-10-22T14:41:48.101089+00:00
+O0153,https://doi.org/10.1016/j.measurement.2024.115858,landing page,200,text/html;charset=UTF-8,2672,,Not a PDF/failed,2026-10-22T14:41:51.573259+00:00
+O0158,https://www.mdpi.com/2226-4310/8/2/30/pdf?version=1611659238,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T14:41:52.811090+00:00
+O0158,https://doi.org/10.3390/aerospace8020030,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:41:54.601814+00:00
+O0171,https://www.mdpi.com/2075-5309/16/11/2250/pdf?version=1780626329,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:41:56.724123+00:00
+O0171,https://doi.org/10.3390/buildings16112250,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:42:01.302803+00:00
+O0182,https://orbi.umons.ac.be/handle/20.500.12907/54122,landing page,ConnectTimeout,,0,,Not a PDF/failed,2026-10-22T14:43:36.711332+00:00
+O0183,https://arxiv.org/pdf/2608.17726,OpenAlex location (pdf),200,application/pdf,22591526,2ac8a452f59d0efbbff2f2f60fcc5d6a668a4b92182978658473cd4284f83108,PDF,2026-10-22T14:47:21.042528+00:00
+O0195,https://doi.org/10.1109/tits.2025.3633568,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:47:24.826633+00:00
+O0215,https://doi.org/10.3390/electronics14152973,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:47:28.364808+00:00
+O0222,https://doi.org/10.1109/access.2024.3414840,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:47:30.263986+00:00
+O0229,https://academic.oup.com/jcde/article-pdf/10/4/1423/50849591/qwad067.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5771,,Not a PDF/failed,2026-10-22T14:47:31.958260+00:00
+O0229,https://doi.org/10.1093/jcde/qwad067,landing page,403,text/html; charset=UTF-8,5699,,Not a PDF/failed,2026-10-22T14:47:34.190697+00:00
+O0232,https://doi.org/10.58286/33343,landing page,200,text/html; charset=UTF-8,82787,,Not a PDF/failed,2026-10-22T14:47:37.451281+00:00
+O0232,https://www.ndt.net/article/ecndt2026/papers/ECNDT_2026_ID_622.pdf,citation_pdf_url from landing page,200,application/pdf,272433,8c934e715fc2fa2d9ed8489bb30b138e2f79e594fb50308b3419dc20f5dd1e59,PDF,2026-10-22T14:47:38.699423+00:00
+O0237,https://arxiv.org/pdf/2606.05641,OpenAlex location (pdf),200,application/pdf,7227803,b24934b1710e2ea0b01058b73e6d8e9c37f5cc8e7ed56b3c9b4d0277413b5cb7,PDF,2026-10-22T14:48:03.779251+00:00
+O0238,https://arxiv.org/pdf/2606.05641,OpenAlex location (pdf),200,application/pdf,7227803,b24934b1710e2ea0b01058b73e6d8e9c37f5cc8e7ed56b3c9b4d0277413b5cb7,PDF,2026-10-22T14:48:42.329881+00:00
+O0241,https://arxiv.org/pdf/2606.05641,OpenAlex location (pdf),200,application/pdf,7227803,b24934b1710e2ea0b01058b73e6d8e9c37f5cc8e7ed56b3c9b4d0277413b5cb7,PDF,2026-10-22T14:49:22.896398+00:00
+O0249,https://doi.org/10.1111/mice.12580,landing page,200,text/html;charset=UTF-8,2682,,Not a PDF/failed,2026-10-22T14:49:29.529778+00:00
+O0250,https://doi.org/10.2139/ssrn.5975720,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:49:33.332039+00:00
+O0253,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/sil2/1914287,OpenAlex location (pdf),403,text/html; charset=UTF-8,5782,,Not a PDF/failed,2026-10-22T14:49:34.896466+00:00
+O0253,https://doi.org/10.1049/sil2/1914287,landing page,403,text/html; charset=UTF-8,5764,,Not a PDF/failed,2026-10-22T14:49:37.283081+00:00
+O0285,https://doi.org/10.58286/33060,landing page,200,text/html; charset=UTF-8,90994,,Not a PDF/failed,2026-10-22T14:49:40.631073+00:00
+O0285,https://www.ndt.net/article/ecndt2026/papers/ECNDT_2026_ID_295.pdf,citation_pdf_url from landing page,200,application/pdf,447241,55e328ac733bc2a6edc5f4a08cf3a59f8a3fce3aa474da4be7b6750e927ca264,PDF,2026-10-22T14:49:43.194873+00:00
+O0295,http://www.repositorio.ufc.br/handle/riufc/10849,landing page,ConnectTimeout,,0,,Not a PDF/failed,2026-10-22T14:51:18.083958+00:00
+O0299,https://arxiv.org/pdf/2105.06325,OpenAlex location (pdf),200,application/pdf,2292485,b6b4ba2223fea7a4780918c428e335dd19c0f5b4d9d87648602682bcf85762df,PDF,2026-10-22T14:51:23.759259+00:00
+O0302,http://repositorio.utfpr.edu.br/jspui/handle/1/2890,OpenAlex location (pdf),200,text/html; charset=utf-8,484183,,Not a PDF/failed,2026-10-22T14:51:30.397349+00:00
+O0303,https://www.mdpi.com/2412-3811/10/10/255/pdf?version=1758635770,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T14:51:32.084492+00:00
+O0303,https://doi.org/10.3390/infrastructures10100255,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T14:51:34.418461+00:00
+O0312,https://journals.sagepub.com/doi/pdf/10.1177/14759217251357260?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5833,,Not a PDF/failed,2026-10-22T14:51:36.034214+00:00
+O0312,https://doi.org/10.1177/14759217251357260,landing page,403,text/html; charset=UTF-8,5743,,Not a PDF/failed,2026-10-22T14:51:38.229578+00:00
+O0316,https://doi.org/10.1109/access.2025.3584551,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:51:40.074046+00:00
+O0331,https://doi.org/10.1016/j.ifacol.2022.09.486,landing page,200,text/html;charset=UTF-8,2683,,Not a PDF/failed,2026-10-22T14:51:42.605846+00:00
+O0338,https://arxiv.org/pdf/2105.06325,OpenAlex location (pdf),200,application/pdf,2292485,b6b4ba2223fea7a4780918c428e335dd19c0f5b4d9d87648602682bcf85762df,PDF,2026-10-22T14:51:48.574507+00:00
+O0343,https://doi.org/10.5220/0002827101580163,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T14:52:26.124806+00:00
+O0351,https://kclpure.kcl.ac.uk/ws/files/143057062/Ball_Bonding_Inspections_using_a_Conjoint_Framework_with_Machine_Learning_and_Human_Judgement.pdf,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T14:53:00.219291+00:00
+O0351,https://kclpure.kcl.ac.uk/portal/en/publications/9d16714a-80c3-446d-a173-11e706dc715b,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T14:53:32.473893+00:00
+O0354,https://doi.org/10.3390/pr13124086,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:53:34.961928+00:00
+O0380,https://arxiv.org/pdf/2605.16404,OpenAlex location (pdf),200,application/pdf,8657540,b4ff15138c3cf94716daa2ad81ca628f53695c3afba4bef8eda967762386e805,PDF,2026-10-22T14:53:46.913265+00:00
+O0383,https://arxiv.org/pdf/2605.16404,OpenAlex location (pdf),200,application/pdf,8657540,b4ff15138c3cf94716daa2ad81ca628f53695c3afba4bef8eda967762386e805,PDF,2026-10-22T14:54:01.953978+00:00
+O0384,https://arxiv.org/pdf/2410.00713,OpenAlex location (pdf),200,application/pdf,3943462,42e6747fe8ebf6c126fc339d99c421e57262c9e0474e48fdb145214a7e0a1dd1,PDF,2026-10-22T14:54:10.163951+00:00
+O0385,https://arxiv.org/pdf/2605.16404,OpenAlex location (pdf),200,application/pdf,8657540,b4ff15138c3cf94716daa2ad81ca628f53695c3afba4bef8eda967762386e805,PDF,2026-10-22T14:54:28.296258+00:00
+O0389,https://arxiv.org/pdf/2608.17723,OpenAlex location (pdf),200,application/pdf,12552091,2d8fe32720fc32e35b1a3410f823ad58c199233df3aa10e45dff60a4c92b0a32,PDF,2026-10-22T14:54:50.516757+00:00
+O0406,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.70127,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T14:54:54.483438+00:00
+O0406,https://doi.org/10.1111/mice.70127,landing page,200,text/html;charset=UTF-8,2780,,Not a PDF/failed,2026-10-22T14:54:56.905600+00:00
+O0415,https://doi.org/10.2139/ssrn.5156142,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:54:59.549758+00:00
+O0443,https://doi.org/10.3390/technologies14060361,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:55:01.527410+00:00
+O0445,https://doi.org/10.1016/j.solener.2025.113739,landing page,200,text/html;charset=UTF-8,2713,,Not a PDF/failed,2026-10-22T14:55:04.060920+00:00
+O0470,https://www.sciencedirect.com/science/article/pii/S027861252100159X/pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,832805,,Not a PDF/failed,2026-10-22T14:55:06.461735+00:00
+O0470,https://doi.org/10.1016/j.jmsy.2021.07.022,landing page,200,text/html;charset=UTF-8,2755,,Not a PDF/failed,2026-10-22T14:55:09.005406+00:00
+O0491,https://doi.org/10.3390/app16189363,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T14:55:10.828407+00:00
+O0517,https://arxiv.org/pdf/2004.05151,OpenAlex location (pdf),200,application/pdf,768394,99ec8d66da9f4b9d159b7afcf21fb11205b1a77b939bf1a10c18a10edc303a88,PDF,2026-10-22T14:55:13.684022+00:00
+O0532,https://arxiv.org/pdf/2607.04675,OpenAlex location (pdf),200,application/pdf,7917185,be6015caab7d7d26d79fc2c20677a635f1b369374991c7209de76ad1422b0da0,PDF,2026-10-22T14:55:26.516598+00:00
+O0596,https://doi.org/10.1111/mice.13366,landing page,200,text/html;charset=UTF-8,2737,,Not a PDF/failed,2026-10-22T14:55:30.088584+00:00
+O0610,https://doi.org/10.25405/ncl.34551003,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T14:55:34.531458+00:00
+O0618,https://doi.org/10.1016/j.engappai.2026.115142,landing page,200,text/html;charset=UTF-8,2725,,Not a PDF/failed,2026-10-22T14:55:37.260043+00:00
+O0658,https://arxiv.org/pdf/2503.00971,arXiv exact-title search (pdf),200,application/pdf,27711877,38d46093844c0b8b5cfa49039df3ebb51c091ad4a820e60c195ccad25f55215b,PDF,2026-10-22T14:57:36.388238+00:00
+O0680,https://doi.org/10.3390/electronics15204767,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:57:39.720461+00:00
+O0713,https://doi.org/10.3390/automation7030076,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T14:57:41.460534+00:00
+O0733,https://doi.org/10.5281/zenodo.19326372,landing page,200,text/html; charset=utf-8,79668,,Not a PDF/failed,2026-10-22T14:57:44.906757+00:00
+O0766,https://arxiv.org/pdf/2101.03326,OpenAlex location (pdf),200,application/pdf,1959169,57e1dd4a8885ca5cff71aafa21661aa21a9aded462dcad88e7807a003d9e1131,PDF,2026-10-22T14:57:52.124062+00:00
+O0827,http://dx.doi.org/10.2139/ssrn.4907033,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:57:56.085653+00:00
+O0836,https://doi.org/10.3390/sym18101580,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:57:58.034529+00:00
+O0841,https://arxiv.org/pdf/2009.11460,OpenAlex location (pdf),200,application/pdf,964696,188d40d7ed386df533f658ca4bdf538b874fdaf3fe24541ea69b27e15c21a9a5,PDF,2026-10-22T14:58:02.854965+00:00
+O0858,https://iopscience.iop.org/article/10.1088/1361-6501/ae9f82/pdf,OpenAlex location (pdf),200,text/html; charset=UTF-8,14371,,Not a PDF/failed,2026-10-22T14:58:14.529258+00:00
+O0858,https://doi.org/10.1088/1361-6501/ae9f82,landing page,200,text/html; charset=UTF-8,14371,,Not a PDF/failed,2026-10-22T14:58:18.653881+00:00
+O0893,https://doi.org/10.1016/j.sue.2025.11.003,landing page,200,text/html;charset=UTF-8,2739,,Not a PDF/failed,2026-10-22T14:58:22.184029+00:00
+O1065,https://doi.org/10.2139/ssrn.4677675,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T14:58:24.600584+00:00
+O1076,https://www.tandfonline.com/doi/pdf/10.1080/00401706.2026.2672595?needAccess=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5871,,Not a PDF/failed,2026-10-22T14:58:27.981127+00:00
+O1076,https://doi.org/10.1080/00401706.2026.2672595,landing page,403,text/html; charset=UTF-8,5790,,Not a PDF/failed,2026-10-22T14:58:30.535470+00:00
+O1455,https://arxiv.org/pdf/2301.13359,OpenAlex location (pdf),200,application/pdf,5201487,2b531d2d9c2fe0da1578751b66517828cafe36e577a3c51c37f00f8bc039e48b,PDF,2026-10-22T14:58:43.531060+00:00
+O1456,https://www.mdpi.com/2079-9292/14/20/4016/pdf?version=1760431700,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T14:58:53.192014+00:00
+O1456,https://doi.org/10.3390/electronics14204016,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T14:58:55.040635+00:00
+O1459,https://smsrj.com/index.php/smsrj/article/download/31/77,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T14:59:27.607882+00:00
+O1459,https://smsrj.com/index.php/smsrj/article/view/31,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T15:00:00.224096+00:00
+O1463,https://arxiv.org/pdf/2506.15260,OpenAlex location (pdf),200,application/pdf,2570932,6fcf131c3353c38fa3d9059178f976cc317afcb82c5e2134ee471d14f0b07ba5,PDF,2026-10-22T15:00:21.357333+00:00
+O1469,https://doi.org/10.5281/zenodo.19364778,landing page,200,text/html; charset=utf-8,90310,,Not a PDF/failed,2026-10-22T15:00:25.776143+00:00
+O1469,https://zenodo.org/records/19364779/files/root.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",1157273,8f79c4d684c915c0b4d576c702024b74acd10c52a5ef9a05bd4dbe2b39802f19,PDF,2026-10-22T15:00:35.109861+00:00
+O1470,https://doi.org/10.5281/zenodo.19364778,landing page,200,text/html; charset=utf-8,90310,,Not a PDF/failed,2026-10-22T15:00:38.571188+00:00
+O1470,https://zenodo.org/records/19364779/files/root.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",1157273,8f79c4d684c915c0b4d576c702024b74acd10c52a5ef9a05bd4dbe2b39802f19,PDF,2026-10-22T15:00:43.925635+00:00
+O1472,https://www.mdpi.com/2313-433X/11/11/415/pdf?version=1763389133,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T15:00:45.356268+00:00
+O1472,https://doi.org/10.3390/jimaging11110415,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T15:00:47.093581+00:00
+O1473,https://doi.org/10.1117/12.2657240,landing page,200,text/html,1159,,Not a PDF/failed,2026-10-22T15:00:49.454162+00:00
+O1475,https://arxiv.org/pdf/2505.22259,OpenAlex location (pdf),200,application/pdf,13074265,102f35c63577e2c545a744334573c0a080801d8b7094c36a9331e5383420f4bd,PDF,2026-10-22T15:01:15.318742+00:00
+O1477,https://arxiv.org/pdf/2505.22259,OpenAlex location (pdf),200,application/pdf,13074265,102f35c63577e2c545a744334573c0a080801d8b7094c36a9331e5383420f4bd,PDF,2026-10-22T15:01:59.520169+00:00
+O1480,https://arxiv.org/pdf/2507.07579,OpenAlex location (pdf),200,application/pdf,17728559,67437674bf2f57e36cec0fcdb37b2caa6b44a6458d7cc43256ca662957a6da3f,PDF,2026-10-22T15:03:13.217620+00:00
+O1499,https://arxiv.org/pdf/2604.01171,OpenAlex location (pdf),200,application/pdf,6229263,47ff4edffde17ce8b5752ff27cfddab26d6478540f1b00af5b3839f6181a11c9,PDF,2026-10-22T15:03:23.994737+00:00
+O1505,https://doi.org/10.2139/ssrn.5660875,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T15:03:55.705001+00:00
+O1523,https://arxiv.org/pdf/2407.10197,OpenAlex location (pdf),200,application/pdf,385448,daf2b02c420d1ded8ab647d32cdfeae7ad7209857e3e9c15716e9b76fe64c77f,PDF,2026-10-22T15:03:59.375707+00:00
+O1525,https://www.mdpi.com/1424-8220/21/14/4929/pdf?version=1626939099,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T15:04:02.065070+00:00
+O1525,https://doi.org/10.3390/s21144929,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T15:04:04.081502+00:00
+O1530,https://doi.org/10.3390/electronics15173808,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T15:04:05.960268+00:00
+O1531,https://doi.org/10.5281/zenodo.22019079,landing page,200,text/html; charset=utf-8,96350,,Not a PDF/failed,2026-10-22T15:04:10.908364+00:00
+O1531,https://zenodo.org/records/22019080/files/Article_Metricea_Lab_EN_Automation_In_Construction.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",612883,9902bb7f80927e7389469c0a1383067a29c81e2237b9832d7ac18844f1786e8f,PDF,2026-10-22T15:04:13.544796+00:00
+O1532,https://doi.org/10.3390/electronics15020378,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T15:04:15.748384+00:00
+O1545,https://arxiv.org/pdf/2604.22850,OpenAlex location (pdf),200,application/pdf,46046218,a48fdfd72bbd1190a9d0faee879af3781c14ed1516f2123fc6e8c1a6d0974de1,PDF,2026-10-22T15:07:39.176841+00:00
+O1558,https://doi.org/10.63367/199115992025103605009,OpenAlex location (pdf),SSLError,,0,,Not a PDF/failed,2026-10-22T15:08:18.886777+00:00
+O1562,https://doi.org/10.1007/s44443-026-00799-z,landing page,200,text/html; charset=utf-8,464676,,Not a PDF/failed,2026-10-22T15:08:46.029162+00:00
+O1562,https://link.springer.com/content/pdf/10.1007/s44443-026-00799-z.pdf,citation_pdf_url from landing page,200,application/pdf,4320876,a8b05a49c8f7b4c4e91faddac19e3fb71254038a4636caabb65de1e112bb8761,PDF,2026-10-22T15:09:14.469173+00:00
+O1564,https://academic.oup.com/jcde/advance-article-pdf/doi/10.1093/jcde/qwaf105/64660692/qwaf105.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5883,,Not a PDF/failed,2026-10-22T15:09:20.910159+00:00
+O1564,https://doi.org/10.1093/jcde/qwaf105,landing page,403,text/html; charset=UTF-8,5675,,Not a PDF/failed,2026-10-22T15:09:25.940445+00:00
+O1569,https://doi.org/10.2139/ssrn.6183982,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T15:09:28.631873+00:00
+O1586,https://doi.org/10.5281/zenodo.22985370,landing page,200,text/html; charset=utf-8,82364,,Not a PDF/failed,2026-10-22T15:09:32.210007+00:00
+O1586,https://zenodo.org/records/22985371/files/paper_hdsi_en.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",1089330,0d141ee27899c6059b9053cfe3ec5d9d9afd6af2ee0228b7aeab770f591605bb,PDF,2026-10-22T15:09:49.308032+00:00
+O1590,https://doi.org/10.82308/49258,landing page,200,text/html; charset=utf-8,515008,,Not a PDF/failed,2026-10-22T15:09:58.740663+00:00
+O1590,https://mcgill.scholaris.ca/bitstreams/7919f22e-f7f5-4cd0-95d4-7c7f8e32aba8/download,citation_pdf_url from landing page,200,application/pdf;charset=UTF-8,27240375,d93175f428e53d19d6cff24e91dcdcc6ce08e2d72607f60d347734f6163e3d8c,PDF,2026-10-22T15:12:20.675495+00:00
+O1591,https://arxiv.org/pdf/2508.00777,OpenAlex location (pdf),200,application/pdf,26532797,8c688e4f8950dddb2e0c661abf1af60ee0291ec7fd99c393c124c47444535e86,PDF,2026-10-22T15:13:33.033867+00:00
+O1592,https://doi.org/10.1016/j.procir.2025.08.154,landing page,200,text/html;charset=UTF-8,2707,,Not a PDF/failed,2026-10-22T15:13:40.681516+00:00
+O1598,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pip.3518,OpenAlex location (pdf),403,text/html; charset=UTF-8,5749,,Not a PDF/failed,2026-10-22T15:13:42.478705+00:00
+O1598,https://doi.org/10.1002/pip.3518,landing page,403,text/html; charset=UTF-8,5719,,Not a PDF/failed,2026-10-22T15:13:44.654229+00:00
+O1602,https://arxiv.org/pdf/2607.14287,OpenAlex location (pdf),200,application/pdf,19531329,9c64542f815b22997417e80eeb524b4456a7fe350ff186c8a93a3d082e9f74ad,PDF,2026-10-22T15:15:59.626979+00:00
+O1605,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2072,OpenAlex location (pdf),403,text/html; charset=UTF-8,5773,,Not a PDF/failed,2026-10-22T15:16:08.435904+00:00
+O1605,https://doi.org/10.1002/cepa.2072,landing page,403,text/html; charset=UTF-8,5722,,Not a PDF/failed,2026-10-22T15:16:10.745377+00:00
+O1608,https://arxiv.org/pdf/2603.26776,OpenAlex location (pdf),200,application/pdf,1771133,276ccf1a97d80599bf72cdebc70d34ecc33b1e4363bf9a671bcb9138aae3bfac,PDF,2026-10-22T19:23:25.044237+00:00
+O1610,https://doi.org/10.1016/j.cacaie.2026.100036,landing page,200,text/html;charset=UTF-8,2752,,Not a PDF/failed,2026-10-22T19:23:33.811455+00:00
+O1611,https://doi.org/10.1016/j.ifacol.2023.10.1542,landing page,200,text/html;charset=UTF-8,2683,,Not a PDF/failed,2026-10-22T19:23:36.266429+00:00
+O1615,https://www.frontiersin.org/articles/10.3389/fmats.2023.1222456/pdf,OpenAlex location (pdf),200,application/pdf,31860056,3928699935b7c700df931d572444f82e8f8e6913150dbd934a6830e22071522b,PDF,2026-10-22T19:24:28.713440+00:00
+O1626,https://doi.org/10.3390/s25196255,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:24:34.222331+00:00
+O1631,https://arxiv.org/pdf/2603.14869,OpenAlex location (pdf),200,application/pdf,14299139,cc1aee539379f8d387381535f8613d0262b208cdd2d703398eeb0116e9047b39,PDF,2026-10-22T19:26:26.999377+00:00
+O1635,https://arxiv.org/pdf/2306.00797,OpenAlex location (pdf),200,application/pdf,31692783,9816da90aab2c57fcb0d39235008d316f61b9e05a275f92731caf265720cd6fc,PDF,2026-10-22T19:28:04.274528+00:00
+O1641,https://doi.org/10.3390/electronics15102220,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:28:08.880464+00:00
+O1653,https://www.mdpi.com/2079-9292/15/5/979/pdf?version=1772187028,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T19:28:10.086667+00:00
+O1653,https://doi.org/10.3390/electronics15050979,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T19:28:11.885415+00:00
+O1655,https://doi.org/10.1145/3805622.3810638,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T19:28:14.174951+00:00
+O1658,https://arxiv.org/pdf/2610.04392,OpenAlex location (pdf),200,application/pdf,565800,8cca384bf2b5e1b50feef449407b465486fb1c52f6e164acbdd7989af35ef70f,PDF,2026-10-22T19:28:17.777802+00:00
+O1666,https://arxiv.org/pdf/2209.01124,OpenAlex location (pdf),200,application/pdf,1048131,b5f147bbc2e6c6ac356c855db9246ebacb8119da9a0e1534af8dd12e87cb7579,PDF,2026-10-22T19:28:23.574813+00:00
+O1678,https://arxiv.org/pdf/2208.14071,OpenAlex location (pdf),200,application/pdf,3082968,449c0c398ed89ee967b64c7546b0c840b620aa5fc4aa3be4b19efde07246179b,PDF,2026-10-22T19:28:41.503039+00:00
+O1698,http://dx.doi.org/10.2139/ssrn.4903342,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:29:07.398804+00:00
+O1707,https://www.mdpi.com/2075-4701/12/11/1963/pdf?version=1668681168,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T19:29:08.767095+00:00
+O1707,https://doi.org/10.3390/met12111963,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:29:10.857767+00:00
+O1708,https://arxiv.org/pdf/2605.16171,OpenAlex location (pdf),200,application/pdf,12265005,52fef4a4da919219e23c2824b1d97e9da19cd8073e6e4cef05ff09bfbddaff1c,PDF,2026-10-22T19:29:36.644712+00:00
+O1712,https://iopscience.iop.org/article/10.1088/1755-1315/1661/1/012026/pdf,OpenAlex location (pdf),200,application/pdf;charset=UTF-8,943897,913083b78397bec1aa60442232511844dfde833eeb8d854194f4d3c9caa5e8eb,PDF,2026-10-22T19:31:40.050951+00:00
+O1713,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.13087,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T19:31:42.973870+00:00
+O1713,https://doi.org/10.1111/mice.13087,landing page,200,text/html;charset=UTF-8,2712,,Not a PDF/failed,2026-10-22T19:31:45.868666+00:00
+O1724,https://doi.org/10.2139/ssrn.7267518,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:31:50.429102+00:00
+O1727,https://doi.org/10.1109/access.2025.3593201,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:31:52.922285+00:00
+O1732,https://doi.org/10.2139/ssrn.7513293,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:31:55.311590+00:00
+O1732,https://doi.org/10.2139/ssrn.7439412,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:31:57.567613+00:00
+O1735,https://arxiv.org/pdf/2306.00202,OpenAlex location (pdf),200,application/pdf,330657,062cf9f88f7c690176db967293eafe872f5369bad9127c69b0a65a51880eb92d,PDF,2026-10-22T19:32:01.404044+00:00
+O1739,https://doi.org/10.2139/ssrn.7439412,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:32:04.102879+00:00
+O1739,https://doi.org/10.2139/ssrn.7513293,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:32:06.485714+00:00
+O1746,https://arxiv.org/pdf/2407.15763,arXiv exact-title search (pdf),200,application/pdf,38036334,4b78d30cc44d65a73076dba5833221b76169911b5b2d4d83da8601c162efea52,PDF,2026-10-22T19:33:04.119085+00:00
+O1749,https://doi.org/10.1111/mice.13517,landing page,200,text/html;charset=UTF-8,2745,,Not a PDF/failed,2026-10-22T19:33:09.550067+00:00
+O1752,https://www.mdpi.com/2504-2289/10/1/3/pdf,OpenAlex location (pdf),403,text/html,406,,Not a PDF/failed,2026-10-22T19:33:11.286641+00:00
+O1752,https://doi.org/10.3390/bdcc10010003,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T19:33:13.463325+00:00
+O1760,https://doi.org/10.3390/rs18193420,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T19:33:15.665761+00:00
+O1768,https://doi.org/10.3390/data11070171,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:33:18.424356+00:00
+O1773,https://doi.org/10.17632/cmcx9kvr68,landing page,200,text/html; charset=utf-8,128345,,Not a PDF/failed,2026-10-22T19:33:22.360976+00:00
+O1785,https://figshare.com/articles/journal_contribution/Multi-Source_Domain_Adaptation_for_Quality_Control_in_Retail_Food_Packaging/24389167,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:33:24.551300+00:00
+O1789,https://doi.org/10.1016/j.autcon.2025.106021,landing page,200,text/html;charset=UTF-8,2677,,Not a PDF/failed,2026-10-22T19:33:27.480259+00:00
+O1800,https://www.mdpi.com/2071-1050/18/13/6684/pdf?version=1782910559,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T19:33:29.211628+00:00
+O1800,https://doi.org/10.3390/su18136684,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T19:33:31.535820+00:00
+O1813,https://arxiv.org/pdf/2509.17615,OpenAlex location (pdf),200,application/pdf,548286,25100d1f063c3696e6d9cfa441512c42b491d6c3a7f6638153803eceed77e6a6,PDF,2026-10-22T19:33:36.357078+00:00
+O1821,https://www.mdpi.com/2076-3417/16/8/3786/pdf?version=1776073338,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T19:33:38.994051+00:00
+O1821,https://doi.org/10.3390/app16083786,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T19:33:41.938524+00:00
+O1830,https://www.mdpi.com/2076-3417/14/6/2455/pdf?version=1710411586,OpenAlex location (pdf),403,text/html,414,,Not a PDF/failed,2026-10-22T19:33:43.841948+00:00
+O1830,https://doi.org/10.3390/app14062455,landing page,403,text/html,401,,Not a PDF/failed,2026-10-22T19:33:46.822016+00:00
+O1841,https://doi.org/10.3390/rs16234466,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T19:33:49.605336+00:00
+O1842,https://doi.org/10.1109/access.2025.3555118,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:33:51.513900+00:00
+O1851,https://www.degruyterbrill.com/document/doi/10.1515/jmbm-2025-0074/pdf,OpenAlex location (pdf),202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:33:56.915335+00:00
+O1851,https://doi.org/10.1515/jmbm-2025-0074,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:33:58.668801+00:00
+O1852,https://zenodo.org/record/4077394,landing page,200,text/html; charset=utf-8,86077,,Not a PDF/failed,2026-10-22T19:34:01.116916+00:00
+O1852,https://zenodo.org/records/4077394/files/Introducing_Multi_Source_Deep_Domain_Adaptation_for_Quality_Control_in_Retail_Food_Packaging_ECCV_WiCV.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",1969082,a7db1c94721b00d35bfa9e3bd38b4bdc8a901c740a2828cfba9c720565b45f7b,PDF,2026-10-22T19:34:07.637423+00:00
+O1853,https://doi.org/10.1109/access.2026.3703944,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:34:09.065603+00:00
+O1854,https://arxiv.org/pdf/2409.12785,OpenAlex location (pdf),200,application/pdf,1755172,098ef2887079cf55f1d2f60e00b1377edd88522cb478c94f56d3ec9a4d927c77,PDF,2026-10-22T19:34:13.076659+00:00
+O1855,https://doi.org/10.1016/j.autcon.2026.106924,landing page,200,text/html;charset=UTF-8,2727,,Not a PDF/failed,2026-10-22T19:34:19.902019+00:00
+O1865,https://arxiv.org/pdf/2302.00775,OpenAlex location (pdf),200,application/pdf,2570068,f3e989170bd42bdc4ecc6e52cfdc187ce0e0436402b56285415e53817fb73fb7,PDF,2026-10-22T19:34:24.137885+00:00
+O1874,https://doi.org/10.2139/ssrn.5899048,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:34:28.200187+00:00
+O1879,https://doi.org/10.1016/j.autcon.2024.105953,landing page,200,text/html;charset=UTF-8,2738,,Not a PDF/failed,2026-10-22T19:34:30.936368+00:00
+O1884,https://doi.org/10.2139/ssrn.5261594,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:34:33.826148+00:00
+O1885,https://doi.org/10.1016/j.jobe.2025.114673,landing page,200,text/html;charset=UTF-8,2735,,Not a PDF/failed,2026-10-22T19:34:36.455484+00:00
+O1901,https://doi.org/10.1016/j.autcon.2024.105892,landing page,200,text/html;charset=UTF-8,2727,,Not a PDF/failed,2026-10-22T19:34:39.135111+00:00
+O1907,https://resolver.obvsg.at/urn:nbn:at:at-ubl:1-105648,landing page,200,text/html;charset=UTF-8,6054,,Not a PDF/failed,2026-10-22T19:34:42.232478+00:00
+O1915,https://arxiv.org/pdf/2602.06474,OpenAlex location (pdf),200,application/pdf,1264728,1cdd4c476362dc2d3e3001bda06ee47464f7330efe8fe22f7dd6594157238821,PDF,2026-10-22T19:34:45.565222+00:00
+O1918,https://doi.org/10.1016/j.autcon.2026.106938,landing page,200,text/html;charset=UTF-8,2726,,Not a PDF/failed,2026-10-22T19:34:49.017732+00:00
+O1925,https://arxiv.org/pdf/2601.03637,OpenAlex location (pdf),200,application/pdf,24326488,7049e63f3ce54b949441ca13861d327e8f117f568c8679b2fff9f0a369d09ce6,PDF,2026-10-22T19:35:18.536825+00:00
+O1926,https://figshare.com/articles/thesis/Defect_Detection_For_Surgical_Instrument_Quality_Assurance/30643331,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:35:24.619648+00:00
+O1935,https://doi.org/10.1109/access.2026.3726059,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:35:26.475291+00:00
+O1937,https://arxiv.org/pdf/2601.08885,OpenAlex location (pdf),200,application/pdf,35537183,22515b65a6528f45839266b5944acf45ed1305930f28d5b12de2fa0965d7659f,PDF,2026-10-22T19:35:54.338257+00:00
+O1943,https://inria.hal.science/hal-05233786,landing page,200,text/html; charset=UTF-8,106333,,Not a PDF/failed,2026-10-22T19:36:01.186583+00:00
+O1948,https://kluedo.ub.rptu.de/frontdoor/index/index/docId/9683,landing page,ConnectTimeout,,0,,Not a PDF/failed,2026-10-22T19:37:35.641209+00:00
+O1960,http://dx.doi.org/10.1109/access.2024.3400122,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:37:38.724603+00:00
+O1961,https://doi.org/10.1109/access.2024.3453371,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:37:40.935019+00:00
+O1971,https://arxiv.org/pdf/2406.19175,OpenAlex location (pdf),200,application/pdf,698173,d5ba44bf7f81af8ccda8e5ae8ffcf0b091d4a43aa0b4ff7060244af408caf73c,PDF,2026-10-22T19:37:44.271194+00:00
+O1982,https://doi.org/10.17632/rgymy6dwdd,landing page,200,text/html; charset=utf-8,124248,,Not a PDF/failed,2026-10-22T19:37:48.107988+00:00
+O2008,https://doi.org/10.5281/zenodo.21643130,landing page,200,text/html; charset=utf-8,94681,,Not a PDF/failed,2026-10-22T19:37:52.083742+00:00
+O2008,https://zenodo.org/records/21643131/files/From_Perception_to_Intervention_An_Autonomous_Causal_Vision_Reinforcement_Learning_Manufacturing_Agent_v1.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",1802622,a98e1d7698e3aa4f5501018d9c00ed6b892d05ac64bfa0b4bb408d658719ad74,PDF,2026-10-22T19:37:57.581064+00:00
+O2020,https://doi.org/10.5281/zenodo.21791839,landing page,200,text/html; charset=utf-8,111244,,Not a PDF/failed,2026-10-22T19:38:01.597432+00:00
+O2020,https://zenodo.org/records/21791840/files/ZGIH_3.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",901679,82fa523cf72b4cff6194ca91e77baae60ab3a0a000d6d6ae612169c3341cec50,PDF,2026-10-22T19:38:05.492405+00:00
+O2035,https://www.sciencedirect.com/science/article/pii/S1474034626009997/pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,832804,,Not a PDF/failed,2026-10-22T19:38:10.560414+00:00
+O2035,https://doi.org/10.1016/j.aei.2026.105307,landing page,200,text/html;charset=UTF-8,2707,,Not a PDF/failed,2026-10-22T19:38:13.114638+00:00
+O2037,https://doi.org/10.3390/app15168849,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:38:15.130714+00:00
+O2052,https://doi.org/10.1038/s42256-025-01000-2,landing page,200,text/html; charset=utf-8,458367,,Not a PDF/failed,2026-10-22T19:38:20.682207+00:00
+O2052,https://www.nature.com/articles/s42256-025-01000-2.pdf,citation_pdf_url from landing page,200,application/pdf,2636767,352f784905dbf2f9979c0f460452b62dcb6398b24eb59cb1f3f78e8db567959d,PDF,2026-10-22T19:38:25.506329+00:00
+O2062,https://doi.org/10.5281/zenodo.18255425,landing page,200,text/html; charset=utf-8,80527,,Not a PDF/failed,2026-10-22T19:39:04.096568+00:00
+O2062,https://zenodo.org/records/18255426/files/002_AIS%202025%20-%20Ali%20Anwar.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",129138,2b0e16ee29139b978f23297e71ddda21121a270ebdfede01a8aed69566df0424,PDF,2026-10-22T19:39:05.258088+00:00
+O2079,https://www.mdpi.com/2504-4494/8/2/66/pdf?version=1711615517,OpenAlex location (pdf),403,text/html,409,,Not a PDF/failed,2026-10-22T19:39:06.105944+00:00
+O2079,https://doi.org/10.3390/jmmp8020066,landing page,403,text/html,396,,Not a PDF/failed,2026-10-22T19:39:08.064792+00:00
+O2089,https://arxiv.org/pdf/2309.09637,OpenAlex location (pdf),200,application/pdf,7297754,8f9c3ddb5aa0b725149c150b6b170fbe28f6de2511778ac5fa2cc6790d3738e0,PDF,2026-10-22T19:39:14.220522+00:00
+O2131,https://arxiv.org/pdf/2412.11381,OpenAlex location (pdf),200,application/pdf,6109428,a23f100241673dd2ba69319800570281b766bcd64aa03d1f102b80c31765963b,PDF,2026-10-22T19:39:24.388036+00:00
+O2134,https://doi.org/10.2139/ssrn.6714230,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:39:28.882127+00:00
+O2135,https://arxiv.org/pdf/2609.21276,OpenAlex location (pdf),200,application/pdf,869086,201376d35fa559e5cd10c39db324cf8965bf51af78cca5db781a838903224f1c,PDF,2026-10-22T19:39:31.795399+00:00
+O2136,https://doi.org/10.2139/ssrn.6251720,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:39:35.258594+00:00
+O2158,https://doi.org/10.48448/pjf6-5e95,landing page,200,text/html; charset=utf-8,247953,,Not a PDF/failed,2026-10-22T19:39:38.531077+00:00
+O2161,http://hdl.handle.net/20.500.11850/795745,landing page,500,text/html; charset=utf-8,497262,,Not a PDF/failed,2026-10-22T19:40:15.407393+00:00
+O2178,http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-224536,landing page,200,text/html; charset=utf-8,6213,,Not a PDF/failed,2026-10-22T19:40:17.398002+00:00
+O2184,https://doi.org/10.2139/ssrn.6985083,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:40:19.875066+00:00
+O2197,https://arxiv.org/pdf/2609.06785,OpenAlex location (pdf),200,application/pdf,12552617,2b662920902734ca7cbb463a6a77714f7b6c0a214da11cf4a2f8df39a9245165,PDF,2026-10-22T19:40:28.226218+00:00
+O2222,https://arxiv.org/pdf/2603.13659,OpenAlex location (pdf),200,application/pdf,6302021,c3acea7b444271e9e33a295052b6a4e264e263189cd251b4ce3560a0cd8aec60,PDF,2026-10-22T19:40:41.019614+00:00
+O2228,https://doi.org/10.1145/3809481.3812617,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T19:40:47.011097+00:00
+O2269,https://arxiv.org/pdf/2605.26533,OpenAlex location (pdf),200,application/pdf,2091021,aafa915e17166f477b50ace71aed6406ccd7572f05defec04bc146d7fdd0529b,PDF,2026-10-22T19:40:50.373744+00:00
+O2274,https://doi.org/10.58286/32968,landing page,200,text/html; charset=UTF-8,74658,,Not a PDF/failed,2026-10-22T19:40:54.534249+00:00
+O2274,https://www.ndt.net/article/ecndt2026/papers/ECNDT_2026_ID_197.pdf,citation_pdf_url from landing page,200,application/pdf,302657,8c2eb6698e8ae137c5611c60023775953ebca27a736866cd811cef9521509814,PDF,2026-10-22T19:40:55.731356+00:00
+O2283,https://repository.lsu.edu/cgi/viewcontent.cgi?article=7560&context=gradschool_theses,landing page,403,text/html; charset=UTF-8,5900,,Not a PDF/failed,2026-10-22T19:40:58.475582+00:00
+O2288,https://arxiv.org/pdf/2604.17949,OpenAlex location (pdf),200,application/pdf,15610209,d3aa146c2cfc5f93e78dbecb2db1cd01d165183bfb83ac464c63cd37d07fe906,PDF,2026-10-22T19:42:19.157508+00:00
+O2293,https://doi.org/10.3390/s24113685,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:42:22.099343+00:00
+O2294,https://dl.acm.org/doi/pdf/10.1145/3833142.3833145?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5796,,Not a PDF/failed,2026-10-22T19:42:23.667860+00:00
+O2294,https://doi.org/10.1145/3833142.3833145,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T19:42:25.794925+00:00
+O2299,https://arxiv.org/pdf/2503.15415,arXiv exact-title search (pdf),200,application/pdf,5820971,b9d25de25467e2da4b7a94339be0ecd858ecd5a0358538a71486da17bf84b782,PDF,2026-10-22T19:42:43.977789+00:00
+O2303,http://eprints.uwe.ac.uk/11059/1/05196708.pdf,OpenAlex location (pdf),ConnectionError,,0,,Not a PDF/failed,2026-10-22T19:43:23.117962+00:00
+O2309,https://doi.org/10.1016/j.eng.2025.08.023,landing page,200,text/html;charset=UTF-8,2719,,Not a PDF/failed,2026-10-22T19:43:25.900426+00:00
+O2314,https://doi.org/10.5281/zenodo.19786044,landing page,200,text/html; charset=utf-8,72562,,Not a PDF/failed,2026-10-22T19:43:29.380776+00:00
+O2334,https://arxiv.org/pdf/2608.07770,OpenAlex location (pdf),200,application/pdf,8645284,155dc677c04fb107e35f470f9cc84e82529d09d42a2e501999a3dce4570d2e31,PDF,2026-10-22T19:43:37.018294+00:00
+O2336,https://doi.org/10.2139/ssrn.7388939,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:43:41.426900+00:00
+O2341,https://arxiv.org/pdf/2410.12817,OpenAlex location (pdf),200,application/pdf,2397162,2ce1f5ca69fa14507040e0722de06c2311e6adcb9f214d1d9480af52cb93e7e6,PDF,2026-10-22T19:43:46.277003+00:00
+O2354,https://doi.org/10.36001/phme.2024.v8i1.4113,landing page,200,text/html; charset=utf-8,54561,,Not a PDF/failed,2026-10-22T19:43:51.614183+00:00
+O2354,https://papers.phmsociety.org/index.php/phme/article/download/4113/2425,citation_pdf_url from landing page,200,application/pdf,454949,f2378e44b2698749e9e585830e90c056d3c4b7cb4f7a9dd98c5f8c6dfce4caf1,PDF,2026-10-22T19:43:53.941931+00:00
+O2373,https://www.preprints.org/frontend/manuscript/9c391c5a36be8ed49366a764f20d8183/download_pub,OpenAlex location (pdf),403,text/html,452,,Not a PDF/failed,2026-10-22T19:43:56.771047+00:00
+O2373,https://doi.org/10.20944/preprints202512.2091.v1,landing page,403,text/html,408,,Not a PDF/failed,2026-10-22T19:43:58.516795+00:00
+O2379,https://arxiv.org/pdf/2403.04306,OpenAlex location (pdf),200,application/pdf,1596184,dee762d16d92d3e61ca91c0a4c877f3aa0669ea03f3947075c00d563ed556833,PDF,2026-10-22T19:44:02.084574+00:00
+O2384,https://doi.org/10.1016/j.autcon.2026.107299,landing page,200,text/html;charset=UTF-8,2733,,Not a PDF/failed,2026-10-22T19:44:07.679517+00:00
+O2401,https://arxiv.org/pdf/2605.20306,OpenAlex location (pdf),200,application/pdf,31878789,35389a53ffca91bb860a7fdd454ac3b5b924c42ecf3dbef4b476501ab6988905,PDF,2026-10-22T19:44:28.238934+00:00
+O2410,https://ojs.aaai.org/index.php/AAAI/article/download/21530/21279,OpenAlex location (pdf),200,application/pdf,1440302,9f090e7b48f1eeac5ea68acb03c25b1621502d8c8d9b3c2f7ab82980c56b44d2,PDF,2026-10-22T19:44:36.756003+00:00
+O2420,http://eprints.uwe.ac.uk/11114/1/11114.pdf,OpenAlex location (pdf),ConnectionError,,0,,Not a PDF/failed,2026-10-22T19:45:07.411170+00:00
+O2423,https://arxiv.org/pdf/2403.04306,OpenAlex location (pdf),200,application/pdf,1596184,dee762d16d92d3e61ca91c0a4c877f3aa0669ea03f3947075c00d563ed556833,PDF,2026-10-22T19:45:10.874857+00:00
+O2426,https://arxiv.org/pdf/2203.09181,OpenAlex location (pdf),200,application/pdf,1522166,554e3495738977168fa4e894d2472ea3c3726c2cc65b02014356c65f60b04fbe,PDF,2026-10-22T19:45:15.728551+00:00
+O2456,https://arxiv.org/pdf/2603.03939,OpenAlex location (pdf),200,application/pdf,2217340,34db54086c1b28470721c114ad867ec4518f9a4cab6d8aaaf9d8021df577e5dc,PDF,2026-10-22T19:45:20.807458+00:00
+O2474,https://doi.org/10.53941/jaia.2026.100015,landing page,200,text/html;charset=utf-8,206987,,Not a PDF/failed,2026-10-22T19:45:27.098723+00:00
+O2474,https://media.sciltp.com/articles/2606004311/2606004311.pdf,citation_pdf_url from landing page,200,application/pdf,22940738,b399fba7fefe2f761c4da2ce6842ff5e307de6aa7d115826495e39a6daa2c5c8,PDF,2026-10-22T19:45:44.846738+00:00
+O2500,https://doi.org/10.2139/ssrn.7151338,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:45:49.271188+00:00
+O2538,https://doi.org/10.1016/j.jii.2026.101184,landing page,200,text/html;charset=UTF-8,2720,,Not a PDF/failed,2026-10-22T19:45:52.099321+00:00
+O2539,http://dx.doi.org/10.2139/ssrn.5026150,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:45:55.552559+00:00
+O2547,https://doi.org/10.3390/systems14091126,landing page,403,text/html,399,,Not a PDF/failed,2026-10-22T19:45:57.768287+00:00
+O2552,https://www.mdpi.com/2079-9292/15/15/3370/pdf?version=1785466545,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T19:45:59.213736+00:00
+O2552,https://doi.org/10.3390/electronics15153370,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:46:01.086266+00:00
+O2564,https://arxiv.org/pdf/2505.13828,OpenAlex location (pdf),200,application/pdf,3396020,47a877827a5d80c930b571ba0fa78fb62215ea8ff4d63a17652ee21ad4520348,PDF,2026-10-22T19:46:06.302362+00:00
+O2588,https://doi.org/10.3390/infrastructures11100352,landing page,403,text/html,399,,Not a PDF/failed,2026-10-22T19:46:13.626912+00:00
+O2605,https://doi.org/10.2139/ssrn.5099627,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:46:15.989985+00:00
+O2675,https://arxiv.org/pdf/2608.08935,OpenAlex location (pdf),200,application/pdf,2332503,68b40e0a595cacd88a88fa9e1323867a8066b6a074eafc07a2517de8c93b82d3,PDF,2026-10-22T19:46:22.706545+00:00
+O2686,https://doi.org/10.1016/j.procir.2025.08.024,landing page,200,text/html;charset=UTF-8,2685,,Not a PDF/failed,2026-10-22T19:46:25.406754+00:00
+O2744,https://arxiv.org/pdf/2508.01921,OpenAlex location (pdf),200,application/pdf,8593675,dc16402ba1fe7beafb2ad67eb94efecb845e00186aa296073deaa27fbf97eafa,PDF,2026-10-22T19:46:37.942662+00:00
+O2774,https://arxiv.org/pdf/2507.14899,OpenAlex location (pdf),200,application/pdf,2549793,e22ccf8ed41e4f3c7c8f40722c18993536c310d708e1b9ca279901e6312dd8ac,PDF,2026-10-22T19:46:42.537274+00:00
+O2820,https://arxiv.org/pdf/2603.20148,OpenAlex location (pdf),200,application/pdf,8704811,346388d47840e4926760326d958c4e27d2f340bc2d4e3ba68f974f2f72446136,PDF,2026-10-22T19:46:58.662547+00:00
+O3358,https://doi.org/10.1016/j.iswa.2026.200701,landing page,200,text/html;charset=UTF-8,2705,,Not a PDF/failed,2026-10-22T19:47:03.587434+00:00
+O3374,https://doi.org/10.2139/ssrn.4299863,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:47:09.620797+00:00
+O3375,https://arxiv.org/pdf/2301.10441,OpenAlex location (pdf),200,application/pdf,4195121,3850f072045ba7f636806fa358831970245abfb064e3e16ac41cbc20e91410f5,PDF,2026-10-22T19:47:15.235634+00:00
+O3376,https://arxiv.org/pdf/2506.15260,OpenAlex location (pdf),200,application/pdf,2570932,6fcf131c3353c38fa3d9059178f976cc317afcb82c5e2134ee471d14f0b07ba5,PDF,2026-10-22T19:47:24.052664+00:00
+O3381,https://doi.org/10.5281/zenodo.20067087,landing page,200,text/html; charset=utf-8,70228,,Not a PDF/failed,2026-10-22T19:47:28.896197+00:00
+O3381,https://zenodo.org/records/20067088/files/README.pdf,citation_pdf_url from landing page,200,"application/octet-stream, application/octet-stream",2884791,b0c59bac3696f2fdeaa39d2b6ffa59781e30df426cea02c6cffa158c44fe2f7a,PDF,2026-10-22T19:47:37.956499+00:00
+O3389,https://vbn.aau.dk/da/publications/ca6ab8c5-3657-4829-8c67-e93281c5bd26,landing page,200,text/html;charset=UTF-8,38747,,Not a PDF/failed,2026-10-22T19:47:43.443468+00:00
+O3389,https://vbn.aau.dk/files/826326926/PHD_AMG_ONLINE.pdf,citation_pdf_url from landing page,403,text/html; charset=UTF-8,5791,,Not a PDF/failed,2026-10-22T19:47:44.056933+00:00
+O3391,https://doi.org/10.2139/ssrn.5758819,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:47:46.400882+00:00
+O3393,https://arxiv.org/pdf/2408.09494,OpenAlex location (pdf),200,application/pdf,1892756,0dff854d889dea8c7646c969f26bc7e2c76bfcf7602f1773bbcdbfd6e383acd8,PDF,2026-10-22T19:47:49.528737+00:00
+O3404,https://doi.org/10.2139/ssrn.7590860,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:47:53.061349+00:00
+O3414,https://doi.org/10.5220/0013170900003912,landing page,SSLError,,0,,Not a PDF/failed,2026-10-22T19:48:33.319051+00:00
+O3427,https://doi.org/10.2139/ssrn.6875178,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:48:36.198008+00:00
+O3478,https://arxiv.org/pdf/2304.13963,arXiv exact-title search (pdf),200,application/pdf,1284932,2ef79004b9b0a4dbfecf00ce6178ff10e1c012c0338c5728cd4db01b469186bd,PDF,2026-10-22T19:48:39.974388+00:00
+O3479,https://arxiv.org/pdf/2410.07689,OpenAlex location (pdf),200,application/pdf,782579,2a82f68c315d721691ee63104236eae608ca03cbdab41db1688a8bc4c25eaa8e,PDF,2026-10-22T19:48:50.178762+00:00
+O3497,https://link.springer.com/content/pdf/10.1007/978-3-031-39603-8_68.pdf,OpenAlex location (pdf),200,text/html; charset=utf-8,321836,,Not a PDF/failed,2026-10-22T19:48:57.011140+00:00
+O3497,https://doi.org/10.1007/978-3-031-39603-8_68,landing page,200,text/html; charset=utf-8,321836,,Not a PDF/failed,2026-10-22T19:49:01.827174+00:00
+O3554,https://hdl.handle.net/10216/91322,landing page,200,text/html;charset=UTF-8,13916,,Not a PDF/failed,2026-10-22T19:49:04.848329+00:00
+O3554,https://repositorio-aberto.up.pt/bitstream/10216/91322/2/32927.pdf,citation_pdf_url from landing page,200,application/pdf,6712434,6a9b97a5365bacb01e662fc8de830177e5a10aebf1a4c62ede1f951ec16281ef,PDF,2026-10-22T19:49:13.778700+00:00
+O3618,https://doi.org/10.2139/ssrn.6571464,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:49:51.689903+00:00
+O3648,https://doi.org/10.2139/ssrn.7287397,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:49:54.203000+00:00
+O3648,https://doi.org/10.1016/j.rineng.2026.113661,landing page,200,text/html;charset=UTF-8,2739,,Not a PDF/failed,2026-10-22T19:49:56.794887+00:00
+O3649,https://doi.org/10.1016/j.rineng.2026.113661,landing page,200,text/html;charset=UTF-8,2739,,Not a PDF/failed,2026-10-22T19:49:59.346911+00:00
+O3649,https://doi.org/10.2139/ssrn.7287397,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:50:01.527769+00:00
+O3672,https://doi.org/10.1016/j.rineng.2026.111187,landing page,200,text/html;charset=UTF-8,2717,,Not a PDF/failed,2026-10-22T19:50:05.526742+00:00
+O3675,https://doi.org/10.2139/ssrn.7121960,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:50:07.826879+00:00
+O3675,https://doi.org/10.20944/preprints202607.1226.v1,landing page,403,text/html,408,,Not a PDF/failed,2026-10-22T19:50:10.386409+00:00
+O3676,https://doi.org/10.20944/preprints202607.1226.v1,landing page,403,text/html,408,,Not a PDF/failed,2026-10-22T19:50:12.127738+00:00
+O3676,https://doi.org/10.2139/ssrn.7121960,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:50:14.749369+00:00
+O3681,https://doi.org/10.2139/ssrn.7121960,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:50:17.106544+00:00
+O3681,https://doi.org/10.20944/preprints202607.1226.v1,landing page,403,text/html,408,,Not a PDF/failed,2026-10-22T19:50:19.000092+00:00
+O3695,https://www.mdpi.com/2227-9717/13/6/1628/pdf?version=1747914639,OpenAlex location (pdf),403,text/html,412,,Not a PDF/failed,2026-10-22T19:50:20.259093+00:00
+O3695,https://doi.org/10.3390/pr13061628,landing page,403,text/html,399,,Not a PDF/failed,2026-10-22T19:50:22.024089+00:00
+O3701,https://doi.org/10.3390/jimaging12030106,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T19:50:23.849478+00:00
+O3702,https://www.mdpi.com/2227-9717/12/3/456/pdf?version=1708701741,OpenAlex location (pdf),403,text/html,411,,Not a PDF/failed,2026-10-22T19:50:25.071618+00:00
+O3702,https://doi.org/10.3390/pr12030456,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T19:50:26.851496+00:00
+O3753,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/stc/6269747,OpenAlex location (pdf),403,text/html; charset=UTF-8,5779,,Not a PDF/failed,2026-10-22T19:50:28.970259+00:00
+O3753,https://doi.org/10.1155/stc/6269747,landing page,403,text/html; charset=UTF-8,5728,,Not a PDF/failed,2026-10-22T19:50:31.477190+00:00
+O3775,https://doi.org/10.1109/access.2026.3696584,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:50:33.891338+00:00
+O3785,https://www.mdpi.com/1424-8220/24/5/1368/pdf?version=1708441132,OpenAlex location (pdf),403,text/html,412,,Not a PDF/failed,2026-10-22T19:50:35.084455+00:00
+O3785,https://doi.org/10.3390/s24051368,landing page,403,text/html,399,,Not a PDF/failed,2026-10-22T19:50:37.751342+00:00
+O3794,https://www.mdpi.com/2673-7418/6/3/46/pdf?version=1778155898,OpenAlex location (pdf),403,text/html,409,,Not a PDF/failed,2026-10-22T19:50:39.110945+00:00
+O3794,https://doi.org/10.3390/geomatics6030046,landing page,403,text/html,396,,Not a PDF/failed,2026-10-22T19:50:42.099420+00:00
+O3832,https://rgu-repository.worktribe.com/file/2256328/1/SOHAIB%202024%20Generalizing%20infrastructure%20inspection%20%28AAM%29,OpenAlex location (pdf),403,text/html; charset=UTF-8,5983,,Not a PDF/failed,2026-10-22T19:50:44.611810+00:00
+O3832,https://rgu-repository.worktribe.com/output/2256328,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T19:50:46.431872+00:00
+O3843,https://doi.org/10.1016/j.asej.2024.103148,landing page,200,text/html;charset=UTF-8,2778,,Not a PDF/failed,2026-10-22T19:50:51.003999+00:00
+O3856,https://arxiv.org/pdf/2202.12818,OpenAlex location (pdf),200,application/pdf,6485890,d0041a07c3926f0e417954fea5e573be04bd1bc37ff6547bfd9868d28cb24d2f,PDF,2026-10-22T19:51:11.595064+00:00
+O3857,https://doi.org/10.1016/j.cacaie.2026.100201,landing page,200,text/html;charset=UTF-8,2704,,Not a PDF/failed,2026-10-22T19:51:14.643105+00:00
+O3863,https://arxiv.org/pdf/2605.10397,OpenAlex location (pdf),200,application/pdf,1212024,53607fc246314bdb17d34dbe15c6733ceff3ff3ba6d4ccf4bf45d8954af86d89,PDF,2026-10-22T19:51:21.460073+00:00
+O3872,https://doi.org/10.1016/j.rineng.2026.110811,landing page,200,text/html;charset=UTF-8,2722,,Not a PDF/failed,2026-10-22T19:51:30.137664+00:00
+O3875,https://doi.org/10.1007/s42452-026-09318-1,landing page,200,text/html; charset=utf-8,249239,,Not a PDF/failed,2026-10-22T19:51:35.586747+00:00
+O3875,https://link.springer.com/content/pdf/10.1007/s42452-026-09318-1.pdf,citation_pdf_url from landing page,404,,0,,Not a PDF/failed,2026-10-22T19:51:39.149786+00:00
+O3878,https://doi.org/10.3390/ai7020056,landing page,403,text/html,396,,Not a PDF/failed,2026-10-22T19:51:42.341085+00:00
+O3879,https://arxiv.org/pdf/2608.15090,OpenAlex location (pdf),200,application/pdf,660968,a659b9f16949e96f1a2407fa4ad5e25ff06964615087d71ddc198828a829b307,PDF,2026-10-22T19:52:08.100348+00:00
+O3881,https://arxiv.org/pdf/2607.11170,OpenAlex location (pdf),200,application/pdf,8989997,f3785c9192b92ce1b76d808f1c9cdf9076ce0816c73bb611d549451c11ebcb42,PDF,2026-10-22T19:52:41.592757+00:00
+O3884,https://peerj.com/articles/cs-2757.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5662,,Not a PDF/failed,2026-10-22T19:52:45.258125+00:00
+O3884,https://doi.org/10.7717/peerj-cs.2757,landing page,403,text/html; charset=UTF-8,5629,,Not a PDF/failed,2026-10-22T19:52:47.675571+00:00
+O3892,https://arxiv.org/pdf/2409.09108,arXiv exact-title search (pdf),200,application/pdf,2996608,8e82df59975317bc7737de706d0151a67f6f25466645cbf09db1e66c926df2a5,PDF,2026-10-22T19:53:01.311117+00:00
+O3913,https://arxiv.org/pdf/2503.03562,OpenAlex location (pdf),200,application/pdf,4101329,352207451f0625967f1ce1211a035d75e1a0807de5393b4dffc8f92c4570c17e,PDF,2026-10-22T19:53:12.753280+00:00
+O3933,https://doi.org/10.58286/33099,landing page,200,text/html; charset=UTF-8,70962,,Not a PDF/failed,2026-10-22T19:53:23.722254+00:00
+O3933,https://www.ndt.net/article/ecndt2026/papers/ECNDT_2026_ID_342.pdf,citation_pdf_url from landing page,200,application/pdf,254785,74b36a9f3f478e6342e64aa330f52ab3a42e5beb2497fec8e9496c659624a0d0,PDF,2026-10-22T19:53:24.769218+00:00
+O3942,https://hdl.handle.net/11697/219582,landing page,403,text/html; charset=UTF-8,5667,,Not a PDF/failed,2026-10-22T19:53:26.979724+00:00
+O4008,https://doi.org/10.3390/jimaging7120273,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T19:53:29.399560+00:00
+O4043,https://doi.org/10.1109/access.2024.3435446,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:53:31.517626+00:00
+O4083,https://arxiv.org/pdf/2607.16013,OpenAlex location (pdf),200,application/pdf,1409786,72ed8e16d472896bb82b3bdf4583adb6b88fb0218b35dde5530de1c29991bb7f,PDF,2026-10-22T19:53:35.807740+00:00
+O4092,https://doi.org/10.24433/co.6392743.v1,landing page,403,text/html,919,,Not a PDF/failed,2026-10-22T19:53:46.152892+00:00
+O4095,https://www.mdpi.com/1996-1944/18/24/5579/pdf,OpenAlex location (pdf),403,text/html,408,,Not a PDF/failed,2026-10-22T19:53:47.437104+00:00
+O4095,https://doi.org/10.3390/ma18245579,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:53:49.437176+00:00
+O4104,https://doi.org/10.2139/ssrn.7065060,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:53:52.224388+00:00
+O4162,https://doi.org/10.3390/infrastructures11080283,landing page,403,text/html,398,,Not a PDF/failed,2026-10-22T19:53:54.161541+00:00
+O4293,https://arxiv.org/pdf/2303.13845,OpenAlex location (pdf),200,application/pdf,3167707,c1883a32a591d1a6ae1943a1a8b6663534c7b8834c803ac001877060b8a000e9,PDF,2026-10-22T19:53:59.616279+00:00
+O4294,https://arxiv.org/pdf/2006.03689,OpenAlex location (pdf),200,application/pdf,2120514,78f7d520063ef34d7e7270ed9155dd57692b936697ffa5a870275b81730854f4,PDF,2026-10-22T19:54:11.755166+00:00
+O4300,https://arxiv.org/pdf/2606.28268,arXiv exact-title search (pdf),200,application/pdf,25821093,b4752147997b9d74da193fad648cc5d2277a6665a2b03c0283b5041a2194016e,PDF,2026-10-22T19:54:45.112700+00:00
+O4301,https://arxiv.org/pdf/2203.14506,OpenAlex location (pdf),200,application/pdf,1303319,65ea9b49fe26faa9dfbe8d552ce44ed576849d8e03e38367e0888226e25a5432,PDF,2026-10-22T19:54:56.718353+00:00
+O4304,https://doi.org/10.3390/act13120513,landing page,403,text/html,399,,Not a PDF/failed,2026-10-22T19:55:02.470018+00:00
+O4318,https://arxiv.org/pdf/2502.20981,arXiv exact-title search (pdf),200,application/pdf,851101,23ec80672ff1d2e6b5c6883d37b14ca71ea1d0c1210d1cbb8e755a85eef32356,PDF,2026-10-22T19:55:12.945569+00:00
+O4320,https://arxiv.org/pdf/2403.12580,OpenAlex location (pdf),200,application/pdf,14888342,aed295f438358cd9c4a091ed14f1f037854c68bee0648ba4bdbdbfac9a987958,PDF,2026-10-22T19:55:34.021237+00:00
+O4332,https://doi.org/10.36227/techrxiv.176105795.59798801/v1,landing page,403,text/html; charset=UTF-8,5817,,Not a PDF/failed,2026-10-22T19:55:42.063160+00:00
+O4338,https://doi.org/10.1145/3770855.3817905,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T19:55:44.928685+00:00
+O4343,https://arxiv.org/pdf/2506.23663,OpenAlex location (pdf),200,application/pdf,17941541,2eae665a55ab7018d65f1ce6423e90715fb1cfa0f4db4195b7d567aba2998db5,PDF,2026-10-22T19:56:43.535406+00:00
+O4350,https://doi.org/10.2139/ssrn.5349659,landing page,403,text/html; charset=UTF-8,5653,,Not a PDF/failed,2026-10-22T19:56:51.278021+00:00
+O4356,https://arxiv.org/pdf/2508.17789,arXiv exact-title search (pdf),200,application/pdf,939066,9127c2f69685631db2eeec4778fea3b70a74ee8212c483dd59c79bc6cd28a6e3,PDF,2026-10-22T19:56:56.103987+00:00
+O4362,https://doi.org/10.3390/app16157506,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T19:56:58.788860+00:00
+O4365,https://arxiv.org/pdf/2108.11168,OpenAlex location (pdf),200,application/pdf,5907380,3c211963e7f7329633a2f1ffaecbbfd22c11d38c33ece735e7713bb618529cf4,PDF,2026-10-22T19:57:07.187374+00:00
+O4367,https://doi.org/10.1007/s00170-026-19191-2,landing page,200,text/html; charset=utf-8,339666,,Not a PDF/failed,2026-10-22T19:57:14.016630+00:00
+O4367,https://link.springer.com/content/pdf/10.1007/s00170-026-19191-2.pdf,citation_pdf_url from landing page,200,text/html; charset=utf-8,339700,,Not a PDF/failed,2026-10-22T19:57:16.612800+00:00
+O4368,https://arxiv.org/pdf/2605.24251,OpenAlex location (pdf),200,application/pdf,3291146,92b581523a2cf925c585c058876f9f7f4b8c1d2d64807cbcf39e8db12b20f39c,PDF,2026-10-22T19:57:23.162535+00:00
+O4370,https://arxiv.org/pdf/2607.02252,OpenAlex location (pdf),200,application/pdf,2575474,949ff88727fd23e77e23482980e968c2a0941deaa03191d8603c90b033977c98,PDF,2026-10-22T19:57:31.860629+00:00
+O4372,https://arxiv.org/pdf/2406.07176,OpenAlex location (pdf),200,application/pdf,1238102,3ae9a3391cf0d96727b6f80894b4b2b4a74ac065d4b083efa1a35954cdba69dc,PDF,2026-10-22T19:57:45.430804+00:00
+O4375,https://arxiv.org/pdf/2501.15271,OpenAlex location (pdf),200,application/pdf,556473,eef04255bc23eef8bcb74e1cce368ee8c72451d19752c17effafd29a12db1c63,PDF,2026-10-22T19:57:49.885806+00:00
+O4382,https://arxiv.org/pdf/2508.02903,arXiv exact-title search (pdf),200,application/pdf,1304257,22dc699acbc721cd78f67daf19da15842349c8a335a16c249669321ea72b87a7,PDF,2026-10-22T19:57:54.671731+00:00
+O4390,https://doi.org/10.12688/openreseurope.22170.1,landing page,200,text/html; charset=utf-8,258686,,Not a PDF/failed,2026-10-22T19:58:00.662416+00:00
+O4393,https://arxiv.org/pdf/2506.09237,OpenAlex location (pdf),200,application/pdf,11389382,63b73efb768b3ec9a6dd7ad4311074ed0f91c5ad4378c9f8a03f2f66593176d7,PDF,2026-10-22T19:58:23.828717+00:00
+O4406,https://journals.sagepub.com/doi/pdf/10.1177/00405175261490431?download=true,OpenAlex location (pdf),403,text/html; charset=UTF-8,5833,,Not a PDF/failed,2026-10-22T19:58:29.555110+00:00
+O4406,https://doi.org/10.1177/00405175261490431,landing page,403,text/html; charset=UTF-8,5743,,Not a PDF/failed,2026-10-22T19:58:31.741115+00:00
+O4411,https://doi.org/10.1109/access.2026.3732727,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T19:58:36.715352+00:00
+O4434,https://arxiv.org/pdf/2006.10609,OpenAlex location (pdf),200,application/pdf,1243043,4533a32fffb9ac5dd462efec1964e0cd8ab00756bc80720060d66ce82b37b25a,PDF,2026-10-22T19:58:45.195387+00:00
+O4438,https://arxiv.org/pdf/2203.12304,OpenAlex location (pdf),200,application/pdf,2455558,78627a4f292365e8d42ca0518867ca9c298f0d9fb79560c511c34291ea8a27a6,PDF,2026-10-22T19:58:51.979456+00:00
+O4453,https://doi.org/10.1007/s00371-026-04569-w,landing page,200,text/html; charset=utf-8,447745,,Not a PDF/failed,2026-10-22T19:58:57.268384+00:00
+O4453,https://link.springer.com/content/pdf/10.1007/s00371-026-04569-w.pdf,citation_pdf_url from landing page,200,application/pdf,1470343,d73ec259b4e5f98248f6a3e2373f85194f1dcd9f6181045466d8c4861cd27d6f,PDF,2026-10-22T19:59:02.155518+00:00
+O4465,https://arxiv.org/pdf/2403.15463,OpenAlex location (pdf),200,application/pdf,1014898,542ed403bc78f02f9c1783f5f4c0642045664b7500477082c4c332196daabc31,PDF,2026-10-22T19:59:14.212187+00:00
+O4479,https://doi.org/10.1016/j.compind.2024.104151,landing page,200,text/html;charset=UTF-8,2730,,Not a PDF/failed,2026-10-22T19:59:18.948619+00:00
+O4484,https://arxiv.org/pdf/2506.16050,OpenAlex location (pdf),200,application/pdf,5293191,bfdf1764266070cdd6c8c8672d01937be3b08279e21cf29b6a3d9dea62bffbcf,PDF,2026-10-22T20:00:59.420648+00:00
+O4487,https://arxiv.org/pdf/2412.20870,OpenAlex location (pdf),200,application/pdf,9608237,702b60901ef791d4098120798915b5c12881e432a3bb69c41e472f997b541edd,PDF,2026-10-22T20:01:12.243831+00:00
+O4496,https://arxiv.org/pdf/2601.10802,arXiv exact-title search (pdf),200,application/pdf,21937677,ccea72eb788bd9b022444baa624b3ee1ebc6443da5adbd2d371c0ad6dc05da09,PDF,2026-10-22T20:02:59.595908+00:00
+O4497,https://doi.org/10.3390/s26113537,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T20:03:11.217947+00:00
+O4505,https://doi.org/10.1016/j.visinf.2026.100332,landing page,200,text/html;charset=UTF-8,2720,,Not a PDF/failed,2026-10-22T20:03:15.790455+00:00
+O4512,https://doi.org/10.3390/bdcc9050128,landing page,403,text/html,397,,Not a PDF/failed,2026-10-22T20:03:17.871456+00:00
+O4539,https://hdl.handle.net/11475/33572,landing page,ConnectTimeout,,0,,Not a PDF/failed,2026-10-22T20:04:58.515308+00:00
+O4586,https://arxiv.org/pdf/2411.09558,OpenAlex location (pdf),200,application/pdf,830864,0c754873e67e58fcacdb291fbf84125c48562a0a13491f80325d2af6cd206797,PDF,2026-10-22T20:05:04.856955+00:00
+O4607,https://arxiv.org/pdf/2607.03817,OpenAlex location (pdf),200,application/pdf,28522695,f4713634a000064f51fbde2152425b067b17c46a34db31fd3c8e2f716ac96815,PDF,2026-10-22T20:07:16.416757+00:00
+O4621,https://arxiv.org/pdf/2504.12689,OpenAlex location (pdf),200,application/pdf,1911391,cc900d883d71b3df90807e0a71ea92767e36b6e51b322708a7548f4b24e7379f,PDF,2026-10-22T20:07:28.651004+00:00
+O4658,https://arxiv.org/pdf/2310.10461,OpenAlex location (pdf),200,application/pdf,3891985,560bcb931a15673b5dbb976b15a13a6e0a8d4f4275a9226b04dd01727aa27f38,PDF,2026-10-22T20:07:34.796658+00:00
+O4684,https://arxiv.org/pdf/2503.02691,arXiv exact-title search (pdf),200,application/pdf,1723274,3ad2e52dd8ef064593880286e83d0c6e7406fbebaebdf037e11fdcb2a3b8d328,PDF,2026-10-22T20:08:10.134877+00:00
+O4731,https://arxiv.org/pdf/2207.01463,OpenAlex location (pdf),200,application/pdf,6059381,74c29f92c9c64ba7a3e39a0ec73c7bdd66b5d6a28b0c957f9b52dd3962ec3585,PDF,2026-10-22T20:09:02.286284+00:00
+O4747,https://www.mdpi.com/2227-7390/13/24/3920/pdf,OpenAlex location (pdf),403,text/html,410,,Not a PDF/failed,2026-10-22T20:09:07.853177+00:00
+O4747,https://doi.org/10.3390/math13243920,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T20:09:10.571422+00:00
+O4766,https://doi.org/10.1016/j.asej.2026.104469,landing page,200,text/html;charset=UTF-8,2737,,Not a PDF/failed,2026-10-22T20:09:14.528034+00:00
+O4770,https://arxiv.org/pdf/2503.23451,OpenAlex location (pdf),200,application/pdf,14870624,100d23d0f6d5437a4f97d0db36e191c41bec29d1a60d1715e4382a845ae48d18,PDF,2026-10-22T20:10:52.901630+00:00
+O4773,https://arxiv.org/pdf/2307.06534,OpenAlex location (pdf),200,application/pdf,1994451,496f762ea5e7616a6aecc5b4d7a811b0b7145b84e996d737b465e5e5705ee5f4,PDF,2026-10-22T20:10:59.298096+00:00
+O4787,https://arxiv.org/pdf/2409.05611,OpenAlex location (pdf),200,application/pdf,6846827,d96519104d25e635e92bb9c5e1da2dddcaa6eb69f54a15bf6fd307fb2bfefe59,PDF,2026-10-22T20:11:11.072408+00:00
+O4889,https://academic.oup.com/jcde/article-pdf/12/5/41/63003048/qwaf043.pdf,OpenAlex location (pdf),403,text/html; charset=UTF-8,5765,,Not a PDF/failed,2026-10-22T20:11:15.652455+00:00
+O4889,https://doi.org/10.1093/jcde/qwaf043,landing page,403,text/html; charset=UTF-8,5693,,Not a PDF/failed,2026-10-22T20:11:18.110443+00:00
+O4971,https://doi.org/10.1145/3503161.3548232,landing page,403,text/html; charset=UTF-8,5684,,Not a PDF/failed,2026-10-22T20:11:20.772717+00:00
+O4977,https://arxiv.org/pdf/2012.14629,OpenAlex location (pdf),200,application/pdf,17839800,49ace2b831b7b689f590d4f7634ae53cbe36fcfa598fbba05af5bf4499d1aadc,PDF,2026-10-22T20:11:44.289327+00:00
+O5014,https://doi.org/10.1515/teme-2023-0010,landing page,202,text/html; charset=UTF-8,0,,Not a PDF/failed,2026-10-22T20:11:48.622132+00:00
+O5038,https://arxiv.org/pdf/2211.13968,OpenAlex location (pdf),200,application/pdf,1240518,03e135675e9f629ccfe501d37418e2a8745350596765f539c4f01f6677227dd3,PDF,2026-10-22T20:11:52.408890+00:00
+O5042,https://www.mdpi.com/2079-9292/14/22/4366/pdf?version=1762528647,OpenAlex location (pdf),403,text/html,413,,Not a PDF/failed,2026-10-22T20:11:54.461096+00:00
+O5042,https://doi.org/10.3390/electronics14224366,landing page,403,text/html,400,,Not a PDF/failed,2026-10-22T20:11:56.562138+00:00
+O5049,https://arxiv.org/pdf/2302.06048,OpenAlex location (pdf),200,application/pdf,3251467,df984dba71c9945ed13e9ac2eb9ffa05cc3557e8d60d56fa28e6d3f50075f83f,PDF,2026-10-22T20:12:01.267069+00:00
+O5119,https://www.mdpi.com/1999-5903/14/3/86/pdf?version=1647266807,OpenAlex location (pdf),403,text/html,412,,Not a PDF/failed,2026-10-22T20:12:16.287579+00:00
+O5119,https://doi.org/10.3390/fi14030086,landing page,403,text/html,399,,Not a PDF/failed,2026-10-22T20:12:18.556827+00:00
+O5123,http://export.arxiv.org/pdf/2106.06115,landing page,200,application/pdf,1215469,9c26722895e1f1a12c4ce72913dcddf0f7dd0689063d6911bbb430bcf969b133,PDF,2026-10-22T20:12:23.137876+00:00
+O5135,https://bia.unibz.it/esploro/outputs/journalArticle/MSC-AD-A-Multiscene-Unsupervised-Anomaly-Detection/991006773896901241,landing page,200,text/html,2328,,Not a PDF/failed,2026-10-22T20:12:28.748509+00:00
+O5179,https://www.mdpi.com/1424-8220/23/23/9360/pdf?version=1700734168,OpenAlex location (pdf),403,text/html,415,,Not a PDF/failed,2026-10-22T20:12:30.547204+00:00
+O5179,https://doi.org/10.3390/s23239360,landing page,403,text/html,402,,Not a PDF/failed,2026-10-22T20:12:32.729925+00:00
+O5211,https://pmc.ncbi.nlm.nih.gov/articles/PMC7616405/pdf/EMS197106.pdf,OpenAlex location (pdf),200,text/html; charset=utf-8,21406,,Not a PDF/failed,2026-10-22T20:12:34.841032+00:00
+O5211,https://www.ncbi.nlm.nih.gov/pmc/articles/7616405,landing page,200,text/html; charset=utf-8,21349,,Not a PDF/failed,2026-10-22T20:12:37.405687+00:00
+P02,https://arxiv.org/pdf/2303.13845,OpenAlex location (pdf),200,application/pdf,3167707,c1883a32a591d1a6ae1943a1a8b6663534c7b8834c803ac001877060b8a000e9,PDF,2026-10-22T20:12:42.345122+00:00
+P03,https://arxiv.org/pdf/2503.19146,OpenAlex location (pdf),200,application/pdf,1308207,7bcd9882d17d541cbf30a87d46e74bae203f2b89e551c882ef0d48d833ab2e46,PDF,2026-10-22T20:12:51.570018+00:00
+P06,https://arxiv.org/pdf/2608.18585,OpenAlex location (pdf),200,application/pdf,15310193,fb4d25abdd86c107bcc194235ac8e3863c336808e22f5b592f5774d503bd6477,PDF,2026-10-22T20:13:15.622221+00:00
+P07,https://arxiv.org/pdf/2608.29112,OpenAlex location (pdf),200,application/pdf,4356101,00ac12b9279b78d4b6ae4075d5309ae3bbdab10c91bc31ea432e7b9364e6c392,PDF,2026-10-22T20:13:23.004665+00:00
+P08,https://arxiv.org/pdf/2304.02216,OpenAlex location (pdf),200,application/pdf,15177473,6ee63ffcddecf280870f9e03611208559e0ec3e4ba271054910cb0f42c73f93e,PDF,2026-10-22T20:13:40.760836+00:00
+P09,https://arxiv.org/pdf/2609.03475,OpenAlex location (pdf),200,application/pdf,1239968,a5c3d75d988e09f4d6ba99e6c77dbd50e61b526200a7d3ffd1b9e2f2e11ed5f4,PDF,2026-10-22T20:13:46.789551+00:00
+P10,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mice.70077,OpenAlex location (pdf),403,text/html; charset=UTF-8,5776,,Not a PDF/failed,2026-10-22T20:13:51.976196+00:00
+P10,https://doi.org/10.1111/mice.70077,landing page,200,text/html;charset=UTF-8,2748,,Not a PDF/failed,2026-10-22T20:13:54.568217+00:00
+P12,https://arxiv.org/pdf/2607.01049,OpenAlex location (pdf),200,application/pdf,31531238,1b2f74d11c2642411f6e0681ffab5ff2acfdebbe3e94600d1d402acb1a6e1e73,PDF,2026-10-22T20:14:13.592963+00:00
+C0006,https://www.researchsquare.com/article/rs-10598232/latest.pdf,OpenAlex location (pdf),200,application/pdf,6076472,bded1a837c305de22fd2a1673f85ba5484f095d5801f7f7057898b82155f26fc,PDF,2026-10-23T06:25:42.813148+00:00
+O0727,https://doi.org/10.1016/j.rineng.2026.113189,landing page,200,text/html;charset=UTF-8,2716,,Not a PDF/failed,2026-10-23T06:25:53.232901+00:00
+O0744,https://www.ijrte.org/wp-content/uploads/papers/v15i3/C839315030926.pdf,OpenAlex location (pdf),200,application/pdf,838020,1ede6b178b0f2f478270743ad5285f4a9b479564c291ab649821823f3ebafaa1,PDF,2026-10-23T06:25:59.632759+00:00
+O0761,https://doi.org/10.1016/j.adapen.2026.100267,landing page,200,text/html;charset=UTF-8,2738,,Not a PDF/failed,2026-10-23T06:26:07.841071+00:00
+R02,https://link.springer.com/content/pdf/10.1007/s10462-025-11287-7.pdf,OpenAlex location (pdf),200,application/pdf,8303737,25c8139304c29e6ab4f9a05cf7011e5cfad2b161d94d716d934ca5ec824be67a,PDF,2026-10-23T06:26:15.110935+00:00
+R03,https://arxiv.org/pdf/2401.16402,OpenAlex location (pdf),200,application/pdf,565524,0a761fc5e127e8e28000bd57a9558ce3e472d529228c62d6798826679fe05647,PDF,2026-10-23T06:26:30.121965+00:00
+R04,https://arxiv.org/pdf/2501.11310,OpenAlex location (pdf),200,application/pdf,14552030,1c26038df3459693c4dd1bd5e5d345c040df0fdd945d34ac4dce7853f3540992,PDF,2026-10-23T06:26:40.133749+00:00
+R10,https://doi.org/10.1016/j.inffus.2025.103139,landing page,200,text/html;charset=UTF-8,2714,,Not a PDF/failed,2026-10-23T06:26:44.471018+00:00
+R01,https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf,OpenAlex DOI lookup (pdf),200,application/pdf,2269055,35dec61bc277eee6069107c6c464d03ffa9710d908a130869fb9bf9b819d9d52,PDF,2026-10-23T06:27:42.215421+00:00
+R10,https://arxiv.org/pdf/2410.21982,arXiv exact-title search (pdf),200,application/pdf,16796253,a0d87bc534bc36519eb9655bede88c46dc96e49684e15553f6c08fc302c6b7fa,PDF,2026-10-23T06:27:56.369127+00:00
+R11,https://link.springer.com/content/pdf/10.1007/s11263-023-01822-w.pdf,OpenAlex DOI lookup (pdf),200,application/pdf,2463060,7ccbd30ed27ffa5d02c9fb7470714b3ef50e2e19015db6c3bc1971cbe635ec69,PDF,2026-10-23T06:28:05.590017+00:00

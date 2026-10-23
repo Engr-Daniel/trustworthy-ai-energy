@@ -1,0 +1,50 @@
+O4901;X;TA05;Reflective surface aesthetic QC (title only)
+O4902;X;TA05;Augmentation for low-data unsupervised inspection
+O4903;X;TA05;Learnable text query zero-shot AD (title only)
+O4904;X;TA05;2D-3D bridging multimodal IAD
+O4905;X;TA05;Interpolated Gaussian descriptors AD
+O4906;X;TA05;Constraint flow weak defect detection
+O4907;X;TA05;CLIP few-shot augmentation AD
+O4908;F;;Detection and mitigation of positional bias in zero-shot AD (R8 shortcut/bias); verify industrial evaluation (title only)
+O4909;X;TA05;Efficient defect segmentation (title only)
+O4910;X;TA05;Wavelet similarity zero-shot AD
+O4911;X;TA05;Power line insulator anomaly detection model; accuracy-oriented
+O4912;X;TA05;Adaptive preprocessing filters
+O4913;X;TA05;Generalist AD across application domains; cross-category generalisation, not deployment shift (note 2)
+O4914;X;TA05;Co-progression distillation
+O4915;X;TA05;VQ-VAE-2 on MVTec
+O4916;X;TA05;DifferNet; foundational method without reliability dimension
+O4917;X;TA01;Robotics/driving anomaly segmentation (note 7)
+O4918;F;;VLM PCB defect detection addressing annotation noise in low-sample inspection (R4); verify noise handling evaluation
+O4919;X;TA05;Simple prompts zero/few-shot AD
+O4920;X;TA05;CNN feature levels for AD
+O4921;X;TA05;Schrodinger bridge diffusion AD
+O4922;X;TA01;Particle image velocimetry denoising
+O4923;X;TA05;De-anomaly reconstruction localisation
+O4924;X;TA05;Simple prompts zero-shot AD
+O4925;X;TA05;Dynamic prototypes AD (title only)
+O4926;X;TA05;Few-shot anomaly image generation
+O4927;X;TA05;One normal prompt multi-class AD (title only)
+O4928;X;TA05;Multi-attribute prompt segmentation (title only)
+O4929;X;TA05;Residual denoising distillation
+O4930;X;TA05;Textile recycling sorting pipeline
+O4931;X;TA05;Point cloud student-teacher (title only)
+O4932;X;TA05;Manifold modelling localisation (title only)
+O4933;X;TA05;Synthetic noise screw AD
+O4934;X;TA05;Gradient preference feature learning
+O4935;X;TA05;MAE multi-class AD
+O4936;X;TA05;Textual domain bridge zero-shot defect detection
+O4937;X;TA02;Predictive maintenance augmentation review for hydrogen engines; non-visual
+O4938;X;TA05;Nearest memory reconstruction (title only)
+O4939;X;TA01;Multimodal content generation review
+O4940;X;TA05;Pose-agnostic sparse-view AD (title only)
+O4941;X;TA05;Airport FOD unsupervised detection
+O4942;X;TA05;Discriminative ViT self-distillation
+O4943;X;TA01;Electromagnetics deep learning review
+O4944;X;TA05;Feature mimicking boosting AD
+O4945;X;TA05;Bidirectional distillation (title only)
+O4946;X;TA05;Explainable AD review and case study; explanation methods without reliability evaluation
+O4947;B;;MVTec LOCO logical-constraint benchmark; foundational industrial AD dataset background (consistent with O4305)
+O4948;X;TA05;Knowledge-to-image augmentation
+O4949;X;TA05;Teacher-assistant distillation
+O4950;X;TA05;Single-step diffusion AD

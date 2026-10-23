@@ -1,0 +1,50 @@
+O1951;B;;Bibliometric and systematic review of image recognition for structural damage detection; core-context review
+O1952;F;;OOD-aware structural damage classification (R3); modality to verify (title only, note 4)
+O1953;X;TA02;LLMs for PHM time series; non-visual
+O1954;B;;Adjacent imaging NDT (terahertz): adversarial domain adaptation for composite delamination under variable conditions; transferable shift method (note 12)
+O1955;X;TA02;Vibration-based railway damage identification; non-visual
+O1956;B;;Survey of generative models for image-based SHM; core-context review
+O1957;X;TA01;Generic cross-domain few-shot segmentation; no inspection context
+O1958;X;TA01;Generic transfer-learning image processing review
+O1959;X;TA01;Infrared small-target detection for military surveillance
+O1960;F;;Anomaly detection robust to noisy in-distribution training samples in manufacturing (R4)
+O1961;F;;Domain augmentation for defect classification robust to environment shifts across production lines (R3)
+O1962;X;TA01;Outside asset-inspection context: forest bark beetle damage
+O1963;F;;Cross-condition benchmark for vision-based weld nugget size prediction (R3/R8)
+O1964;X;TA05;LVLM agentic defect annotation; annotation automation without reliability evaluation
+O1965;X;TA05;Visual explanations for few-shot tunnel segmentation; interpretability only (title only)
+O1966;X;TA02;Heat-pump fault diagnosis from GASF-encoded signals; non-optical
+O1967;X;TA05;Feature-reconstruction turbine blade defect detection; accuracy-oriented
+O1968;X;TA01;Medical-only cardiac MRI benchmark
+O1969;X;TA02;Observability of IIoT predictive-maintenance pipelines; non-visual
+O1970;X;TA05;Attention U-Net for defect detection; low-quality images only motivational (note 1)
+O1971;F;;Synthetic-to-real domain shift handling for manufacturing defect detection (R3)
+O1972;X;TA05;LLM planner for logical anomaly diagnosis; no reliability evaluation
+O1973;X;TA01;Medical-only OOD challenge pipeline
+O1974;X;TA01;Seismic least-squares migration; not asset inspection
+O1975;X;TA05;Self-supervised DETR for catenary component detection; label efficiency
+O1976;X;TA01;Traffic dataset anonymisation; not asset inspection
+O1977;X;TA03;Steganalysis of robotic image telemetry; security task, not inspection
+O1978;X;TA02;Acoustic-vibration wind turbine bearing diagnosis; non-visual (title only)
+O1979;X;TA05;SAM refinement for PV and industrial defect segmentation; accuracy-oriented
+O1980;B;;Survey and benchmarks for road crack segmentation; core-context review (title only)
+O1981;X;TA02;Residual-based OOD fault detection for electrical assets; non-visual
+O1982;F;;Pothole image dataset designed as independent OOD test set across lighting and weather (R8/R3)
+O1983;X;TA05;Auditable SOM crack segmentation; interpretability without reliability evaluation
+O1984;X;TA03;Synthetic degradation dataset for image restoration in power-line inspection; restoration, not inspection model reliability
+O1985;X;TA01;Generic adversarial patch defence; no inspection context
+O1986;X;TA05;YOLO PCB defect detection; no reliability signalled (title only)
+O1987;B;;Survey of methods for noisy, missing and partial labels in industrial vision; R4 core-context review
+O1988;X;TA01;Outside asset-inspection context: library disaster management
+O1989;X;TA01;Dense OOD detection in driving scenes (note 7)
+O1990;X;TA01;Video anomaly detection grounding (note 7)
+O1991;X;TA01;Human-perception-guided pretraining for open-set recognition; no inspection context
+O1992;X;TA02;Noisy imbalanced fault diagnosis; non-visual
+O1993;F;;Unified multi-class AD with unsupervised domain adaptation under varying imaging conditions in electronics (R3)
+O1994;X;TA05;Review of vegetation classification for power corridors; not asset-defect reliability
+O1995;X;TA01;Alloy design for AM; not inspection
+O1996;X;TA01;Generic CycleGAN semi-supervised domain adaptation; no inspection context
+O1997;X;TA05;Review of AI microstructure and surface characterisation; narrow-technique review without reliability (note 3)
+O1998;F;;Test-time feature caching for cross-domain MLCC defect detection (R3) (title only)
+O1999;X;TA01;Outside asset-inspection context: poultry farming
+O2000;X;TA02;Marine diesel engine thermal/performance dataset; non-visual

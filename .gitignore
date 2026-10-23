@@ -12,3 +12,12 @@ replay-output/
 
 # Publisher page captures retained locally with manifest hashes
 review-paper/screening/abstracts-*/raw/
+
+# Generated Overleaf upload bundle
+review-paper/manuscript-overleaf.zip
+
+# Open-access full texts and extracted text (copyrighted; kept local with hashes in retrieval logs)
+review-paper/fulltext/raw/
+review-paper/fulltext/text/
+review-paper/fulltext/digests/
+review-paper/fulltext/manual/

@@ -1,0 +1,50 @@
+O3001;B;;Systematic review of image segmentation for fault and defect detection across industries; core-context review
+O3002;X;TA05;Systematic review of AI in stone manufacturing; not visual-inspection reliability focused
+O3003;B;;Survey of vision-based leather defect detection; core-context review (title only)
+O3004;B;;Review of deep-learning steel surface defect detection and segmentation; core-context review
+O3005;X;TA01;Generic low-contrast image segmentation review
+O3006;B;;Survey of image segmentation for industrial quality control; core-context review
+O3007;X;TA05;Stone manufacturing AI review; preprint of O3002 (note 13)
+O3008;B;;Systematic review of deep learning in wood image analysis; core-context review (title only)
+O3009;B;;Review of computer vision and AI for textile yarn quality control; core-context review
+O3010;X;TA05;Systematic review of AI across bridge design and lifecycle; not visual-inspection focused
+O3011;B;;Review of ML fault detection in PV systems incl. visual faults; core-context (energy) review
+O3012;B;;Systematic review of cork stopper quality classification by image processing and ML; core-context review (title only)
+O3013;B;;Systematic review of AI packaging defect detection; core-context review
+O3014;X;TA05;Systematic review of AI in the printing industry; not visual-inspection focused
+O3015;X;TA02;Review of ML for PV string anomaly detection from electrical data; non-visual
+O3016;X;TA02;Fault self-recovery of industrial plants (2008, title only)
+O3017;B;;Review of point-cloud railway infrastructure monitoring; core-context review
+O3018;X;TA05;Benchmark of unsupervised carpet anomaly detectors on accuracy and speed; no reliability dimension
+O3019;B;;Systematic review of AI in bridge SHM incl. vision-based damage detection; core-context review
+O3020;B;;Review of UAV-based infrastructure inspection for AEC+FM; core-context review
+O3021;B;;Review of AI with imaging NDT for PV defect prediction; core-context (energy) review
+O3022;B;;Review of deep-learning SHM of civil infrastructure (2019); core-context review
+O3023;B;;Review of point-cloud 3D detection for industrial inspection; core-context review
+O3024;B;;Systematic review of ML/AI post-earthquake bridge damage assessment; core-context review
+O3025;X;TA05;Concise review of railway bridge SHM sensing and ML; mainly non-visual
+O3026;X;TA01;Generic image processing and AI review
+O3027;X;TA02;Review of vibration-based dry transformer fault diagnosis; non-visual
+O3028;B;;Review of automatic radiographic defect detection in castings; core-context review
+O3029;B;;Critical review of image and point-cloud pavement distress detection; core-context review
+O3030;B;;Comparative review of vision, ML and sensor-fusion pavement assessment; core-context review
+O3031;B;;Review of image segmentation for AFP layup defect detection; core-context review
+O3032;B;;Review of deep-learning bridge surface crack detection; core-context review
+O3033;B;;Literature review of NDT imaging and ML for power electronic module reliability assessment; core-context (energy) review
+O3034;X;TA05;Benchmark of AutoML segmentation for tool condition monitoring; accuracy-oriented
+O3035;X;TA02;Review of intelligent fault diagnosis in thermal power plants; non-visual
+O3036;X;TA01;Cardiovascular imaging core lab (title only)
+O3037;X;TA05;Review of ML for manufacturing process optimisation (title only)
+O3038;X;TA01;Rice quality review (title only)
+O3039;B;;Review of machine vision for monitoring welding dynamics; core-context review (title only)
+O3040;X;TA01;Video anomaly detection survey (note 7) (title only)
+O3041;X;TA02;Review of PV fault detection and classification methods; mainly electrical
+O3042;X;TA05;Review of control systems and AI in welding robots; not inspection reliability
+O3043;B;;Review of machine-vision gear defect detection noting generalisation challenges; core-context review
+O3044;X;TA01;Federated anomaly detection review
+O3045;X;TA03;Steel and concrete segmentation for construction progress monitoring review
+O3046;X;TA01;Tomato detection review
+O3047;B;;Review of AI-assisted NDT of welding joints incl. X-ray image processing; core-context review (title only)
+O3048;B;;Systematic review of AI and IoT for yarn defect detection; core-context review
+O3049;B;;Review of deep learning tire defect detection; core-context review
+O3050;X;TA05;Review of time-series corrosion forecasting for urban pipelines; not visual-inspection reliability focused

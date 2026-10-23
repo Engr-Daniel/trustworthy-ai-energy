@@ -1,0 +1,64 @@
+{
+  "run_id": "FULLTEXT-LOCATE-20261023-01",
+  "purpose": "Open-access full-text location for reports sent to full text",
+  "started_utc": "2026-10-23T06:26:56.547187+00:00",
+  "requests": [
+    {
+      "file": "openalex-001.json",
+      "query": "doi filter (4 DOIs)",
+      "time_utc": "2026-10-23T06:26:57.934862+00:00",
+      "status": 200,
+      "sha256": "d862602c6960db02b9c025baf8b1c02f9f3b3b6c962aac6ce643e9fae538a009"
+    },
+    {
+      "file": "arxiv-C0009.xml",
+      "query": "ti:\"Outlier Exposure in Visual Industrial Anomaly Detection - Survey\"",
+      "time_utc": "2026-10-23T06:27:00.265910+00:00",
+      "status": 200,
+      "sha256": "98fa5867a2386626151c3da0df762dbaed606f7339ee07259ac5122bed9eaf12"
+    },
+    {
+      "file": "arxiv-O0727.xml",
+      "query": "ti:\"Toward trustworthy and explainable AI-driven industrial fault diagnosis A data-to-deployment review\"",
+      "time_utc": "2026-10-23T06:27:04.188108+00:00",
+      "status": 200,
+      "sha256": "cb386a280f64efba7c7af4f9c2b2e481e72f9bc8421477b45c908fa935dac44d"
+    },
+    {
+      "file": "arxiv-O0761.xml",
+      "query": "ti:\"Human-in-the-loop artificial intelligence in the energy sector a systematic review of paradigm shifts toward Industry 5.0\"",
+      "time_utc": "2026-10-23T06:27:08.113153+00:00",
+      "status": 200,
+      "sha256": "82a404c659859b346b8d23f5348192216899b88491de737409efcd9221982579"
+    },
+    {
+      "file": "arxiv-O1537.xml",
+      "query": "ti:\"A comprehensive survey on industrial image anomaly detection\"",
+      "time_utc": "2026-10-23T06:27:12.039545+00:00",
+      "status": 200,
+      "sha256": "51fde59b643446485f0ed6bc3fe2cd2aa8c8b162c00d0a7177ea925dd5b242f5"
+    },
+    {
+      "file": "arxiv-R05.xml",
+      "query": "ti:\"A survey on industrial image anomaly detection methods, benchmarks and rethinks\"",
+      "time_utc": "2026-10-23T06:27:15.909265+00:00",
+      "status": 200,
+      "sha256": "6e15335aa37a6f6306806562bac5146ba3ebeb87f7e65a69d5e16474ca405e43"
+    },
+    {
+      "file": "arxiv-R06.xml",
+      "query": "ti:\"A comprehensive survey for real-world industrial surface defect detection Challenges, approaches, and prospects\"",
+      "time_utc": "2026-10-23T06:27:19.845507+00:00",
+      "status": 200,
+      "sha256": "fc0eebae240cc0f5b77f1e64f0cdec5dd4cb21501c8c337edf1067a8d1b0180a"
+    },
+    {
+      "file": "arxiv-R10.xml",
+      "query": "ti:\"A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection\"",
+      "time_utc": "2026-10-23T06:27:23.759966+00:00",
+      "status": 200,
+      "sha256": "3c010fcb4d050d5afd697abc077256d8dc2872883035457df2cf451cd2e17be5"
+    }
+  ],
+  "finished_utc": "2026-10-23T06:27:26.767425+00:00"
+}

@@ -1,0 +1,50 @@
+O1551;X;TA05;Transfer learning for PV electroluminescence defect detection; no reliability signalled (title only)
+O1552;X;TA05;Adapting foundation models for interpretable infrastructure inspection; interpretability is not a reliability dimension (title only)
+O1553;X;TA05;PCB defect detection; accuracy-oriented
+O1554;F;;Radiographic weld defect classification with cross-domain generalisation (R3) (title only)
+O1555;X;TA05;Attention-guided regularisation for aircraft surface defects; accuracy-oriented
+O1556;X;TA02;Open-set wind turbine transmission fault diagnosis from thermal-twin operating signals; non-visual (consistent with O1496)
+O1557;X;TA05;Zero-shot visual prompt tuning AD; no shift framing (title only, note 2)
+O1558;F;;Cross-dataset steel defect few-shot detection under imaging-condition shift (R3)
+O1559;F;;Covariate-shift adaptation for multi-resolution crack segmentation (R3)
+O1560;F;;VLM industrial defect segmentation under lighting, material and production-line domain shift (R3)
+O1561;F;;Unified MLLM open-set anomaly detection across diverse domains (R3); verify shift evaluation
+O1562;F;;Zero-shot anomaly detection framed as cross-domain generalisation for industrial cold start (R3)
+O1563;X;TA05;Unsupervised EL anomaly detection in PV module manufacturing; no reliability signalled (title only)
+O1564;F;;Cross-domain few-shot industrial defect segmentation (R3)
+O1565;X;TA03;Sim-to-real tactile image transfer for robotic manipulation; no inspection task
+O1566;X;TA05;CNN industrial defect detection pipeline; accuracy-oriented
+O1567;F;;Few-shot steel defect detection with domain-adaptation optimiser for scene variation (R3); verify evaluation
+O1568;B;;Review of computer-vision crack detection in concrete pavements; core-context review
+O1569;F;;Open-set domain adaptation for industrial fault diagnosis (R3); modality to verify (title only, note 4)
+O1570;X;TA02;Bridge damage diagnosis from vibration signals; non-visual
+O1571;B;;Systematic review of vision transformers for industrial anomaly detection with multimodal evidence integration; core-context review (title only)
+O1572;X;TA02;Impact-echo time-frequency images for concrete subsurface defects; non-optical signal representation (consistent with O0271)
+O1573;F;;Autoencoder OOD confidence estimation for industrial X-ray image interpretation (R3/R1)
+O1574;B;;Review of RGB-thermal and multimodal fusion with sensor misalignment for robust defect detection; R6 core-context review
+O1575;F;;Thermal PV fault classification with leakage-safe protocol and external UAV field validation showing domain-shift degradation (R3/R8)
+O1576;F;;Contrast domain adaptation of a large VLM to industrial wafer visual monitoring (R3); verify shift evaluation
+O1577;X;TA02;Nuclear plant bearing fault diagnosis from vibration time-frequency images; non-visual
+O1578;F;;Open-set steel defect detection with bounded false-alarm constraints under leakage-safe evaluation (R3/R2/R8)
+O1579;X;TA01;VLM topology anomaly probing on tubular segmentation masks; no asset-inspection context
+O1580;B;;Systematic survey of computer vision in industrial environments including defect inspection; core-context review
+O1581;X;TA05;Knowledge-enhanced road defect recognition; no reliability signalled (title only)
+O1582;X;TA05;Zero/few-shot SEM wafer defect classification; no shift framing (note 2)
+O1583;X;TA02;Bearing fault diagnosis domain adaptation; non-visual signals
+O1584;X;TA05;Narrow-technique chapter on vision transformers for quality assessment (note 3)
+O1585;F;;PV anomaly detection adapting production data to address training-production domain shift (R3)
+O1586;F;;Insulator defect detection with cross-domain generalisation across imaging conditions and taxonomies (R3)
+O1587;X;TA05;Unsupervised industrial anomaly detection; no reliability signalled (title only)
+O1588;X;TA01;3D seismic fault segmentation; geological interpretation, not asset inspection
+O1589;X;TA02;Bearing fault diagnosis with multi-source domain adaptation; non-visual signals (title only)
+O1590;F;;Zero-shot anomaly detection designed for domain shift with test-time prompt adaptation (R3)
+O1591;F;;Zero-shot anomaly detection under domain shift; preprint of thesis record O1590 (note 6)
+O1592;F;;Sim-to-real domain adaptation with XAI-based gap assessment for industrial inspection (R3)
+O1593;X;TA05;Federated vision transformer defect detection; privacy and accuracy, no reliability evaluation
+O1594;X;TA05;Piezoelectric crystal defect instance segmentation; accuracy-oriented
+O1595;X;TA01;Outside asset-inspection context: livestock farming review
+O1596;X;TA01;Medical-only fundus anomaly detection (note 7)
+O1597;F;;Domain-invariant unsupervised anomaly detection under distribution shift (R3) (title only)
+O1598;F;;PV infrared fault detection framed as cross-plant unsupervised domain adaptation (R3)
+O1599;X;TA05;Gas pipeline corrosion detection and quantification; generic robustness claim (note 1)
+O1600;X;TA05;Multimodal knowledge-guided few-shot defect segmentation; no reliability signalled (title only)

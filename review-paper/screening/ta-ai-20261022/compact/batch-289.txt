@@ -1,0 +1,50 @@
+O4701;X;TA05;Memory-augmented adversarial autoencoder AD
+O4702;B;;PVEL-AD open-world photovoltaic EL anomaly dataset; core-context dataset background (consistent with O4537)
+O4703;X;TA05;Multilevel feature restoration AD
+O4704;X;TA05;Dual-guidance reverse distillation (title only)
+O4705;X;TA05;Progressive reconstruction AD
+O4706;X;TA05;Mask attention reconstruction (title only)
+O4707;X;TA05;Global-local logical AD
+O4708;X;TA05;PyramidFlow localisation
+O4709;X;TA05;FastRecon few-shot IAD
+O4710;X;TA05;Wavelet memory-efficient edge AD; efficiency
+O4711;X;TA05;Attribute restoration preprint; same-content record of O4662 (note 6)
+O4712;X;TA05;Position-aware PatchCore
+O4713;X;TA05;Mixed supervision surface defect detection (title only)
+O4714;X;TA05;Bayesian prompt distribution for zero-shot AD; internal probabilistic modelling without uncertainty evaluation (note 8)
+O4715;X;TA05;Semi-supervised PatchCore
+O4716;X;TA05;Decoupled distillation AD
+O4717;X;TA01;Gold counterfeit authentication
+O4718;X;TA05;Domain-filtered few-shot AD (title only)
+O4719;X;TA05;Aircraft sealant mirror inspection (title only)
+O4720;X;TA05;Diffusion distillation AD
+O4721;X;TA05;Foreground-enhanced autoencoder AD
+O4722;X;TA05;Few-shot manufacturing defect detection; data efficiency
+O4723;X;TA01;Medical-only retinal AD
+O4724;X;TA01;Forest search-mission aerial anomaly dataset
+O4725;X;TA05;Bi-directional GAN AD (title only)
+O4726;X;TA05;Attention-conditioned augmentation AD
+O4727;X;TA05;Probabilistic weakly supervised AD (title only)
+O4728;X;TA05;Battery surface segmentation dataset; accuracy-oriented
+O4729;X;TA05;Association divergence ViT AD (title only)
+O4730;X;TA05;Self-organizing map AD
+O4731;F;;Supervised AD generalising from known to unseen anomaly types (R3 open-set) (consistent with O4301)
+O4732;X;TA05;Domain-expertise multimodal AD (title only)
+O4733;X;TA05;Few-shot online AD (title only)
+O4734;X;TA05;Multi-teacher distillation AD (title only)
+O4735;X;TA05;AD across semantic and industrial benchmarks; task breadth, not deployment shift (title only)
+O4736;X;TA05;Knowledge-driven prompt zero-shot AD
+O4737;X;TA05;LVLM reasoning anomaly segmentation; explanation, not verification
+O4738;X;TA05;Visual context prompting zero-shot segmentation (title only)
+O4739;X;TA05;Federated AGV camera AD; privacy and overgeneralisation, not reliability evaluation
+O4740;X;TA05;Multimodal real-time distillation (title only)
+O4741;X;TA05;Visual-tactile robotic inspection pipeline
+O4742;X;TA05;Regularised latent generative-discriminative AD
+O4743;X;TA05;Pose-agnostic 3D AD method; pose handled by design, no shift evaluation
+O4744;X;TA05;Anomaly generation as localisation (title only)
+O4745;X;TA01;Road surface winter conditions
+O4746;X;TA05;Industrial 2D/3D AD review; methods review without reliability focus (title only)
+O4747;F;;Rationale-first VLM industrial AD with calibrated yes/no decisions (R1/R7); verify calibration meaning (note 9)
+O4748;X;TA05;Two-stage AD
+O4749;X;TA05;Defect reparation AD (title only)
+O4750;X;TA05;Autoencoder anomaly localisation

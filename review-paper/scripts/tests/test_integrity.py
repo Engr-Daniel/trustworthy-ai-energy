@@ -60,9 +60,35 @@ class IntegrityTests(unittest.TestCase):
         command = [sys.executable, str(self.root / "review-paper/scripts/build_corpus.py"), "--output-dir", str(output)]
         result = subprocess.run(command, capture_output=True, text=True)
         self.assertEqual(result.returncode, 0, result.stderr)
+        # Replay recreates the unscreened 13 October pilot. Later identification sources may add rows and
+        # screening may fill decision fields; every replayed identification value must still be preserved.
+        screening = {"Reviewer 1", "TA Decision R1", "Reviewer 2", "TA Decision R2", "TA Final", "TA Reason Code",
+                     "Full text sought?", "Retrieval Result", "FT Decision R1", "FT Decision R2", "FT Final",
+                     "FT Exclusion Code", "Decision Rationale", "Decision Date", "Adjudicator", "Study ID",
+                     "Included in synthesis?", "Decision Integrity"}
         for generated in output.iterdir():
             saved = self.corpus / generated.name
-            self.assertEqual(generated.read_text(encoding="utf-8"), saved.read_text(encoding="utf-8"), generated.name)
+            if generated.suffix == ".csv":
+                header = generated.read_text(encoding="utf-8").splitlines()[0]
+                fields = ["Event ID"] if "Event ID" in header else ["Run ID", "Search ID"] if "Run ID" in header else ["Paper ID"]
+                key = lambda row: tuple(row[f] for f in fields)
+                with saved.open(encoding="utf-8", newline="") as stream:
+                    current = {key(row): row for row in csv.DictReader(stream)}
+                with generated.open(encoding="utf-8", newline="") as stream:
+                    for row in csv.DictReader(stream):
+                        kept = current[key(row)]
+                        identity = {k: v for k, v in row.items() if k not in screening and not (generated.name == "corpus.csv")}
+                        self.assertEqual(identity, {k: kept[k] for k in identity}, generated.name + " " + str(key(row)))
+            elif generated.name == "identity-registry.json":
+                registry = json.loads(saved.read_text(encoding="utf-8"))
+                for key, value in json.loads(generated.read_text(encoding="utf-8")).items():
+                    self.assertEqual(registry[key], value)
+            elif generated.name == "scope-counts.json":
+                pilot = json.loads(generated.read_text(encoding="utf-8")); now = json.loads(saved.read_text(encoding="utf-8"))
+                for key in ["crossref_occurrences", "seed_occurrences"]:
+                    self.assertEqual(pilot[key], now[key])
+            elif generated.name == "references-draft.bib":
+                self.assertEqual(generated.read_text(encoding="utf-8"), saved.read_text(encoding="utf-8"))
         self.assertNotEqual(subprocess.run(command, capture_output=True).returncode, 0)
         command[-1] = str(self.corpus)
         self.assertNotEqual(subprocess.run(command, capture_output=True).returncode, 0)

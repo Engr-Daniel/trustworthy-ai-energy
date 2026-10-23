@@ -1,0 +1,50 @@
+O1651;X;TA01;Medical-only thermographic disease detection (note 7)
+O1652;X;TA03;Hyperspectral image denoising; no inspection task (same-title record of O1649, note 6)
+O1653;F;;Insulator defect detection generalised to foggy conditions in drone images (R3 weather robustness)
+O1654;X;TA01;Outside asset-inspection context: insect systematics
+O1655;F;;Depth-guided continual adaptation for UAV wind turbine anomaly detection under environmental change (R3)
+O1656;X;TA01;Medical-only MRI dataset quality assurance via anomaly detection (note 7, consistent with O1498)
+O1657;F;;Open-set anomaly discovery (R3); context to verify (title only, note 4)
+O1658;F;;Hidden-test application-driven anomaly detection benchmark addressing saturated, unrealistic benchmarks (R8)
+O1659;X;TA05;Zero-shot multimodal prompt IAD; no reliability signalled (title only, note 2)
+O1660;X;TA05;Few-shot MLLM utility tunnel video anomaly detection; no reliability signalled (title only)
+O1661;X;TA01;Outside asset-inspection context: gravitational-wave detector glitches
+O1662;X;TA02;Domain-generalised fault diagnosis; non-visual signals (title only)
+O1663;X;TA05;Attention-based coating defect detection; no reliability signalled (title only)
+O1664;X;TA05;Semi-supervised radiographic weld defect detection; generalisation only motivational (note 1)
+O1665;X;TA05;Efficient pavement crack segmentation; generic robustness claim (title only, note 1)
+O1666;F;;Framework for benchmarking self-supervised anomaly localisation (R8); context to verify (title only, note 4)
+O1667;F;;Semi-supervised deep transfer learning with multilayer domain adaptation for wafer map defects (R3); verify shift setting
+O1668;X;TA05;Training-free Gaussian baseline industrial AD; accuracy and cost
+O1669;X;TA05;Image-based crack detection dissertation; no reliability signalled
+O1670;X;TA02;Servomotor fault detection from stator-current scalograms; non-optical signal representation
+O1671;X;TA02;Time-series anomaly detection; non-visual
+O1672;X;TA05;Comparative review of model-driven control versus ML for manufacturing; no reliability focus
+O1673;X;TA05;Zero-shot anomaly segmentation addressing resolution granularity; shift only motivational (note 2)
+O1674;X;TA05;Drone path planning and deep learning for solar thermal plant inspection; no reliability signalled
+O1675;X;TA05;Unsupervised in-line XCT defect segmentation; label-efficiency focus
+O1676;F;;Class-wise histogram-matching domain adaptation for bridge element segmentation on unseen domains (R3)
+O1677;F;;GAN-based OOD image detection for industrial closed-loop systems (R3)
+O1678;F;;Deep open-set recognition for silicon wafer production monitoring (R3 open-set) (title only)
+O1679;F;;Infrared thermal image bearing fault diagnosis with subdomain adaptation for non-IID train/test (R3)
+O1680;X;TA05;UAV PV hot-spot detection; accuracy-oriented
+O1681;F;;MVTec AD 2 dataset addressing benchmark saturation with realistic advanced scenarios (R8)
+O1682;F;;Cross-domain zero-shot anomaly detection framework addressing cross-domain differences (R3)
+O1683;X;TA02;Domain-generalised intelligent fault diagnosis with artificial images from signals; non-visual (title only)
+O1684;F;;Unsupervised domain adaptation for crack segmentation under distribution shift (R3)
+O1685;X;TA05;Language-referring industrial anomaly segmentation; no reliability evaluation
+O1686;X;TA05;Language-referring industrial anomaly segmentation; same-title record (note 6)
+O1687;X;TA02;Domain-generalised fault diagnosis; same-title record of O1683 (note 6)
+O1688;X;TA05;Zero-shot AD with image anchors addressing prompt sensitivity; shift not the targeted problem (note 2)
+O1689;X;TA05;CLIP zero-shot industrial part recognition; no shift framing
+O1690;X;TA05;Lightweight DINOv2 unsupervised IAD; no reliability signalled (title only)
+O1691;X;TA05;Ensembled diffusion restoration AD; no uncertainty evaluation signalled (title only)
+O1692;X;TA05;Foundation-model adapter for wood defect segmentation; accuracy-oriented
+O1693;X;TA02;Open-world RF spectrum anomaly monitoring; non-visual
+O1694;F;;Robustness of crack detection models across different materials (R3) (title only)
+O1695;X;TA05;Diffusion-transformer anomaly detection; no reliability signalled (title only)
+O1696;X;TA05;Geometric-transform anomaly detection performance; no reliability signalled (title only)
+O1697;F;;Semi/self-supervised learning for cross-domain visual inspection (R3); record type to verify (title only)
+O1698;F;;Synthetic data with unsupervised domain adaptation for pavement crack segmentation (R3)
+O1699;B;;Overview of industrial visual anomaly detection methods, datasets and deployable architectures; core-context review (title only)
+O1700;F;;Grid asset visual inspection evaluating annotation detail and label quality (R4)

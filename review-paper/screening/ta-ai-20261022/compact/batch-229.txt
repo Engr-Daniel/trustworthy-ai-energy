@@ -1,0 +1,50 @@
+O1701;F;;Crowdsourced label noise and label-integration methods for bridge crack image datasets (R4)
+O1702;F;;Domain-adversarial rail surface defect segmentation generalising to unseen datasets (R3) (title only)
+O1703;F;;Domain-adversarial training for concrete crack classification across heterogeneous surfaces (R3)
+O1704;X;TA05;Unsupervised bogie surface defect detection; accuracy-oriented
+O1705;F;;ViT semi-supervised metal defect anomaly detection addressing domain shift (R3); verify shift evaluation
+O1706;X;TA05;Contextual feature refinement for textured-surface AD; no reliability signalled (title only)
+O1707;F;;Industrial X-ray interpretation robust to OOD inputs addressing overconfidence (R3/R1)
+O1708;F;;Few-shot generalist AD addressing domain-shift-induced cross-category degradation (R3); verify evaluation
+O1709;X;TA01;Disaster damage assessment platform; not industrial asset inspection
+O1710;F;;Event-camera contactless machine fault diagnosis with domain generalisation (R3) (title only)
+O1711;X;TA05;YOLOv7 PV EL defect detection; accuracy-oriented
+O1712;F;;Nuclear-reactor component defect segmentation under synthetic-to-real domain shift (R3)
+O1713;F;;Synthetic-to-real domain adaptation for rail inspection cold start (R3)
+O1714;B;;Methodological bridge (medical imaging): automated segmentation quality control detecting failures; transferable failure-detection design (R2/R5, consistent with O0175)
+O1715;B;;Survey of machine-learning pavement defect detection; core-context review (title only)
+O1716;X;TA05;Zero-shot AD addressing cross-modal semantic misalignment; no shift framing (note 2)
+O1717;F;;Domain adaptation transfer learning for bridge damage identification (R3); modality to verify (title only, note 4)
+O1718;X;TA05;Lightweight aero-engine blade defect detection; no reliability signalled (title only)
+O1719;X;TA05;Prompt-enhanced limited-data defect segmentation; no reliability signalled (title only)
+O1720;X;TA02;Generalised zero-shot industrial fault diagnosis from process data; non-visual
+O1721;X;TA05;Conference overview of computer vision and agentic AI in display manufacturing; no reliability evaluation
+O1722;X;TA05;PV EL cell defect recognition network; no reliability signalled (title only)
+O1723;X;TA01;Marine vision object detection and enhancement review; not asset inspection
+O1724;F;;CNN versus DINOv2 defect segmentation reliability under thermographic domain shift (R3) (title only)
+O1725;X;TA01;Outside asset-inspection context: fruit and vegetable grading review
+O1726;F;;Robustness tuning for few-shot transfer across extreme domain shift (R3); context to verify (title only, note 4)
+O1727;F;;Domain-generalised YOLOv8 for UAV insulator inspection under adverse weather (R3)
+O1728;X;TA01;Outside asset-inspection context: crop disease hyperspectral imaging
+O1729;X;TA05;Federated transfer learning for imbalanced AM defect images; privacy focus (title only)
+O1730;F;;Cross-modal prompt regularisation for zero-shot anomaly detection across domains (R3) (title only)
+O1731;X;TA01;Generic object-detection review; no industrial inspection context
+O1732;F;;Defect recognition robust to temporal domain shift via mixture-of-experts (R3) (title only)
+O1733;X;TA01;Underwater object recognition survey; not asset-inspection focused
+O1734;X;TA05;Mask2Former insulator defect segmentation; denoising-mask training is not label-noise handling
+O1735;F;;Domain adaptation for defect detection with minimal and imbalanced target data (R3); verify shift setting
+O1736;F;;Bayesian deep learning with uncertainty modelling for fabric quality control (R1)
+O1737;F;;Open-world transmission-line component recognition for emerging defects in microgrid inspection (R3 open-set)
+O1738;B;;Adjacent non-visual: open-set transfer-learning detection of SHM sensor-data anomalies from malfunctions; transferable sensor-failure method (R6/R3, note 5)
+O1739;F;;Robust defect recognition under temporal domain shift; same-title record (note 6)
+O1740;X;TA02;Few-shot cross-domain bearing fault diagnosis from vibration; non-visual
+O1741;X;TA05;Diffusion-based unsupervised AD for consumer electronics; accuracy and speed
+O1742;X;TA05;Normalizing-flow ensemble unsupervised AD; ensemble not used for uncertainty evaluation
+O1743;X;TA05;Denoising student-teacher anomaly detection; accuracy-oriented
+O1744;X;TA05;Latent-diffusion in-distribution augmentation for defect detection; accuracy-oriented
+O1745;F;;Digital-model-to-reality domain adaptation for rail defect detection (R3) (title only)
+O1746;F;;Open-world object-based anomaly detection via outlier synthesis (R3); context to verify (title only, note 4)
+O1747;F;;Multi-modal hammering-test defect classification with domain adaptation for domain gap (R3); verify image modality
+O1748;F;;Review of exposed-rebar bridge datasets analysing mismatch with UAS inspection imagery (R8 dataset realism)
+O1749;F;;Self-supervised site-specific domain adaptation for crack segmentation at new sites (R3)
+O1750;X;TA05;Explainable zero-shot anomaly segmentation; no reliability signalled (title only)

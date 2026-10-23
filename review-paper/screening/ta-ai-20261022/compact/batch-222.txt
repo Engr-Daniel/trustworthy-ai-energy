@@ -1,0 +1,50 @@
+O1351;X;TA01;Outside asset-inspection context: research data management course material
+O1352;X;TA01;Outside asset-inspection context: non-scholarly economic polemic
+O1353;X;TA01;Outside asset-inspection context: cytometry data analysis review
+O1354;X;TA01;Outside asset-inspection context: snowpack climate-model bias
+O1355;X;TA04;Conference special issue editorial
+O1356;X;TA02;Battery modelling and control dissertation; no image modality
+O1357;X;TA01;Outside asset-inspection context: child haptic exploration video dataset
+O1358;X;TA04;Book index paratext
+O1359;X;TA01;Outside asset-inspection context: film studies
+O1360;X;TA01;Outside asset-inspection context: matrix algebra note
+O1361;X;TA04;Reference-entry fragment with no assessable content
+O1362;X;TA01;AI auditing preprint without industrial or visual inspection context
+O1363;X;TA04;Editorial (assistive robots)
+O1364;X;TA01;Outside asset-inspection context: speculative physics preprint
+O1365;X;TA04;Peer-review report
+O1366;X;TA01;Outside asset-inspection context: cloud service monitoring
+O1367;X;TA01;Outside asset-inspection context: computational physiology
+O1368;X;TA01;Outside asset-inspection context: evidence-synthesis information specialists
+O1369;X;TA04;Symposium extended-abstracts volume
+O1370;X;TA01;Outside asset-inspection context: mathematical framework preprint
+O1371;X;TA01;Outside asset-inspection context: speculative physics
+O1372;X;TA04;Title index paratext
+O1373;X;TA01;Outside asset-inspection context: medical physics phantoms
+O1374;X;TA04;Peer-review decision letter
+O1375;X;TA01;Outside asset-inspection context: genetics biobanks
+O1376;X;TA04;Editorial (genetics biobanks)
+O1377;X;TA04;Book review
+O1378;X;TA01;Legal perspective on autonomous ships; no AI inspection task
+O1379;X;TA01;Outside asset-inspection context: nanomedicine volume
+O1380;X;TA01;Outside asset-inspection context: aquatic toxicity
+O1381;X;TA01;Outside asset-inspection context: cardiology
+O1382;X;TA01;Outside asset-inspection context: vehicle air pollution policy
+O1383;X;TA02;Vehicular network trust management; no image modality
+O1384;X;TA04;Conference proceedings abstracts
+O1385;U;;Remote-sensing ML for urban building seismic exposure/vulnerability (built-infrastructure, image-based); truncated abstract does not show whether uncertainty is evaluated; full-text check needed
+O1386;X;TA01;Outside asset-inspection context: cosmology preprint
+O1387;X;TA01;Outside asset-inspection context: cosmology preprint
+O1388;X;TA03;Rock-physics wave velocity study; no AI inspection task
+O1389;X;TA04;Editorial (unconventional gas)
+O1390;X;TA01;Outside asset-inspection context: agentic AI in services
+O1391;X;TA04;Editorial (quantum cybersecurity)
+O1392;X;TA01;Outside asset-inspection context: epidemic simulation software
+O1393;X;TA04;Certification assessment material
+O1394;X;TA04;Book listings
+O1395;X;TA01;Outside asset-inspection context: COVID-19 commentary
+O1396;X;TA01;Outside asset-inspection context: environmental sustainability overview
+O1397;X;TA04;Erratum
+O1398;X;TA04;Guest editorial (generative AI in government)
+O1399;X;TA01;Outside asset-inspection context: cultural studies essay
+O1400;X;TA01;Outside asset-inspection context: sustainable agriculture book

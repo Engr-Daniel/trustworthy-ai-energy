@@ -1,0 +1,50 @@
+O4801;X;TA05;CLIP-DINOv2 fusion zero-shot IAD
+O4802;X;TA05;Probabilistic latent matching AD; no uncertainty evaluation (note 8)
+O4803;X;TA05;Prototype-guided few-shot AD
+O4804;X;TA05;Efficient distillation IAD
+O4805;X;TA05;Open-scene hazard recognition routing (title only)
+O4806;X;TA05;SAM2 defect segmentation adaptation
+O4807;X;TA05;PCB modification autoencoder under loose capture control; no shift evaluation
+O4808;X;TA05;Few-shot steel tube segmentation
+O4809;F;;Noise-resilient semi-supervised AD (R4); verify noise type (title only, consistent with O4399)
+O4810;B;;SegmentMeIfYouCan anomaly segmentation benchmark; foundational OOD-segmentation benchmark background (consistent with O4433)
+O4811;X;TA05;Self-tuning augmentation hyperparameters; training design
+O4812;X;TA01;Video anomaly detection (note 7)
+O4813;X;TA05;Latent decentralisation one-class AD
+O4814;X;TA05;Prototype generation few-shot localisation (title only)
+O4815;X;TA05;YOLO machine-vision optimisation
+O4816;X;TA05;Fabric feature distribution AD (title only)
+O4817;X;TA05;Simulated anomalous samples SSL
+O4818;X;TA01;Business cybersecurity
+O4819;X;TA01;AutoOD generic outlier detection search
+O4820;X;TA05;Hierarchical transformation AD
+O4821;X;TA05;SOMAD; same-title record of O4730 (note 6)
+O4822;X;TA01;Medical-only VLM AD
+O4823;X;TA01;Generic multi-object novelty detection (title only)
+O4824;X;TA05;LLM glass detection (title only)
+O4825;X;TA05;FastFlow-PaDiM meta-ensemble; ensemble for accuracy
+O4826;X;TA05;Discriminative DeepLab AD
+O4827;F;;Study of background clutter effects on RGB+3D IAD in real-factory conditions (R3/R8); verify
+O4828;X;TA05;Distribution-transformed supervised AD
+O4829;X;TA05;X-ray battery defect dataset
+O4830;X;TA05;Attention-guided localisation; same-title record of O4686 (note 6)
+O4831;X;TA05;Reconstructive-discriminative transformer AD
+O4832;X;TA02;Data-driven industrial fault diagnosis review; non-visual
+O4833;X;TA05;Iterative inpainting AD
+O4834;X;TA05;Triple-tower student-teacher AD
+O4835;X;TA05;Machine-vision surface defect review; no reliability focus
+O4836;X;TA01;Image forensics review
+O4837;X;TA05;Industrial pipeline AD dataset; no reliability framing
+O4838;X;TA05;Template aggregation IAD (title only)
+O4839;X;TA05;Zero-shot 3D anomaly localisation
+O4840;X;TA05;Salient-object texture defect detection
+O4841;X;TA05;Selective cascade inference for efficiency (title only)
+O4842;F;;Standardised benchmark of few-shot AD showing performance variation across environments (R8/R3)
+O4843;X;TA05;Few-shot cosmetic inspection
+O4844;X;TA05;Rendered synthetic defects; data generation
+O4845;X;TA05;Diffusion tablet defect detection
+O4846;X;TA05;Scale-aware zero-shot CLIP IAD (title only)
+O4847;X;TA01;Generic MLLM benchmarking
+O4848;X;TA05;Semantic reconstruction local and logical AD
+O4849;X;TA05;Weld defect dynamic kernel (title only)
+O4850;X;TA05;Norm-constrained semantic and structural AD

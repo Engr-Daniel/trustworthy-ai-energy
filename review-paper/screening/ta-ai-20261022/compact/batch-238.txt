@@ -1,0 +1,50 @@
+O2151;X;TA02;Domain-adaptive gearbox diagnosis with dot-pattern encoding; non-optical
+O2152;X;TA01;Crop yield forecasting under drought
+O2153;X;TA01;Generic small-object detection survey
+O2154;X;TA02;PMSM fault diagnosis under parameter drift; non-visual
+O2155;X;TA05;Synthetic data for radiographic aluminium casting defects; no shift evaluation signalled
+O2156;X;TA01;Post-disaster satellite building damage detection
+O2157;X;TA01;Medical-only pathology drift
+O2158;F;;Human-centric augmentation for manufacturing defect detection robust to OOD shifts and corruptions (R3/R5)
+O2159;X;TA05;Self-supervised pretraining for railway sleeper segmentation; label efficiency
+O2160;X;TA05;Industrial X-ray timber log classification; no reliability evaluation
+O2161;F;;Reliable multimodal learning under distribution shift and unseen objects for industrial monitoring (R3/R6); verify industrial evaluation
+O2162;X;TA04;Editorial (structural integrity symposium)
+O2163;X;TA01;Humanitarian demining detection review
+O2164;X;TA01;Humanitarian demining review; translated same-content record (note 6)
+O2165;X;TA01;Space debris detection
+O2166;X;TA05;Quadruped robot sidewalk monitoring; no reliability signalled (title only)
+O2167;F;;Physically faithful synthetic multimodal images for generalisable industrial quality control (R3); verify shift evaluation
+O2168;X;TA01;Medical-only multi-disease diagnosis
+O2169;X;TA01;Plant disease dataset protocol
+O2170;X;TA01;Haematology dataset
+O2171;X;TA01;Driving-scene OOD segmentation (note 7)
+O2172;X;TA01;Driving-scene OOD segmentation; same-title record (note 6)
+O2173;X;TA01;Driving-scene OOD segmentation; same-title record (note 6)
+O2174;X;TA01;Folk art classification
+O2175;X;TA01;Generic VLM label cleaning for object detection; no inspection context
+O2176;X;TA01;Deepfake video detection
+O2177;X;TA02;THz time-domain signal transfer learning for GFRP delamination; non-image (title only)
+O2178;F;;Sim-to-real synthetic imagery for sawmill jam anomaly detection (R3)
+O2179;X;TA02;Time-series digital twins; non-visual
+O2180;X;TA05;AI+FMEA road heritage maintenance (title only)
+O2181;X;TA02;Time-series language grounding encoder; non-visual
+O2182;X;TA01;Meat freshness classification
+O2183;X;TA02;Compressor SHM review; mainly non-visual sensing
+O2184;F;;Task-conditioned survey of multimodal fusion reliability for detection (R6); context to verify (title only, note 4)
+O2185;X;TA01;Generic fine-grained domain adaptation (title only)
+O2186;X;TA05;Universal curvilinear segmentation across domains; generality, no shift evaluation framing
+O2187;B;;Review of sensor-driven intelligent detection treating signal quality and modality availability as reliability determinants; R6 core-context review
+O2188;X;TA01;Medical-only radiotherapy outlier detection
+O2189;X;TA01;Robotic manipulation VLA
+O2190;X;TA01;Radio astronomy interference detection
+O2191;B;;Methodological bridge (digital cytology): covariate-shift quality control with safe triage of benign cases; transferable selective-decision design (R2/R3)
+O2192;X;TA01;Pedestrian intention prediction (note 7)
+O2193;X;TA01;Underwater instance segmentation (title only)
+O2194;X;TA01;Generic multi-domain segmentation (title only)
+O2195;X;TA05;Wood chip detection dataset; no reliability framing
+O2196;X;TA02;Acoustic rotating machinery monitoring; non-visual
+O2197;F;;Cross-domain OOD detection via subspace modelling (R3); context to verify (title only, note 4)
+O2198;X;TA01;GPU silent data errors
+O2199;X;TA01;Generic dataset validation framework
+O2200;X;TA01;Molecular dynamics property prediction (title only)

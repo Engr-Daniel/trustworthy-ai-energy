@@ -1,0 +1,50 @@
+O3951;X;TA02;GPR water leakage detection; imaging NDT without reliability method (note 12)
+O3952;X;TA05;Spatial attention supervision for defect localisation; accuracy-oriented
+O3953;X;TA02;GPR full-waveform inversion; non-learned or non-visual
+O3954;X;TA01;Generic LVLM policy optimisation
+O3955;X;TA02;Multi-view GPR damage dataset; imaging NDT without reliability framing
+O3956;X;TA05;CNN-Mamba pavement crack evaluation; accuracy-oriented
+O3957;B;;Methodological bridge (industrial binary visual decisions): pre-registered benchmark of calibrated small-VLM yes/no decisions with deferral to humans; transferable calibration and referral design (R1/R2/R5)
+O3958;F;;Open-vocabulary detection for transformer stand installation inspection handling unknown objects (R3 open-set)
+O3959;X;TA02;Ground-fault false-positive detection from environmental sensors; non-visual
+O3960;X;TA02;GPR void and pipeline recognition (title only)
+O3961;X;TA02;GPR tunnel lining damage classification; same-title record (note 6)
+O3962;X;TA03;Fastener pull-out model calibration
+O3963;X;TA02;Thermal modelling generalisation in LPBF; non-visual
+O3964;X;TA05;CNN crack dimension regression; accuracy-oriented
+O3965;X;TA01;Tunnel fire detection; not asset-defect inspection
+O3966;X;TA03;PCB coordinate calibration (2014)
+O3967;X;TA02;NC machine tool reliability modelling
+O3968;X;TA05;Anomaly detection in high-reliability CT parts; component reliability (consistent with O3873)
+O3969;X;TA05;Digital bridge inspection with NDT; no learned-model reliability evaluation
+O3970;X;TA03;3D image modelling with inaccurate calibration patterns (title only)
+O3971;F;;Separating architectural interoperability from model generalisation across machines, materials and lighting in steel AI (R3/R8); verify empirical content
+O3972;X;TA02;Unsupervised GPR tunnel detection; imaging NDT without reliability method (note 12)
+O3973;X;TA03;AM part source identification; not defect inspection
+O3974;X;TA03;Cable leakage current analysis
+O3975;X;TA03;UAV localisation for post-disaster inspection
+O3976;X;TA05;Automated ground-truth generation for crack detection; label generation without reliability evaluation
+O3977;X;TA02;Multimodal gearbox fault diagnosis under variable conditions; non-visual (title only)
+O3978;X;TA05;YOLO comparison for insulator faults; accuracy-oriented
+O3979;X;TA01;Generic image restoration dataset
+O3980;F;;Cross-domain defect detection in data-scarce L-DED processes (R3) (title only)
+O3981;X;TA05;YOLO railway wheel defect detection; accuracy-oriented
+O3982;X;TA03;ML generalisation in fast CT reconstruction for metrology; not inspection decisions
+O3983;X;TA03;Saudi pipeline reliability review
+O3984;X;TA03;Saudi pipeline reliability review; same-title record (note 6)
+O3985;X;TA02;EV charging safety IoT; non-visual
+O3986;X;TA02;GPR reinforced concrete assessment (title only)
+O3987;X;TA01;ViT soft-error statistical reliability
+O3988;X;TA03;Bridge reliability-based condition assessment (2007)
+O3989;X;TA02;Generalisation of partial-discharge pattern classification; non-optical (title only)
+O3990;X;TA05;Calibration-free melt pool segmentation (title only)
+O3991;X;TA03;Stereo vision platform
+O3992;X;TA05;Robotic solar panel cleaning and maintenance
+O3993;X;TA03;Optical fibre bundle calibration
+O3994;X;TA03;CCD camera calibration (2015)
+O3995;X;TA05;UAV and computer vision pilot for power-line inspection; lessons learned without reliability evaluation
+O3996;X;TA01;Neural compression for wind turbine imagery
+O3997;X;TA03;LED reliability under temperature cycling
+O3998;X;TA03;Bridge collision avoidance camera system
+O3999;X;TA05;Robotic grinding inspection cell (1994)
+O4000;X;TA01;Jellyfish identification

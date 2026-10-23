@@ -1,0 +1,50 @@
+O0401;X;TA05;Pavement damage segmentation with PCI evaluation; accuracy
+O0402;B;;Review of deep learning in tunnel/underground engineering incl. defect detection; core-context review
+O0403;X;TA02;Workshop energy prediction with UQ; non-inspection
+O0404;X;TA03;Manufacturing operating system concept (title only)
+O0405;X;TA03;Data planning framework for circular-economy part assessment; no learned model evaluation
+O0406;F;;Unsupervised domain adaptation for crack segmentation with uncertainty-guided self-training on industrial cross-domain data (R3)
+O0407;B;;Review of AI in civil engineering with multimodal fusion and UQ (title only)
+O0408;X;TA03;Vision volume measurement of weights (title only)
+O0409;B;;Critical review of ML in-situ defect monitoring for DED incl. reliability and uncertainty; core-context review
+O0410;F;;Cross-sensor robustness and spatial generalisation of railway point-cloud segmentation across three LiDAR systems (R3/R6)
+O0411;F;;Metrological uncertainty analysis of a deep-learning railway clip fault detection system (R1/R8)
+O0412;F;;Version of O0376 (R1)
+O0413;X;TA03;AM elastic-property UQ (title only)
+O0414;X;TA03;1992 AI-in-engineering textbook
+O0415;F;;Robust industrial anomaly detection architecture (title claims robustness; verify evaluation) (title only)
+O0416;F;;Thesis incl. uncertainty-based drift-aware active continual learning under non-stationary conditions for infrastructure inspection (R3)
+O0417;X;TA02;Bearing vibration/current signals as images with uncertainty-weighted fusion; non-optical (adjacent; similar methods already represented)
+O0418;X;TA03;Hydrogen embrittlement ML review; not inspection
+O0419;X;TA05;YOLO infrared power equipment recognition; accuracy
+O0420;X;TA02;Thermal flow meter with ML; non-image
+O0421;X;TA05;Distillation AD training dynamics (title only)
+O0422;X;TA03;Thermoplastic welding process development report
+O0423;B;;Masonry bridge image/point-cloud datasets with annotated damage addressing training-data limitations; dataset background (R8)
+O0424;B;;Review of explainable AI for manufacturing distinguishing explanation fidelity and decision usefulness; background (R7 framing)
+O0425;X;TA02;Vibration GAF images for gearbox faults; non-optical
+O0426;X;TA05;Physics-informed micro-particle classification (title only)
+O0427;X;TA01;Adversarial anti-hyperspectral detection (military remote sensing)
+O0428;X;TA05;Infrared electrical equipment CNN; accuracy
+O0429;X;TA05;Brick moisture estimation from smartphone images; not reliability evaluation
+O0430;F;;Probabilistic image-based damage assessment of RC beams with explainable AI (R1) (title only)
+O0431;B;;Adjacent non-visual: distance-aware SNGP OOD detection for gearbox vibration diagnosis under domain shift (R1/R3)
+O0432;X;TA03;NDT integration into bridge management; no learned model
+O0433;X;TA05;Multimodal industrial AD reconstruction network (title only)
+O0434;X;TA02;Ultrasonic A-scan sizing with transfer learning; non-image signals
+O0435;B;;Survey of vision-based weld quality prediction; core-context review (title only)
+O0436;X;TA03;Transformer nameplate OCR review; not defect inspection
+O0437;X;TA01;Pathology cross-site calibration pipeline
+O0438;X;TA03;2003 noncontact inspection processing
+O0439;X;TA05;Bayesian thermal target following for robot control; not defect inspection
+O0440;X;TA01;Materials microstructure segmentation (title only)
+O0441;B;;Survey of XCT for industrial defect detection and metrology; core-context review (title only)
+O0442;X;TA05;Federated insulator detection for privacy; no reliability dimension
+O0443;F;;Aircraft skin defect recognition evaluated for false alarms, calibration and robustness to illumination (R1/R3)
+O0444;X;TA05;Fuzzy clustering cork stoppers (title only)
+O0445;F;;MC-dropout uncertainty to flag unreliable heliostat flux predictions in solar tower plants (R1/R2); image-derived energy asset prediction
+O0446;X;TA05;Mine tunnel fracture YOLO with geometric UQ for rock mechanics; not inspection-model reliability
+O0447;X;TA05;Vision displacement for bridge damage (title only)
+O0448;X;TA05;Shotcrete fibre distribution analysis (title only)
+O0449;F;;Bayesian FC-DenseNet uncertainty maps with prediction-quality tagging for vision SHM (R1/R5)
+O0450;X;TA01;Materials microstructure segmentation (title only)

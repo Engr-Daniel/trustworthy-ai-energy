@@ -1,0 +1,50 @@
+O1501;X;TA05;Self-supervised synthetic-anomaly AD on MVTec; anomalies termed OOD but no shift or reliability evaluation (note 1)
+O1502;F;;Cross-domain zero-shot industrial anomaly detection across materials, textures and imaging conditions (R3)
+O1503;X;TA05;Normalizing-flow unsupervised surface-defect AD; no reliability signalled (title only)
+O1504;F;;Open-set fine-grained industrial defect classification with CLIP prompts (R3 open-set) (title only)
+O1505;F;;Metal surface defect segmentation under noisy labels (R4) (title only)
+O1506;X;TA05;Parameter-efficient foundation-model wafer map classification framed as label efficiency, not shift (note 2)
+O1507;B;;Systematic review of industrial AI for fabric colour-defect detection addressing illumination and batch domain shift; core-context review
+O1508;X;TA05;Zero-shot multi-type AD prompt optimisation; no shift framing (title only, note 2)
+O1509;X;TA05;YOLOv5 strip-steel detector; "distribution shifting convolution" is an operator, not shift evaluation
+O1510;B;;Systematic review of computer vision for power transmission line inspection; core-context (energy) review
+O1511;B;;Review of AI quality control of welded joints across NDT modalities; core-context review
+O1512;F;;Cross-domain few-shot welding defect identification (R3)
+O1513;X;TA05;Few-shot foundation-encoder anomaly detector; accuracy-oriented (note 2)
+O1514;B;;Survey of real-world industrial surface defect detection challenges; core-context review (title only, note 3)
+O1515;X;TA05;PV electroluminescence defect classification; accuracy-oriented (title only)
+O1516;F;;Dynamic unsupervised domain adaptation for PV electroluminescence defect detection on production lines (R3)
+O1517;X;TA05;Anomaly-specific representation pretraining; natural-to-industrial shift only motivational (note 1)
+O1518;F;;Synthetic-to-real unsupervised cross-domain insulator defect detection (R3)
+O1519;X;TA01;Generic OOD filtering of user-generated image datasets; no industrial context
+O1520;F;;Synthetic-to-real unsupervised domain adaptation for bridge inspection scene understanding (R3)
+O1521;X;TA01;Outside asset-inspection context: cell microscopy profiling
+O1522;F;;Federated meta-learning for few-shot defect recognition under cross-factory domain shift (R3)
+O1523;F;;Domain generalisation across multiple data sources for road surface defect classification (R3)
+O1524;X;TA05;Diffusion-based in-distribution augmentation for defect classifiers; accuracy-oriented
+O1525;F;;Masonry crack CNN evaluated on laboratory-to-real-world domain transfer (R3)
+O1526;B;;Review of deep-learning industrial defect detection identifying domain-shift and deployment limits; core-context review
+O1527;X;TA05;Contrastive learning for surface defect classification; no reliability signalled (title only)
+O1528;F;;Unsupervised domain-adaptive corrosion segmentation on real-world infrastructure images (R3)
+O1529;X;TA05;Feature-contrasting anomaly segmentation; shift mentioned only as motivation (note 1)
+O1530;F;;Scene-domain-adaptive diffusion sample expansion to address domain mismatch in insulator inspection (R3); verify evaluation
+O1531;F;;Concrete crack detection from benchmark to field images with domain-mismatch analysis and adaptation (R3)
+O1532;F;;Unsupervised domain adaptation for cross-voltage transmission-line LiDAR point-cloud segmentation (R3)
+O1533;F;;Synthetic-to-real domain-adaptive instance segmentation for sheet-metal defect measurement (R3)
+O1534;X;TA05;Zero-shot attribute-based surface defect classification; no shift framing (note 2)
+O1535;X;TA01;Medical-only brain MRI OOD detection (note 7)
+O1536;B;;Survey of vision foundation models for manufacturing inspection framed around domain shift; core-context review
+O1537;B;;Survey of industrial image anomaly detection; core-context review (title only, note 3)
+O1538;F;;UAV unsupervised domain-adaptive crack recognition from database to real sites with domain-gap evaluation (R3)
+O1539;B;;Review of CNN-based industrial product defect detection; core-context review
+O1540;B;;Review of CNN-based industrial product defect detection; same-title record (note 6)
+O1541;F;;Domain adaptation transferring corrosion assessment from indoor to outdoor images (R3)
+O1542;B;;Review of AI visual defect detection noting failures under lighting and new defect types; core-context review
+O1543;F;;UAV infrared PV module fault diagnosis with OOD detection (R3)
+O1544;F;;Scale-aware domain adaptation for machine-tool surface defect detection (R3)
+O1545;F;;Few-shot diffusion defect synthesis for cross-domain transfer to new products (R3); verify shift evaluation
+O1546;F;;Geometry-constrained open-set recognition for industrial inspection (R3 open-set) (title only)
+O1547;B;;Technical survey of deep-learning welding defect detection; core-context review
+O1548;F;;Anomaly classifier with domain adaptation (R3); context to verify (title only, note 4)
+O1549;F;;Covariate-shift-aware GAN for railway track image defect detection (R3)
+O1550;B;;Adjacent imaging NDT (GPR radargrams): sim-to-real unsupervised domain adaptation for bridge-deck and road subsurface inspection; transferable shift method (note 5)

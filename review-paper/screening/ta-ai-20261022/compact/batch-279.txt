@@ -1,0 +1,50 @@
+O4201;X;TA02;GPR pavement monitoring with signal processing
+O4202;X;TA03;Photometric stereo 3D reconstruction dissertation
+O4203;X;TA03;Holographic moire measurement (title only)
+O4204;X;TA02;Distributed acoustic sensing pre-training (title only)
+O4205;X;TA01;Real estate price prediction
+O4206;X;TA03;Generalised photogrammetry review
+O4207;X;TA01;Fetoscope calibration; same-title record (note 6)
+O4208;X;TA03;Space weather effects on ground systems
+O4209;X;TA03;Electronics reliability intelligence
+O4210;X;TA03;Silicon nitride ceramics review
+O4211;X;TA05;Robotics feasibility for energy facility inspection rounds
+O4212;X;TA01;IT monitoring tools
+O4213;X;TA01;Residential property condition assessment with MLLM; not asset-defect inspection
+O4214;X;TA03;GPR water table detection (1991)
+O4215;X;TA01;Torn document reconstruction (title only)
+O4216;X;TA02;GPR clustering and classification framework
+O4217;X;TA03;Object relative state estimation with self-calibration
+O4218;X;TA01;Hardware-fault redundancy optimisation
+O4219;X;TA05;Lightweight detector for meter calibration line
+O4220;X;TA01;Blockchain collaborative learning
+O4221;X;TA05;Generalised-VAE one-class classification (title only)
+O4222;X;TA02;Intrusion detection signal decomposition
+O4223;X;TA05;Ground robots for FPSO operations summary
+O4224;X;TA05;Generalised-VAE one-class classification; same-title record (note 6)
+O4225;X;TA03;LiDAR projection for PV shading
+O4226;X;TA02;Bushing diagnostics
+O4227;X;TA01;Gland segmentation annotation (title only)
+O4228;X;TA01;Generic aerial-ground VLM reasoning benchmark
+O4229;X;TA05;Generalised-VAE one-class classification; same-title record (note 6)
+O4230;X;TA02;PV fault diagnosis from operational data
+O4231;X;TA01;Wastewater operation reporting
+O4232;X;TA03;Passive system reliability (title only)
+O4233;X;TA01;Audio deepfake spectrogram explanations
+O4234;X;TA03;AAC fracture energy calibration
+O4235;X;TA05;Gear pitting segmentation; feature calibration is architectural
+O4236;X;TA01;Confectionery network communications
+O4237;X;TA04;Special issue introduction
+O4238;X;TA02;Humidity sensor damp prediction
+O4239;X;TA02;EV predictive maintenance
+O4240;X;TA01;AI software testing
+O4241;X;TA02;Multi-source turbogenerator health fusion; non-visual
+O4242;X;TA01;Neuromorphic hardware reliability
+O4243;X;TA03;AAC fracture energy; same-title record (note 6)
+O4244;X;TA03;Field lab calibration protocol (title only)
+O4245;X;TA05;SPC guidance for AI operations (title only)
+O4246;X;TA02;Hydrogen compressor reliability framework
+O4247;X;TA03;Passive heat removal ageing
+O4248;X;TA01;Plant disease synthetic imagery (title only)
+O4249;X;TA03;Solder joint shape prediction (title only)
+O4250;X;TA02;Distribution network reliability

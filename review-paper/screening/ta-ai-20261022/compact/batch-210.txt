@@ -1,0 +1,50 @@
+O0751;X;TA01;River UAV lidar/velocimetry hydro-environment survey; not asset inspection AI
+O0752;X;TA01;Reservoir characterisation geological modelling
+O0753;B;;Project on digital twins for traceable machine-vision measurement with uncertainty assessment; metrology framing background
+O0754;X;TA03;Point-cloud completion for SoL dimensional metrology; measurement accuracy not inspection reliability
+O0755;X;TA05;Fuzzy soft planar graph underwater segmentation; generic, no inspection reliability evaluation
+O0756;X;TA03;Metasurface 3D imaging calibration; optics not AI inspection
+O0757;X;TA05;Statistics-informed DL for FDM parameter drift diagnosis; drift is the fault class, no reliability evaluation
+O0758;X;TA05;Image-based AM dimensional measurement thesis; calibration of measurement pipeline, not AI reliability
+O0759;X;TA03;OpenAlex/LDA review of decision-oriented XAI broadly
+O0760;X;TA03;Reprint collection on physics-data structural identification
+O0761;B;;Systematic review of human-in-the-loop AI in the energy sector; human-oversight background (R5)
+O0762;X;TA03;Speculative AI language book; no inspection task
+O0763;X;TA02;PMSM fault detection (title only)
+O0764;X;TA03;Thesis on ensembled explanations for trust; generic
+O0765;B;;Review of NDT (GPR, IRT, laser scanning) and intelligent development for tunnel SHM; core-context review
+O0766;F;;Thin crack detection trained on human-annotated labels with super-human labels via resolution manipulation; label noise/annotation reliability (R4)
+O0767;X;TA03;Composite residual strength UQ simulation
+O0768;X;TA01;Seismic hazard assessment review
+O0769;X;TA01;Critical care sepsis analytics
+O0770;B;;PRISMA systematic review of SHM for aging bridges incl. computer vision and domain shift; core-context review
+O0771;X;TA01;Version of O0768 (seismic hazard)
+O0772;X;TA01;Wildlife UAV detection with domain-shift active learning (outside context)
+O0773;X;TA01;Herbal granule property prediction
+O0774;X;TA01;CO2 sequestration/EOR modelling review
+O0775;X;TA03;Mega-infrastructure QA framework concept
+O0776;X;TA03;Oil and gas digital transformation editorial; no inspection evidence
+O0777;X;TA05;Transmission line channel scene classification (title only)
+O0778;X;TA01;Forestry tree-material collection perception review
+O0779;X;TA03;Earthquake engineering AI special-issue editorial
+O0780;X;TA05;Automatic inspection in robotic composite cells; no reliability evaluation
+O0781;X;TA01;Seismic fault compartmentalisation uncertainty
+O0782;X;TA03;DNN software test-case selection; no inspection context
+O0783;X;TA01;Cosmetic face/body inpainting
+O0784;X;TA02;Thrust bearing condition monitoring review; non-visual
+O0785;X;TA05;Remanufacturing inspection thesis; uncertainty refers to returns, no reliability evaluation signalled
+O0786;X;TA01;Insurance underwriting analytics
+O0787;X;TA03;Bridge load rating reliability using vision deflection; structural reliability not AI inspection
+O0788;X;TA01;Space sciences ML editorial
+O0789;X;TA03;Fatigue performance prediction of materials (title only)
+O0790;X;TA01;Multi-agent LLM microscopy automation (scientific imaging)
+O0791;X;TA01;Coffee disease and bean grading
+O0792;X;TA01;Flood and landslide prediction
+O0793;X;TA01;Solubility database extraction
+O0794;X;TA03;High-entropy alloy design (title only)
+O0795;X;TA02;PWR digital twin temperature prediction
+O0796;X;TA03;Review of AI welding control; not inspection reliability
+O0797;X;TA02;Biofouling ML review (time-series dominated)
+O0798;X;TA03;CFRP machining prediction review
+O0799;X;TA05;Substation maintenance robot planning; detection robustness generic
+O0800;X;TA01;Medical thrombus segmentation

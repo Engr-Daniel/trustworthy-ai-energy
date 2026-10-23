@@ -1,0 +1,50 @@
+O3751;X;TA04;Peer-review report
+O3752;X;TA04;Peer-review report
+O3753;F;;Foundation-model crack detection network targeting multi-scenario generalisation (R3)
+O3754;X;TA05;Image-to-point-cloud cross-modal semantic transfer for bridge digital twins; no reliability evaluation
+O3755;X;TA02;GPR rebar signal suppression; imaging NDT without reliability method (note 12) (title only)
+O3756;F;;AnoGAN X-ray CT defect detection with analyst review of detections (R5); verify evaluation
+O3757;X;TA05;Cross-domain mixup augmentation for chopstick anomaly detection; augmentation (title only)
+O3758;X;TA05;Generalised optical PCB interconnect inspection (title only)
+O3759;X;TA02;MLLM zero-shot PV fault diagnosis from operating data; non-visual
+O3760;X;TA05;Diffusion inpainting augmentation for surface defects (title only)
+O3761;F;;Cross-domain detection of transmission-line faults and foreign objects (R3)
+O3762;X;TA05;Generalised zero-shot wafer pattern classification; no shift framing (note 2) (title only)
+O3763;X;TA05;Semantically grounded reverse distillation AD; grounding is not output grounding (R7)
+O3764;X;TA04;Peer-review author response
+O3765;X;TA04;Peer-review decision letter
+O3766;F;;Multimodal generalised defect category discovery with calibrated clustering (R3 open-world); verify (title only)
+O3767;X;TA04;Peer-review author response
+O3768;X;TA04;Peer-review decision letter
+O3769;F;;Cross-domain few-shot defect detection for high-speed rail infrastructure (R3) (title only)
+O3770;X;TA04;Peer-review decision letter
+O3771;X;TA05;Autonomous camera-module testing system comparison in factory; accuracy and speed
+O3772;X;TA05;Defect-image classification for die reliability screening; product reliability, not model reliability
+O3773;X;TA05;PromptMoE zero-shot AD; no shift framing (note 2)
+O3774;X;TA02;GAN-based GPR rebar suppression; imaging NDT without reliability method (note 12)
+O3775;F;;Normal-variation-aware cross-domain zero-shot anomaly detection (R3)
+O3776;X;TA02;Ensemble transformer fault diagnosis under adversarial attacks; non-visual
+O3777;X;TA02;Antenna-based AM defect anomaly detection; non-visual sensing (title only)
+O3778;X;TA05;Camera calibration for machine vision measurement
+O3779;X;TA01;FPGA CNN radiation reliability
+O3780;X;TA03;Thermal camera photometric calibration; sensor calibration, not inspection model
+O3781;X;TA05;PromptMoE; same-title record (note 6)
+O3782;X;TA05;PromptMoE; same-title record (note 6)
+O3783;X;TA05;PromptMoE; same-title record (note 6)
+O3784;X;TA01;Reliable underwater vision thesis for environmental monitoring and navigation; not asset inspection
+O3785;F;;PatchCore variant robust to rotation, flipping and misalignment in real industrial imaging (R3 acquisition variation); verify evaluation
+O3786;F;;Cross-domain PV defect detection with infrared-visible foundation model for new sites and imaging setups (R3/R6)
+O3787;B;;Adjacent imaging NDT (ultrasonic TFM): embedded deep learning operator support filtering pristine weld data (R5, note 12)
+O3788;F;;FSW volumetric defect detection generalised across alloys and thicknesses (R3); modality to verify (title only, note 4)
+O3789;X;TA05;Ground robot structural damage inspection and mapping
+O3790;X;TA05;Robust Micro-LED surface defect detection (title only)
+O3791;X;TA02;Seq2seq generalisation of pretrained bearing anomaly model; non-visual (title only)
+O3792;X;TA05;CNN AM quality grading; reliability claimed without evaluation
+O3793;F;;Calibrated edge CNN for PET bottle inspection reducing false acceptance/rejection (R1); verify calibration measured (note 9)
+O3794;F;;Anomaly-detection re-evaluation stage reducing false positives in UAV quay-wall crack inspection (R2)
+O3795;X;TA02;GPR profile analysis framework for bridges; imaging NDT without reliability method (title only)
+O3796;X;TA05;SDD-YOLO strip defect detection; generalisation claim
+O3797;X;TA05;Tyre defect classification; accuracy-oriented
+O3798;X;TA02;FSW defect detection from process-force data generalisation; non-visual
+O3799;X;TA05;Weakly supervised PV anomaly detection (title only)
+O3800;X;TA05;Optical scanning weld geometry and fatigue life; not inspection-model reliability

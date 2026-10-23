@@ -1,0 +1,50 @@
+O1051;X;TA03;Bridge design optimisation under uncertainty
+O1052;X;TA03;Reference list chapter (vehicle design optimisation)
+O1053;X;TA01;Fault reactivation GUI (geology)
+O1054;X;TA01;Long-term tracking of operators/products in smart factories; not defect inspection
+O1055;X;TA01;Post-disaster building damage classification (title only)
+O1056;B;;Literature review of object detection for pavement distress incl. environmental uncertainty; core-context review
+O1057;B;;Adjacent non-visual: robust model selection with formal sensitivity/specificity bounds for fault detection under scarce failures (R2)
+O1058;X;TA03;Quantum environmental monograph
+O1059;X;TA03;Reprint collection on unmanned systems (mixed)
+O1060;X;TA03;Speculative AI language book
+O1061;X;TA05;Active learning for open-set detection with VLMs (note 8); domain generic incl. industrial defects
+O1062;X;TA03;SEM calibration metrology
+O1063;X;TA03;Melt-pool geometry prediction with UQ; not inspection
+O1064;X;TA03;Geotechnical monitoring analytics chapter
+O1065;F;;Chinese-language version of O0177: PCB defect detection robust to image uncertainty (R3) (title only)
+O1066;F;;Thesis on domain generalisation incl. ROADS for anomaly detection under domain shift (R3)
+O1067;X;TA03;Quantum navigation monograph
+O1068;X;TA03;Version of O1067
+O1069;X;TA05;Unsupervised LPBF optical monitoring with DBSCAN; process uncertainty motivation only
+O1070;X;TA02;Gas turbine prognostic digital twin
+O1071;X;TA05;Topology-aware SAM pavement distress segmentation (title only)
+O1072;X;TA01;Pedestrian/car detection
+O1073;X;TA01;Analytical chemistry AI review
+O1074;X;TA02;Grid outage risk (title only)
+O1075;X;TA02;Digital twin PdM (title only)
+O1076;F;;Supervised OOD exploration for detecting new defect types in manufacturing machine-vision inspection (R3 OOD)
+O1077;X;TA01;Flood analytics
+O1078;B;;Surveillance-oriented review of AI for dam monitoring incl. vision-based inspection; core-context review
+O1079;B;;Critical review from AI damage detection to degradation forecasting under coupled stressors; framing background
+O1080;X;TA03;Fusion materials monograph
+O1081;X;TA03;Generic multimodal LLM architecture across vertical fields
+O1082;X;TA01;Geospatial sparse reconstruction (title only)
+O1083;X;TA01;Medical normative anatomy thesis
+O1084;X;TA02;RF amplifier prognostics
+O1085;X;TA03;Quantum habitability monograph
+O1086;X;TA03;Qualitative study of AI risk management in energy companies; not inspection evidence
+O1087;X;TA03;Portuguese NDT+AI overview; no empirical reliability evaluation
+O1088;X;TA03;Sparse identification for physics-informed learning
+O1089;X;TA01;Geological thin-section AI
+O1090;X;TA03;Coating electrochemistry
+O1091;X;TA05;3D object appearance observation with pose regression; not reliability evaluation
+O1092;X;TA03;Intelligent automation review (title only)
+O1093;X;TA01;Video motion transfer
+O1094;X;TA02;PWR digital twin
+O1095;X;TA03;Oil and gas data analytics editorial
+O1096;X;TA01;Physics experiment AI survey
+O1097;X;TA01;Satellite pavement condition classification
+O1098;X;TA03;Electrical engineering handbook
+O1099;X;TA01;Pharmaceutical 3D printing
+O1100;X;TA01;Medical segmentation UQ thesis

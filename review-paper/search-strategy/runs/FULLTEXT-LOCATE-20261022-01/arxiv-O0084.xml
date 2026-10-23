@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/b9oZDEYMv/XdaX7VtzMb8f8rUx0</id>
+  <title>arXiv Query: search_query=ti:"Towards trustworthy and interpretable deep learning for vision–enabled industrial pipeline monitoring"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T13:55:18Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Towards+trustworthy+and+interpretable+deep+learning+for+vision%E2%80%93enabled+industrial+pipeline+monitoring%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>0</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+</feed>

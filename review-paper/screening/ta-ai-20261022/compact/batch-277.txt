@@ -1,0 +1,50 @@
+O4101;X;TA01;Smart agriculture monitoring chapter
+O4102;X;TA02;Cross-domain rotating machinery diagnosis from vibration; non-visual
+O4103;X;TA02;PV microgrid protection fault discrimination; non-visual
+O4104;F;;Crack pattern transfer for generalisable crack segmentation across datasets (R3); verify (title only)
+O4105;X;TA05;X-ray tomography powder classification; not reliability-focused (title only)
+O4106;X;TA01;Generic DNN transient hardware fault hardening
+O4107;X;TA05;Cross-level fusion segmentation network for medical and industrial images
+O4108;X;TA02;pix2pix GPR clutter removal; imaging NDT without reliability method (note 12)
+O4109;X;TA05;ROS vision package for part localisation on conveyors
+O4110;X;TA03;RF front-end package reliability with FEA-ML
+O4111;X;TA02;GPR for disaster damage evaluation review
+O4112;X;TA05;Bayesian-network system reliability of edge machine vision; system availability, not model reliability
+O4113;X;TA02;Acoustic emission tank floor evaluation (2007)
+O4114;X;TA05;Semi-supervised camera lens module classification; label efficiency
+O4115;X;TA03;Transformer winding curing process
+O4116;X;TA02;PHM for electric aircraft chapter
+O4117;X;TA02;Power cable health index prediction
+O4118;X;TA03;Ground control point detection for UAV mapping (title only)
+O4119;X;TA03;Load-sharing transformer system
+O4120;X;TA01;Construction material inventory estimation
+O4121;X;TA01;Humanitarian infrastructure destruction classification
+O4122;X;TA03;Weld seam visual sensor calibration (title only)
+O4123;X;TA03;AI-based product lifetime reliability methods
+O4124;X;TA03;Steel damage model calibration
+O4125;X;TA01;Dental bur detection; not asset inspection
+O4126;X;TA03;Optical fibre bundle stereoscopic localisation (2011)
+O4127;X;TA03;Thread parameter measurement calibration
+O4128;F;;Ensemble YOLO for generalised road damage detection (R3); verify cross-domain evaluation
+O4129;X;TA02;Power transformer monitoring thesis
+O4130;X;TA05;Lightweight pavement damage detector (title only)
+O4131;X;TA01;Generic DNN fault-aware design; same-content record of O4106 (note 6)
+O4132;F;;Multimodal relation-guided distillation for generalisable MEAM quality monitoring (R3/R6) (title only)
+O4133;X;TA05;Vision coordinate extraction for PCB optical positioning
+O4134;X;TA05;Review of CycleGAN loss functions and cross-domain applications; not inspection reliability
+O4135;X;TA05;CycleGAN review; same-title record (note 6)
+O4136;X;TA01;NIR milk powder calibration transfer
+O4137;X;TA01;Synthetic aperture sonar imaging thesis
+O4138;X;TA01;Medical dataset pipeline
+O4139;X;TA03;Structured light calibration (title only)
+O4140;X;TA04;Editorial (AI in bridge engineering)
+O4141;X;TA03;Transformer cooling design
+O4142;X;TA03;Bridge NDE platforms
+O4143;X;TA02;PV power forecasting
+O4144;X;TA02;GPR ballast interpretation (title only)
+O4145;X;TA01;Computational pathology artefact processing
+O4146;X;TA03;Transformer temperature indicator (2007)
+O4147;X;TA05;MLLM cross-domain knowledge transfer review
+O4148;X;TA01;Aurora detection
+O4149;X;TA03;Laser deposition porosity modelling
+O4150;X;TA01;Post-disaster ground-view synthesis

@@ -1,0 +1,28 @@
+Paper ID,Source,Kind,URL,Basis,Raw file
+C0103,arXiv exact-title search,pdf,https://arxiv.org/pdf/2408.11561,Identical normalised title; arXiv 2408.11561v2,FULLTEXT-LOCATE-20261022-01/arxiv-C0103.xml
+O0658,arXiv exact-title search,pdf,https://arxiv.org/pdf/2503.00971,Identical normalised title; arXiv 2503.00971v1,FULLTEXT-LOCATE-20261022-01/arxiv-O0658.xml
+O1746,arXiv exact-title search,pdf,https://arxiv.org/pdf/2407.15763,Identical normalised title; arXiv 2407.15763v1,FULLTEXT-LOCATE-20261022-01/arxiv-O1746.xml
+O2299,arXiv exact-title search,pdf,https://arxiv.org/pdf/2503.15415,Identical normalised title; arXiv 2503.15415v1,FULLTEXT-LOCATE-20261022-01/arxiv-O2299.xml
+O3478,arXiv exact-title search,pdf,https://arxiv.org/pdf/2304.13963,Identical normalised title; arXiv 2304.13963v2,FULLTEXT-LOCATE-20261022-01/arxiv-O3478.xml
+O3892,arXiv exact-title search,pdf,https://arxiv.org/pdf/2409.09108,Identical normalised title; arXiv 2409.09108v1,FULLTEXT-LOCATE-20261022-01/arxiv-O3892.xml
+O4300,arXiv exact-title search,pdf,https://arxiv.org/pdf/2606.28268,Identical normalised title; arXiv 2606.28268v1,FULLTEXT-LOCATE-20261022-01/arxiv-O4300.xml
+O4318,arXiv exact-title search,pdf,https://arxiv.org/pdf/2502.20981,Identical normalised title; arXiv 2502.20981v3,FULLTEXT-LOCATE-20261022-01/arxiv-O4318.xml
+O4356,arXiv exact-title search,pdf,https://arxiv.org/pdf/2508.17789,Identical normalised title; arXiv 2508.17789v1,FULLTEXT-LOCATE-20261022-01/arxiv-O4356.xml
+O4382,arXiv exact-title search,pdf,https://arxiv.org/pdf/2508.02903,Identical normalised title; arXiv 2508.02903v1,FULLTEXT-LOCATE-20261022-01/arxiv-O4382.xml
+O4496,arXiv exact-title search,pdf,https://arxiv.org/pdf/2601.10802,Identical normalised title; arXiv 2601.10802v1,FULLTEXT-LOCATE-20261022-01/arxiv-O4496.xml
+O4684,arXiv exact-title search,pdf,https://arxiv.org/pdf/2503.02691,Identical normalised title; arXiv 2503.02691v1,FULLTEXT-LOCATE-20261022-01/arxiv-O4684.xml
+R01,OpenAlex DOI lookup,pdf,https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,landing,https://doi.org/10.1007/s11633-023-1459-z,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,pdf,https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,landing,https://doi.org/10.1007/s11633-023-1459-z,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,pdf,https://arxiv.org/pdf/2301.11514,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,landing,http://arxiv.org/abs/2301.11514,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,landing,https://pub.uni-bielefeld.de/record/2986078,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R01,OpenAlex DOI lookup,landing,https://doi.org/10.48550/arxiv.2301.11514,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R11,OpenAlex DOI lookup,pdf,https://link.springer.com/content/pdf/10.1007/s11263-023-01822-w.pdf,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R11,OpenAlex DOI lookup,landing,https://doi.org/10.1007/s11263-023-01822-w,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R11,OpenAlex DOI lookup,pdf,https://link.springer.com/content/pdf/10.1007/s11263-023-01822-w.pdf,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R11,OpenAlex DOI lookup,landing,https://doi.org/10.1007/s11263-023-01822-w,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R11,OpenAlex DOI lookup,pdf,https://www.db-thueringen.de/servlets/MCRFileNodeServlet/dbt_derivate_00065341/s11263-023-01822-w.pdf,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R11,OpenAlex DOI lookup,landing,https://www.db-thueringen.de/receive/dbt_mods_00063118,Same DOI,FULLTEXT-LOCATE-20261023-01/openalex-001.json
+R10,arXiv exact-title search,pdf,https://arxiv.org/pdf/2410.21982,Identical normalised title; arXiv 2410.21982v2,FULLTEXT-LOCATE-20261023-01/arxiv-R10.xml

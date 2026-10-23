@@ -1,0 +1,50 @@
+O2801;X;TA05;RAG guided operations and maintenance at a machine manufacturer; not visual inspection reliability
+O2802;X;TA01;Exoskeleton labour safety (translated record)
+O2803;X;TA01;Throat cancer diagnosis
+O2804;X;TA01;5G security white paper
+O2805;X;TA01;AR in aerospace navigation
+O2806;X;TA01;Industry 5.0 analytics chapter (title only)
+O2807;X;TA01;Drone technology trends chapter
+O2808;X;TA01;Underwater semantic communication survey
+O2809;X;TA01;Egg grading XAI
+O2810;X;TA01;Robotic grasping VLA
+O2811;X;TA01;Breast ultrasound VLM (title only)
+O2812;X;TA01;Synthetic data survey
+O2813;X;TA02;Equipment composite failure causal reasoning (title only)
+O2814;X;TA01;Vehicle trajectory outliers
+O2815;X;TA01;Efficient AI training dissertation
+O2816;X;TA01;UAS pilot augmentation
+O2817;X;TA01;Surgical systems
+O2818;X;TA01;Medical-only OCT
+O2819;B;;Methodological bridge (autonomous UAS): cognition envelopes bounding foundation-model decisions against hallucination; transferable decision-guard design (R2/R7)
+O2820;F;;Hierarchical benchmark testing whether LMMs can inspect building facade pathologies (R8/R7)
+O2821;X;TA01;Podcast episode
+O2822;X;TA05;Laser/camera conveyor belt surface monitoring with YOLOv7; no reliability evaluation
+O2823;X;TA01;Medical equipment predictive maintenance
+O2824;X;TA01;Vitiligo
+O2825;X;TA01;Podcast episode
+O2826;X;TA01;Medical-only pneumothorax
+O2827;X;TA01;Real2Sim robotics
+O2828;X;TA01;AI security aspects essay
+O2829;X;TA05;Aquaculture cage net segmentation (title only)
+O2830;F;;Benchmark evaluation and adaptation of large models for substation inspection and transmission corridor visualisation (R8)
+O2831;X;TA01;Chatbot-generated corrosion plots
+O2832;X;TA01;Water conservation concept paper
+O2833;X;TA01;Generic continual learning paradigm
+O2834;X;TA04;Table of contents paratext
+O2835;X;TA04;Conference preface
+O2836;X;TA01;Bus GPS data readiness
+O2837;X;TA01;AR/VR digital twin security
+O2838;X;TA01;Podcast episode
+O2839;X;TA05;Intelligent maintenance decision technologies (title only)
+O2840;X;TA01;Edge AI hardware platform
+O2841;X;TA05;AR-AI framework for power distribution field operations; no reliability evaluation
+O2842;X;TA01;Embodied intelligence workplace safety review
+O2843;X;TA04;Editorial (phytoprotection)
+O2844;X;TA01;Health risk assessment
+O2845;X;TA01;Intelligent systems handbook (2003)
+O2846;X;TA01;AI equity chapter
+O2847;X;TA05;Edge safety monitoring of transmission corridors (title only)
+O2848;X;TA01;Medical CT VLM rewards
+O2849;X;TA04;Conference call for papers
+O2850;X;TA01;Ecological monitoring segmentation (title only)

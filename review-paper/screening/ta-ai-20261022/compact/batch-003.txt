@@ -1,0 +1,60 @@
+C0123;X;TA03;Generic review of deep target detection; no inspection context
+C0124;X;TA05;Defect detection from minimal annotations; data efficiency, no reliability dimension signalled (title only)
+C0125;X;TA01;Generic active learning for object detection on PASCAL VOC
+C0126;X;TA01;Facial keypoint detection
+C0127;X;TA01;Generic active learning for object detection (version of C0125)
+C0128;X;TA01;Agricultural aflatoxin hyperspectral detection; not industrial asset inspection
+C0129;X;TA01;Vehicle detection for driving
+C0130;X;TA03;Generic object detection chapter
+C0131;X;TA01;Safety sign detection; not inspection
+C0132;X;TA03;Generic deep learning for computer vision chapter
+C0133;X;TA01;Medical lung nodule detection
+C0134;X;TA01;Medical oral cancer detection
+C0135;X;TA01;Plant disease detection
+C0136;X;TA01;Pedestrian detection
+C0137;X;TA01;Medical polyp detection
+C0138;X;TA01;Medical breast cancer review
+C0139;X;TA01;Pothole detection for delivery-robot obstacle avoidance; not inspection; accuracy only
+C0140;X;TA01;Vehicle tracking and traffic events
+C0141;X;TA03;Generic image object detection
+C0142;X;TA01;Medical image segmentation test-time adaptation
+C0143;X;TA01;Generic active domain adaptation for semantic segmentation; no inspection context (title only)
+C0144;X;TA01;Generic style-transfer domain adaptation chapter (title only)
+C0145;X;TA04;Peer-review report, not a research report
+C0146;X;TA04;Peer-review report, not a research report
+C0147;X;TA04;Peer-review report, not a research report
+C0148;X;TA04;Peer-review report, not a research report
+C0149;X;TA01;Medical OCT segmentation domain adaptation
+C0150;X;TA01;Medical brain tumour segmentation domain adaptation
+C0151;X;TA01;Generic synthetic-to-real domain adaptation segmentation; no inspection context (title only)
+C0152;X;TA01;Medical image domain adaptation
+C0153;X;TA01;Medical image domain adaptation (version of C0152)
+C0154;X;TA01;Driving-scene semantic segmentation domain adaptation (ADVENT)
+C0155;X;TA04;Editorial decision letter, not a research report
+C0156;X;TA04;Editorial decision letter, not a research report
+C0157;X;TA04;Peer-review report, not a research report
+C0158;X;TA01;Camouflaged object segmentation
+C0159;X;TA04;Peer-review report, not a research report
+C0160;X;TA01;Medical image domain adaptation
+C0161;X;TA01;Medical image domain adaptation
+C0162;X;TA01;Medical image domain adaptation (version of C0160)
+C0163;X;TA01;Medical image domain adaptation (version of C0161)
+C0164;X;TA04;Peer-review report, not a research report
+C0165;F;;Uncertainty-inspired domain adaptation for rail surface defect segmentation (R1/R3) (title only)
+C0166;X;TA01;LiDAR driving-scene segmentation domain adaptation
+C0167;X;TA05;Contrastive unsupervised anomaly detection for surface inspection; accuracy-oriented (title only)
+C0168;X;TA05;Constrained-latent anomaly detection for inspection robot; no reliability dimension signalled (title only)
+C0169;X;TA03;1989 heuristic edge fusion of thermal/visual images; no learned AI component
+C0170;F;;Zero-shot VLM wafer/reticle defect inspection motivated by process drift and layer changes (R3); verify evaluation
+C0171;X;TA03;Inverse-rendering digital twin difference imaging; optimisation, no learned inspection model
+C0172;F;;Multi-perspective PatchCore handling reflection/shadow artifacts causing false alarms (R3 acquisition variation)
+C0173;X;TA05;Autoencoder/one-class IAD; accuracy-oriented (title only)
+C0174;X;TA05;Component-aware logical anomaly detection; no reliability dimension signalled (title only)
+C0175;F;;Infrared substation thermal-anomaly detection with tested robustness to noise and luminance disturbances (R3)
+C0176;F;;Robust visual anomaly detection in mobile robot inspection (R3) (title only)
+C0177;F;;Reproducible edge-oriented industrial anomaly inspection framework (R8 reproducibility); verify at full text (title only)
+C0178;X;TA05;Defect-focused augmentation; accuracy-oriented
+C0179;X;TA05;Anomaly generation by inpainting; accuracy-oriented (title only)
+C0180;B;;Background on thermographic NDT inspection reliability and human error; concept framing (not AI evidence)
+C0181;F;;Incremental anomaly detection from noisy, weakly labelled industrial data with reduced expert effort (R4/R5)
+C0182;X;TA05;Swin transformer with hyperparameter optimisation on MVTec AD; accuracy only

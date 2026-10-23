@@ -1,0 +1,3 @@
+# Recoded 2026-10-22 under screening note 14; original decisions remain in packet-06.csv and packet-07.csv
+O1767;X;TA02;Covariate-shift handling for nonstationary railway track-geometry data; generic shift method on non-visual data (note 14)
+O1866;X;TA02;Survey of OOD generalisation and detection in signal-based fault diagnosis; generic non-visual shift methods (note 14)

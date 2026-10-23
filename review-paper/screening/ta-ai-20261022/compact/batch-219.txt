@@ -1,0 +1,50 @@
+O1201;X;TA01;Bacteriophage plaque counting
+O1202;X;TA03;Battery electrode reconstruction review
+O1203;X;TA03;BPMN for post-crisis recovery
+O1204;X;TA01;Neutral hydrogen survey source extraction
+O1205;X;TA01;Liposome spectroscopy
+O1206;X;TA01;Agricultural disaster remote sensing review
+O1207;X;TA01;OOD benchmark for reinforcement learning (generic)
+O1208;X;TA04;Table of contents
+O1209;X;TA03;Clean energy materials book
+O1210;X;TA03;Cyber-physical security of energy storage
+O1211;X;TA01;Crop pest robotics
+O1212;X;TA04;Symposium programme
+O1213;X;TA03;Physics textbook review
+O1214;X;TA02;NDE data material-state tracking via Kalman filtering; not image AI reliability
+O1215;X;TA01;Climate adaptation AI
+O1216;X;TA04;Journal paratext
+O1217;X;TA04;Journal paratext
+O1218;X;TA01;Deepfake forensics monograph
+O1219;X;TA02;Bifacial PV performance modelling
+O1220;X;TA03;Composite multiphysics reliability (title only)
+O1221;X;TA01;Reservoir development
+O1222;X;TA03;Computing architecture reliability modelling
+O1223;X;TA03;Nuclear basin valve risk assessment
+O1224;X;TA04;Table of contents
+O1225;X;TA01;Exoplanet detection
+O1226;X;TA01;Historians' visualisation use
+O1227;X;TA03;Completions editorial
+O1228;X;TA03;Supply chain risk satellite AI
+O1229;X;TA03;EDM physics modelling review
+O1230;X;TA03;Conference proceedings
+O1231;X;TA03;Photocatalysis (title only)
+O1232;X;TA03;Solar resource data handbook
+O1233;X;TA01;Cardiac mesh generation
+O1234;X;TA03;Solar tracking AI review
+O1235;X;TA03;Density estimation (1969 statistics)
+O1236;X;TA05;Multi-frame foreign-particle detection in parenteral solutions with internal uncertainty-aware fusion (note 8)
+O1237;X;TA04;Peer-review reply (glaciology)
+O1238;X;TA04;Peer-review reply (glaciology)
+O1239;X;TA04;Peer-review comment (glaciology)
+O1240;X;TA04;Peer-review comment (glaciology)
+O1241;X;TA03;E&P notes
+O1242;X;TA02;Heat exchanger condition monitoring via simulation-based inference
+O1243;X;TA03;Multimodal LLMs for smart grids review
+O1244;X;TA03;Robotic material interface monograph
+O1245;X;TA03;Fusion tritium monograph
+O1246;X;TA01;Mine geological drone mapping
+O1247;X;TA03;Heat exchanger creep-fatigue assessment (title only)
+O1248;X;TA03;Generative AI sensor fusion digital twins essay
+O1249;X;TA03;Loss prevention proceedings
+O1250;X;TA05;Deep RL one-shot classification in expert-aided systems (title only; no inspection reliability signalled)

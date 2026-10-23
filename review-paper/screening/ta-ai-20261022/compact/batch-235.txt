@@ -1,0 +1,50 @@
+O2001;X;TA02;Marine diesel engine thermal/performance dataset; non-visual
+O2002;X;TA01;Security-event detection in surveillance imagery review (note 7)
+O2003;X;TA05;Oriented-structure attention for structural damage detection; accuracy-oriented
+O2004;X;TA01;Outside asset-inspection context: food grading review (title only)
+O2005;F;;PV fault diagnosis targeting poor cross-domain generalisation via diffusion-derived attention (R3)
+O2006;X;TA01;Non-scholarly hardware white paper; no inspection context
+O2007;X;TA02;Domain-adaptive transfer learning for fleet fault diagnosis; non-visual
+O2008;F;;Closed-loop manufacturing vision framework including distribution-shift detection (R3); verify empirical evaluation
+O2009;X;TA04;Editorial (ML for cybersecurity)
+O2010;F;;Single-source domain generalisation for PV inspection under environment and altitude shift (R3)
+O2011;F;;Adaptive CNN for visual inspection under evolving data distributions (R3)
+O2012;X;TA04;Conference call for papers
+O2013;X;TA01;Post-earthquake SAR building damage assessment; not asset inspection
+O2014;X;TA01;Side-scan sonar seafloor target dataset; not asset inspection
+O2015;X;TA01;Medical-only brain tumour analysis
+O2016;X;TA02;Acoustic engine fault diagnosis via dot patterns; non-optical signal representation
+O2017;X;TA01;Medical-only dental crack dataset
+O2018;X;TA01;Underwater animal detection; not asset inspection
+O2019;X;TA05;Deep learning microstructure/damage identification in CMCs; no reliability signalled (title only)
+O2020;F;;Grid-inspection robot architecture addressing sensor drift and adversarial visual camouflage with CLIP anomaly detection (R3/R6); verify empirical content
+O2021;X;TA05;Review of vegetation classification for power corridors; same-title record of O1994 (note 6)
+O2022;X;TA01;Seismic reverse-time migration; not asset inspection
+O2023;X;TA05;Multi-sensor fusion for FDM process monitoring; no sensor-failure or reliability signalled (title only)
+O2024;X;TA01;Pharmaceutical formulation content detection; not asset inspection
+O2025;F;;Trustworthy aerial power-line segmentation with reliability monitoring (R1/R2/R3)
+O2026;X;TA02;VLM-guided source-free cross-domain mechanical fault diagnosis; non-visual signals
+O2027;X;TA05;Real-world material and surface-condition image dataset; no reliability framing (title only)
+O2028;X;TA01;Silent data corruption in UAV robot software; not inspection model reliability
+O2029;X;TA01;Traffic sign classification (note 7)
+O2030;X;TA01;Outside asset-inspection context: fruit quality fusion review
+O2031;X;TA01;Synthetic background-bias dataset; no inspection context
+O2032;X;TA01;Generic cross-domain visual transfer benchmark; no inspection context
+O2033;X;TA02;LLM anomaly detection in energy management system data; non-visual
+O2034;X;TA01;Baggage X-ray security inspection domain gaps; not asset inspection (title only)
+O2035;F;;Federated road damage detection across countries with cross-test stability under heterogeneity (R3)
+O2036;F;;OOD detection for diffusion-based sparse-view CT reconstruction in clinical and industrial use, addressing hallucination (R3/R7)
+O2037;F;;Sim-to-real adaptation for multi-task road defect analysis (R3)
+O2038;X;TA01;E-commerce image-text retrieval
+O2039;X;TA01;Outside asset-inspection context: potato leaf disease open-set recognition
+O2040;F;;Domain-generalised solar cell defect segmentation across production lines (R3)
+O2041;X;TA02;Capacitance-signal flow regime classification with OOD tests; non-visual
+O2042;X;TA01;Neural image compression robustness; no inspection context
+O2043;X;TA01;Digital pathology slide metadata extraction
+O2044;X;TA05;Crack matting for fractional occupancy; no reliability signalled (title only)
+O2045;X;TA05;YOLOv8 X-ray tire defect detection; accuracy-oriented
+O2046;X;TA02;Open-set partial-discharge diagnosis from PD signals; non-visual (consistent with O1556)
+O2047;X;TA02;Variable-load fault diagnosis; non-visual (title only)
+O2048;F;;Physics-constrained style transfer for underwater concrete crack segmentation (R3); verify (title only, consistent with O1614)
+O2049;X;TA05;DefectAtlas-20 dataset; same-title record of O2027 (note 6)
+O2050;X;TA01;Disaster damage assessment pipeline; not asset inspection

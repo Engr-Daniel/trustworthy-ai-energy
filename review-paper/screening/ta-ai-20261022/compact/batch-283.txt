@@ -1,0 +1,50 @@
+O4401;X;TA05;Robust adaptive feature matching few-shot AD (title only)
+O4402;X;TA05;Cognition-inspired surface inspection pipeline; robustness claimed without shift evaluation
+O4403;X;TA05;Structure-guided diffusion catenary defect detection; false-detection reduction, accuracy-oriented
+O4404;X;TA05;Semi-supervised robust anomaly detection dissertation; reliability dimension unclear
+O4405;X;TA01;Graph anomaly detection
+O4406;F;;Subjective-logic conflict-aware evidence fusion for knitting machine panel monitoring under reflection and low light (R1); verify learned model
+O4407;X;TA01;Generic multi-label classification (title only)
+O4408;X;TA03;Industrial image watermarking
+O4409;X;TA05;Weakly supervised surface defect segmentation (title only)
+O4410;X;TA05;End-of-life object detection for disassembly (title only)
+O4411;F;;Factorised sensitivity analysis of zero-shot CLIP AD robustness to lighting and camera-noise variations (R3/R8)
+O4412;X;TA05;Physics-prior container damage detection; false-positive reduction, accuracy-oriented
+O4413;X;TA01;Generic continual robust object detection (title only)
+O4414;F;;Noise-robust industrial anomaly detection via clean-noisy mixup (R4) (title only)
+O4415;X;TA05;Noise-robust OIS module defect classification; preprocessing, no reliability evaluation
+O4416;X;TA02;Cobot collision detection from signals; non-visual
+O4417;X;TA05;Domain-robust anomaly synthesis for aero-engine blades; data generation (title only)
+O4418;X;TA05;Encoder fine-tuning for bearing ring anomaly detection (title only)
+O4419;X;TA01;Diffusion models for visual analysis survey
+O4420;X;TA02;Ultrasonic C-scan chip anomaly benchmark; imaging NDT without reliability method (note 12)
+O4421;X;TA05;Diffusion-augmented IAD fusion; accuracy-oriented
+O4422;X;TA01;Change captioning benchmark (title only)
+O4423;X;TA05;Distributed collaborative defect detection (title only)
+O4424;X;TA01;Autonomous racing data filtering
+O4425;X;TA05;LSTM-KL autoencoder anomaly detection
+O4426;X;TA05;Dual-prototype metal anomaly detection (title only)
+O4427;X;TA05;SAM-guided lightweight anomaly detection
+O4428;X;TA01;Sim-to-real low-altitude UAV vision; not inspection-specific
+O4429;F;;Texture defect detection acknowledging common labelling errors in industrial data (R4); verify
+O4430;F;;SMD defect segmentation robust to placement and batch-induced distribution shift (R3)
+O4431;X;TA05;Semantic-distance anomaly detection (title only)
+O4432;X;TA02;Finishing mill process anomaly detection; non-visual (title only)
+O4433;B;;Fishyscapes benchmark for pixel-wise uncertainty and anomaly detection; foundational OOD-segmentation benchmark background (R1/R8)
+O4434;F;;Clever Hans effect in anomaly detection revealed by XAI (R8 shortcut); verify industrial evaluation (consistent with O2052)
+O4435;X;TA05;Contrastive fine-tuning few-shot AD
+O4436;X;TA05;Diffusion anomaly detection on laser chips
+O4437;B;;Combined anomalous object segmentation benchmark; foundational OOD benchmark background (R8)
+O4438;F;;Domain-generalised textured surface anomaly detection (R3)
+O4439;X;TA05;Self-supervised multi-scale Gaussian anomaly localisation
+O4440;F;;Heterogeneous car-defect and multi-country road AD datasets challenging unsupervised methods (R8)
+O4441;X;TA05;Student-teacher anomaly detection; foundational method without reliability dimension
+O4442;X;TA05;Dynamic anomaly detection enhancement framework
+O4443;X;TA05;Fabric anomaly detection automation
+O4444;X;TA05;Diffusion defect image generation
+O4445;X;TA05;YOLO substation defect detection
+O4446;X;TA05;Laptop surface defect dataset
+O4447;X;TA05;Load station inspection under limited data
+O4448;X;TA05;Training-free logical and structural AD with foundation models
+O4449;X;TA05;Dual subspace re-projection AD (title only)
+O4450;X;TA05;Spatial contrastive anomaly localisation

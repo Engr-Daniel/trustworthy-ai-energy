@@ -1,0 +1,40 @@
+O0061;B;;Review of in-line computer-vision inspection treating detection uncertainty as a process signal; core-context review
+O0062;X;TA05;Zero-shot geometric cable-cabinet anomaly detection; accuracy/FNR only
+O0063;B;;Historical: fuzzy and Dempster-Shafer uncertainty techniques for web-inspection defect classification (1998); knowledge-based, lineage of uncertainty handling (note 11)
+O0064;X;TA05;YOLOv8 transmission-line defects; accuracy
+O0065;F;;Uncertainty-aware unsupervised PCB defect detection outputting defect uncertainty (R1)
+O0066;F;;Confidence learning to filter label noise in uncertain industrial defect images (R4)
+O0067;X;TA05;Monocular-depth pseudo point clouds for weld defects; accuracy
+O0068;X;TA05;URA-Net preprint version; internal Bayesian module for accuracy (note 8)
+O0069;X;TA05;URA-Net preprint version; internal Bayesian module for accuracy (note 8)
+O0070;B;;Review of vision-based defect detection for reinforced concrete bridges; core-context review
+O0071;B;;Review of AI/physics-informed ML in additive manufacturing incl. sensor uncertainty, UQ and transferability; background review
+O0072;X;TA05;Vision-based CPS fault detection (title only)
+O0073;X;TA05;Partial feature distillation anomaly detection (title only)
+O0074;X;TA05;Multi-class anomaly detection with traceable defect-area measurement; accuracy-oriented
+O0075;F;;Few-shot inspection classification under domain shift with Dirichlet/temperature confidence calibration (R1/R3)
+O0076;X;TA05;Uncertainty-based similarity validation used internally for few-shot adaptation (note 8)
+O0077;X;TA05;Zero-shot CLIP ensemble manufacturing AD (title only)
+O0078;X;TA05;YOLOv7 infrared substation fault detection; accuracy/speed
+O0079;F;;Bayesian CNN-ViT crack severity classification with Monte Carlo dropout predictive uncertainty (R1)
+O0080;F;;Version of O0079; predictive uncertainty for crack severity (R1)
+O0081;X;TA05;Ensemble CNN for PV visual faults; accuracy
+O0082;B;;Adjacent non-visual: feature-specific probabilistic sizing error of pipeline ILI MFL defects with CNN (pipeline integrity uncertainty, R1)
+O0083;F;;Physics-guided evidential multimodal uncertainty for welding defects with magneto-optical and infrared imaging (R1/R6) (title only)
+O0084;F;;Trustworthy interpretable deep learning for vision-enabled pipeline monitoring (title only)
+O0085;F;;Uncertainty quantification for corrosion/erosion detection (R1); modality to verify (title only)
+O0086;B;;Comprehensive review of computer vision in additive manufacturing; core-context review (title only)
+O0087;X;TA05;Vision casting defect detection (title only)
+O0088;X;TA05;Improved YOLOX on ultrasonic wheel B-scans; accuracy
+O0089;F;;Catenary defect detection with uncertainty-based unreliability index triggering human annotation and retraining under distribution shift (R1/R3/R5)
+O0090;X;TA05;Weld ROI localisation and Faster R-CNN (title only)
+O0091;F;;Ordinal CNN weld crack grading with measured calibration (ECE) and confidence-gated screening (R1/R2)
+O0092;X;TA02;AI corrosion-model UQ for cladding; no image inspection (title only)
+O0093;X;TA05;Version of O0035 (title only)
+O0094;X;TA05;Uncertainty module used internally to guide decoder for accuracy (note 8)
+O0095;X;TA01;Surveillance video anomaly classification
+O0096;F;;PCB defect detection explicitly handling image uncertainty (lighting, transmission) and label uncertainty (R3/R4)
+O0097;X;TA05;Wind turbine presence classification for drone navigation; not defect reliability
+O0098;B;;Systematic review of deep 2D/3D image defect detection in additive manufacturing incl. cross-domain generalisation gaps; core-context review
+O0099;X;TA05;Version of O0040 (title only)
+O0100;X;TA05;Drone YOLO solar damage detection; accuracy/FP/FN only

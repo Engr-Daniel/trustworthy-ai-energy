@@ -1,0 +1,50 @@
+O4601;X;TA05;Structural-textural distillation AD
+O4602;X;TA05;Lightweight multi-domain defect detection (title only)
+O4603;X;TA01;Medical-only retinal AD
+O4604;X;TA05;Dual-consistency zero-shot AD; accuracy-oriented
+O4605;X;TA05;Multi-granularity attention defect detection
+O4606;X;TA05;Feature adaptation from pretrained to target data; representation adaptation, not deployment shift (note 2)
+O4607;F;;Verifiable industrial AD via multimodal in-context learning (R7); verify grounding meaning (title only, note 4)
+O4608;X;TA05;Pavement crack diffusion segmentation (title only)
+O4609;X;TA05;CutPaste; foundational method without reliability dimension
+O4610;F;;Confident learning for mislabelled and imbalanced industrial defect data (R4)
+O4611;X;TA05;GAN feature-extraction AD
+O4612;X;TA05;Few-shot anomaly image-mask synthesis
+O4613;X;TA05;Reverse distillation segmentation AD
+O4614;X;TA05;Insulator defect diffusion distillation; accuracy-oriented
+O4615;X;TA01;Laboratory liquid-transfer video anomalies
+O4616;X;TA05;Painted metal parts dataset with synthetic anomalies
+O4617;X;TA05;Wire rope breakage AD; robustness claimed without shift evaluation
+O4618;X;TA05;Bi-grid reconstruction AD
+O4619;X;TA05;Graph VLM IAD; domain adaptability claimed, accuracy-oriented
+O4620;X;TA05;Dual-branch flow AD
+O4621;F;;HSS-IAD dataset questioning real-world validity of multi-class AD benchmarks (R8)
+O4622;F;;Explainable AI heatmaps improving human performance in visual inspection collaboration (R5)
+O4623;X;TA01;Video anomaly detection (note 7)
+O4624;F;;Pixel-level visual AD in continual learning under input distribution change over time (R3) (consistent with O4465)
+O4625;X;TA05;Multi-view normalizing flows AD
+O4626;X;TA05;Large-model rail surface defect detection; generalisation claimed, accuracy-oriented
+O4627;X;TA01;Radio astronomy interference detection
+O4628;X;TA01;Medical-only brain AD
+O4629;X;TA05;Logical anomaly generation
+O4630;X;TA05;Zero-shot anomaly localisation with CLIP
+O4631;X;TA05;Distillation real-time AD
+O4632;X;TA05;Anomaly-aware CLIP
+O4633;X;TA05;In-context anomaly segmentation (title only)
+O4634;X;TA05;Reconstruction loss amplification training
+O4635;X;TA05;Infrared object AD; accuracy-oriented
+O4636;X;TA05;Crossed-mask reconstruction AD (title only)
+O4637;X;TA05;Multilevel reconstruction anomaly segmentation
+O4638;X;TA05;Centroid optimisation AD with feature adapter
+O4639;X;TA05;Physics-based defect generation for few-shot detection; data generation
+O4640;X;TA01;Medical-only zero-shot AD
+O4641;X;TA05;Registration attention few-shot AD
+O4642;X;TA05;Fabric defect GAN synthesis (title only)
+O4643;X;TA05;Lie-group compressed sensing AD (title only)
+O4644;X;TA05;Dual-attention flow AD
+O4645;X;TA05;Fast patch memory AD; efficiency
+O4646;X;TA05;Printed fabric UNet segmentation
+O4647;X;TA05;Industrial process video AD dataset; no reliability framing
+O4648;X;TA05;Vision-text fusion few-shot AD
+O4649;X;TA05;Lightweight 3D student-teacher AD
+O4650;X;TA01;Medical-only GAN AD

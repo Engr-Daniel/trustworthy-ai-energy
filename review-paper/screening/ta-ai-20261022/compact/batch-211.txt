@@ -1,0 +1,50 @@
+O0801;X;TA05;YOLOv8+SAM structural damage segmentation (title only)
+O0802;X;TA01;Invasive weed UAV monitoring
+O0803;B;;Chapter on certifying vision systems in safety-critical domains incl. infrastructure inspection: calibration, OOD detection, graceful degradation; framing background
+O0804;X;TA03;Pipeline integrity decision-support platform; no image AI evidence
+O0805;X;TA03;Nanomaterials monograph
+O0806;X;TA03;3D scanner measurement procedure dissertation; no learned inspection model
+O0807;X;TA03;Composite curing defect simulation-ML; not inspection
+O0808;X;TA01;Generic autoencoder uncertainty/OOD method; no inspection context (title/abstract)
+O0809;X;TA01;Surgical video
+O0810;X;TA01;AI equity commentary
+O0811;X;TA01;Radiomics XAI review
+O0812;X;TA02;XLPE cable ageing BNN on condition data; non-image
+O0813;X;TA01;Hydraulic fracture propagation proxy
+O0814;X;TA01;Wildfire satellite detection
+O0815;X;TA02;Pavement temperature prediction
+O0816;X;TA02;Bearing vibration domain adaptation
+O0817;X;TA03;Perspective on language models for AM printability; no empirical inspection evaluation
+O0818;X;TA02;Tool-wear prediction from sensor data with Bayesian uncertainty
+O0819;X;TA01;STEM microscopy automation
+O0820;X;TA01;Education editorial
+O0821;X;TA01;Medical MS lesion segmentation review
+O0822;F;;Insulator hydrophobicity classification addressing IEC visual-method measurement uncertainty, evaluated on independent images across climate zones and service ages (R1/R3/R8)
+O0823;X;TA01;Medical regenerative medicine
+O0824;X;TA01;Seismic wavefield imaging
+O0825;X;TA01;Astronomical transient detection
+O0826;X;TA05;Active learning sampling for AM warping detection (note 8) (title only)
+O0827;F;;Deep Bayesian active learning with human-in-the-loop for steel surface classification (R1/R5; verify beyond note 8) (title only)
+O0828;B;;Critical review of UAV photogrammetry crack detection incl. calibration and uncertainty; core-context review
+O0829;X;TA03;Literature list (PV survey)
+O0830;X;TA01;Military supply chain SAR
+O0831;X;TA01;Embryo time-lapse analysis
+O0832;X;TA02;Pavement deformation prediction
+O0833;B;;Systematic-review-based roadmap for deploying AI machine vision in industrial inspection; implementation background
+O0834;X;TA01;Blood agglutination dataset
+O0835;X;TA03;1990 associative memory (title only)
+O0836;F;;RGB-point cloud railway foreign-object segmentation converting local uncertainty into modality reliability scores (R6/R1)
+O0837;X;TA03;Alloy constitutive analysis (title only)
+O0838;X;TA01;Collider physics
+O0839;X;TA01;Fetal ultrasound
+O0840;X;TA03;AM digital twin neural operator
+O0841;F;;Deep Bayesian U-Nets with MC-dropout uncertainty for post-disaster structural damage localisation (R1); infrastructure inspection
+O0842;X;TA01;Prenatal genomics
+O0843;X;TA03;Active learning review broadly
+O0844;X;TA03;Pipeline integrity HPC platform report; not image AI evidence
+O0845;B;;Inspection science as a discipline for materials futures (title only); framing background
+O0846;X;TA01;CO2 storage stress characterisation
+O0847;X;TA03;Literature list (PV survey)
+O0848;X;TA05;AUV subsea cable following with simulated misdetection rates; robustness of navigation not inspection-model reliability
+O0849;X;TA02;Transformer state assessment from monitoring data
+O0850;X;TA03;Probabilistic life-cycle assessment of corroded RC structures; not inspection AI reliability

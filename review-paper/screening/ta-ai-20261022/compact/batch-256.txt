@@ -1,0 +1,50 @@
+O3051;B;;Review of UAV transmission-line inspection methods and challenges; core-context (energy) review
+O3052;X;TA02;Review of defect detection for rotating machines (title only)
+O3053;X;TA02;Survey of PV fault diagnosis techniques; mainly electrical (title only)
+O3054;B;;Systematic review of vision-based inspection of transparent and reflective parts; core-context review
+O3055;X;TA02;Review of FDM thermal prediction models; non-visual
+O3056;X;TA05;Review of surrogate ML for composite manufacturing control
+O3057;X;TA02;Review of AI bearing condition monitoring; non-visual
+O3058;B;;Review of flexible LCD panel defect inspection addressing generalisation; core-context review
+O3059;B;;Review of vision-based defect detection on highly reflective metal surfaces; core-context review
+O3060;X;TA01;Video surveillance anomaly detection survey (note 7)
+O3061;X;TA03;SLM Inconel 718 microstructure review (title only)
+O3062;B;;Review of AI fault diagnosis and predictive maintenance in solar panels; core-context (energy) review
+O3063;B;;Review of image-based PV fault diagnosis algorithms; core-context (energy) review
+O3064;X;TA03;PV module degradation reliability review; not AI inspection
+O3065;X;TA01;Bean seed quality review
+O3066;X;TA01;Medical imaging AI mini-review
+O3067;X;TA02;Review of ML for PV degradation from operational data; non-visual
+O3068;X;TA02;Review of ANN modelling of PV/thermal systems; non-visual
+O3069;B;;Review of on-line monitoring and defect detection in robotic arc welding; core-context review (title only)
+O3070;B;;Review of multimodal AI vision for plastic inspection and sorting; core-context review
+O3071;B;;Review of thermal vision for fault diagnosis in electrical equipment; core-context (energy) review (title only)
+O3072;X;TA01;Neonatal jaundice review
+O3073;X;TA05;Review of AI in smart manufacturing; not inspection-reliability focused
+O3074;B;;Review of YOLO-based visual inspection in smart manufacturing; core-context review
+O3075;X;TA02;Review of wayside railway wheel condition monitoring; mainly non-visual
+O3076;B;;Review of quality control and inspection strategies in aerospace; core-context review
+O3077;B;;Survey of PV panel overlay and fault detection methods; core-context (energy) review
+O3078;B;;Survey of machine-vision quality inspection incl. robustness, explainability and unknown defects; core-context review
+O3079;B;;Review of generative AI in industrial machine vision; core-context review
+O3080;B;;Systematic review of UAV power-line perception under adverse conditions and sensor constraints; core-context (energy) review
+O3081;X;TA03;Aerospace welding mechanisms review (title only)
+O3082;X;TA05;Review of AI monitoring for floating solar plants; not visual-inspection focused
+O3083;X;TA01;Isolation-based anomaly detection survey
+O3084;B;;Review of AI-assisted X-ray NDT of welding joints; core-context review
+O3085;B;;Review of battery shell surface defect detection; core-context review
+O3086;X;TA03;PV corrosion degradation survey
+O3087;X;TA05;ML and digital twin in DED review (title only)
+O3088;B;;Survey of object detection for industrial quality control; core-context review
+O3089;B;;Review of AI concrete crack detection and width estimation; core-context review
+O3090;B;;AI-assisted NDT of welding joints review; same-title record of O3084 (note 6)
+O3091;X;TA05;Review of soft-material AM defects and control
+O3092;X;TA05;Review of in-situ X-ray imaging and ML in ultrasonic-assisted AM
+O3093;B;;Review of UAS multi-sensor corrosion detection; core-context review (title only)
+O3094;B;;Review of AI in nuclear power inspection and operation; core-context (energy) review
+O3095;X;TA05;TinyML maintenance review
+O3096;X;TA01;Generic diffusion anomaly detection survey
+O3097;X;TA02;ICS security deep learning survey
+O3098;X;TA05;Steel belt elevator patent and damage detection review
+O3099;X;TA01;Plant leaf disease review
+O3100;B;;Review of data-centric deep learning defect detection in composites; core-context review (title only)

@@ -90,3 +90,56 @@ Before publication complete subject-database searches, screening, version linkag
 
 ## Dated operational amendment - 14 October 2026
 Daniel confirmed primary human screening by Daniel with a documented secondary audit. The auditor and audit coverage remain pending. No independent dual screening is claimed. A pending calibration template and provenance validator are now available; see docs/screening-workflow.md. Retrieval, human assessment, audit and synthesis admission remain separate states. These maintenance changes do not finalise eligibility rules or retrospectively register the protocol; all actual decisions remain pending.
+
+## Dated amendment - protocol version 0.4, 16 October 2026
+Recorded after Daniel's instruction of 16 October 2026 to run the remaining review pipeline. Earlier sections remain as the v0.3 record; where they conflict, this amendment governs work dated 16 October 2026 onward. The protocol is still not registered and is not described as preregistered.
+
+### Screening arrangement (supersedes the v0.3 reviewer arrangement for new records)
+- Daniel assessed the 20 calibration records and judged all of them as passing title/abstract (human assessment, recorded 2026-10-16).
+- Daniel delegated subsequent screening and eligibility judgment to an AI assistant (Claude, Anthropic) operating under this protocol. He asked that every decision carry a defensible, scientific rationale. Records lacking defensible rationale may be removed, and recall of useful existing work is prioritised.
+- AI-assisted decisions are recorded with Review Basis "AI-assisted under human delegation". Where the assistant refined Daniel's calibration judgment, the basis is "Human assessment with AI-assisted resolution" and the change is logged in TA Decision R2 and Adjudicator.
+- This arrangement is single-reviewer, AI-assisted screening with human delegation. It is not independent dual human review and must be reported that way. Before submission, Daniel (or a named second human) verifies a documented sample: all full-text inclusions and a random 10% sample of title/abstract exclusions, with agreement reported.
+- Synthesis admission before that audit is labelled "Provisional - audit pending".
+
+### Eligibility (refines the v0.3 criteria; applies at title/abstract and full text)
+Core evidence set (TA "Retrieve full text"; FT "Include"). All four conditions are required:
+1. Context: industrial, energy or infrastructure assets, or manufactured products. Adjacent transferable infrastructure (bridges, tunnels, rail, aero-engines) is labelled as adjacent.
+2. Evidence modality: image-based sensing (RGB, thermal/infrared, multispectral/hyperspectral, X-ray/radiographic images, depth/point cloud, video, or a multimodal combination including imagery).
+3. AI component: a learned or data-driven model performing an inspection task (detection, segmentation, classification, anomaly detection, measurement, description).
+4. Reliability dimension: the study proposes, evaluates or benchmarks at least one of R1 uncertainty quantification, confidence or calibration; R2 selective prediction, abstention, rejection, risk-controlled or conformal decisions; R3 distribution shift, domain adaptation or generalisation, OOD, open-set, or robustness to acquisition or corruption variation; R4 label noise or annotation reliability; R5 human-in-the-loop, referral or human-AI decision processes; R6 multimodal or sensor failure, missing modality or sensor degradation; R7 grounded or evidence-linked outputs, including vision-language hallucination; R8 evaluation validity (dataset realism, saturation, leakage, benchmark design for realistic conditions).
+
+Background/supporting set (TA/FT "Background/supporting"). These are charted separately and are not counted as core evidence:
+- Reviews and surveys. They are used for framing, overlap and novelty assessment.
+- Methodology and reporting guidance.
+- Foundational benchmarks or methods for visual industrial inspection that lack a reliability dimension but form the substrate of reliability evaluations (e.g. a benchmark used by many included studies).
+- Adjacent non-visual studies, admitted only with an explicit rationale that they contribute a transferable reliability method or comparative evidence for an industrial inspection or condition-monitoring task (e.g. conformal or open-set fault diagnosis on process signals). They are never counted as visual evidence. Non-visual records without such a contribution are excluded.
+
+Exclusion reasons add TA05 / FT06, "No reliability dimension proposed or evaluated (accuracy-only visual inspection)". A study whose reliability claim is only a generic statement (e.g. "the method is robust") without a corresponding design or evaluation meets FT06 at full text. Uncertain records go to full text rather than being excluded.
+
+### Information sources (adds to v0.3)
+Scopus, Web of Science and IEEE Xplore exports are not accessible in this project. OpenAlex (which indexes Crossref, arXiv, PubMed, institutional repositories and publisher metadata) is used as the primary multidisciplinary subject index, through Boolean title/abstract searches recorded in search-strategy/openalex-queries.json.
+Because OpenAlex lacks abstracts for some publisher records, a title-only family (OA-T) restricted to records without abstracts complements the title/abstract families. The v0.3 Crossref pilot and seed records remain identification sources.
+Search development is reported: run OPENALEX-20261016-01 failed (cursor pagination HTTP 401); run -02 completed with v0.4-draft blocks, but known-item testing showed missed core records, so the blocks were revised (see revision_note); run -03 failed (rate limit). The definitive run is the first completed run after -03.
+Backward and forward citation tracing (OpenAlex referenced_works / cites) of core included studies supplements the database searches. Its scope is reported.
+The access limitation (no Scopus/WoS/IEEE Xplore) is reported as a limitation.
+
+### Charting and synthesis
+The codebook axes from taxonomy-codebook-draft.md, R1-R8 above and the evidence-matrix fields are charted per core study from the full text, or from the abstract where the full text is not retrievable. Charting depth is recorded. The AI assistant performs charting under the same delegation; evidence locators are mandatory and unverified fields remain "Not reported" / "Not extracted" as defined in v0.3.
+
+## Dated amendment - protocol version 0.5, 22 October 2026
+Recorded when title/abstract screening was completed and the full-text stage began. The v0.4 amendment remains in force except where refined here.
+
+### Title/abstract screening outcome
+All 5,585 deduplicated report records were screened under the v0.4 delegation (AI-assisted single-reviewer screening; 2026-10-16 to 2026-10-22): 785 retrieve full text, 2 unclear (sent to full text), 406 background/supporting and 4,392 excluded (TA05 1,574; TA01 1,355; TA03 684; TA02 614; TA04 165). Consistency rules adopted while screening are dated in screening/ta-ai-20261022/screening-notes.md. Recodings are appended as later packets; earlier packets are kept.
+
+### Version linkage
+The 209 same-title candidates were compared on author lists (order-insensitive name tokens), year, record type, venue and identifiers (scripts/verify_version_linkage.py; corpus/version-linkage-verification.csv). Verified links (same authors, or a seed record without identifiers and an identical full title) define Study IDs in corpus/study-linkage.csv. Distinct works sharing a title, spurious candidates (non-Latin or empty titles) and pairs with insufficient metadata are not linked. Report records and identification events are not merged or deleted. Where reports of one study received different title/abstract decisions, the conflict is resolved at full text.
+
+### Full-text retrieval and eligibility
+- Retrieval uses open-access copies only: OpenAlex open-access locations recorded in the search responses, an OpenAlex DOI lookup for records without OpenAlex data, and arXiv versions found by exact normalised-title search. No subscription or unofficial sources are used. Every attempt is logged with URL, HTTP status and SHA256 (fulltext/retrieval-log.csv). Downloaded texts stay local; their hashes are recorded.
+- Eligibility is decided per study, on the most complete retrieved report. Other reports of the same study are coded FT04. The version used (published, preprint, thesis) is recorded and evidence is labelled with it.
+- The full-text reader examines the abstract, stated contributions, method, experimental setup and results. A keyword index of context, modality and R1-R8 terms is used only to locate passages; decisions cite page locators and apply the v0.4 criteria with FT01-FT06.
+- Reports not retrieved after documented attempts are coded NR01 and appear as "reports not retrieved" in the PRISMA-ScR flow. Where the abstract supports eligibility, the study is charted from the abstract in a separately reported abstract-level tier and is never pooled with full-text-verified evidence.
+
+### Charting and synthesis (22-23 October 2026)
+The charting form (charting/charting-form.md) was piloted on ten studies spanning R1-R8, contexts and maturity levels (P01, P03, O1681, O4622, O2744, O3405, O0289, O4586, O1531, O2299) and revised to v0.2. The pilot rows were recoded to v0.2. All 157 included studies were charted from full text (charting/charting.csv). Synthesis is descriptive (multi-label counts, maturity, decision variables) and narrative with attribution; no quality score is assigned. Figures, count macros, tables and the bibliography are produced by scripts from the records, so they can be regenerated after any change.

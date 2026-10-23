@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/uWCpEcjkcqqrSK1SlK2eD6Dhxtc</id>
+  <title>arXiv Query: search_query=ti:"Robust Anomaly Detection in Industrial Environments via Meta-Learning"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:24:37Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Robust+Anomaly+Detection+in+Industrial+Environments+via+Meta-Learning%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2508.17789v1</id>
+    <title>Robust Anomaly Detection in Industrial Environments via Meta-Learning</title>
+    <updated>2025-08-25T08:35:28Z</updated>
+    <link href="https://arxiv.org/abs/2508.17789v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.17789v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Anomaly detection is fundamental for ensuring quality control and operational efficiency in industrial environments, yet conventional approaches face significant challenges when training data contains mislabeled samples-a common occurrence in real-world scenarios. This paper presents RAD, a robust anomaly detection framework that integrates Normalizing Flows with Model-Agnostic Meta-Learning to address the critical challenge of label noise in industrial settings. Our approach employs a bi-level optimization strategy where meta-learning enables rapid adaptation to varying noise conditions, while uncertainty quantification guides adaptive L2 regularization to maintain model stability. The framework incorporates multiscale feature processing through pretrained feature extractors and leverages the precise likelihood estimation capabilities of Normalizing Flows for robust anomaly scoring. Comprehensive evaluation on MVTec-AD and KSDD2 datasets demonstrates superior performance, achieving I-AUROC scores of 95.4% and 94.6% respectively under clean conditions, while maintaining robust detection capabilities above 86.8% and 92.1% even when 50% of training samples are mislabeled. The results highlight RAD's exceptional resilience to noisy training conditions and its ability to detect subtle anomalies across diverse industrial scenarios, making it a practical solution for real-world anomaly detection applications where perfect data curation is challenging.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-25T08:35:28Z</published>
+    <arxiv:comment>Accepted to VISION Workshop at ICCV 2025</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Muhammad Aqeel</name>
+    </author>
+    <author>
+      <name>Shakiba Sharifi</name>
+    </author>
+    <author>
+      <name>Marco Cristani</name>
+    </author>
+    <author>
+      <name>Francesco Setti</name>
+    </author>
+  </entry>
+</feed>

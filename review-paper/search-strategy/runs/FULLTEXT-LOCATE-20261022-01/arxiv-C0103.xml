@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/zrvpcEdiCdpzEeLxH/SYrK0Q8SI</id>
+  <title>arXiv Query: search_query=ti:"Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T13:52:41Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Self-Supervised+Iterative+Refinement+for+Anomaly+Detection+in+Industrial+Quality+Control%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2408.11561v2</id>
+    <title>Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control</title>
+    <updated>2025-03-03T15:04:03Z</updated>
+    <link href="https://arxiv.org/abs/2408.11561v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2408.11561v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This study introduces the Iterative Refinement Process (IRP), a robust anomaly detection methodology designed for high-stakes industrial quality control. The IRP enhances defect detection accuracy through a cyclic data refinement strategy, iteratively removing misleading data points to improve model performance and robustness. We validate the IRP's effectiveness using two benchmark datasets, Kolektor SDD2 (KSDD2) and MVTec AD, covering a wide range of industrial products and defect types. Our experimental results demonstrate that the IRP consistently outperforms traditional anomaly detection models, particularly in environments with high noise levels. This study highlights the IRP's potential to significantly enhance anomaly detection processes in industrial settings, effectively managing the challenges of sparse and noisy data.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-08-21T12:15:20Z</published>
+    <arxiv:comment>Accepted to VISAPP 2025</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <arxiv:journal_ref>In Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 2: VISAPP, ISBN 978-989-758-728-3, ISSN 2184-4321, pages 173-183 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Muhammad Aqeel</name>
+    </author>
+    <author>
+      <name>Shakiba Sharifi</name>
+    </author>
+    <author>
+      <name>Marco Cristani</name>
+    </author>
+    <author>
+      <name>Francesco Setti</name>
+    </author>
+    <arxiv:doi>10.5220/0013178100003912</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.5220/0013178100003912" title="doi"/>
+  </entry>
+</feed>

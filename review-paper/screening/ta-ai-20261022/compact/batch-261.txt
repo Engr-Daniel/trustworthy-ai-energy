@@ -1,0 +1,50 @@
+O3301;X;TA05;NDT for conveyor belt monitoring review (consistent with O3273)
+O3302;X;TA01;CCTV surveillance AI survey (title only)
+O3303;X;TA03;Natural circulation systems review (title only)
+O3304;X;TA05;AI in anchorage zone design and maintenance review
+O3305;X;TA03;Microwave NDE of composite coatings review
+O3306;X;TA03;Al/Mg joining review
+O3307;X;TA05;Saw-process sensing review
+O3308;X;TA01;Natural calamity early warning survey
+O3309;X;TA01;Land use review (title only)
+O3310;X;TA01;Level-crossing obstacle detection under adverse weather survey; not asset inspection
+O3311;X;TA01;Grain seed quality review
+O3312;X;TA03;TSV metrology review
+O3313;X;TA02;AI for power electronic system maintenance survey; non-visual
+O3314;X;TA05;Embodied intelligence in power grids review (title only)
+O3315;X;TA04;Special-issue introduction (1987)
+O3316;X;TA03;Metal spinning review
+O3317;X;TA01;OCR in robotics review
+O3318;X;TA05;Right-of-way encroachment geospatial review; not asset-defect reliability
+O3319;X;TA05;Cutting sensors review
+O3320;X;TA01;Soil and fruit disease survey
+O3321;X;TA01;Aquaculture multimodal review (title only)
+O3322;X;TA01;Tofu quality review
+O3323;X;TA01;Produce rot diagnostics review (title only)
+O3324;X;TA01;Disaster response photogrammetry survey
+O3325;X;TA03;NDT in structural engineering review; no AI focus
+O3326;X;TA03;Pavement condition index practices survey; no learned model
+O3327;X;TA05;Right-of-way encroachment review; same-title record of O3318 (note 6)
+O3328;X;TA02;BLDC motor fault detection review; non-visual
+O3329;X;TA01;Galaxy simulation dataset
+O3330;X;TA05;SHM of aging buildings review; not visual-inspection reliability
+O3331;X;TA01;Small satellite energy management review
+O3332;X;TA03;Lubrication solvents review
+O3333;X;TA02;Fuel cell diagnosis review; non-visual
+O3334;X;TA03;Highway culvert flooding review
+O3335;X;TA01;Fruit disease decision support review
+O3336;X;TA03;Ammonia engines review (title only)
+O3337;X;TA03;CFRP hydrothermal ageing review
+O3338;X;TA01;Pesticide residue spectral review
+O3339;X;TA03;Hybrid bonding review
+O3340;X;TA02;Digital twins for inverter health review; non-visual
+O3341;X;TA01;SoC test scheduling survey
+O3342;X;TA02;Induction motor IoT monitoring review; non-visual
+O3343;X;TA03;Pavement performance prediction review
+O3344;X;TA02;Induction motor IoT monitoring review; same-title record (note 6)
+O3345;X;TA02;Induction motor IoT monitoring review; same-title record (note 6)
+O3346;X;TA01;Textile fibre spectroscopy review
+O3347;X;TA01;Generative AI urban disaster management
+O3348;X;TA01;Food freshness NIR review
+O3349;X;TA03;NDT in bioenergy review
+O3350;X;TA02;EIS for EV batteries review

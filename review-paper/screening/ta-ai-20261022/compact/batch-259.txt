@@ -1,0 +1,50 @@
+O3201;X;TA05;PINNs for semiconductor film deposition review; process modelling
+O3202;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3203;X;TA03;Corrosion inhibitor optimisation review
+O3204;X;TA01;Generic object recognition comparison (title only)
+O3205;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3206;X;TA05;Comparative review of induction motor fault diagnosis; mainly non-visual
+O3207;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3208;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3209;X;TA03;PV module degradation review
+O3210;B;;Review of YOLO-based real-time concrete crack detection; core-context review
+O3211;X;TA03;Graphene coatings review (title only)
+O3212;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3213;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3214;B;;YOLO review for electronic component defect detection; journal version of O3108 (note 13)
+O3215;X;TA05;BIM and AI metal component modelling review
+O3216;X;TA01;Dimensionality reduction review
+O3217;X;TA03;Diesel piston fatigue review
+O3218;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3219;B;;Review of indoor-to-daylight EL imaging for PV diagnostics incl. ambient interference and AI; core-context (energy) review
+O3220;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3221;B;;Review of AI real-time defect detection in 3D printing; core-context review
+O3222;X;TA01;Wheat disease review (title only)
+O3223;B;;Survey of crack detection and classification; core-context review (title only)
+O3224;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3225;X;TA01;Astronomy object detection
+O3226;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3227;X;TA01;Robotic vision review (1984)
+O3228;X;TA04;Journal literature-list paratext (Progress in Photovoltaics)
+O3229;X;TA05;Narrative review of real-time machine vision; not inspection-reliability focused
+O3230;X;TA02;Review of AI DC arc fault detection; non-visual
+O3231;X;TA05;Pipeline robot technology review
+O3232;X;TA01;UAV fire management survey
+O3233;X;TA01;WSN malicious node detection review
+O3234;B;;Review of deep-learning ultrasonic NDT for CFRP; adjacent imaging NDT background (note 12) (title only)
+O3235;X;TA01;Land dispute resolution (title only)
+O3236;X;TA02;Fault-tolerant control of process equipment review
+O3237;X;TA02;PV inverter temperature ML review; non-visual
+O3238;X;TA02;Electrical resistance tomography for concrete review; non-optical
+O3239;X;TA05;AI industrial robots survey
+O3240;B;;Review of rail corrugation inspection; core-context review (title only)
+O3241;B;;Review of YOLO-based pavement crack detection; core-context review
+O3242;X;TA03;Metal AM technologies review
+O3243;X;TA01;Medical hemorrhage detection (title only)
+O3244;X;TA01;Food integrity review
+O3245;X;TA01;Cervical cancer review
+O3246;B;;Survey of LiDAR-based road surface damage classification incl. fusion; core-context review
+O3247;X;TA02;Acoustic emission AM monitoring review; non-visual
+O3248;B;;Review of acoustic, optical gas imaging and multimodal pipeline leak detection; core-context (energy) review (R6 relevant)
+O3249;X;TA03;Underwater ghost imaging review (title only)
+O3250;X;TA02;WSN fault tolerance survey

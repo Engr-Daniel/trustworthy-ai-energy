@@ -1,0 +1,50 @@
+O1251;X;TA04;Preprint review (superconducting electronics)
+O1252;X;TA01;Clinical AI update triggers
+O1253;X;TA01;Outside asset-inspection context: Beyond Isolation: Modern Analytical and Computational Approaches to Unraveling Plant Metab
+O1254;X;TA01;UAV-UGV routing for field deployment
+O1255;X;TA01;Outside asset-inspection context: Iterative depth migration by backward time propagation
+O1256;X;TA01;Outside asset-inspection context: **"Multiscale Thermodynamic Framework for Predicting Solubility Limits in Binary Partial E
+O1257;X;TA03;Conference special issue editorial
+O1258;X;TA01;Outside asset-inspection context: Joint seismic and geodetic transdimensional earthquake source optimization guided by multi
+O1259;X;TA01;Outside asset-inspection context: Optimizing UAV performance with IoT and fuzzy linear fractional transportation models
+O1260;X;TA03;DRAM EPE metrology
+O1261;X;TA01;Outside asset-inspection context: Editorial: Achieving SDG 6: Remote Sensing Applications in Sustainable Water Management
+O1262;X;TA01;Aerial robot active perception thesis
+O1263;B;;Methodological bridge: thesis on fail-controlled classifier architectures rejecting suspected misclassifications under shift (R2); companion to O1157
+O1264;X;TA01;Outside asset-inspection context: Real Time Applications of Soft Computing Techniques
+O1265;X;TA01;Outside asset-inspection context: An Approach for Automatic Detection of InSAR Deformation Signals Associated with Wastewate
+O1266;X;TA01;Outside asset-inspection context: Tri-Co Robot: a Chinese robotic research initiative for enhanced robot interaction capabil
+O1267;X;TA01;Outside asset-inspection context: Editorial: Sustainability and environmental considerations in mining: from deep-sea to sol
+O1268;X;TA01;Outside asset-inspection context: Editorial: AI and data analytics for climate data management
+O1269;X;TA03;Photomask metrology thesis
+O1270;X;TA01;Outside asset-inspection context: Utility Scale Solar Power with Minimal Energy Storage
+O1271;X;TA01;Outside asset-inspection context: Computational Modeling, Challenges, and Future Directions of Self-Healing Basalt Fiber Com
+O1272;X;TA01;Outside asset-inspection context: District‐Level Climate Variability, Yield Resilience, and Risk Categorization of Sugarcane
+O1273;X;TA01;Outside asset-inspection context: AI-Enabled Real-Time fMRI for PTSD: A Translational Framework for Clinician-Supervised Bra
+O1274;X;TA01;Outside asset-inspection context: Parallel Computing Technologies: 4th International Conference, PaCT-97, Yaroslavl, Russia,
+O1275;X;TA04;Book index
+O1276;X;TA01;Outside asset-inspection context: Constraining fluid properties in the mantle and crust using Bayesian inversion of electrom
+O1277;X;TA03;Hot-rolled coil property estimation model
+O1278;X;TA01;Outside asset-inspection context: Editorial: Precision neuroimaging for MRgFUS in neurological disorders
+O1279;X;TA01;Outside asset-inspection context: Editorial
+O1280;X;TA01;Outside asset-inspection context: Structural Lock-In VI: Why the World Could Not Choose Otherwise
+O1281;X;TA01;Outside asset-inspection context: Clinical decision support system for precision diagnosis and treatment based on multimodal
+O1282;X;TA01;Outside asset-inspection context: Surrogate modelling for complex physical systems
+O1283;X;TA01;Outside asset-inspection context: Fuzzy logic : state of the art
+O1284;X;TA01;Outside asset-inspection context: Spatial modelling of seabed sediments in the Dutch North Sea with a Random Forest
+O1285;X;TA01;VLA monitoring essay (robotics)
+O1286;X;TA01;Outside asset-inspection context: Structural dynamic monitoring on Vega platform: an example of Industry and University coll
+O1287;X;TA01;Outside asset-inspection context: MOGNN-EC: A Multi-Objective Optimization Framework for Efficient Energy Management and Cha
+O1288;X;TA01;Outside asset-inspection context: Digital Platforms for Circular Modular Construction: Benefits, Barriers, and Practical Pat
+O1289;X;TA01;Outside asset-inspection context: Thermo-Hydraulic Performance and Energy Efficiency of Hybrid Nanofluids in Heat Exchangers
+O1290;X;TA01;Outside asset-inspection context: Assessing spatial heterogeneity of active layer thickness over Arctic-foothills tundra, No
+O1291;X;TA01;Outside asset-inspection context: Experimental and computational investigation of needle insertion biomechanics in soft tiss
+O1292;X;TA04;Peer-review reply (permafrost)
+O1293;X;TA04;Peer-review reply (permafrost)
+O1294;X;TA04;Peer-review comment (permafrost)
+O1295;X;TA04;Peer-review reply (permafrost)
+O1296;X;TA04;Peer-review reply (permafrost)
+O1297;X;TA04;Peer-review comment (permafrost)
+O1298;X;TA01;Outside asset-inspection context: Basic science in Indian ophthalmology: Translational frontiers and societal promise
+O1299;X;TA01;Outside asset-inspection context: AI x NEW STOCK EXCHANGE: Cycles, Volatility and Shocks in the New Global Financial Order
+O1300;X;TA03;Journal launch editorial

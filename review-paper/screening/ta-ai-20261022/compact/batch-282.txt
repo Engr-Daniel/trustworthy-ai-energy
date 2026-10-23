@@ -1,0 +1,50 @@
+O4351;X;TA05;Skip connections with synthetic corruption for AE anomaly detection (title only)
+O4352;X;TA01;Gaussian splatting photometric uncertainty (title only)
+O4353;X;TA01;Generic interpretable image decomposition
+O4354;X;TA05;Inpainting diffusion defect generation; data generation
+O4355;X;TA05;Random-subspace ensemble one-class IAD; ensemble not evaluated for uncertainty
+O4356;F;;Meta-learning normalizing-flow anomaly detection robust to label noise in industrial data (R4)
+O4357;X;TA01;Video anomaly detection (note 7)
+O4358;X;TA05;Robustness to synthetic-anomaly strategy choice; training design, not deployment reliability
+O4359;X;TA01;Road scene ensemble-uncertainty anomaly detection (note 7)
+O4360;X;TA05;Simple structural and logical anomaly detection; accuracy-oriented
+O4361;F;;MVTec-C robustness benchmark of unsupervised AD models under common corruptions (R3/R8)
+O4362;F;;Uncertainty-aware multi-task pore detection with epistemic uncertainty in AM monitoring (R1)
+O4363;F;;Decoupled calibration of structural and logical evidence for training-free AD (R1); verify calibration meaning (title only, note 9)
+O4364;X;TA05;Robust contrastive adaptation for unsupervised AD (title only)
+O4365;F;;Adversarially robust one-class novelty detection (R3 adversarial); verify industrial evaluation
+O4366;F;;Generalisation boundaries of unsupervised IAD models probed by attribute perturbation (R3/R8)
+O4367;F;;Risk-controlled multi-view industrial AD with finite-sample false discovery rate guarantees (R2)
+O4368;F;;Continual anomaly detection on the edge benchmarked under realistic industrial conditions (R3/R8) (title only)
+O4369;X;TA05;Realistic synthetic anomalies via defect map prediction; data generation
+O4370;F;;Anomaly-rectified calibration for cold-start supervised AD (R1); verify calibration meaning (title only, note 9)
+O4371;X;TA05;Simulated anomalies for anomaly localisation; accuracy-oriented
+O4372;F;;RAD dataset benchmarking AD robustness to viewpoint, illumination and blur (R3/R8)
+O4373;X;TA05;Catenary crack detection under low light; robustness claimed without shift evaluation
+O4374;X;TA05;Recover-then-discriminate anomaly detection (title only)
+O4375;F;;Adversarially robust zero-shot novelty detection (R3 adversarial); verify industrial evaluation
+O4376;X;TA05;Robust one-class classification via kernel spectral regression (title only)
+O4377;X;TA05;Progressive disentanglement anomaly detection (title only)
+O4378;X;TA05;Substation anomaly detection network (title only)
+O4379;F;;Defect localisation generalising to test sets deviating from training distribution (R3); verify
+O4380;X;TA05;GAN class-imbalance removal with uncertainty sampling (note 8)
+O4381;X;TA05;Meta-learning iterative refinement for industrial AD (title only)
+O4382;F;;Robust diffusion model for anomaly segmentation trained on contaminated data (R4); verify
+O4383;X;TA05;LLM-assisted industrial anomaly detection; accuracy-oriented
+O4384;X;TA05;Reverse distillation with contrastive learning (title only)
+O4385;X;TA01;Medical-only polyp detection generalisation
+O4386;X;TA05;YOLO leather defect segmentation; robustness claimed
+O4387;X;TA05;Physics-informed VLM anomaly detection; physics grounding, not output grounding
+O4388;F;;Noise-robust anomaly detection training via collaborative adversarial flows (R4) (title only)
+O4389;X;TA05;Skip-connected reverse distillation; accuracy-oriented
+O4390;F;;Robustness of industrial machine-vision inspection models against adversarial attacks (R3 adversarial)
+O4391;F;;Outlier-probability feature adaptation for AD on contaminated training data (R4)
+O4392;X;TA05;Mask-PatchCore background noise suppression; accuracy-oriented
+O4393;F;;Adversarially robust anomaly detection and localisation with pseudo anomalies (R3 adversarial)
+O4394;X;TA03;Watermarking industrial images
+O4395;X;TA05;Unified AD with semantic priors (title only)
+O4396;X;TA05;Residual distillation segmentation (title only)
+O4397;X;TA05;Dual-flow pipe welding anomaly detection (title only)
+O4398;X;TA01;Leaf disease segmentation
+O4399;F;;Noise-robust convolutional sparse reconstruction for industrial AD (R4); verify noise type (title only)
+O4400;X;TA05;Quantised PatchCore for edge; efficiency

@@ -1,0 +1,50 @@
+O4051;X;TA03;HVDC substation reliability analysis
+O4052;X;TA01;Fluorescence contamination detection in food and healthcare
+O4053;X;TA01;Macromolecular crystal detection
+O4054;X;TA01;Cross-view robot localisation
+O4055;X;TA02;Array imperfection calibration for DOA; non-visual
+O4056;X;TA02;GPR tunnel monitoring chapter (title only)
+O4057;X;TA01;Soybean pest detection
+O4058;X;TA03;Railroad bridge FE calibration
+O4059;X;TA01;Medical-only brain segmentation
+O4060;X;TA02;Cross-domain contrastive time-series fault detection; non-visual
+O4061;X;TA02;PV fault diagnosis and control review; non-visual focus
+O4062;X;TA01;Chromosome recognition
+O4063;X;TA02;Solder joint prognostics
+O4064;X;TA03;FCC expansion joint failure analysis (title only)
+O4065;X;TA05;ML decision support for investment casting microscopy; no reliability evaluation
+O4066;X;TA02;PV parameter calibration
+O4067;X;TA02;Vehicle-borne GPR underground object detection
+O4068;X;TA02;GPR image generation
+O4069;X;TA05;Air-ground-space transmission line monitoring fusion; no reliability evaluation
+O4070;X;TA01;Generic ultra-resolution VQA grounding benchmark
+O4071;X;TA05;SAM2 pixel-level anomaly detection with spatial-channel calibration; not probability calibration (title only)
+O4072;X;TA01;Deepfake detection generalisation
+O4073;X;TA01;Satellite land-use classification
+O4074;X;TA01;Traffic control without reliable cameras
+O4075;F;;Length-scale-dependent evaluation of detection reliability for NDT image data (R8)
+O4076;X;TA01;Multispectral fusion for hazard identification in low visibility; not asset-defect inspection
+O4077;X;TA03;Asphalt creep model calibration (title only)
+O4078;X;TA02;Solar inverter reliability factors; non-visual
+O4079;X;TA01;Medical federated learning security
+O4080;X;TA02;Sensor-substrate encoder for condition monitoring; non-visual
+O4081;X;TA02;PMSM bearing diagnosis from current signals; non-visual
+O4082;X;TA02;3D GPR void recognition
+O4083;F;;Generalisable robust arc welding process monitoring with DVAE and particle filter (R3/R1); modality to verify (title only, note 4)
+O4084;X;TA05;Air-ground rail detection system with LiDAR imaging and intrusion recognition
+O4085;X;TA01;AI-generated image detection
+O4086;X;TA03;CMM metrology validation
+O4087;F;;Multi-source domain transfer learning for cross-domain identification of underwater dam cracks (R3)
+O4088;X;TA02;GPR pavement distress detection (title only)
+O4089;X;TA05;Lightweight transmission-line foreign-object detection with pretrained transfer; no shift evaluation
+O4090;X;TA03;Lightning arrester installation
+O4091;X;TA03;Thermocouple array calibration
+O4092;F;;Cross-domain road damage detection framework with benchmarking across surface images and GPR (R3); record is software, verify linked report
+O4093;X;TA05;Rock detection on railway tracks; reliability claimed without evaluation
+O4094;X;TA01;Permafrost thaw slump mapping
+O4095;F;;Multi-source porosity image normalisation for reliable reuse of heterogeneous SLM data (R3/R8); verify
+O4096;X;TA02;GPR rebar location simulation (2017)
+O4097;X;TA05;Colour-histogram ground wire abnormality screening (2020)
+O4098;X;TA05;Large-kernel tyre defect classification; spatial calibration is architectural
+O4099;X;TA05;Progressive learning for concrete pathology diagnosis (title only)
+O4100;X;TA03;Visual calibration for intelligent space (2011)

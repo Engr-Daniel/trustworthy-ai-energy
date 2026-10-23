@@ -1,0 +1,50 @@
+O1151;X;TA05;Multimodal LLM incineration condition identification; process condition not defect inspection reliability
+O1152;X;TA01;Medical rural clinic imaging
+O1153;X;TA02;Gas turbine digital twin
+O1154;X;TA02;Version of O1153
+O1155;X;TA03;Quantum AI monograph
+O1156;X;TA01;Gaussian splatting in the wild
+O1157;B;;Methodological bridge: design and benchmark of safety monitors that reject suspected misclassifications of black-box classifiers (incl. inspection robots); transferable rejection architecture (R2)
+O1158;X;TA05;CenterNet cigarette quality inspection; accuracy
+O1159;X;TA01;Potato frying process
+O1160;X;TA03;Nanowire materials review
+O1161;X;TA03;DIC/fibre sensing for fire safety
+O1162;X;TA01;Clinical letter
+O1163;X;TA05;XCT part-to-part consistency analysis; process consistency not inspection-model reliability
+O1164;X;TA03;Optical dimensional microscopy inverse problem
+O1165;X;TA03;IoT/BIM/AI construction delivery QC architecture concept
+O1166;X;TA03;Ukrainian version of O1165
+O1167;X;TA01;Hyperspectral terrain anomaly detection
+O1168;X;TA05;Laser cutting dross estimation with closed-loop control; process control not inspection reliability
+O1169;X;TA03;Flange hole position measurement
+O1170;X;TA01;Seismic inversion
+O1171;X;TA01;Telemedicine
+O1172;X;TA03;Procurement optimisation
+O1173;X;TA05;SEM nanowire network property prediction with calibrated uncertainty; materials property not defect inspection
+O1174;X;TA03;Quantum security book
+O1175;X;TA02;Nuclear online monitoring strategy
+O1176;X;TA01;Conformal changepoint localisation generic
+O1177;X;TA04;Journal paratext
+O1178;X;TA02;Process monitoring DBN (title only)
+O1179;X;TA03;Applications chapter (title only)
+O1180;X;TA01;Astrophysics
+O1181;X;TA03;Optoelectronic standards
+O1182;X;TA01;Fibre material identification spectroscopy (title only)
+O1183;X;TA01;Surface water remote sensing
+O1184;X;TA01;Version of O1183
+O1185;X;TA02;Reactor heat flux diagnostics
+O1186;X;TA01;CO2 storage risk
+O1187;X;TA03;Composite microstructure reconstruction (title only)
+O1188;X;TA02;Catalyst changeout ML
+O1189;X;TA01;Medical lung screening thesis
+O1190;X;TA03;SME supply chain (title only)
+O1191;X;TA03;3D registration thesis
+O1192;X;TA03;Knowledge-graph decision support review
+O1193;X;TA01;Astronomy catalogue
+O1194;X;TA03;Reliability conference special issue
+O1195;X;TA03;Construction progress scheduling
+O1196;X;TA05;Tutorial on active learning incl. power-line imagery case study; annotation efficiency (note 8)
+O1197;X;TA02;Fibre optic sensing for wind towers
+O1198;X;TA01;Cultural-heritage digitisation calibration monitoring
+O1199;X;TA01;Seismic super-resolution
+O1200;X;TA01;Mammography simulator

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/uYNf7j+yZuJULbL/PBBJD/zV3Qc</id>
+  <title>arXiv Query: search_query=ti:"ICONIC-444 A 3.1-Million-Image Dataset for OOD Detection Research"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:26:10Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22ICONIC-444+A+3.1-Million-Image+Dataset+for+OOD+Detection+Research%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2601.10802v1</id>
+    <title>ICONIC-444: A 3.1-Million-Image Dataset for OOD Detection Research</title>
+    <updated>2026-01-15T19:05:07Z</updated>
+    <link href="https://arxiv.org/abs/2601.10802v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.10802v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Current progress in out-of-distribution (OOD) detection is limited by the lack of large, high-quality datasets with clearly defined OOD categories across varying difficulty levels (near- to far-OOD) that support both fine- and coarse-grained computer vision tasks. To address this limitation, we introduce ICONIC-444 (Image Classification and OOD Detection with Numerous Intricate Complexities), a specialized large-scale industrial image dataset containing over 3.1 million RGB images spanning 444 classes tailored for OOD detection research. Captured with a prototype industrial sorting machine, ICONIC-444 closely mimics real-world tasks. It complements existing datasets by offering structured, diverse data suited for rigorous OOD evaluation across a spectrum of task complexities. We define four reference tasks within ICONIC-444 to benchmark and advance OOD detection research and provide baseline results for 22 state-of-the-art post-hoc OOD detection methods.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-15T19:05:07Z</published>
+    <arxiv:comment>WACV 2026, Dataset repo: https://github.com/gkrumpl/iconic-444</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Gerhard Krumpl</name>
+    </author>
+    <author>
+      <name>Henning Avenhaus</name>
+    </author>
+    <author>
+      <name>Horst Possegger</name>
+    </author>
+  </entry>
+</feed>

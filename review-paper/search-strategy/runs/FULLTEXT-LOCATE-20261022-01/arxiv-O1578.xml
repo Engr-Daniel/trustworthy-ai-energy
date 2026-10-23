@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/6CJ+xa6D/wTZn/mRiILRLzopvLE</id>
+  <title>arXiv Query: search_query=ti:"Deep learning for defect detection"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:05:03Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Deep+learning+for+defect+detection%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2309.06731v1</id>
+    <title>Improving Deep Learning-based Defect Detection on Window Frames with Image Processing Strategies</title>
+    <updated>2023-09-13T05:20:41Z</updated>
+    <link href="https://arxiv.org/abs/2309.06731v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2309.06731v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Detecting subtle defects in window frames, including dents and scratches, is vital for upholding product integrity and sustaining a positive brand perception. Conventional machine vision systems often struggle to identify these defects in challenging environments like construction sites. In contrast, modern vision systems leveraging machine and deep learning (DL) are emerging as potent tools, particularly for cosmetic inspections. However, the promise of DL is yet to be fully realized. A few manufacturers have established a clear strategy for AI integration in quality inspection, hindered mainly by issues like scarce clean datasets and environmental changes that compromise model accuracy. Addressing these challenges, our study presents an innovative approach that amplifies defect detection in DL models, even with constrained data resources. The paper proposes a new defect detection pipeline called InspectNet (IPT-enhanced UNET) that includes the best combination of image enhancement and augmentation techniques for pre-processing the dataset and a Unet model tuned for window frame defect detection and segmentation. Experiments were carried out using a Spot Robot doing window frame inspections . 16 variations of the dataset were constructed using different image augmentation settings. Results of the experiments revealed that, on average, across all proposed evaluation measures, Unet outperformed all other algorithms when IPT-enhanced augmentations were applied. In particular, when using the best dataset, the average Intersection over Union (IoU) values achieved were IPT-enhanced Unet, reaching 0.91 of mIoU.</summary>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-09-13T05:20:41Z</published>
+    <arxiv:primary_category term="eess.IV"/>
+    <author>
+      <name>Jorge Vasquez</name>
+    </author>
+    <author>
+      <name>Hemant K. Sharma</name>
+    </author>
+    <author>
+      <name>Tomotake Furuhata</name>
+    </author>
+    <author>
+      <name>Kenji Shimada</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2008.02604v2</id>
+    <title>Deep Learning Based Defect Detection for Solder Joints on Industrial X-Ray Circuit Board Images</title>
+    <updated>2021-03-25T05:28:18Z</updated>
+    <link href="https://arxiv.org/abs/2008.02604v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2008.02604v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quality control is of vital importance during electronics production. As the methods of producing electronic circuits improve, there is an increasing chance of solder defects during assembling the printed circuit board (PCB). Many technologies have been incorporated for inspecting failed soldering, such as X-ray imaging, optical imaging, and thermal imaging. With some advanced algorithms, the new technologies are expected to control the production quality based on the digital images. However, current algorithms sometimes are not accurate enough to meet the quality control. Specialists are needed to do a follow-up checking. For automated X-ray inspection, joint of interest on the X-ray image is located by region of interest (ROI) and inspected by some algorithms. Some incorrect ROIs deteriorate the inspection algorithm. The high dimension of X-ray images and the varying sizes of image dimensions also challenge the inspection algorithms. On the other hand, recent advances on deep learning shed light on image-based tasks and are competitive to human levels. In this paper, deep learning is incorporated in X-ray imaging based quality control during PCB quality inspection. Two artificial intelligence (AI) based models are proposed and compared for joint defect detection. The noised ROI problem and the varying sizes of imaging dimension problem are addressed. The efficacy of the proposed methods are verified through experimenting on a real-world 3D X-ray dataset. By incorporating the proposed methods, specialist inspection workload is largely saved.</summary>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-08-06T12:25:18Z</published>
+    <arxiv:comment>Accepted by conference INDIN 2020</arxiv:comment>
+    <arxiv:primary_category term="eess.IV"/>
+    <author>
+      <name>Qianru Zhang</name>
+    </author>
+    <author>
+      <name>Meng Zhang</name>
+    </author>
+    <author>
+      <name>Chinthaka Gamanayake</name>
+    </author>
+    <author>
+      <name>Chau Yuen</name>
+    </author>
+    <author>
+      <name>Zehao Geng</name>
+    </author>
+    <author>
+      <name>Hirunima Jayasekara</name>
+    </author>
+    <author>
+      <name>Xuewen Zhang</name>
+    </author>
+    <author>
+      <name>Chia-wei Woo</name>
+    </author>
+    <author>
+      <name>Jenny Low</name>
+    </author>
+    <author>
+      <name>Xiang Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.14477v1</id>
+    <title>TACK Tunnel Data (TTD): A Benchmark Dataset for Deep Learning-Based Defect Detection in Tunnels</title>
+    <updated>2025-12-16T15:10:16Z</updated>
+    <link href="https://arxiv.org/abs/2512.14477v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.14477v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tunnels are essential elements of transportation infrastructure, but are increasingly affected by ageing and deterioration mechanisms such as cracking. Regular inspections are required to ensure their safety, yet traditional manual procedures are time-consuming, subjective, and costly. Recent advances in mobile mapping systems and Deep Learning (DL) enable automated visual inspections. However, their effectiveness is limited by the scarcity of tunnel datasets. This paper introduces a new publicly available dataset containing annotated images of three different tunnel linings, capturing typical defects: cracks, leaching, and water infiltration. The dataset is designed to support supervised, semi-supervised, and unsupervised DL methods for defect detection and segmentation. Its diversity in texture and construction techniques also enables investigation of model generalization and transferability across tunnel types. By addressing the critical lack of domain-specific data, this dataset contributes to advancing automated tunnel inspection and promoting safer, more efficient infrastructure maintenance strategies.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-16T15:10:16Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Andreas Sjölander</name>
+    </author>
+    <author>
+      <name>Valeria Belloni</name>
+    </author>
+    <author>
+      <name>Robel Fekadu</name>
+    </author>
+    <author>
+      <name>Andrea Nascetti</name>
+    </author>
+  </entry>
+</feed>

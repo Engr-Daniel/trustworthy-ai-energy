@@ -1,0 +1,50 @@
+O5151;X;TA05;Latent diffusion anomaly sample generation (title only)
+O5152;X;TA05;Graph registration few-shot AD (title only)
+O5153;X;TA01;Medical retinal OCT AD
+O5154;X;TA05;Cascade patch retrieval AD; speed and accuracy
+O5155;X;TA05;Adaptive wavelet AD (title only)
+O5156;X;TA05;Augmented patch segmentation (title only)
+O5157;X;TA05;Counterfactual multi-class AD
+O5158;X;TA01;Retail store anomaly correction
+O5159;X;TA05;Real-time structural defect detection (title only)
+O5160;X;TA05;Context-aware flow IAD
+O5161;X;TA01;Generic SAM auto-segmentation
+O5162;X;TA01;Proactive customer care survey
+O5163;X;TA01;Nighttime rescue remote sensing review
+O5164;X;TA05;Integrating vision quality metrics into predictive maintenance; accuracy-oriented
+O5165;X;TA01;Facial anomaly appraisal
+O5166;X;TA01;Graph network anomaly detection
+O5167;F;;Concept extraction to diagnose unexpected CNN behaviour in industrial quality control (R8 shortcut diagnosis); verify
+O5168;X;TA05;Generalist AD relative relations (title only)
+O5169;X;TA05;Mask-enhanced diffusion multi-class AD (title only)
+O5170;X;TA05;VLM few-shot defect detection
+O5171;X;TA05;Random anomaly feature extraction
+O5172;X;TA05;Railway UAV AD (title only)
+O5173;X;TA05;Aligned anomaly image-mask generation
+O5174;X;TA05;Pixel-text matching zero-shot AD
+O5175;X;TA05;Local-enhanced CLIP zero-shot AD
+O5176;X;TA05;Subspace reconstruction localisation
+O5177;X;TA05;LLM logical AD code generation
+O5178;X;TA05;Hybrid lightweight edge AD
+O5179;F;;Study of false positives in unsupervised defect detection arising from anomaly-free training dataset composition (R4/R8)
+O5180;B;;Benchmark library for multi-class visual AD; evaluation-infrastructure background (R8) (consistent with O4514)
+O5181;X;TA05;Fabric feature contrast suppression; accuracy-oriented
+O5182;X;TA05;Bi-level defect synthesis
+O5183;X;TA05;Transformation-aware embeddings AD
+O5184;X;TA05;Autoencoder OCSVM fabric (title only)
+O5185;F;;Human-guided zero-shot surface defect segmentation (R5); verify human role
+O5186;X;TA05;Diffusion AD evaluation on metal cans; accuracy comparison
+O5187;X;TA05;Neighbourhood attention reconstruction
+O5188;X;TA05;Point-pattern energy defect detection; probable related version of O4953 (note 13), same decision
+O5189;X;TA05;Dual-task teacher-student textile AD
+O5190;X;TA05;Laser-welded battery interconnect inspection review; outside core asset context, no reliability focus
+O5191;X;TA01;Medical-only universal AD (title only)
+O5192;X;TA05;Mamba feature selection IAD
+O5193;X;TA01;Face anomaly appraisal
+O5194;X;TA01;Medical chest X-ray AD
+O5195;X;TA05;Display panel anomaly segmentation
+O5196;X;TA05;VQ-VAE fabric defects
+O5197;X;TA05;Few-shot IAD memory guidance (title only)
+O5198;X;TA01;Medical ultrasound AD benchmark
+O5199;X;TA01;Hyperspectral anomaly detection
+O5200;X;TA01;Medical brain tumour synthesis

@@ -1,0 +1,50 @@
+O2601;X;TA01;Product knowledge base survey (title only)
+O2602;X;TA01;fMRI explainability
+O2603;X;TA01;Pharmaceutical cleaning validation review
+O2604;X;TA02;Environmental time-series plausibility workflow; non-visual
+O2605;F;;Human-in-the-loop digital twin interaction; probable preprint of O2539 AR crack detection (note 13) (R5) (title only)
+O2606;X;TA05;YOLOv11 crack segmentation with HMI; no reliability evaluation
+O2607;X;TA01;Retinal disease classification (title only)
+O2608;X;TA02;eVTOL battery fault isolation; non-visual
+O2609;B;;Adjacent non-visual: multisensor fusion fault diagnosis robust to corrupted and spurious sensor readings; transferable sensor-failure method (R6, note 5)
+O2610;X;TA02;Seismic event detection from bridge monitoring data; non-visual (consistent with O2506)
+O2611;X;TA01;Robot arm VR human-machine interaction
+O2612;X;TA02;Substation digital twin telemetry; non-visual
+O2613;X;TA01;Deepfake detection
+O2614;X;TA01;Medical-only OCT multiple sclerosis
+O2615;X;TA05;Review of multimodal ML in AEC; not inspection-reliability focused
+O2616;X;TA01;Fire detection and extinguisher recommendation
+O2617;X;TA01;Fetal ultrasound MLOps (title only)
+O2618;X;TA01;Low-code information systems
+O2619;X;TA01;Robotic surgery security
+O2620;X;TA01;Transmission-line route planning land cover; not inspection
+O2621;X;TA05;Vision-based piston position detection; no reliability evaluation
+O2622;X;TA01;Software model explanation fidelity
+O2623;X;TA05;XAI in aircraft QA processes (title only)
+O2624;X;TA01;Generic Mask R-CNN interpretability on COCO
+O2625;X;TA01;Robotics human-machine interaction thesis
+O2626;X;TA01;Molecular dynamics deformation stages
+O2627;X;TA05;AI-AR manufacturing workflow proposal
+O2628;X;TA01;Molecular dynamics dataset; same-title record (note 6)
+O2629;X;TA01;Urban flood monitoring annotation (title only)
+O2630;X;TA01;Transformers in Industry 5.0 (title only)
+O2631;X;TA01;Surgical robotics partnership
+O2632;X;TA05;XAI cyber-physical collaboration; explainability only
+O2633;X;TA01;Traffic light detection under camera sensor failure (note 7)
+O2634;X;TA01;Fluorescence microscopy dead cell detection
+O2635;X;TA01;Satellite hazard assessment
+O2636;X;TA02;Ultrasonic scattering signatures for CFRP defects; non-image (title only)
+O2637;X;TA01;Feature matcher robustness for robot localisation; not inspection
+O2638;X;TA01;Smart city surveillance (note 7)
+O2639;X;TA01;Mobile imaging thesis (2013)
+O2640;X;TA05;Broad machine vision review; not inspection-reliability focused
+O2641;X;TA01;Fruit freshness detection (title only)
+O2642;X;TA05;ROI localisation for structural visual assessment; conference version of O2362 (note 13)
+O2643;X;TA05;Unsupervised cork stopper surface variability (title only)
+O2644;X;TA05;AI industrial automation trends
+O2645;X;TA01;Agentic transportation policy (title only)
+O2646;B;;Adjacent non-visual: sensor fault-tolerant thermal error modelling for CNC machines (R6, note 5) (title only)
+O2647;X;TA01;Aircraft navigation problems review
+O2648;X;TA02;MEMS sensor RUL estimation; non-visual
+O2649;X;TA05;Interpretable crack propagation prediction; explainability only
+O2650;B;;Adjacent: sensor fault diagnosis across robotic sensing incl. cameras; transferable sensor-failure framework (R6, note 5)

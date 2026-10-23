@@ -1,0 +1,50 @@
+O0851;X;TA01;Coastline satellite change modelling
+O0852;F;;Aerospace defect detection with leakage-controlled YOLO workflow, locked testing, robustness and bootstrap uncertainty (R8/R1)
+O0853;X;TA03;Literature list (PV survey)
+O0854;X;TA02;Transformer frequency response interpretation; non-image
+O0855;X;TA05;SEM wear pattern classification of coatings; materials analysis, accuracy only
+O0856;F;;UAV infrastructure inspection with human-in-the-loop decision assistance addressing viewpoint/illumination/environment uncertainty (R5/R3); verify evaluation
+O0857;X;TA01;Lightning forecasting
+O0858;F;;Image-based surface roughness prediction with repeated-measurement-aware uncertainty, heteroscedastic/MC-dropout/quantile methods and calibration (R1/R8)
+O0859;X;TA02;Sandwich panel dynamic-response defect detection
+O0860;X;TA03;Literature list (PV survey)
+O0861;X;TA03;HEA phase prediction
+O0862;X;TA01;Medical segmentation robustness thesis
+O0863;X;TA01;Medical arthritis
+O0864;X;TA03;Literature list (PV survey)
+O0865;X;TA01;Aviation pose protection levels (methodological bridge already represented by O0219)
+O0866;X;TA01;Satellite methane plume false-positive probability; remote emission monitoring not asset inspection (adjacent; noted for discussion)
+O0867;X;TA01;Rodent MRI segmentation
+O0868;X;TA01;Geothermal subsurface modelling
+O0869;X;TA03;Literature list (PV survey)
+O0870;X;TA01;Medical chest X-ray
+O0871;X;TA03;Detection label-assignment survey (title only)
+O0872;X;TA01;Medical retinopathy
+O0873;X;TA03;Corroded concrete service-life review; not inspection AI
+O0874;X;TA03;Solar water heating AI review (title only)
+O0875;X;TA03;HEA coatings PIML review (title only)
+O0876;X;TA03;Nano construction materials ML review
+O0877;X;TA01;Financial auditing
+O0878;X;TA03;Literature list (PV survey)
+O0879;X;TA03;Literature list (PV survey)
+O0880;X;TA01;Planetary desiccation crack mapping
+O0881;X;TA02;Press-stop soft sensor (title only)
+O0882;X;TA03;Fuzzy systems fault detection mathematics
+O0883;X;TA01;Silk cocoon sorting
+O0884;X;TA01;InSAR phase unwrapping
+O0885;X;TA05;Traffic-camera bridge digital twin; MC uncertainty on fatigue scenarios, not inspection model
+O0886;X;TA03;Robot laser triangulation measurement uncertainty; no learned inspection model
+O0887;X;TA03;Literature list (PV survey)
+O0888;X;TA03;Literature list (PV survey)
+O0889;X;TA02;Strain-based bridge diagnosis
+O0890;F;;Robust attention DenseNet for crack detection (title claims robustness; verify) (title only)
+O0891;X;TA01;Medical WMH segmentation uncertainty
+O0892;X;TA03;Literature list (PV survey)
+O0893;F;;Multi-modal grayscale-depth YOLO for tunnel joint detection robust to interfering non-structural elements in field data (R6/R3)
+O0894;X;TA01;Watershed erosion monitoring
+O0895;X;TA03;Literature list (PV survey)
+O0896;X;TA02;Bearing fatigue hybrid model with visual grease observation uncertainty (as O0226)
+O0897;X;TA02;Acoustic termite detection
+O0898;X;TA03;Literature list (PV survey)
+O0899;X;TA05;YOLO SEM wafer particle analysis; accuracy vs thresholding
+O0900;X;TA03;Alloy printability design

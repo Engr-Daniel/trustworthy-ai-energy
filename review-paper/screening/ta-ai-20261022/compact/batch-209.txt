@@ -1,0 +1,50 @@
+O0701;X;TA05;Lightweight YOLOv5 industrial inspection; accuracy
+O0702;X;TA01;Medical retinopathy
+O0703;X;TA01;Biomedical signals
+O0704;X;TA01;Medical writing
+O0705;X;TA03;LPBF thermal modelling
+O0706;X;TA01;Plant disease surveillance review
+O0707;X;TA03;Active thermography inverse heat transfer (title only)
+O0708;X;TA01;Agricultural tomato grading
+O0709;X;TA03;Electronic structure ML
+O0710;X;TA01;Traditional Chinese medicine
+O0711;X;TA05;Wheel hub defect attention network; accuracy
+O0712;X;TA03;Fusion power plant engineering volume
+O0713;F;;LiDAR tower point-cloud defect reconstruction with Bayesian uncertainty maps and measured calibration (ECE), synthetic evaluation (R1/R6)
+O0714;X;TA03;Ceramic coating design (title only)
+O0715;X;TA03;Earthquake engineering ML review (title only)
+O0716;X;TA03;Conference call for papers
+O0717;X;TA01;Livestock AI
+O0718;X;TA03;HPC foundation models for simulation
+O0719;X;TA01;Medical VAE segmentation review
+O0720;F;;Pose-guided robust PCB defect detection for mobile manipulators (R3 viewpoint robustness) (title only)
+O0721;F;;Spot-weld inspection under class ambiguity with soft labels and Bayesian CNN uncertainty (R1/R4)
+O0722;X;TA05;YOLOv7 spraying developer defects; accuracy
+O0723;X;TA02;Gas turbine vibration multi-domain images with lab-to-field transfer; non-optical
+O0724;F;;Autonomous culvert inspection with POMDP handling inspection uncertainty, RGB-D and NDE fusion (R6/R3); verify reliability evaluation
+O0725;X;TA01;Neuro-ophthalmology
+O0726;X;TA03;Data intelligence book
+O0727;B;;Data-to-deployment review of trustworthy industrial fault diagnosis covering leakage, domain shift, calibration and assurance; methodological background (R8)
+O0728;X;TA02;Turbomachine orbit condition monitoring (title only)
+O0729;X;TA05;LLM+vision framework for UAV tasks (title only)
+O0730;X;TA03;Multimodal hybrid AI review broadly
+O0731;X;TA03;Precast concrete risk methodology; not AI inspection
+O0732;X;TA02;Rotating equipment PdM framework with thermography among signals; generic, decision reliability emphasised but non-image-centred (adjacent; not added)
+O0733;F;;Edge quality-inspection code with uncertainty-aware cost-sensitive routing and robustness tests (noise, blur, compression) on MVTec AD (R2/R3); software deposit, verify paper
+O0734;X;TA05;ResNet crack classification with multi-threshold FP/FN analysis; threshold sensitivity only
+O0735;X;TA03;Point-cloud completion for gear metrology
+O0736;X;TA05;SHM data processing dissertation; image anomalies not reliability-evaluated
+O0737;B;;Qualification framework for POD-based reliability of crack luminescence inspection; inspection-reliability background (non-AI detection)
+O0738;X;TA02;THz spectra rubber classification; non-image
+O0739;X;TA05;Point-cloud pipe segmentation (title only)
+O0740;X;TA01;Medical device digital twin
+O0741;X;TA01;Version of O0740
+O0742;B;;Systematic review of ML in directed energy deposition; core-context review
+O0743;X;TA01;Ophthalmology AI
+O0744;B;;Systematic review of simulation-to-field gap, domain adaptation and digital twins in underground mine inspection; review for overlap (R3)
+O0745;X;TA02;District heating thesis
+O0746;X;TA01;Renal imaging
+O0747;X;TA03;Fatigue prediction (title only)
+O0748;X;TA03;Slag metallurgy review
+O0749;X;TA01;Medical segmentation
+O0750;X;TA01;Traffic state estimation (title only)

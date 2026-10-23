@@ -1,0 +1,50 @@
+O0601;X;TA02;Dynamic-response beam damage detection (title only)
+O0602;X;TA01;Pathology AI regulation
+O0603;X;TA02;Review of ML for FRP structures using AE/DIC/FBG/vibration; not image-inspection reliability
+O0604;X;TA02;Gas turbine exhaust temperature modelling
+O0605;X;TA02;Version of O0604
+O0606;B;;Review of wind-turbine reliability and AI predictive maintenance incl. blade inspection and domain shift; energy-context background
+O0607;X;TA03;Case-based reasoning bridge diagnosis; not image AI
+O0608;X;TA02;Nuclear plant abnormal response classification; non-image
+O0609;X;TA02;Oil-and-gas multimodal fusion review (mostly non-visual)
+O0610;F;;Insulator hydrophobicity grading from droplet images with measurement uncertainty quantification (R1); energy asset
+O0611;X;TA03;Acoustic panel ML with conformal intervals; not inspection
+O0612;X;TA01;Wildfire thermal anomaly classification (leakage-controlled; outside context)
+O0613;X;TA02;Strain-based damage CNN (title only)
+O0614;X;TA05;Multimodal image+response damage diagnosis of repaired beams; accuracy/FN rate only
+O0615;X;TA01;Financial chart images
+O0616;X;TA01;Financial chart images
+O0617;X;TA03;Bayesian trust scoring method for AI systems generally (no inspection evaluation)
+O0618;F;;Uncertainty-aware transformer with MC stochastic attention for underwater cable fault detection under noise (R1/R3); modality to verify
+O0619;X;TA02;Version of O0588
+O0620;X;TA01;Phishing detection review
+O0621;X;TA01;Financial chart images
+O0622;X;TA02;Vibration images for rotor diagnosis
+O0623;X;TA03;AM defect severity PINN modelling (title only)
+O0624;X;TA01;Financial chart images
+O0625;X;TA05;Perceptual alignment framework for spherical surface inspection; conceptual, no reliability evaluation signalled
+O0626;X;TA02;Structural response PINN; non-image
+O0627;X;TA01;Quantum health metrology monograph
+O0628;X;TA02;DED temperature PINN with UQ (title only)
+O0629;X;TA03;Point-cloud task-specific measurement uncertainty per ISO; no learned inspection model
+O0630;F;;Effects of visual AI measurement uncertainty on Bayesian structural durability assessment (R1) (title only)
+O0631;X;TA02;Modal-frequency SHM under climate variability; non-image
+O0632;X;TA01;Astronomy redshift
+O0633;X;TA01;Medical retinopathy
+O0634;X;TA02;PV sensor-data risk assessment with calibration; non-image (adjacent but tabular)
+O0635;X;TA03;Soil erosion modelling
+O0636;X;TA05;Digital-twin fatigue crack detection (title only)
+O0637;X;TA03;Tapping NDT (title only)
+O0638;B;;Adjacent non-visual: Bayesian-conformal nuclear accident diagnosis with distribution-free coverage (R2) (title only)
+O0639;X;TA05;GenAI synthetic data for X-ray casting ADR (title only)
+O0640;X;TA01;Food spectroscopy
+O0641;X;TA01;Food and nutrition AI review
+O0642;X;TA01;Poultry processing AI review
+O0643;X;TA01;Medical segmentation confidence in VR
+O0644;X;TA03;Smart-grid AI editorial
+O0645;X;TA02;Transformer DGA fault diagnosis
+O0646;X;TA03;CD-SEM image quality metrology; not inspection AI
+O0647;X;TA03;Nuclear reactor control foundation model
+O0648;X;TA03;Version of O0647
+O0649;X;TA03;BNN measurement model for articulating-arm metrology; not defect inspection
+O0650;X;TA01;Agricultural leaf disease

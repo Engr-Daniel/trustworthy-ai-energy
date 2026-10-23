@@ -1,0 +1,3724 @@
+{
+  "run_id": "FULLTEXT-LOCATE-20261022-01",
+  "purpose": "Open-access full-text location for reports sent to full text",
+  "started_utc": "2026-10-22T13:51:40.753318+00:00",
+  "requests": [
+    {
+      "file": "openalex-001.json",
+      "query": "doi filter (21 DOIs)",
+      "time_utc": "2026-10-22T13:51:42.998151+00:00",
+      "status": 403
+    },
+    {
+      "file": "arxiv-C0001.xml",
+      "query": "ti:\"Calibrated few-shot industrial anomaly detection with frozen visual features\"",
+      "time_utc": "2026-10-22T13:51:45.239110+00:00",
+      "status": 200,
+      "sha256": "c9db14773569d2c6b35f179b7e4bbb237a4fc1be3dc07782754c2e4df9060763"
+    },
+    {
+      "file": "arxiv-C0025.xml",
+      "query": "ti:\"Expert-Guided Reverse Distillation for Cross-Domain Industrial Image Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:51:50.793193+00:00",
+      "status": 200,
+      "sha256": "aa0089cad8ece19882c79746adc519f2f5b1ba15047e9e8b5e7f55682ba04017"
+    },
+    {
+      "file": "arxiv-C0027.xml",
+      "query": "ti:\"Adaptive Fusion Strategy with Masked Encoding for Cross-Domain Industrial Image Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:51:54.953382+00:00",
+      "status": 200,
+      "sha256": "8b712789d6d7a77cb3083f764be4d84d1b409fc9e2e9a29b9b7710a72600c188"
+    },
+    {
+      "file": "arxiv-C0029.xml",
+      "query": "ti:\"AlignPromptGPT Aligned Prompting for Industrial Image Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:51:59.073850+00:00",
+      "status": 200,
+      "sha256": "061a459260ff6d6167e9328e69bfd4742dc10e426c0d43377fe451135fad1ad1"
+    },
+    {
+      "file": "arxiv-C0031.xml",
+      "query": "ti:\"DomainShield-AD a multi-dimensional domain shift measurement framework with graded response for industrial anomaly detection\"",
+      "time_utc": "2026-10-22T13:52:03.095660+00:00",
+      "status": 200,
+      "sha256": "f568d4e17bd265582d04badc8f7fdfdd7ef5b4e29f64e00c5ff07db004ffb0fc"
+    },
+    {
+      "file": "arxiv-C0039.xml",
+      "query": "ti:\"Boundary-Guided Large-Scale Vision Model for Unified Multi-Domain Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:52:07.352472+00:00",
+      "status": 200,
+      "sha256": "97a30d1afc0b3a36aa6b483c5799b5bd679ff378047822b420aeb4fb8edf7f02"
+    },
+    {
+      "file": "arxiv-C0051.xml",
+      "query": "ti:\"Uncertainty-Aware Industrial Defect Detection A Unified Evaluation and Learning Framework\"",
+      "time_utc": "2026-10-22T13:52:11.324292+00:00",
+      "status": 200,
+      "sha256": "4bedb0c20e50e86c8256a2d8abad54375d5e6a1d23f9ff43b8dc5773fd87155c"
+    },
+    {
+      "file": "arxiv-C0054.xml",
+      "query": "ti:\"Uncertainty Quantification and Sensitivity Analysis in Subsurface Defect Detection with Sparse Models\"",
+      "time_utc": "2026-10-22T13:52:15.302552+00:00",
+      "status": 200,
+      "sha256": "f943602b8cf9d440bea1188f7435801878fe2a3172342a9a77d956df9e6da089"
+    },
+    {
+      "file": "arxiv-C0070.xml",
+      "query": "ti:\"Tiny Defect-VQA Mask-Grounded Edge Visual Question Answering for Industrial Surface Inspection\"",
+      "time_utc": "2026-10-22T13:52:19.271769+00:00",
+      "status": 200,
+      "sha256": "9fdfa336ba80ecdd80b74dab133c47635b73c141fde6dd9db522bcbb807f387d"
+    },
+    {
+      "file": "arxiv-C0072.xml",
+      "query": "ti:\"Tiny Defect-VQA Mask-Grounded Edge Visual Question Answering for Industrial Surface Inspection\"",
+      "time_utc": "2026-10-22T13:52:25.462509+00:00",
+      "status": 200,
+      "sha256": "9fdfa336ba80ecdd80b74dab133c47635b73c141fde6dd9db522bcbb807f387d"
+    },
+    {
+      "file": "arxiv-C0073.xml",
+      "query": "ti:\"ViTranCoC Vision Transformers and Conformal Calibration for Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:52:31.035357+00:00",
+      "status": 200,
+      "sha256": "51233023c889a87dc92e5149181c8aab1c932346068c89f0fe44865c05819de2"
+    },
+    {
+      "file": "arxiv-C0081.xml",
+      "query": "ti:\"Cross-modal prior-guided sampling with coverage-aware score calibration for 3D industrial anomaly localization\"",
+      "time_utc": "2026-10-22T13:52:35.158861+00:00",
+      "status": 200,
+      "sha256": "a6ed5b3e456c5148a9c2921ad4a6e7116119a365e24e92ddd98a11fa5627de36"
+    },
+    {
+      "file": "arxiv-C0103.xml",
+      "query": "ti:\"Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control\"",
+      "time_utc": "2026-10-22T13:52:39.107726+00:00",
+      "status": 200,
+      "sha256": "8e33a93aec05f844636fd53c8761ff5427ee62f9fcde52a37e3d58c6425c1420"
+    },
+    {
+      "file": "arxiv-C0165.xml",
+      "query": "ti:\"Uncertainty inspired domain adaptation network for rail surface defect segmentation\"",
+      "time_utc": "2026-10-22T13:52:43.203130+00:00",
+      "status": 200,
+      "sha256": "b398b191b45ee9c9fb97c839e5075ae8a1591e47c27caed1830230ed4ac43734"
+    },
+    {
+      "file": "arxiv-C0170.xml",
+      "query": "ti:\"Die-to-prompt visual language model-based defect inspection and anomaly detection\"",
+      "time_utc": "2026-10-22T13:52:47.845812+00:00",
+      "status": 200,
+      "sha256": "85e3cfc404b09a157a26e3a9e5e3301304447bd8219d006a8db8f390db549177"
+    },
+    {
+      "file": "arxiv-C0172.xml",
+      "query": "ti:\"Unsupervised anomaly detection for industrial manufacturing using multiple perspectives of free falling parts\"",
+      "time_utc": "2026-10-22T13:52:51.690978+00:00",
+      "status": 200,
+      "sha256": "ad94cb8c28929c785719e3e1d23fb4043661e5c871bfe1b9cff1f8df5139e4b1"
+    },
+    {
+      "file": "arxiv-C0175.xml",
+      "query": "ti:\"Thermal Anomaly Area Intelligent Recognition Method Based on Infrared Inspection Image of Electrical Equipment\"",
+      "time_utc": "2026-10-22T13:52:55.561320+00:00",
+      "status": 200,
+      "sha256": "c2c4f71193a57c814884b86f9a6d66ea707cc5b1e190122f009cba00e69b176c"
+    },
+    {
+      "file": "arxiv-C0176.xml",
+      "query": "ti:\"Dual-Branch Collaborative Framework for Robust Visual Anomaly Detection in Mobile Robot Inspection\"",
+      "time_utc": "2026-10-22T13:52:59.420594+00:00",
+      "status": 200,
+      "sha256": "060abf7462404d522dcdc592fb3f04500beaa08da1f6e5d78646853f6b5b9b1c"
+    },
+    {
+      "file": "arxiv-C0177.xml",
+      "query": "ti:\"A reproducible and edge-oriented industrial visual anomaly inspection framework\"",
+      "time_utc": "2026-10-22T13:53:04.137382+00:00",
+      "status": 200,
+      "sha256": "2a5242254b0485c440006a8914c613f6c7cd4624a6bb3aa52f26a03238b2559b"
+    },
+    {
+      "file": "arxiv-C0181.xml",
+      "query": "ti:\"A novel FuseDecode Autoencoder for industrial visual inspection Incremental anomaly detection improvement with gradual transition from unsupervised to mixed-supervision learning with reduced human effort\"",
+      "time_utc": "2026-10-22T13:53:07.974927+00:00",
+      "status": 200,
+      "sha256": "44ebfda15abb39bbd80c00960f4f51eea7da3b111b512611057727c8ca5aa9af"
+    },
+    {
+      "file": "arxiv-C0184.xml",
+      "query": "ti:\"Visual Inspection System for Anomaly Detection on KTL Coatings Using Variational Autoencoders\"",
+      "time_utc": "2026-10-22T13:53:11.791740+00:00",
+      "status": 200,
+      "sha256": "4e0b9515e65a3a7069fd3cd94f10250227a2366a2695b8e1fda87bfdc3821e0c"
+    },
+    {
+      "file": "arxiv-C0190.xml",
+      "query": "ti:\"MissingClip An Industrial Anomaly Detection Method Under Modality Missing\"",
+      "time_utc": "2026-10-22T13:53:16.107259+00:00",
+      "status": 200,
+      "sha256": "279fb32b88f070c5fa6bdbb5afc1b696fa06c9ef4175922f3a59ce8d7ea744a3"
+    },
+    {
+      "file": "arxiv-C0197.xml",
+      "query": "ti:\"Visual inspection via anomaly detection by automated uncertainty propagation\"",
+      "time_utc": "2026-10-22T13:53:20.235448+00:00",
+      "status": 200,
+      "sha256": "f765e900b895125b2da728142c3e3045de36bb7f9b2794b991b9ae47d0bf0bc4"
+    },
+    {
+      "file": "arxiv-C0200.xml",
+      "query": "ti:\"Beyond Heuristic Thresholds Uncertainty-Aware Industrial Anomaly Detection With Last-Layer Laplace Approximation\"",
+      "time_utc": "2026-10-22T13:53:24.513907+00:00",
+      "status": 200,
+      "sha256": "d23805ba812b3f29f2dc4c682d07383265db42f78bd57558b927e3c672408292"
+    },
+    {
+      "file": "arxiv-C0202.xml",
+      "query": "ti:\"Language Meets Vision A Vision\u2013Language Guided Multimodal Framework for Explainable Industrial Anomaly Segmentation\"",
+      "time_utc": "2026-10-22T13:53:28.746949+00:00",
+      "status": 200,
+      "sha256": "1f6b0c6d654081f2a32e4284dc4bc3ef7f5bfa6c70c0b25ab474c7847d701aa2"
+    },
+    {
+      "file": "arxiv-C0206.xml",
+      "query": "ti:\"Large Vision Language Models for Anomaly Detection in Aircraft Inspection with Inspectors in the Loop\"",
+      "time_utc": "2026-10-22T13:53:33.560909+00:00",
+      "status": 200,
+      "sha256": "a6245670f802e76b42eaa2d78d6b07c7221f920e1cd4176a22e507ab7fe03a75"
+    },
+    {
+      "file": "arxiv-C0247.xml",
+      "query": "ti:\"Seagate Improving Automated Visual Inspection of Wafers and Fab Tooling with AI\"",
+      "time_utc": "2026-10-22T13:53:37.757170+00:00",
+      "status": 200,
+      "sha256": "cabd263f3c6808f65def231fe0054f78a63b0b6c60811f3b13cb1b4315ca6253"
+    },
+    {
+      "file": "arxiv-C0252.xml",
+      "query": "ti:\"Robust AD A Real World Benchmark Dataset for Robustness in Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:53:41.917663+00:00",
+      "status": 200,
+      "sha256": "b74e7c0d3a1091d975d8fd222c12e4abe06ec9294543d62a4dec0ea4e1d907c7"
+    },
+    {
+      "file": "arxiv-C0254.xml",
+      "query": "ti:\"Beyond Random Splits A Temporal Robustness Benchmark for Industrial Food Anomaly Detection\"",
+      "time_utc": "2026-10-22T13:53:45.733746+00:00",
+      "status": 200,
+      "sha256": "a6f3775692d683445b6a8e6c9763e62c872954b4eb610132ab52e6e064752aa8"
+    },
+    {
+      "file": "arxiv-C0267.xml",
+      "query": "ti:\"Generative AI-Driven Robustness Enhancement for Industrial Anomaly Detection in Complex Lighting Scenarios\"",
+      "time_utc": "2026-10-22T13:53:49.884005+00:00",
+      "status": 200,
+      "sha256": "4fb913065514cc4b8a9bbd23649bc72ef3b00a3eee2bc960b9956ac30f21b3a6"
+    },
+    {
+      "file": "arxiv-C0318.xml",
+      "query": "ti:\"ThermalCLIP Hardware-Agnostic Industrial Anomaly Detection via Physics-Informed Thermal Proxies from RGB\"",
+      "time_utc": "2026-10-22T13:53:53.791863+00:00",
+      "status": 200,
+      "sha256": "bc01b238d3ba49395afa4f4002c6b82df5612e09f23cd0e5b98c36ecbc15c09c"
+    },
+    {
+      "file": "arxiv-C0322.xml",
+      "query": "ti:\"Blind Industrial Image Restoration with Semantic Prompting and Graph Reasoning for Surface Defect Inspection\"",
+      "time_utc": "2026-10-22T13:54:04.301190+00:00",
+      "status": 200,
+      "sha256": "e94945fe7247d1a64b7697069d3755bae0e37863a2c282d59414fdafabb92a20"
+    },
+    {
+      "file": "arxiv-C0324.xml",
+      "query": "ti:\"RGB-D Rail Surface Defect Inspection Driven by Conditional Diffusion Architecture and Frequency Knowledge\"",
+      "time_utc": "2026-10-22T13:54:08.211472+00:00",
+      "status": 200,
+      "sha256": "9bade85cc32c7020c722000913e3174cf2bb2449e95364022b9965bf8fd7d495"
+    },
+    {
+      "file": "arxiv-C0326.xml",
+      "query": "ti:\"Automation in bridge deck inspection using drone based RGB-thermal images\"",
+      "time_utc": "2026-10-22T13:54:13.109241+00:00",
+      "status": 200,
+      "sha256": "bfff5747f8bff75cfdaced2bfa9c24716ce28005f1dc8d61d8f7580ac529883d"
+    },
+    {
+      "file": "arxiv-O0005.xml",
+      "query": "ti:\"Unsupervised Defect Detection in Industrial Images with Conformal Anomaly Detection and VAEs\"",
+      "time_utc": "2026-10-22T13:54:17.137233+00:00",
+      "status": 200,
+      "sha256": "75b1a4d78c2322ed2077b7303407f0b4a00a8fc420b6ba99e89be86d27603fe0"
+    },
+    {
+      "file": "arxiv-O0007.xml",
+      "query": "ti:\"A Hybrid Fuzzy Convolutional Neural Network Based Mechanism for Photovoltaic Cell Defect Detection with Electroluminescence Images\"",
+      "time_utc": "2026-10-22T13:54:21.131772+00:00",
+      "status": 200,
+      "sha256": "55352b86eb8664e3468f5f4099f34f49bd4836352bcab28e904d72196cf29675"
+    },
+    {
+      "file": "arxiv-O0016.xml",
+      "query": "ti:\"Deep Learning for Automated Defect Detection in Industrial Manufacturing\"",
+      "time_utc": "2026-10-22T13:54:25.228345+00:00",
+      "status": 200,
+      "sha256": "689f47a9db4f522c70167d94bc1727ce6a7aceaca083a5c8869c0879dd4810fc"
+    },
+    {
+      "file": "arxiv-O0019.xml",
+      "query": "ti:\"A hybrid reliability-oriented framework for concrete infrastructure defect classification using computer vision\"",
+      "time_utc": "2026-10-22T13:54:29.031406+00:00",
+      "status": 200,
+      "sha256": "216d6fd9ff3978fd3cc977e9f4424a0be24607140855e0edb4cd2e2e664b6a65"
+    },
+    {
+      "file": "arxiv-O0029.xml",
+      "query": "ti:\"Identification of concrete surface damage based on probabilistic deep learning of images\"",
+      "time_utc": "2026-10-22T13:54:33.113167+00:00",
+      "status": 200,
+      "sha256": "93a4e11b5bb8f5e950d7413804bea67fb54a1ce853f060c819e12f1a03933f21"
+    },
+    {
+      "file": "arxiv-O0033.xml",
+      "query": "ti:\"Research on precision industrial defect detection assisted by vision foundation models\"",
+      "time_utc": "2026-10-22T13:54:37.127015+00:00",
+      "status": 200,
+      "sha256": "c9e3428dc0cd61af708958555a613c7a5bda80d9e5cdbe2da2640d54cb1a2a3c"
+    },
+    {
+      "file": "arxiv-O0041.xml",
+      "query": "ti:\"Uncertainty quantification for a deep learning models for image-based crack segmentation\"",
+      "time_utc": "2026-10-22T13:54:40.892507+00:00",
+      "status": 200,
+      "sha256": "eca80d55181fdafe6c3e806592c677fa4e6288bc0a600f3b299718a34b782792"
+    },
+    {
+      "file": "arxiv-O0042.xml",
+      "query": "ti:\"Traceability and uncertainty of defects automated measurements by CNN-powered Machine Vision Systems\"",
+      "time_utc": "2026-10-22T13:54:44.893499+00:00",
+      "status": 200,
+      "sha256": "f14a4dc3336e36126e4755d067df5e5464245415e1f3dbcd0466ba6130a836c6"
+    },
+    {
+      "file": "arxiv-O0044.xml",
+      "query": "ti:\"Adaptive convolution confidence sieve learning for surface defect detection under process uncertainty\"",
+      "time_utc": "2026-10-22T13:54:48.711743+00:00",
+      "status": 200,
+      "sha256": "cc3e27e751399ac4e0537795837d6765880ed9723b785238e6ebf34d43c38e3d"
+    },
+    {
+      "file": "arxiv-O0045.xml",
+      "query": "ti:\"Unsupervised Defect Detection across NDT Modalities A Conformal Anomaly DetectionFramework to quantify uncertainty in decision making\"",
+      "time_utc": "2026-10-22T13:54:52.840173+00:00",
+      "status": 200,
+      "sha256": "8bf76c65d0fa904fbb6a91b04f6adbab710581cd7bbdbb7695a1006bbd837f14"
+    },
+    {
+      "file": "arxiv-O0050.xml",
+      "query": "ti:\"Evidential multi-model CNN integration for visual fault detection in solar panels\"",
+      "time_utc": "2026-10-22T13:54:56.964725+00:00",
+      "status": 200,
+      "sha256": "1f76525312f4be1439cac00ae35ef51fc9534770470eb8787c4c3c1931338a82"
+    },
+    {
+      "file": "arxiv-O0065.xml",
+      "query": "ti:\"U2D2PCB Uncertainty-Aware Unsupervised Defect Detection on PCB Images Using Reconstructive and Discriminative Models\"",
+      "time_utc": "2026-10-22T13:55:00.990190+00:00",
+      "status": 200,
+      "sha256": "ed99c8c2b5ec64b74eee8a68f14da7913ad3db04b8ff2e15ca3da30f3873eb49"
+    },
+    {
+      "file": "arxiv-O0066.xml",
+      "query": "ti:\"A Novel Adaptive Convolution Confidence Learning for Surface Defect Detection\"",
+      "time_utc": "2026-10-22T13:55:04.835551+00:00",
+      "status": 200,
+      "sha256": "fc1a512791b69da3dcd9c647b482437d54d9bf9a3bc294d6fd35b20984121bae"
+    },
+    {
+      "file": "arxiv-O0075.xml",
+      "query": "ti:\"Fast AutoAugment-Driven Lightweight Few-Shot Industrial Inspection Image Classification with Calibrated Confidence\"",
+      "time_utc": "2026-10-22T13:55:08.738336+00:00",
+      "status": 200,
+      "sha256": "44e95d38c1e504d237802d84c791466db9b126e9b6c56342f638971cc22c33e8"
+    },
+    {
+      "file": "arxiv-O0083.xml",
+      "query": "ti:\"A physics-guided evidential multimodal uncertainty framework for small-sample welding defect detection using magneto-optical and infrared imaging\"",
+      "time_utc": "2026-10-22T13:55:12.746224+00:00",
+      "status": 200,
+      "sha256": "99c42b8cab513ac5c92488dba67e7277aca455f6a64692ed86a5a02242f0d6ee"
+    },
+    {
+      "file": "arxiv-O0084.xml",
+      "query": "ti:\"Towards trustworthy and interpretable deep learning for vision\u2013enabled industrial pipeline monitoring\"",
+      "time_utc": "2026-10-22T13:55:16.577633+00:00",
+      "status": 200,
+      "sha256": "cba8dc08fd99e4fe66fe165561d6d5c5ee177108fd6a19fe98ae56262acfff45"
+    },
+    {
+      "file": "arxiv-O0089.xml",
+      "query": "ti:\"Adaptive Deep Learning for High-Speed Railway Catenary Swivel Clevis Defects Detection\"",
+      "time_utc": "2026-10-22T13:55:20.403552+00:00",
+      "status": 200,
+      "sha256": "57e397c48d0242c47c2d6498c65cb7b3c6a10fde39d0348f4c3bd4352567ab6a"
+    },
+    {
+      "file": "arxiv-O0091.xml",
+      "query": "ti:\"Convolutional neural network based image recognition for crack severity detection and service life assessment of dissimilar metal welded joints\"",
+      "time_utc": "2026-10-22T13:55:24.269256+00:00",
+      "status": 200,
+      "sha256": "11ff732f9c0a34d7beb27868c2e9b070ca2f5410076cb3892489b54561ee35dd"
+    },
+    {
+      "file": "arxiv-O0096.xml",
+      "query": "ti:\"Collaborative Learning Classification Model for PCBs Defect Detection Against Image and Label Uncertainty\"",
+      "time_utc": "2026-10-22T13:55:28.317362+00:00",
+      "status": 200,
+      "sha256": "6d60283a03db2c36106a23b6de1a7e519abb0746bce28be8df1234d7e59d8488"
+    },
+    {
+      "file": "arxiv-O0109.xml",
+      "query": "ti:\"Explainable and uncertainty-aware deep learning methods for satellite-based monitoring of nuclear power plants\"",
+      "time_utc": "2026-10-22T13:55:32.114279+00:00",
+      "status": 200,
+      "sha256": "48eab2227bbe460d7c77dded2db409fccd2ea2fdd4d27b08a6f8e4de90fb886a"
+    },
+    {
+      "file": "arxiv-O0115.xml",
+      "query": "ti:\"Automated Analysis of Chalk River Unidentified Deposits on Nuclear Fuel Rods Using Deep Learning-Based Computer Vision\"",
+      "time_utc": "2026-10-22T13:55:35.916521+00:00",
+      "status": 200,
+      "sha256": "61de76e47e8dfdab560212694b1f3e2f43a5bb2c9179786ada2490e2331c99de"
+    },
+    {
+      "file": "arxiv-O0116.xml",
+      "query": "ti:\"Uncertainty Modeling in Robotic Maintenance Using Computer Vision\"",
+      "time_utc": "2026-10-22T13:55:39.711937+00:00",
+      "status": 200,
+      "sha256": "e0bb66a13eb984f99506858ddb3239ca169a2a2df1fbe938cac70d5281a58bf0"
+    },
+    {
+      "file": "arxiv-O0119.xml",
+      "query": "ti:\"Engineering-Reliable Multi-Class Damage Segmentation in Reinforced Concrete Bridges Using Domain-Generalized Vision Foundation Models and Conformal Uncertainty Quantification\"",
+      "time_utc": "2026-10-22T13:55:43.730823+00:00",
+      "status": 200,
+      "sha256": "d9f82306e0b481483188cf9f2b8949403151eac6f5cefa59c4243223794b4a71"
+    },
+    {
+      "file": "arxiv-O0122.xml",
+      "query": "ti:\"Human-in-the-loop machine learning system for collaborative defect analysis in industrial 3D printing operations\"",
+      "time_utc": "2026-10-22T13:55:47.585344+00:00",
+      "status": 200,
+      "sha256": "27ddf0ee0cce6e4a334a3cea08383f7fd58ca22d0f6b7a69d9d3d9063eb5cccf"
+    },
+    {
+      "file": "arxiv-O0129.xml",
+      "query": "ti:\"Self\u2010training with Bayesian neural networks and spatial priors for unsupervised domain adaptation in crack segmentation\"",
+      "time_utc": "2026-10-22T13:55:51.452837+00:00",
+      "status": 200,
+      "sha256": "2f3da92c0c368d428dd6e8ceb82f0bfb6b28bacd4646050d455a475c89b95ec9"
+    },
+    {
+      "file": "arxiv-O0130.xml",
+      "query": "ti:\"Self-supervised and Template-Enhanced Unknown-Defect Detection\"",
+      "time_utc": "2026-10-22T13:55:55.545912+00:00",
+      "status": 200,
+      "sha256": "e1f299d8bce8516fb73c75628b049372dbe36dce8047e9c4b729501069253ba3"
+    },
+    {
+      "file": "arxiv-O0133.xml",
+      "query": "ti:\"Modeling Uncertainty in Deep Learning for Focus Prediction of Defocused Images\"",
+      "time_utc": "2026-10-22T13:55:59.953287+00:00",
+      "status": 200,
+      "sha256": "d19d979899cc9baff180d980923762770b643595747fe2323ac8121de59e5c7e"
+    },
+    {
+      "file": "arxiv-O0139.xml",
+      "query": "ti:\"Automating concrete production control with computer vision-based aggregate characterisation\"",
+      "time_utc": "2026-10-22T13:56:03.772294+00:00",
+      "status": 200,
+      "sha256": "da1a4f375cb4cb5496635a74eb83288c55a31ecfd0640477bed4e679c3effe0f"
+    },
+    {
+      "file": "arxiv-O0152.xml",
+      "query": "ti:\"Sample-preserving evaluation and frozen rank consensus for UAV transmission-line anomaly detection under detector uncertainty\"",
+      "time_utc": "2026-10-22T13:56:07.643280+00:00",
+      "status": 200,
+      "sha256": "7f204f9821752055e921200eeef13e19edb04481bd91342a1c36bdb402e8c585"
+    },
+    {
+      "file": "arxiv-O0153.xml",
+      "query": "ti:\"Automated vision-based concrete crack measurement system\"",
+      "time_utc": "2026-10-22T13:56:11.481510+00:00",
+      "status": 200,
+      "sha256": "6d22e73b0b0d02792c1680e2463aeef0296cc24c9484fa1146ea3487351f1756"
+    },
+    {
+      "file": "arxiv-O0164.xml",
+      "query": "ti:\"Automatic Industry PCB Board DIP Process Defect Detection System Based on Deep Ensemble Self-Adaption Method\"",
+      "time_utc": "2026-10-22T13:56:15.357863+00:00",
+      "status": 200,
+      "sha256": "18f3a1e9f130868d0678a14329e6f03fbc31123598a9bccbdb606c4da8fe4222"
+    },
+    {
+      "file": "arxiv-O0165.xml",
+      "query": "ti:\"SMISMP Stable Scoring for Few-Shot 3D Anomaly Detection via Stochastic Metric Modeling\"",
+      "time_utc": "2026-10-22T13:56:19.169344+00:00",
+      "status": 200,
+      "sha256": "49b5f1a6006bef72b5e1e78240dd1070c1e7ac6c8c3b06b1a7d30f596a163696"
+    },
+    {
+      "file": "arxiv-O0177.xml",
+      "query": "ti:\"PCB Defect Detection Model Based on Intrinsic Feature Decomposition and Multilevel Fusion Against Image Uncertainty\"",
+      "time_utc": "2026-10-22T13:56:22.963629+00:00",
+      "status": 200,
+      "sha256": "7d8cd67ce4d746ba271e65580389bce3edcf3dc4195f72037afbe94f30ceb3c0"
+    },
+    {
+      "file": "arxiv-O0182.xml",
+      "query": "ti:\"Deep Visual Anomaly Detection under Data Contamination and Anomaly Heterogeneity\"",
+      "time_utc": "2026-10-22T13:56:28.362912+00:00",
+      "status": 200,
+      "sha256": "4bd4d26a293a7080d5be9351a9ab7afe0cc407a1a2cb2acd0e7743b3692973d5"
+    },
+    {
+      "file": "arxiv-O0189.xml",
+      "query": "ti:\"Uncertainty-driven trustworthy defect detection for high-resolution powder bed images in selective laser melting\"",
+      "time_utc": "2026-10-22T13:56:32.237860+00:00",
+      "status": 200,
+      "sha256": "5d5b71e11bbcce109c017ebea38458e8d772be38a51953822671c87793c1ab4e"
+    },
+    {
+      "file": "arxiv-O0195.xml",
+      "query": "ti:\"Visual Measurement and Uncertainty Prediction of Insulator Thickness in Insulated Rail Joints\"",
+      "time_utc": "2026-10-22T13:56:36.094807+00:00",
+      "status": 200,
+      "sha256": "a9c1dcbaa9b9046f77ae02b68023b26f10e23aaf903460423c22abd19e8a0947"
+    },
+    {
+      "file": "arxiv-O0200.xml",
+      "query": "ti:\"Advancement of defect detection and quantifying measurement uncertainty in X-ray CT inspection\"",
+      "time_utc": "2026-10-22T13:56:39.990042+00:00",
+      "status": 200,
+      "sha256": "4811edf43253ff8f0022c77d38d4d451b676a316b97841395653367aa36375ab"
+    },
+    {
+      "file": "arxiv-O0208.xml",
+      "query": "ti:\"Optimizing Inspection Process Severity by Machine Learning Under Label Uncertainty\"",
+      "time_utc": "2026-10-22T13:56:43.880089+00:00",
+      "status": 200,
+      "sha256": "0b18571acf6b56ed66120a265e1b9ecee94bc25e4b1b04178f8b88c2a4517bc5"
+    },
+    {
+      "file": "arxiv-O0209.xml",
+      "query": "ti:\"Fabric defect detection for complex industrial scenarios a deep learning framework with multi-model fusion and knowledge guidance\"",
+      "time_utc": "2026-10-22T13:56:47.683103+00:00",
+      "status": 200,
+      "sha256": "cf96b81b2b862194b496736b3246e69a0f360f5f9e7ac05e3fb4b10b0b72b5f0"
+    },
+    {
+      "file": "arxiv-O0215.xml",
+      "query": "ti:\"Deep-CNN-Based Layout-to-SEM Image Reconstruction with Conformal Uncertainty Calibration for Nanoimprint Lithography in Semiconductor Manufacturing\"",
+      "time_utc": "2026-10-22T13:56:51.516464+00:00",
+      "status": 200,
+      "sha256": "bf2667dd5a7905a5ce580cda656901c09fd36b3d251051ef7f812f5da3b95828"
+    },
+    {
+      "file": "arxiv-O0221.xml",
+      "query": "ti:\"Few-shot unseen defect segmentation for polycrystalline silicon panels with an interpretable dual subspace attention variational learning framework\"",
+      "time_utc": "2026-10-22T13:56:55.531602+00:00",
+      "status": 200,
+      "sha256": "352074d3f04717e6a4258f5e2ceff6b977485424b31ac64b0dcbb061545cc121"
+    },
+    {
+      "file": "arxiv-O0222.xml",
+      "query": "ti:\"New Possibilistic Formalism Based on Confidence Levels for Metallic Surface Defect Classification\"",
+      "time_utc": "2026-10-22T13:56:59.492922+00:00",
+      "status": 200,
+      "sha256": "fa7d70bd2bf2659bbd95ff5a13a005bd64303c26151ccc54577de2daab9c80d0"
+    },
+    {
+      "file": "arxiv-O0232.xml",
+      "query": "ti:\"Deep learning based automatic analysis of multimodal TFM data in elbow-tube weld junctions in nuclear\"",
+      "time_utc": "2026-10-22T13:57:03.669185+00:00",
+      "status": 200,
+      "sha256": "f1fe181aa5f3f3c8583e492684acd426389bd3ac2844ce5cfb45725efaa165c5"
+    },
+    {
+      "file": "arxiv-O0242.xml",
+      "query": "ti:\"Multiscale Convolution-Based Probabilistic Classification for Detecting Bare PCB Defects\"",
+      "time_utc": "2026-10-22T13:57:07.880245+00:00",
+      "status": 200,
+      "sha256": "fa0778a9dd61600299871dae8fbeae224985c12808b48d35f0d81284b0b9fb24"
+    },
+    {
+      "file": "arxiv-O0244.xml",
+      "query": "ti:\"RBNet An Ultrafast Rendering-Based Architecture for Railway Defect Segmentation\"",
+      "time_utc": "2026-10-22T13:57:11.711722+00:00",
+      "status": 200,
+      "sha256": "46235e5d6b8311663ff082ead83c63a6fa7f88618175511967c7b7ef8f0e421a"
+    },
+    {
+      "file": "arxiv-O0248.xml",
+      "query": "ti:\"CausEvDif A dynamic causal-evidential diffusion model with visual understanding for anomaly detection in the Industrial Internet of Things\"",
+      "time_utc": "2026-10-22T13:57:15.729099+00:00",
+      "status": 200,
+      "sha256": "9d24d8ebf109b59401c2b1188ff68c66d7a7c24ed6a00a18e7049197ac8bbc31"
+    },
+    {
+      "file": "arxiv-O0249.xml",
+      "query": "ti:\"Uncertainty\u2010assisted deep vision structural health monitoring\"",
+      "time_utc": "2026-10-22T13:57:19.720379+00:00",
+      "status": 200,
+      "sha256": "e9ebe2327c0bff2fc93c271b689f064461eb9ebce92894108d8761ab9c9d1847"
+    },
+    {
+      "file": "arxiv-O0250.xml",
+      "query": "ti:\"Uncertainty quantified and adaptive thresholding Bayesian autoencoder for trustworthy online anomaly detection in metal additive manufacturing process\"",
+      "time_utc": "2026-10-22T13:57:23.458480+00:00",
+      "status": 200,
+      "sha256": "f7e6e668479c7711391c49404a7bf0cb42863cba16a5a89f45cb93b35f3f2665"
+    },
+    {
+      "file": "arxiv-O0251.xml",
+      "query": "ti:\"Physics-assisted deep probability learning for natural gas leakage detection from infrared cameras without anomaly data\"",
+      "time_utc": "2026-10-22T13:57:27.400349+00:00",
+      "status": 200,
+      "sha256": "6ce78808f6d3720c2e397de093732e1ad67e804f3e6031ec959f0fe6ba549515"
+    },
+    {
+      "file": "arxiv-O0262.xml",
+      "query": "ti:\"A Multi-Layer Machine Learning Architecture for Near Real-Time Inference in Manufacturing Based on Apache Kafka and Selective Classification\"",
+      "time_utc": "2026-10-22T13:57:31.302998+00:00",
+      "status": 200,
+      "sha256": "5f8cfd6c87d01cc45758708f79a6d5ffc642b9ad1b474f150e8c803b03cdae2e"
+    },
+    {
+      "file": "arxiv-O0281.xml",
+      "query": "ti:\"Physics-aware state space network with uncertainty quantification for automated defect detection in infrared NDT thermography\"",
+      "time_utc": "2026-10-22T13:57:35.240197+00:00",
+      "status": 200,
+      "sha256": "d01137be1f07a488ef5d128a690bb5b7e17ac5fabce8512742a3ac5b0913ac5b"
+    },
+    {
+      "file": "arxiv-O0285.xml",
+      "query": "ti:\"A Diffusion-Based Unsupervised Framework for Wheelset Ultrasonic Defect Detection\"",
+      "time_utc": "2026-10-22T13:57:39.175679+00:00",
+      "status": 200,
+      "sha256": "7ca5ba6124db120d63aa76070ec35a0fc1db232a38b4ccb70ff41fcfa5b53cae"
+    },
+    {
+      "file": "arxiv-O0292.xml",
+      "query": "ti:\"Next-generation aircraft inspection Fuzzy logic-based non-destructive inspection NDI for intelligent fault diagnosis\"",
+      "time_utc": "2026-10-22T13:57:43.230048+00:00",
+      "status": 200,
+      "sha256": "2cdbaf5206985e85134fb778ff30abb34b1536d507947608f64a30384c6d2d99"
+    },
+    {
+      "file": "arxiv-O0295.xml",
+      "query": "ti:\"A Computer vision system for classification of quality goat leather\"",
+      "time_utc": "2026-10-22T13:57:47.172516+00:00",
+      "status": 200,
+      "sha256": "2182aa864672f790d3a513d1baa1fa0090e1feca917a5e45894c6a22b8e487e5"
+    },
+    {
+      "file": "arxiv-O0304.xml",
+      "query": "ti:\"CNN-LSTM detection and short-term prediction of concrete crack severity\"",
+      "time_utc": "2026-10-22T13:57:50.983400+00:00",
+      "status": 200,
+      "sha256": "e6ef2d5e197025c6639b47f90e2cb545432585b771e502373204e23d5a67ada4"
+    },
+    {
+      "file": "arxiv-O0316.xml",
+      "query": "ti:\"Multi-Modal Dynamic Fusion for Defect Detection in Electronic Products A Novel Approach Based on Energy and Deep Learning\"",
+      "time_utc": "2026-10-22T13:57:54.809137+00:00",
+      "status": 200,
+      "sha256": "14c9f32435fc868f14365d87280afc6b585dab6411963d9f909e433e8d3549d9"
+    },
+    {
+      "file": "arxiv-O0329.xml",
+      "query": "ti:\"AI-driven Defect Detection and Multi-Agent Disaster Response for Civil Infrastructure\"",
+      "time_utc": "2026-10-22T13:57:58.732255+00:00",
+      "status": 200,
+      "sha256": "72ba56d9d81b5136cded63b5e813e8e4fc1854bf82ed21b1897530ea1fba766e"
+    },
+    {
+      "file": "arxiv-O0331.xml",
+      "query": "ti:\"Towards a Comprehensive Visual Quality Inspection for Industry 4.0*\"",
+      "time_utc": "2026-10-22T13:58:02.511974+00:00",
+      "status": 200,
+      "sha256": "c334bc675e8181db69387f94d9fdbedaf0b5cfba14a8ccd48b44664a0558e310"
+    },
+    {
+      "file": "arxiv-O0332.xml",
+      "query": "ti:\"Damage segmentation using small convolutional neuronal networks and adversarial training methods on low-quality RGB video data\"",
+      "time_utc": "2026-10-22T13:58:06.836152+00:00",
+      "status": 200,
+      "sha256": "81ace0fa18dbe152be043985267375e50f95a4eea37a6f56e1886719ae809cbc"
+    },
+    {
+      "file": "arxiv-O0339.xml",
+      "query": "ti:\"Uncertainty-aware deep ensembles for real-time porosity prediction in metal additive manufacturing with calibrated confidence for operator decision support\"",
+      "time_utc": "2026-10-22T13:58:10.792085+00:00",
+      "status": 200,
+      "sha256": "70048606329d9dffa3a3d76667e2638cd0efec668b4cb48575cd149277de903e"
+    },
+    {
+      "file": "arxiv-O0343.xml",
+      "query": "ti:\"3D INSPECTION SYSTEM IN CERAMIC TILES SURFACES WITH RANGE IMAGES\"",
+      "time_utc": "2026-10-22T13:58:14.652394+00:00",
+      "status": 200,
+      "sha256": "2ea8c903a540881215536500fba464853ebe8d3f36dcd6be893f3d7d5927ab5a"
+    },
+    {
+      "file": "arxiv-O0354.xml",
+      "query": "ti:\"Operationalizing the R4VR-Framework Safe Human-in-the-Loop Machine Learning for Image Recognition\"",
+      "time_utc": "2026-10-22T13:58:18.512276+00:00",
+      "status": 200,
+      "sha256": "ccb44443b5d106f55e8e82a8bb3141d643b8e805e827bb3885db8a7b9888947f"
+    },
+    {
+      "file": "arxiv-O0376.xml",
+      "query": "ti:\"A Gaussian mixture model for automated corrosion detection in remanufacturing\"",
+      "time_utc": "2026-10-22T13:58:22.391851+00:00",
+      "status": 200,
+      "sha256": "3b6f288f26b99109488ed47eabebfdf5004183cb67aa6eff631183301e860b2e"
+    },
+    {
+      "file": "arxiv-O0394.xml",
+      "query": "ti:\"Few-Shot Industrial Meter Detection Based on Sim-to-Real Domain Adaptation and Category Augmentation\"",
+      "time_utc": "2026-10-22T13:58:26.255229+00:00",
+      "status": 200,
+      "sha256": "6ee2573e492027792c2d924ff8ec2e0b5a9935c9ee3acc27cd55774e2eceb77a"
+    },
+    {
+      "file": "arxiv-O0411.xml",
+      "query": "ti:\"Metrological Characterization of a Clip Fastener assembly fault detection system based on Deep Learning\"",
+      "time_utc": "2026-10-22T13:58:30.066221+00:00",
+      "status": 200,
+      "sha256": "57885da2827ea7d48ffa376dcc0b391ebb0ca9926cb2c1f9681e13c0377b8fed"
+    },
+    {
+      "file": "arxiv-O0412.xml",
+      "query": "ti:\"A Gaussian Mixture Model for Automated Corrosion Detection in Remanufacturing\"",
+      "time_utc": "2026-10-22T13:58:33.961108+00:00",
+      "status": 200,
+      "sha256": "03b8b5d8af77ffcc442356746980b610a709176c61d4bb5fc2e6acaa119e1050"
+    },
+    {
+      "file": "arxiv-O0415.xml",
+      "query": "ti:\"A Multi-Scale Residual Architecture with Dynamic Patch Partitioning for Robust Industrial Anomaly Detection and Localization\"",
+      "time_utc": "2026-10-22T13:58:37.865623+00:00",
+      "status": 200,
+      "sha256": "bcac5e2534472a9767d9ba0cf1c460d76c817188e7778ed90a8c61fcb1c87c42"
+    },
+    {
+      "file": "arxiv-O0416.xml",
+      "query": "ti:\"Data-Efficient, Adaptive, and Language-Augmented Deep Visual Learning for Environmental Monitoring and Civil Infrastructure Inspection\"",
+      "time_utc": "2026-10-22T13:58:41.844768+00:00",
+      "status": 200,
+      "sha256": "bdcbf8de3e42c9f7cab9d07c6da5ff69be12c5aceeab5a1ac93a36dc32b78203"
+    },
+    {
+      "file": "arxiv-O0430.xml",
+      "query": "ti:\"Probabilistic damage assessment of longitudinally reinforced concrete beams using explainable AI and image-based analysis for structural health monitoring\"",
+      "time_utc": "2026-10-22T13:58:45.727824+00:00",
+      "status": 200,
+      "sha256": "18836c320552b7bac45e85fd87506804f7eb047102101c903c42e3162aa78ef9"
+    },
+    {
+      "file": "arxiv-O0443.xml",
+      "query": "ti:\"A Simulation-Based Hybrid Quantum-Classical Channel Attention Network for Reliable Aircraft Skin Defect Recognition\"",
+      "time_utc": "2026-10-22T13:58:49.739419+00:00",
+      "status": 200,
+      "sha256": "8d57ab10d292ddfb04adddb02d9c747fafcb64d1875e31079cddbb82bd760be1"
+    },
+    {
+      "file": "arxiv-O0445.xml",
+      "query": "ti:\"Towards more reliable flux density prediction using uncertainty quantification of neural networks\"",
+      "time_utc": "2026-10-22T13:58:53.568775+00:00",
+      "status": 200,
+      "sha256": "a6cc1f38d2854d94928590623c69595552243fb713c10ab3b7d6f6be41c8ad98"
+    },
+    {
+      "file": "arxiv-O0453.xml",
+      "query": "ti:\"Development and fusion of NDT classifiers for defect detection on underwater structures\"",
+      "time_utc": "2026-10-22T13:58:57.512085+00:00",
+      "status": 200,
+      "sha256": "7b2c37f6e7172be48b1d1ecea0103198c04cbc3306512b16fc1374e84fb5f0b9"
+    },
+    {
+      "file": "arxiv-O0477.xml",
+      "query": "ti:\"Industrial Manometer Detection and Reading for Autonomous Inspection Robots\"",
+      "time_utc": "2026-10-22T13:59:01.410373+00:00",
+      "status": 200,
+      "sha256": "f3cae6496970f44d04c25a2aeba41ee9c8476b0e6087288da91bbd4ce6db2567"
+    },
+    {
+      "file": "arxiv-O0491.xml",
+      "query": "ti:\"A Hybrid Artificial Intelligence Framework for Risk-Oriented Port State Control Pre-Screening of Visual Ship Deficiencies\"",
+      "time_utc": "2026-10-22T13:59:05.291798+00:00",
+      "status": 200,
+      "sha256": "439c9dd16129dfb05f0a3685cdc2488a2689befa0e1c21c824ca57bf134b22a1"
+    },
+    {
+      "file": "arxiv-O0506.xml",
+      "query": "ti:\"A Robust and Real-Time Hyper-Spectral Sensor-Fusion Model for Concrete Crack Segmentation\"",
+      "time_utc": "2026-10-22T13:59:09.298647+00:00",
+      "status": 200,
+      "sha256": "73dd0d9373fccf6544f0399ebdab08716d04b841b8e3117397dfae8f158eea5f"
+    },
+    {
+      "file": "arxiv-O0507.xml",
+      "query": "ti:\"Model-based uncertainty correction for raycasting-based image projection onto 3D reference geometries\"",
+      "time_utc": "2026-10-22T13:59:13.113486+00:00",
+      "status": 200,
+      "sha256": "4f796f3ea33c01c00db314b7ad0a3a1adc947e47fc93bf579e9ba8b533d911f6"
+    },
+    {
+      "file": "arxiv-O0508.xml",
+      "query": "ti:\"Unified physics-informed feature integration framework for probabilistic image-based seismic damage monitoring of reinforced concrete beam\u2013column joints\"",
+      "time_utc": "2026-10-22T13:59:16.938664+00:00",
+      "status": 200,
+      "sha256": "3cb18a0646d730cce3b99fc42c5ddd65cb4d0e2954e30babbca384d3e8fa763c"
+    },
+    {
+      "file": "arxiv-O0509.xml",
+      "query": "ti:\"Upon Human's Unknown, Can AI Help to Address Uncertainty? A Practice on Package Substrate AOI Defect Detection\"",
+      "time_utc": "2026-10-22T13:59:20.865838+00:00",
+      "status": 200,
+      "sha256": "5be04b813c7be1c3025826d50d9151e1c33e8bdaad78329f3145eda1a378f8ca"
+    },
+    {
+      "file": "arxiv-O0531.xml",
+      "query": "ti:\"Active perception based on deep reinforcement learning for autonomous robotic damage inspection\"",
+      "time_utc": "2026-10-22T13:59:24.675967+00:00",
+      "status": 200,
+      "sha256": "017a4ba8dcfaaa4e8308511f89fb6929cb0c230b2a6c95ec997474a5e298e894"
+    },
+    {
+      "file": "arxiv-O0544.xml",
+      "query": "ti:\"Semi-Supervised Bolt Anomaly Detection Based on Local Feature Reconstruction\"",
+      "time_utc": "2026-10-22T13:59:28.425936+00:00",
+      "status": 200,
+      "sha256": "0281fdb4a28824dbf9401c09cf9f9333653276d8f73147e8971952fea52c07e4"
+    },
+    {
+      "file": "arxiv-O0550.xml",
+      "query": "ti:\"Morphological Dynamics-Based Anomaly Detection Towards In Situ Layer-Wise Certification for Directed Energy Deposition Processes\"",
+      "time_utc": "2026-10-22T13:59:32.329799+00:00",
+      "status": 200,
+      "sha256": "a057b1ce60bce7737498f5f911c5aa142f995e8ae0877e9f1a34d58cccdbd98f"
+    },
+    {
+      "file": "arxiv-O0553.xml",
+      "query": "ti:\"A Bidirectional Self-Rectifying Network With Bayesian Modeling for Vision-Based Crack Detection\"",
+      "time_utc": "2026-10-22T13:59:36.183588+00:00",
+      "status": 200,
+      "sha256": "0a3bf9dc8677e41ae4e01a833892800b4b302869e21b94ea5f421d0fb5418d1e"
+    },
+    {
+      "file": "arxiv-O0595.xml",
+      "query": "ti:\"A novel multi-scale Bayesian-KAN model for PV defect detection\"",
+      "time_utc": "2026-10-22T13:59:40.213067+00:00",
+      "status": 200,
+      "sha256": "957ce7c4b870d9b39aa87690f8fda8d90c6a052ff42f5d1bb7c95173011b94c7"
+    },
+    {
+      "file": "arxiv-O0596.xml",
+      "query": "ti:\"Damage\u2010level classification considering both correlation between image and text data and confidence of attention map\"",
+      "time_utc": "2026-10-22T13:59:44.040641+00:00",
+      "status": 200,
+      "sha256": "88228501dcf125ed9963c1c9f082bfa52128c11f63bb0edc45cf4fc5e691cc0e"
+    },
+    {
+      "file": "arxiv-O0610.xml",
+      "query": "ti:\"Hydrophobicity Assessment of Composite Insulators Using Hierarchical Region Attention Network With Measurement Uncertainty Quantification\"",
+      "time_utc": "2026-10-22T13:59:47.890451+00:00",
+      "status": 200,
+      "sha256": "0d995a33bc2a40cd83bed82c5a025914c6401a03e0948eb7d55ca1819cf9426e"
+    },
+    {
+      "file": "arxiv-O0618.xml",
+      "query": "ti:\"Robust Transformer framework with Bayesian-Inspired stochastic attention for underwater cable fault detection\"",
+      "time_utc": "2026-10-22T13:59:51.809444+00:00",
+      "status": 200,
+      "sha256": "5020ba23ddc971e1f037d6fb07ada8bcef198e985c908e1d7dc5a7d226257625"
+    },
+    {
+      "file": "arxiv-O0630.xml",
+      "query": "ti:\"Evaluating the effects of visual AI measurement uncertainty on Bayesian structural durability assessment\"",
+      "time_utc": "2026-10-22T13:59:55.641468+00:00",
+      "status": 200,
+      "sha256": "3f91725fd98db9a3a4af5c501d04d5cd2a057b3d3c7e4bafa24b36556876c6ed"
+    },
+    {
+      "file": "arxiv-O0658.xml",
+      "query": "ti:\"An efficient and uncertainty-aware reinforcement learning framework for quality assurance in extrusion additive manufacturing\"",
+      "time_utc": "2026-10-22T13:59:59.881572+00:00",
+      "status": 200,
+      "sha256": "5d56172d2fcbb46c9e0963addf8069d11518790c2c798e204491287e5045a77a"
+    },
+    {
+      "file": "arxiv-O0680.xml",
+      "query": "ti:\"AgenticInspect Risk-Aware Segmentation Refinement with Hybrid Auditing for Electronic Interconnection Inspection in Smart Manufacturing\"",
+      "time_utc": "2026-10-22T14:00:04.014290+00:00",
+      "status": 200,
+      "sha256": "b7401a83170192518468a594feb67a29378ebf8b1020307c979711b5d6e50e8c"
+    },
+    {
+      "file": "arxiv-O0713.xml",
+      "query": "ti:\"Physics-Constrained Variational Autoencoders for Density Compensation in High-Rise LiDAR Point Clouds\"",
+      "time_utc": "2026-10-22T14:00:13.496574+00:00",
+      "status": 200,
+      "sha256": "dd813e08789035bb6ea6f9b52e534172777ae7a98236b32d8554e31cf08eee6d"
+    },
+    {
+      "file": "arxiv-O0720.xml",
+      "query": "ti:\"Pose-guided YOLO-CED A two-stage framework for robust SMD-PCB defect detection in mobile manipulators\"",
+      "time_utc": "2026-10-22T14:00:17.383490+00:00",
+      "status": 200,
+      "sha256": "9f907fefa83623a278c15e1eb584f856c5ef63e2d3e810d5020ce940e561859f"
+    },
+    {
+      "file": "arxiv-O0721.xml",
+      "query": "ti:\"Towards Visual Classification Under Class Ambiguity\"",
+      "time_utc": "2026-10-22T14:00:21.410500+00:00",
+      "status": 200,
+      "sha256": "3ce959ce7c37176b11b1830c2699efe07eca45fb99791cbdd81130f910b90c13"
+    },
+    {
+      "file": "arxiv-O0724.xml",
+      "query": "ti:\"CAIS Culvert Autonomous Inspection Robotic System\"",
+      "time_utc": "2026-10-22T14:00:28.034674+00:00",
+      "status": 200,
+      "sha256": "35b0c0e699973d42585c97b9738153e0e0bb8114e456a3e46dec2b8f577eb72d"
+    },
+    {
+      "file": "arxiv-O0733.xml",
+      "query": "ti:\"AI-Driven Edge Quality Inspection for Logistics 4.0 Reproducible Code and Experimental Framework\"",
+      "time_utc": "2026-10-22T14:00:33.342404+00:00",
+      "status": 200,
+      "sha256": "f72081df2ca26276e9769fa3af042fbec85d0340759ab5d50a229f190352ec6d"
+    },
+    {
+      "file": "arxiv-O0822.xml",
+      "query": "ti:\"Hydrophobicity Classification of Composite Insulators Using Multi-scale Water Droplet Detection and Feature Fusion\"",
+      "time_utc": "2026-10-22T14:00:37.304827+00:00",
+      "status": 200,
+      "sha256": "cba2e533a8f35c96622418eed11d714f9ebd4997cd93ae10f6d69cc38bcff011"
+    },
+    {
+      "file": "arxiv-O0827.xml",
+      "query": "ti:\"DeepHiTL Deep Bayesian Active Learning for Steel Surface Classification with Human-in-the-Loop\"",
+      "time_utc": "2026-10-22T14:00:41.963319+00:00",
+      "status": 200,
+      "sha256": "8173db2e87cb3f6d278cbf553a858b952e86f3190efcdea2a3ba0a8968983091"
+    },
+    {
+      "file": "arxiv-O0836.xml",
+      "query": "ti:\"A Cross-Modal Consistency and Reliability-Aware Fusion Network for Railway Foreign-Object Segmentation\"",
+      "time_utc": "2026-10-22T14:00:46.384535+00:00",
+      "status": 200,
+      "sha256": "992959856d040c3d1e269a6d18370753817f224186d66592edfa2a547c4796ab"
+    },
+    {
+      "file": "arxiv-O0856.xml",
+      "query": "ti:\"AI-driven UAV solutions for sustainable and reliable infrastructure monitoring in Industry 5.0\"",
+      "time_utc": "2026-10-22T14:00:50.351046+00:00",
+      "status": 200,
+      "sha256": "bb660a2661cb9c4c0aa6702ed2e436c04f0699a53b118350930abd81913ec775"
+    },
+    {
+      "file": "arxiv-O0890.xml",
+      "query": "ti:\"Robust attention driven densenet framework for accurate structural health and crack detection\"",
+      "time_utc": "2026-10-22T14:00:54.400249+00:00",
+      "status": 200,
+      "sha256": "60c5fc2680e0a53079e8e18c0763b450f4ebf64d522b33bc13b7107312bb367a"
+    },
+    {
+      "file": "arxiv-O0893.xml",
+      "query": "ti:\"Automated quantification of longitudinal joint opening in shield tunnels using enhanced multi-modal YOLO and laser scanning\"",
+      "time_utc": "2026-10-22T14:00:58.267516+00:00",
+      "status": 200,
+      "sha256": "e786f9ca5c856370d1029dc2ff1b94eba6a870d5ad7d68ef1998656f83b85114"
+    },
+    {
+      "file": "arxiv-O0902.xml",
+      "query": "ti:\"Power Agent A Risk-Aware Multimodal Agent for Power Equipment Inspection via Hybrid Perception and Environmental Reasoning\"",
+      "time_utc": "2026-10-22T14:01:02.361450+00:00",
+      "status": 200,
+      "sha256": "910d6d8cca92200d4654f87b7a9599f21d162c29a73a11b74c4d831504e3cc9d"
+    },
+    {
+      "file": "arxiv-O0907.xml",
+      "query": "ti:\"Seeing the unseen Semantic segmentation and uncertainty quantification for delamination detection in building facades\"",
+      "time_utc": "2026-10-22T14:01:06.208837+00:00",
+      "status": 200,
+      "sha256": "fc8bc6dd1e0f3807025190df31df099da255438e0e0106218d1d6efe923cde45"
+    },
+    {
+      "file": "arxiv-O1065.xml",
+      "query": "ti:\"\u57fa\u4e8e\u672c\u5f81\u7279\u5f81\u5206\u89e3\u548c\u591a\u7ea7\u878d\u5408\u7684PCB\u7f3a\u9677\u68c0\u6d4b\u6a21\u578b\uff0c\u5bf9\u6297\u56fe\u50cf\u4e0d\u786e\u5b9a\u6027\"",
+      "time_utc": "2026-10-22T14:01:21.430683+00:00",
+      "status": 200,
+      "sha256": "68772bc90573a4aa20663efe955bf509313e3c9c888c46e1f480da0083cf5b4e"
+    },
+    {
+      "file": "arxiv-O1066.xml",
+      "query": "ti:\"Towards Generalizable Representation Learning Across Domains\"",
+      "time_utc": "2026-10-22T14:01:25.309815+00:00",
+      "status": 200,
+      "sha256": "cc3f4f824e0679f2ac3d0366525e73cb1308f222062b4522051f74925e37e226"
+    },
+    {
+      "file": "arxiv-O1448.xml",
+      "query": "ti:\"Visual inspection of steel surface defects based on domain adaptation and adaptive convolutional neural network\"",
+      "time_utc": "2026-10-22T14:01:29.323134+00:00",
+      "status": 200,
+      "sha256": "ccb74ef115a6b8075419357c23c3abd4e6262e639787fbaf8f93303d93a09833"
+    },
+    {
+      "file": "arxiv-O1452.xml",
+      "query": "ti:\"Big-data-driven optics-guided deep learning framework for industrial surface defect inspection\"",
+      "time_utc": "2026-10-22T14:01:33.273886+00:00",
+      "status": 200,
+      "sha256": "a00c3780f45e7bf5aa60c4da1622352cd7d65a192c4cc9c488729d3c5632016c"
+    },
+    {
+      "file": "arxiv-O1453.xml",
+      "query": "ti:\"Shape-Consistent One-Shot Unsupervised Domain Adaptation for Rail Surface Defect Segmentation\"",
+      "time_utc": "2026-10-22T14:01:37.230185+00:00",
+      "status": 200,
+      "sha256": "ba7a83fb48fbbe3a700b2345ce778e26749f2884a669a4596e4ee18cac093e89"
+    },
+    {
+      "file": "arxiv-O1454.xml",
+      "query": "ti:\"Self-Supervised Learning for Few-Shot Industrial Defect Detection\"",
+      "time_utc": "2026-10-22T14:01:41.082212+00:00",
+      "status": 200,
+      "sha256": "6068ad9d723a8d253dbc0aff1afd658a8c0b4dcfd9a9a109cacb465185abf325"
+    },
+    {
+      "file": "arxiv-O1457.xml",
+      "query": "ti:\"A domain generalization classification algorithm for surface defect of photovoltaic silicon wafer based on mixup and DIFEX\"",
+      "time_utc": "2026-10-22T14:01:45.040459+00:00",
+      "status": 200,
+      "sha256": "fbdefa92a8a3ed98783cb3d3989cfd7d95b7ae89b57e729213b13ae0ec121afa"
+    },
+    {
+      "file": "arxiv-O1460.xml",
+      "query": "ti:\"Enhancing aero-engine blade few-shot anomaly detection with visual-language multi-modal models under domain shift conditions\"",
+      "time_utc": "2026-10-22T14:01:49.752222+00:00",
+      "status": 200,
+      "sha256": "f8d5d8d9fd7118765b6114151153af06643613a09495963fdfe21a1072fdf22a"
+    },
+    {
+      "file": "arxiv-O1462.xml",
+      "query": "ti:\"Data-Efficient Deep Learning for Printed Circuit Board Defect Detection Using X-Ray Images\"",
+      "time_utc": "2026-10-22T14:01:53.639108+00:00",
+      "status": 200,
+      "sha256": "c31b1e14e2e6f1c5961ca1e5f6d366c5b57cf77b2eca2dc2a0f8a621061922c9"
+    },
+    {
+      "file": "arxiv-O1464.xml",
+      "query": "ti:\"Few-Shot Parameter Efficient Finetuning for SAM in Salient Steel Surface Defect Detection\"",
+      "time_utc": "2026-10-22T14:01:57.591377+00:00",
+      "status": 200,
+      "sha256": "1e36115976b19d8be6f8bef4ecb923d19e0d750b13f65b75b7be1cfcaa5533f0"
+    },
+    {
+      "file": "arxiv-O1466.xml",
+      "query": "ti:\"Hierarchical adaptive correlation network for few-shot metal surface defect segmentation with cross-domain generalization\"",
+      "time_utc": "2026-10-22T14:02:01.426751+00:00",
+      "status": 200,
+      "sha256": "f6c958b40c58b595a8f7ac73ff79d1f88f0958a052d9bc93134f9667c3d28b08"
+    },
+    {
+      "file": "arxiv-O1467.xml",
+      "query": "ti:\"ADG anomaly-aware framework for domain-generalized few-shot industrial defect detection\"",
+      "time_utc": "2026-10-22T14:02:05.521533+00:00",
+      "status": 200,
+      "sha256": "3a4226076558ae68fc284261e0b9e39f6bb033b1558fe5837c36817b45b169a6"
+    },
+    {
+      "file": "arxiv-O1469.xml",
+      "query": "ti:\"Poisoning Object Detection Models for Surface Defect Inspection in Steel Manufacturing\"",
+      "time_utc": "2026-10-22T14:02:09.415556+00:00",
+      "status": 200,
+      "sha256": "c798611f09df6d2ccb4a548a4c81f01508791c3cc34cf965f9878570421ab233"
+    },
+    {
+      "file": "arxiv-O1470.xml",
+      "query": "ti:\"Poisoning Object Detection Models for Surface Defect Inspection in Steel Manufacturing\"",
+      "time_utc": "2026-10-22T14:02:13.112655+00:00",
+      "status": 200,
+      "sha256": "c798611f09df6d2ccb4a548a4c81f01508791c3cc34cf965f9878570421ab233"
+    },
+    {
+      "file": "arxiv-O1473.xml",
+      "query": "ti:\"Deep-learning-based out-of-distribution data detection in visual inspection images\"",
+      "time_utc": "2026-10-22T14:02:17.056989+00:00",
+      "status": 200,
+      "sha256": "947907e865b88045790d71699f8b660b57173d06e1a0eeafaa52d0feb1b7d5da"
+    },
+    {
+      "file": "arxiv-O1474.xml",
+      "query": "ti:\"Unsupervised Domain Adaptation for Visual Anomaly Detection in Nondestructive Evaluation\"",
+      "time_utc": "2026-10-22T14:02:20.983551+00:00",
+      "status": 200,
+      "sha256": "ff6aacee797481702751efbba87e50f4ddb6ce7381f5379d9f95ee8f2832d6b7"
+    },
+    {
+      "file": "arxiv-O1479.xml",
+      "query": "ti:\"Unsupervised Pixel-Level Detection of Rail Surface Defects Using Multistep Domain Adaptation\"",
+      "time_utc": "2026-10-22T14:02:25.088286+00:00",
+      "status": 200,
+      "sha256": "0615855d65f2c301ed92b290582c68a7ca0bce423633e8331b0ffa9f9a941933"
+    },
+    {
+      "file": "arxiv-O1481.xml",
+      "query": "ti:\"Leveraging Fast Adaptation for Cross-Domain Generalization in Few-Shot Industrial Defect Detection\"",
+      "time_utc": "2026-10-22T14:02:28.948665+00:00",
+      "status": 200,
+      "sha256": "37d04d1f4afe51603a36bcf6d443827e1ad4118ee969513128c1855ec43f6b00"
+    },
+    {
+      "file": "arxiv-O1482.xml",
+      "query": "ti:\"Adapting Domain-Aware Knowledge to Vision-Language Model for Zero-Shot Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:02:32.892802+00:00",
+      "status": 200,
+      "sha256": "a64dc782c3538e01efe963835156e3aa2f281ce6b683f6b5ab387f38fdb31561"
+    },
+    {
+      "file": "arxiv-O1486.xml",
+      "query": "ti:\"Unsupervised domain adaptation for crack detection\"",
+      "time_utc": "2026-10-22T14:02:39.927755+00:00",
+      "status": 200,
+      "sha256": "aa7b2a68fef9e7005683270d5f828264412dd3b56c0ad29ec17bf2b511ee5738"
+    },
+    {
+      "file": "arxiv-O1487.xml",
+      "query": "ti:\"Visual Defect Detection for Substation Equipment based on Joint Inspection Data of Camera and Robot\"",
+      "time_utc": "2026-10-22T14:02:43.731528+00:00",
+      "status": 200,
+      "sha256": "182f96440e41b1df4f60fae8622c1b8f397405ef6bee94e6f124e3662bfdac29"
+    },
+    {
+      "file": "arxiv-O1489.xml",
+      "query": "ti:\"A METHOD FOR IMPROVING THE ACCURACY OF COMPUTER VISION IN DETECTING DEFECTS IN INDUSTRIAL PRODUCTS BASED ON SYNTHETIC DATA AND DOMAIN ADAPTATION\"",
+      "time_utc": "2026-10-22T14:02:47.569904+00:00",
+      "status": 200,
+      "sha256": "58ab7f65b1a0ab7760f189216be5aec0547e986218a1b347bb6df355c49fb95e"
+    },
+    {
+      "file": "arxiv-O1495.xml",
+      "query": "ti:\"Wafer defect pattern classification with detecting out-of-distribution\"",
+      "time_utc": "2026-10-22T14:02:56.179433+00:00",
+      "status": 200,
+      "sha256": "bff3f2b2b4237864b352f9e783362f95d91ecb592edef20c2ceb3592b397dc56"
+    },
+    {
+      "file": "arxiv-O1497.xml",
+      "query": "ti:\"CMF-AD Cross-modal few-shot industrial anomaly detection with cross-domain generalization and interpretable diagnosis\"",
+      "time_utc": "2026-10-22T14:03:00.453558+00:00",
+      "status": 200,
+      "sha256": "751e476c7d7694ef8a2fb5aeb5863860ca4707003a33fb489fe1ffa89b88e166"
+    },
+    {
+      "file": "arxiv-O1500.xml",
+      "query": "ti:\"A novel method for surface defect inspection Unsupervised continual learning for gradually varying domains\"",
+      "time_utc": "2026-10-22T14:03:04.230864+00:00",
+      "status": 200,
+      "sha256": "a818c3734d3724aa4b4236694f23b44238b26fd2f783f740b9acda07241508e2"
+    },
+    {
+      "file": "arxiv-O1502.xml",
+      "query": "ti:\"Cross-domain zero-shot industrial anomaly detection\"",
+      "time_utc": "2026-10-22T14:03:08.193958+00:00",
+      "status": 200,
+      "sha256": "8f55d8315a1c444f5a812bc9831f4ad5b908e16bd4c0bcb25448c9ae03f3c52b"
+    },
+    {
+      "file": "arxiv-O1504.xml",
+      "query": "ti:\"Open-Set Fine-Grained Industrial Defect Classification Based on CLIP Prompt Tuning and Vision-Language Alignment\"",
+      "time_utc": "2026-10-22T14:03:12.158332+00:00",
+      "status": 200,
+      "sha256": "05a5f47215227091c9186a7b9724fa66f57f2b33ff4cb9727eaac528f663b9f8"
+    },
+    {
+      "file": "arxiv-O1505.xml",
+      "query": "ti:\"A Robust Semantic Segmentation Framework for Metal Surface Defect Detection under Noisy Labels\"",
+      "time_utc": "2026-10-22T14:03:16.076534+00:00",
+      "status": 200,
+      "sha256": "02a32c9dd51b98bd1385c509ed4bd9ab36704e2982f923e74d9406454b8fd570"
+    },
+    {
+      "file": "arxiv-O1512.xml",
+      "query": "ti:\"Metric-Based Meta-Learning for Cross-Domain Few-Shot Identification of Welding Defect\"",
+      "time_utc": "2026-10-22T14:03:19.895842+00:00",
+      "status": 200,
+      "sha256": "75eb689b0441d1485b9cc6823fdabb5d94aa9c79262030e3f0898fa83eebb755"
+    },
+    {
+      "file": "arxiv-O1516.xml",
+      "query": "ti:\"Dynamic Domain Adaptation Object Detection for Photovoltaic Cell Defects\"",
+      "time_utc": "2026-10-22T14:03:23.773285+00:00",
+      "status": 200,
+      "sha256": "8871b5ebee443d3946388d03af34de360c67ba4317cf3f2fd60f6a8e0a0f9e7e"
+    },
+    {
+      "file": "arxiv-O1518.xml",
+      "query": "ti:\"Unsupervised cross domain teacher\u2013student collaborative optimization for transmission line insulator defect detection\"",
+      "time_utc": "2026-10-22T14:03:27.595851+00:00",
+      "status": 200,
+      "sha256": "558865c9c4a8002c6f8ebe178a9d6cab21b06bd505353d7715783d588fbceb7b"
+    },
+    {
+      "file": "arxiv-O1520.xml",
+      "query": "ti:\"Unsupervised Domain Adaptation Approach for Vision-Based Semantic Understanding of Bridge Inspection Scenes without Manual Annotations\"",
+      "time_utc": "2026-10-22T14:03:31.377544+00:00",
+      "status": 200,
+      "sha256": "3aa1c4747bcdab5d47858a5d150947819b6c72bad12bcdd10ba7cb5651c1e504"
+    },
+    {
+      "file": "arxiv-O1528.xml",
+      "query": "ti:\"Deep Learning-Based Unsupervised Domain-Adaptive Method for Corrosion Segmentation from Real-World Images\"",
+      "time_utc": "2026-10-22T14:03:35.307079+00:00",
+      "status": 200,
+      "sha256": "4a26d0cee89655d2a2ae30815a77efe0a486e2536946979a3113f1af9730b39c"
+    },
+    {
+      "file": "arxiv-O1530.xml",
+      "query": "ti:\"Scene-Domain-Adaptive Sample Expansion for Few-Shot Insulator Defect Detection\"",
+      "time_utc": "2026-10-22T14:03:39.138391+00:00",
+      "status": 200,
+      "sha256": "dffd49a3b14dbbb0ab0756f7bb09553f43f48ba5e5a3e10e577743a093998f55"
+    },
+    {
+      "file": "arxiv-O1531.xml",
+      "query": "ti:\"Automated crack detection in concrete civil infrastructure using deep learning from benchmark to field deployment with domain adaptation.\"",
+      "time_utc": "2026-10-22T14:03:45.102505+00:00",
+      "status": 200,
+      "sha256": "d07b37e45930a894d2de19128e9209a9cb9b245cc4e3b5fbccee9358ea15bd68"
+    },
+    {
+      "file": "arxiv-O1532.xml",
+      "query": "ti:\"Geometry-Consistency-Guided Unsupervised Domain Adaptation Framework for Cross-Voltage Transmission-Line Point-Cloud Semantic Segmentation\"",
+      "time_utc": "2026-10-22T14:03:48.936651+00:00",
+      "status": 200,
+      "sha256": "2aa3f1c1de2924b54d99d059cd125efe75bbcca270c46d5f6a925398c1ee9c36"
+    },
+    {
+      "file": "arxiv-O1538.xml",
+      "query": "ti:\"Industrial UAV-Based Unsupervised Domain Adaptive Crack Recognitions From Database Towards Real-Site Infrastructural Inspections\"",
+      "time_utc": "2026-10-22T14:03:52.838408+00:00",
+      "status": 200,
+      "sha256": "a24af7957e55ccfec26c1e8bf0e7cb856ae22dd093a830c8bd07d128d15e7a03"
+    },
+    {
+      "file": "arxiv-O1541.xml",
+      "query": "ti:\"Transferring Indoor Corrosion Image Assessment Models to Outdoor Images via Domain Adaptation\"",
+      "time_utc": "2026-10-22T14:03:56.643350+00:00",
+      "status": 200,
+      "sha256": "8ec349c88d1c31a7438cdc0a69f6c95be58273bbd7d69562e15454d892f28419"
+    },
+    {
+      "file": "arxiv-O1543.xml",
+      "query": "ti:\"Fault Diagnosis of PV Modules based on Convolution Neural Network and Out-of-distribution Detection\"",
+      "time_utc": "2026-10-22T14:04:03.181547+00:00",
+      "status": 200,
+      "sha256": "5f06f4eb7980bb63d96481629addd3d75a5aad0388d53cd9ffdcc8f231942f63"
+    },
+    {
+      "file": "arxiv-O1544.xml",
+      "query": "ti:\"Scale-Aware Domain Adaptation for Surface Defects Detection on Machine Tool Components in Contaminant Measurements\"",
+      "time_utc": "2026-10-22T14:04:06.988911+00:00",
+      "status": 200,
+      "sha256": "b7de721237b4bc6a725a45acb2dfb7f778455118b3250d68a5fedf04f48e5937"
+    },
+    {
+      "file": "arxiv-O1546.xml",
+      "query": "ti:\"Geometry-constrained open set recognition with frozen foundation model features for industrial inspection\"",
+      "time_utc": "2026-10-22T14:04:10.919489+00:00",
+      "status": 200,
+      "sha256": "75fd51f542ab93508187824395308a116839e69772f6bec6bcd83046a4219d4d"
+    },
+    {
+      "file": "arxiv-O1548.xml",
+      "query": "ti:\"Study on Anomaly Classifier with Domain Adaptation\"",
+      "time_utc": "2026-10-22T14:04:14.766807+00:00",
+      "status": 200,
+      "sha256": "2a4e1a3e24e5bf7a782e212f10fd9c80bade26af3b7b8cc00b8185203a2db144"
+    },
+    {
+      "file": "arxiv-O1549.xml",
+      "query": "ti:\"Covariate-Shift Generative Adversarial Network and Railway Track Image Analysis\"",
+      "time_utc": "2026-10-22T14:04:18.641012+00:00",
+      "status": 200,
+      "sha256": "f5ef3e3de435a5a84593ce451745535726861bb315bfb19c4af8d902414069ea"
+    },
+    {
+      "file": "arxiv-O1554.xml",
+      "query": "ti:\"A Comparative Study of WeldVGG, CBAM-WeldVGG, and Vision Transformer Hybrid Architectures for Radiographic Weld Defect Classification and Cross-Domain Generalization\"",
+      "time_utc": "2026-10-22T14:04:22.561340+00:00",
+      "status": 200,
+      "sha256": "b25fecd4add10104e73dd7a1defd7539088eafc7444f4a2de10e0dce331ae539"
+    },
+    {
+      "file": "arxiv-O1559.xml",
+      "query": "ti:\"Crack Segmentation with Covariate Shift Adaptation for Multi-Resolution Images\"",
+      "time_utc": "2026-10-22T14:04:26.442788+00:00",
+      "status": 200,
+      "sha256": "340879e9963d77a6c96defa6679dc232ab2e4e41f0d2db9825c076fb62c4f462"
+    },
+    {
+      "file": "arxiv-O1560.xml",
+      "query": "ti:\"FiLo-SFD Vision-Language Driven Anomaly Detection with Scale Feature Disentanglement\"",
+      "time_utc": "2026-10-22T14:04:30.321776+00:00",
+      "status": 200,
+      "sha256": "9407549b21f6874573584b1af678ad233ee0d441a5589e0e15d7c0268edea4ae"
+    },
+    {
+      "file": "arxiv-O1561.xml",
+      "query": "ti:\"Omni-LLaMA-AD A Unified Model for Open-Set Visual Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:04:34.184497+00:00",
+      "status": 200,
+      "sha256": "894bb3e69778a27aadcbf7784fe3b8a69c915dff71f9a869c935e9a5cc905e72"
+    },
+    {
+      "file": "arxiv-O1562.xml",
+      "query": "ti:\"Anomaly-aware prompt learning and multi-scale feature adaptation for zero-shot anomaly detection\"",
+      "time_utc": "2026-10-22T14:04:38.105067+00:00",
+      "status": 200,
+      "sha256": "8a2eae4fdada1c23dd23e7d0be10df2654d45ce2045ae33e53f1c69d76115652"
+    },
+    {
+      "file": "arxiv-O1567.xml",
+      "query": "ti:\"Few-Shot Steel Defect Detection Method Based on Improved Meta-Learning Model\"",
+      "time_utc": "2026-10-22T14:04:42.026042+00:00",
+      "status": 200,
+      "sha256": "ab0c84c41a9154a90fa1aab532646e9b6ff3014eb818cddef9e504daad31ddbe"
+    },
+    {
+      "file": "arxiv-O1569.xml",
+      "query": "ti:\"Open-Set Domain Adaptation Framework based on Ternary Adversarial Learning and Entropy-guidance for Data-driven Fault Diagnosis of Complex Industrial Systems\"",
+      "time_utc": "2026-10-22T14:04:45.846701+00:00",
+      "status": 200,
+      "sha256": "ba706853ed395f518e0fc3e727b0503f86f71ba33695c01416e0ba7b595a7434"
+    },
+    {
+      "file": "arxiv-O1573.xml",
+      "query": "ti:\"Autoencoder-Based Anomaly Detection in Industrial X-ray Images\"",
+      "time_utc": "2026-10-22T14:04:49.663849+00:00",
+      "status": 200,
+      "sha256": "c1a55fa8c6fbd54e9b2590f04427719aedf5d5bf9434a13028efeb6c4e760d5b"
+    },
+    {
+      "file": "arxiv-O1575.xml",
+      "query": "ti:\"Automated fault classification of photovoltaic modules from thermal images using autoencoder-compressed CNN features\"",
+      "time_utc": "2026-10-22T14:04:53.475908+00:00",
+      "status": 200,
+      "sha256": "22f941917a8d62f9da1eafcd550fd8ed1e1c3920d2a788601bf6d1c2d48cd83a"
+    },
+    {
+      "file": "arxiv-O1576.xml",
+      "query": "ti:\"Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation for Intelligent Industrial Visual Monitoring\"",
+      "time_utc": "2026-10-22T14:04:57.264178+00:00",
+      "status": 200,
+      "sha256": "738f723d8faf99c1eb81ff14395e8abef4ea13f8151ce8e7faa5bafb5afdc5d1"
+    },
+    {
+      "file": "arxiv-O1578.xml",
+      "query": "ti:\"Deep learning for defect detection\"",
+      "time_utc": "2026-10-22T14:05:01.203098+00:00",
+      "status": 200,
+      "sha256": "6942b147bbcf9a6537573b800c0f8434d8b04aa09c3e3bc3d3a6c1e00b1113ab"
+    },
+    {
+      "file": "arxiv-O1585.xml",
+      "query": "ti:\"Production-Ready Deep Learning Model Optimization for Anomaly Detection in Photovoltaic Systems\"",
+      "time_utc": "2026-10-22T14:05:05.189056+00:00",
+      "status": 200,
+      "sha256": "ed570ee3accb3448de7abb3088e4ac9480b1dab14f6158fa03ea524274921c37"
+    },
+    {
+      "file": "arxiv-O1586.xml",
+      "query": "ti:\"HDSI-YOLO Hierarchical-semantics Driven Insulator Defect Detection with Cross-domain Generalization\"",
+      "time_utc": "2026-10-22T14:05:09.004275+00:00",
+      "status": 200,
+      "sha256": "115fe5c1049eaf2a619d4d6421a78cd8e690c92e5fde6692367f458f3486d9ef"
+    },
+    {
+      "file": "arxiv-O1590.xml",
+      "query": "ti:\"Zero-shot anomaly detection with dual-branch prompt learning\"",
+      "time_utc": "2026-10-22T14:05:13.017822+00:00",
+      "status": 200,
+      "sha256": "d25001100effd5ece7abb7ad6c2832e1c1f044a1b97d4d2ee81b2a48242f3a13"
+    },
+    {
+      "file": "arxiv-O1592.xml",
+      "query": "ti:\"Domain Adaptation Using Vision Transformers and XAI for Fully Synthetic Industrial Training\"",
+      "time_utc": "2026-10-22T14:05:16.829495+00:00",
+      "status": 200,
+      "sha256": "264c0407f5d6fc92022890883f918e0980b9c3263d333037844577109881e4dd"
+    },
+    {
+      "file": "arxiv-O1597.xml",
+      "query": "ti:\"DiRNet A Domain-Invariant Reconstruction Framework for Unsupervised Anomaly Detection Under Distribution Shift\"",
+      "time_utc": "2026-10-22T14:05:20.695231+00:00",
+      "status": 200,
+      "sha256": "fdedc36a1d4612d99512166e05bbf1a5c0f28dcfd0cbe2fe98c4fd74506f5727"
+    },
+    {
+      "file": "arxiv-O1601.xml",
+      "query": "ti:\"Artificial Intelligence\u2013Based Evaluation System With Domain Adaptation for Ultrathin Wafer Detaping\"",
+      "time_utc": "2026-10-22T14:05:24.561375+00:00",
+      "status": 200,
+      "sha256": "4deb248af19416aef5614fba1907036ff0f62c39ecc2b29afe53d03d9635ffd2"
+    },
+    {
+      "file": "arxiv-O1603.xml",
+      "query": "ti:\"Active Transfer Learning for Corrosion Segmentation in Substation Steel Safety Fences\"",
+      "time_utc": "2026-10-22T14:05:28.353663+00:00",
+      "status": 200,
+      "sha256": "4023c1883d90d906222ade8ace0d9eeec6b5e54f0c31050ceca363008ec12b93"
+    },
+    {
+      "file": "arxiv-O1609.xml",
+      "query": "ti:\"Zero-shot industrial defect detection via domain-adaptive physical priors and semantics-guided Bayesian inference\"",
+      "time_utc": "2026-10-22T14:05:32.174213+00:00",
+      "status": 200,
+      "sha256": "46bfebc54fd92400cbd264ccf87c7a4b2926de8053a25761c00226b1d68cb3b7"
+    },
+    {
+      "file": "arxiv-O1610.xml",
+      "query": "ti:\"Unsupervised domain adaptation framework for crack segmentation using consistency regularization based on cross-domain image augmentation\"",
+      "time_utc": "2026-10-22T14:05:36.069950+00:00",
+      "status": 200,
+      "sha256": "9109cbecdd145552121cd32725db4a5fc4e822099374b6a7cc37d1881fdb1314"
+    },
+    {
+      "file": "arxiv-O1611.xml",
+      "query": "ti:\"Identifying Novel Defects during AI-driven Visual Quality Inspection\"",
+      "time_utc": "2026-10-22T14:05:40.068661+00:00",
+      "status": 200,
+      "sha256": "97b45ad7764d4e1a0735014ae4e207afbe75b92865f436d4b5090ec17bbfd171"
+    },
+    {
+      "file": "arxiv-O1614.xml",
+      "query": "ti:\"Physics-aware unsupervised cross-domain adaptation for high-fidelity enhancement of underwater concrete crack imagery\"",
+      "time_utc": "2026-10-22T14:05:44.202159+00:00",
+      "status": 200,
+      "sha256": "8278662c7bbb399bc5a0b46f89a0f73c557761855d26d4d4f1218c91012f566c"
+    },
+    {
+      "file": "arxiv-O1616.xml",
+      "query": "ti:\"Multi-scale Frequency-Decoupling and Prototype Alignment for Domain-Generalized Steel Surface Defect Detection\"",
+      "time_utc": "2026-10-22T14:05:48.141458+00:00",
+      "status": 200,
+      "sha256": "1ae0055a4362aa943cbcbc9f79fb662656516ca4ad0e61b8529fed214fbf8a79"
+    },
+    {
+      "file": "arxiv-O1619.xml",
+      "query": "ti:\"Cross-domain few-shot defect recognition for metal surfaces\"",
+      "time_utc": "2026-10-22T14:05:52.020772+00:00",
+      "status": 200,
+      "sha256": "38fe0bd9f1aef16801495a2bdfa2f42dffbbac6fb8ee5ec57fa8a85397ca40a4"
+    },
+    {
+      "file": "arxiv-O1624.xml",
+      "query": "ti:\"Few-Shot Learning Augmented with Image Transformation for Multiclass Structural Damage Classification\"",
+      "time_utc": "2026-10-22T14:05:55.838918+00:00",
+      "status": 200,
+      "sha256": "0200345d1ec2fdc48d7f71476503e680043ea9a664c623863e30f465f9330bc5"
+    },
+    {
+      "file": "arxiv-O1626.xml",
+      "query": "ti:\"MLG-STPM Meta-Learning Guided STPM for Robust Industrial Anomaly Detection Under Label Noise\"",
+      "time_utc": "2026-10-22T14:05:59.952657+00:00",
+      "status": 200,
+      "sha256": "30438eeb4acc046064a3e7fc290df8fd6be5d60661f1795e9a90c08a8a7f9cf5"
+    },
+    {
+      "file": "arxiv-O1629.xml",
+      "query": "ti:\"Prototype-Based Supervised Contrastive Learning Method for Noisy Label Correction in Tire Defect Detection\"",
+      "time_utc": "2026-10-22T14:06:03.810709+00:00",
+      "status": 200,
+      "sha256": "8a9e9c7d2c82858590f9bb9d74528be2e8759f59feacf93b7255fdd3960783a1"
+    },
+    {
+      "file": "arxiv-O1641.xml",
+      "query": "ti:\"TextureCLIP Cross-Dataset Zero-Shot Texture Anomaly Segmentation with Triadic Descriptive Prompting\"",
+      "time_utc": "2026-10-22T14:06:07.856754+00:00",
+      "status": 200,
+      "sha256": "e16a515ebca21b1bb7af4a73f08abfa3e920381631c05a3d88a4d6cfbff3a6d8"
+    },
+    {
+      "file": "arxiv-O1642.xml",
+      "query": "ti:\"PCBA defect classification in real world with out-of-distribution detection\"",
+      "time_utc": "2026-10-22T14:06:12.001399+00:00",
+      "status": 200,
+      "sha256": "85640eb3650005a3d4c814c71ccc1584a5b23120ddf40d051deddf447e702814"
+    },
+    {
+      "file": "arxiv-O1646.xml",
+      "query": "ti:\"Robust classification method for printed circuit board defects based on virtual and real space cooperative diffusion model\"",
+      "time_utc": "2026-10-22T14:06:15.896847+00:00",
+      "status": 200,
+      "sha256": "0c20ef6a4c1d420bb39ca7e4341d4a09f4f46f6886ed92891bf5de4bb064b465"
+    },
+    {
+      "file": "arxiv-O1655.xml",
+      "query": "ti:\"Depth-Guided Perception and Policy-Driven Adaptation for Wind Turbine Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:06:19.923853+00:00",
+      "status": 200,
+      "sha256": "5b8e86b480519f1638929636b781963de17c89968fa41f0f078fdacbd6492899"
+    },
+    {
+      "file": "arxiv-O1657.xml",
+      "query": "ti:\"DESR Dual-Encoder Semantic Retrieval for Open-Set Anomaly Discovery\"",
+      "time_utc": "2026-10-22T14:06:23.776252+00:00",
+      "status": 200,
+      "sha256": "46ea1978abdda05362261848c13fa69855f44895b5cab7233a11a0e2a3a86f28"
+    },
+    {
+      "file": "arxiv-O1667.xml",
+      "query": "ti:\"Joint Feature and Label Adversarial Network for Wafer Map Defect Recognition\"",
+      "time_utc": "2026-10-22T14:06:27.906685+00:00",
+      "status": 200,
+      "sha256": "e499f09c1966e80b854ef33510b8529ee39ebcc0c3166e90e8662c8750b34754"
+    },
+    {
+      "file": "arxiv-O1677.xml",
+      "query": "ti:\"Out-of-Distribution Image Detection With Classified Generative Adversarial Network in an Industrial System\"",
+      "time_utc": "2026-10-22T14:06:31.867661+00:00",
+      "status": 200,
+      "sha256": "c10a8791874deb5bb3cfa956d041b4125fbb92f464374c04b912e66228ecb6d0"
+    },
+    {
+      "file": "arxiv-O1679.xml",
+      "query": "ti:\"A Subdomain Adaptation Based Bearing Fault Diagnosis Method Using Infrared Thermal Images\"",
+      "time_utc": "2026-10-22T14:06:35.804533+00:00",
+      "status": 200,
+      "sha256": "02e0dc2757b069f08d582c535d527d63b110bb54b70b57b61ab2c58d1f4a7e93"
+    },
+    {
+      "file": "arxiv-O1682.xml",
+      "query": "ti:\"DualPrompt-CLIP Enhancing Zero-Shot Anomaly Detection by Learnable Prefix-Suffix Textual Context\"",
+      "time_utc": "2026-10-22T14:06:39.653543+00:00",
+      "status": 200,
+      "sha256": "24814d65e91d84b7c35b43e736d2e003f6368a7e23c5fb2447f1db6817b754f0"
+    },
+    {
+      "file": "arxiv-O1684.xml",
+      "query": "ti:\"Unsupervised Domain Adaptation for Crack Segmentation via Cross-Domain Stylization and Dual Adversarial Feature Learning\"",
+      "time_utc": "2026-10-22T14:06:43.543990+00:00",
+      "status": 200,
+      "sha256": "e438cf929ee644faf3b651456fea57c869cc162f52a3d192bac8b1c9ece9e642"
+    },
+    {
+      "file": "arxiv-O1694.xml",
+      "query": "ti:\"Increasing the robustness of material-specific deep learning models for crack detection across different materials\"",
+      "time_utc": "2026-10-22T14:06:47.337657+00:00",
+      "status": 200,
+      "sha256": "d422b9ce50e7c7aac620789c80101eec2b176dcdc55fc58ae02b74e262711a05"
+    },
+    {
+      "file": "arxiv-O1697.xml",
+      "query": "ti:\"Advances in semi and self-supervised learning techniques for cross-domain visual inspection tools\"",
+      "time_utc": "2026-10-22T14:06:51.112440+00:00",
+      "status": 200,
+      "sha256": "59ceb80ca8b347706a63810a5534b24f4917e1a7bbf87e0df1fe567241ff1259"
+    },
+    {
+      "file": "arxiv-O1698.xml",
+      "query": "ti:\"Pavement Crack Segmentation Based on Synthetic Data Sets and Unsupervised Domain Adaptation\"",
+      "time_utc": "2026-10-22T14:06:54.931561+00:00",
+      "status": 200,
+      "sha256": "a73cf5da9c81df0c26dca8e352badf17af1dae2f0439c04364733a4dd4969091"
+    },
+    {
+      "file": "arxiv-O1700.xml",
+      "query": "ti:\"Automating Electrical Grid Asset Inspections Using Deep Vision Evaluating the Impact of Annotation Detail Level\"",
+      "time_utc": "2026-10-22T14:06:58.756058+00:00",
+      "status": 200,
+      "sha256": "732ace9f0d690b47cda2eaf90a31d4f518a962c5c7218d2c833049a06b5e5705"
+    },
+    {
+      "file": "arxiv-O1701.xml",
+      "query": "ti:\"Challenges in Managing Noisy Labels in Crowdsourced Construction Image Datasets\"",
+      "time_utc": "2026-10-22T14:07:02.658164+00:00",
+      "status": 200,
+      "sha256": "4f82bf677fc22a4450bac20a4723b42d1a4f731bbf898f0129dcdc8d35d7a69c"
+    },
+    {
+      "file": "arxiv-O1702.xml",
+      "query": "ti:\"Cross-scale fusion and domain adversarial network for generalizable rail surface defect segmentation on unseen datasets\"",
+      "time_utc": "2026-10-22T14:07:06.604536+00:00",
+      "status": 200,
+      "sha256": "ac586c232f094207c34f6fb8a83cbe066b46b1ad689a28d50039644ee67ec769"
+    },
+    {
+      "file": "arxiv-O1705.xml",
+      "query": "ti:\"Metal Surface Defect Detection based on Variable Mask Ratio Multi-scale Reconstruction\"",
+      "time_utc": "2026-10-22T14:07:10.496398+00:00",
+      "status": 200,
+      "sha256": "0b7f70726d8967f10f962699474a494476db246d2ad31d362531985725a915a3"
+    },
+    {
+      "file": "arxiv-O1710.xml",
+      "query": "ti:\"Dynamic vision-enabled contactless machine fault diagnosis with neuromorphic domain generalization\"",
+      "time_utc": "2026-10-22T14:07:14.473093+00:00",
+      "status": 200,
+      "sha256": "4e13bafe5be0eb06e4fb66e5ac5b5d8e43523e4d7c76936429eaed565977081c"
+    },
+    {
+      "file": "arxiv-O1717.xml",
+      "query": "ti:\"Damage identification of a reduced-scale cable-stayed bridge based on domain adaptation transfer learning\"",
+      "time_utc": "2026-10-22T14:07:18.297743+00:00",
+      "status": 200,
+      "sha256": "db1681f55e449f9f145532b8a5dfa5142a7ccd779a62be7f9fa14cd8b2c5f581"
+    },
+    {
+      "file": "arxiv-O1724.xml",
+      "query": "ti:\"Source-domain accuracy does not guarantee cross-domain reliability CNN vs. DINOv2 defect segmentation under thermographic domain shift\"",
+      "time_utc": "2026-10-22T14:07:22.200960+00:00",
+      "status": 200,
+      "sha256": "220911a7004b59ba5db0bcb2ce075062f98662ad564fcd13a03ca3facc694b1c"
+    },
+    {
+      "file": "arxiv-O1726.xml",
+      "query": "ti:\"Semantic-Guided Robustness Tuning for Few-Shot Transfer Across Extreme Domain Shift\"",
+      "time_utc": "2026-10-22T14:07:25.995430+00:00",
+      "status": 200,
+      "sha256": "0ce3b41c44cec4fda0f284839a2d2445ef97f6193bd45ec3db7987b3a6036d67"
+    },
+    {
+      "file": "arxiv-O1727.xml",
+      "query": "ti:\"YOLOv8-eRFD-AP A Novel Domain Generalization Model for UAV-Based Insulator Inspection Under Adverse Weather Conditions\"",
+      "time_utc": "2026-10-22T14:07:29.843848+00:00",
+      "status": 200,
+      "sha256": "78418181da7ce5a9ef5d7191f88205e66f9503f411eda234eaf6ac574bdb30e4"
+    },
+    {
+      "file": "arxiv-O1730.xml",
+      "query": "ti:\"UniAD Unified cross-modal prompt regularization for zero-shot anomaly detection across domains\"",
+      "time_utc": "2026-10-22T14:07:33.688698+00:00",
+      "status": 200,
+      "sha256": "6c94a6b0b264b81a2317a59d932ba89d3dedd685166ee7f97bd99f9ef274e14c"
+    },
+    {
+      "file": "arxiv-O1732.xml",
+      "query": "ti:\"Robust Defect Recognition under Temporal Domain Shift via Heterogeneous Mixture-of-Experts\"",
+      "time_utc": "2026-10-22T14:07:37.511073+00:00",
+      "status": 200,
+      "sha256": "2ac5a09915193de572ed58a548bc87f260a2c671c2b925ddbfe3de9b5f472548"
+    },
+    {
+      "file": "arxiv-O1736.xml",
+      "query": "ti:\"Applied Bayesian deep learning in fabric quality control\"",
+      "time_utc": "2026-10-22T14:07:41.400964+00:00",
+      "status": 200,
+      "sha256": "f93d6fc08ed7c96a5e7450f0d2f215df6edb54a68481bacc9364134ce2849e9e"
+    },
+    {
+      "file": "arxiv-O1737.xml",
+      "query": "ti:\"Zero-shot component recognition for transmission lines in industrial park microgrids based on permutation-attention transformer and lightweight VLM\"",
+      "time_utc": "2026-10-22T14:07:45.249373+00:00",
+      "status": 200,
+      "sha256": "56290dc5925a675d887036d93c1e0becc326f8940c8b8dff0a7f5af292691c7d"
+    },
+    {
+      "file": "arxiv-O1739.xml",
+      "query": "ti:\"Robust Defect Recognition under Temporal Domain Shift via Heterogeneous Mixture-of-Experts\"",
+      "time_utc": "2026-10-22T14:07:48.823796+00:00",
+      "status": 200,
+      "sha256": "2ac5a09915193de572ed58a548bc87f260a2c671c2b925ddbfe3de9b5f472548"
+    },
+    {
+      "file": "arxiv-O1745.xml",
+      "query": "ti:\"From Digital Model to Reality Application A Domain Adaptation Method for Rail Defect Detection\"",
+      "time_utc": "2026-10-22T14:07:52.825653+00:00",
+      "status": 200,
+      "sha256": "e496b6ae66d795192a838e86fdbc9e87a27459d0f18a9e181fabcfd2b1f689d8"
+    },
+    {
+      "file": "arxiv-O1746.xml",
+      "query": "ti:\"Towards Open-World Object-Based Anomaly Detection via Self-Supervised Outlier Synthesis\"",
+      "time_utc": "2026-10-22T14:07:56.653203+00:00",
+      "status": 200,
+      "sha256": "e24b1d5f89e3cda2c5cfa9d426d1627ba6ea0d1e35fff241dcbe31569972bb45"
+    },
+    {
+      "file": "arxiv-O1747.xml",
+      "query": "ti:\"Multi-modal Classification Using Domain Adaptation for Automated Defect Detection Based on the Hammering Test\"",
+      "time_utc": "2026-10-22T14:08:00.483643+00:00",
+      "status": 200,
+      "sha256": "d5c25197e9519a58c02da407a00c674e5377b15a440ed8c5ab904cc0ce43361a"
+    },
+    {
+      "file": "arxiv-O1749.xml",
+      "query": "ti:\"Self\u2010supervised domain adaptive approach for extrapolated crack segmentation with fine\u2010tuned inpainting generative model\"",
+      "time_utc": "2026-10-22T14:08:04.459943+00:00",
+      "status": 200,
+      "sha256": "034a37c1b7bec6b6d22afad32f8ed50b3bae3ca7a35f6091b3cc8afb47d270d7"
+    },
+    {
+      "file": "arxiv-O1754.xml",
+      "query": "ti:\"Wafer defect semantic reasoning via a three-stage retrieval-augmented system in semiconductor manufacturing\"",
+      "time_utc": "2026-10-22T14:08:08.307117+00:00",
+      "status": 200,
+      "sha256": "e46e8ed64848876fd5df4417bf427c55dbba69f6ca15612dc0f1eccd6bce3581"
+    },
+    {
+      "file": "arxiv-O1756.xml",
+      "query": "ti:\"Defect recognition of small samples in substations based on the domain adaptive YOLOv7\"",
+      "time_utc": "2026-10-22T14:08:12.820964+00:00",
+      "status": 200,
+      "sha256": "f3251d7251f1c86b13dc483966bc0e741bdd687428d2e37e6453563eb819592d"
+    },
+    {
+      "file": "arxiv-O1760.xml",
+      "query": "ti:\"A Novel Teacher\u2013Student Framework for Unsupervised Domain Adaptation in Multi-Perspective Road Pavement Damage Detection\"",
+      "time_utc": "2026-10-22T14:08:16.611887+00:00",
+      "status": 200,
+      "sha256": "48e0af5cf2d99469679a3ec4bfb74f2e4b24e7c376fe120719f2f19957b2ce21"
+    },
+    {
+      "file": "arxiv-O1763.xml",
+      "query": "ti:\"Recognition of unknown wafer defect via optimal bin embedding technique\"",
+      "time_utc": "2026-10-22T14:08:20.563683+00:00",
+      "status": 200,
+      "sha256": "d29a366fee82e0041ca0764ca3e74f1dfa8f2a8108ac7cd826a70df9ac67d4de"
+    },
+    {
+      "file": "arxiv-O1766.xml",
+      "query": "ti:\"Toward intelligent pavement maintenance A transferable deep learning framework for cross-domain crack segmentation and UAV-based field inspection\"",
+      "time_utc": "2026-10-22T14:08:24.416470+00:00",
+      "status": 200,
+      "sha256": "f74f680864b76fa9d3ba388d8c3604282840fd8cc2c8b9361d641e3947948189"
+    },
+    {
+      "file": "arxiv-O1768.xml",
+      "query": "ti:\"UVInsDet A Ground-Based Robotic Inspection Dataset for Insulator Detection and Instance Segmentation in High-Voltage Substations\"",
+      "time_utc": "2026-10-22T14:08:28.260122+00:00",
+      "status": 200,
+      "sha256": "3b259cc7a0035a9c34d84a767219115c3f3e67d4121758afb8ca14fdceddc926"
+    },
+    {
+      "file": "arxiv-O1769.xml",
+      "query": "ti:\"Bipolar augmentation Lightweight artificial intelligence model training for anomaly detection under color cast scenarios\"",
+      "time_utc": "2026-10-22T14:08:34.361873+00:00",
+      "status": 200,
+      "sha256": "3e6703b77f6d76a88c0799a6ca76897b2c09be1d4e3803dc5855966ef72a49b0"
+    },
+    {
+      "file": "arxiv-O1770.xml",
+      "query": "ti:\"Feature-based domain disentanglement and randomization A generalized framework for rail surface defect segmentation in unseen scenarios\"",
+      "time_utc": "2026-10-22T14:08:38.241948+00:00",
+      "status": 200,
+      "sha256": "96be25909bcd481042878e4c31661c48dc26a27aca27749245b3a1f08906334b"
+    },
+    {
+      "file": "arxiv-O1773.xml",
+      "query": "ti:\"Metric\u00e9a Lab 380 European field image dataset for concrete crack classification\"",
+      "time_utc": "2026-10-22T14:08:42.232437+00:00",
+      "status": 200,
+      "sha256": "ca2c4de06138517b72007c62fb716a0a308dea17721535c7d56c6759c417f902"
+    },
+    {
+      "file": "arxiv-O1777.xml",
+      "query": "ti:\"Enhancing robustness to novel visual defects through StyleGAN latent space navigation a manufacturing use case\"",
+      "time_utc": "2026-10-22T14:08:46.118980+00:00",
+      "status": 200,
+      "sha256": "d5acf5535d686063ce78d1ac45de12c63225c19047d6ed1ef17ebaa2430a3025"
+    },
+    {
+      "file": "arxiv-O1780.xml",
+      "query": "ti:\"Joint Domain Adaptation via Cluster Centers and Thermal Imaging for Detecting Leakages in Different Pneumatic Components\"",
+      "time_utc": "2026-10-22T14:08:50.189724+00:00",
+      "status": 200,
+      "sha256": "f94c147122f0a9604d7cbdb02a51f4fb0324b4e4f5d50f52e20078ce22616fa1"
+    },
+    {
+      "file": "arxiv-O1785.xml",
+      "query": "ti:\"Multi-source domain adaptation for quality control in retail food packaging\"",
+      "time_utc": "2026-10-22T14:08:54.047343+00:00",
+      "status": 200,
+      "sha256": "b94bee34c40f3454a2411f188cfceb36be34b3621e93a9afb15935ae3abdfed6"
+    },
+    {
+      "file": "arxiv-O1789.xml",
+      "query": "ti:\"3D bridge segmentation using semi-supervised domain adaptation\"",
+      "time_utc": "2026-10-22T14:08:57.922525+00:00",
+      "status": 200,
+      "sha256": "012dcb1b7c681ab717811058bf0cd343f29f2c523ad0798c34dde298651a00c3"
+    },
+    {
+      "file": "arxiv-O1790.xml",
+      "query": "ti:\"Adaptive Unsupervised Anomaly Detection in Variable Environment by Online Expectation Maximization\"",
+      "time_utc": "2026-10-22T14:09:02.574440+00:00",
+      "status": 200,
+      "sha256": "bf5c324c7b243fa6fe40af5728f8791ede03b789802c731c930ee66e1b0949c4"
+    },
+    {
+      "file": "arxiv-O1793.xml",
+      "query": "ti:\"Fourier Mixture-of-Experts for Robust Infrastructure Defect Segmentation\"",
+      "time_utc": "2026-10-22T14:09:06.494415+00:00",
+      "status": 200,
+      "sha256": "05766efc2eb4f59b6e7599c0cc07d4253e5b496a4f56bfd263de1a6124f86621"
+    },
+    {
+      "file": "arxiv-O1796.xml",
+      "query": "ti:\"Image Style Transfer-Based Data Augmentation for Sanitary Ceramic Defect Detection\"",
+      "time_utc": "2026-10-22T14:09:10.597277+00:00",
+      "status": 200,
+      "sha256": "0f4dd6886315a85165ae8a314030e388114c6f960c5a7f74cce859808b171d11"
+    },
+    {
+      "file": "arxiv-O1797.xml",
+      "query": "ti:\"Feature Clustering for Open-Set Recognition in LCD Manufacturing\"",
+      "time_utc": "2026-10-22T14:09:14.698207+00:00",
+      "status": 200,
+      "sha256": "cc35e3d8c9395b3e771df687d4c2e3a05278e182def2188b38786303d7a8f278"
+    },
+    {
+      "file": "arxiv-O1803.xml",
+      "query": "ti:\"Multi-level joint distributed alignment-based domain adaptation for cross-scenario strip defect recognition\"",
+      "time_utc": "2026-10-22T14:09:18.557569+00:00",
+      "status": 200,
+      "sha256": "0ad954177d724ac6e7b09aa9a1b9db61a416da999445a325022dccf8b92de220"
+    },
+    {
+      "file": "arxiv-O1806.xml",
+      "query": "ti:\"Deterioration Level Estimation for Infrastructures Considering Noisy Labels via DivideMix\"",
+      "time_utc": "2026-10-22T14:09:22.575531+00:00",
+      "status": 200,
+      "sha256": "a4e39f4bf1b29acac67f013c41a2e9ee37304bf792f8e1992a518fa82a43612b"
+    },
+    {
+      "file": "arxiv-O1814.xml",
+      "query": "ti:\"Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness From System and Database Constructions to Real-Site Inspections\"",
+      "time_utc": "2026-10-22T14:09:26.467569+00:00",
+      "status": 200,
+      "sha256": "012cac60e8a68883a51de2bc69112bdc51daa9a0c3cee92f794414dc1feea3bc"
+    },
+    {
+      "file": "arxiv-O1820.xml",
+      "query": "ti:\"A data-efficient framework for domain-adaptive laser point cloud synthesis in automated fiber placement defect detection\"",
+      "time_utc": "2026-10-22T14:09:30.376499+00:00",
+      "status": 200,
+      "sha256": "5806d0de0d0d80a587967183a3af5598b62fdc9947d0cfdc895fffcff5dd3085"
+    },
+    {
+      "file": "arxiv-O1822.xml",
+      "query": "ti:\"HyperTrans Efficient Hypergraph-Driven Cross-Domain Pattern Transfer in Image Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:09:34.247358+00:00",
+      "status": 200,
+      "sha256": "69ef6eec30cc89cc5d8241475047e57a7d85c60ef26cc48b310196104e2be30d"
+    },
+    {
+      "file": "arxiv-O1825.xml",
+      "query": "ti:\"Domain-Adapted CNNs for Interpretable Weld Classification\"",
+      "time_utc": "2026-10-22T14:09:38.039840+00:00",
+      "status": 200,
+      "sha256": "988c0b9f0ac1bdb90b712d019c9834337917e57418cc7ad9fd47018fc2e25b2e"
+    },
+    {
+      "file": "arxiv-O1839.xml",
+      "query": "ti:\"Dual-branch contrastive learning with domain-aware augmentation for industrial anomaly detection\"",
+      "time_utc": "2026-10-22T14:09:41.965605+00:00",
+      "status": 200,
+      "sha256": "6d85b52c7a5e2810f056794f6c5b376148d9a4c3f0310e02419f5a8da05e50ef"
+    },
+    {
+      "file": "arxiv-O1841.xml",
+      "query": "ti:\"Generalized Extraction of Bolts, Mesh, and Rock in Tunnel Point Clouds A Critical Comparison of Geometric Feature-Based Methods Using Random Forest and Neural Networks\"",
+      "time_utc": "2026-10-22T14:09:45.797053+00:00",
+      "status": 200,
+      "sha256": "8207a32111fa464ac7b54e23fad146f6ed82b93d1b30af404902541d16ba5346"
+    },
+    {
+      "file": "arxiv-O1842.xml",
+      "query": "ti:\"Learning to Adapt Deep Corrosion Assessment Models From Indoor to Outdoor Image Domains\"",
+      "time_utc": "2026-10-22T14:09:49.621726+00:00",
+      "status": 200,
+      "sha256": "6f78dde8426582134cc1f6382c1ad69debc3402470007815b4affa2ac79cba62"
+    },
+    {
+      "file": "arxiv-O1852.xml",
+      "query": "ti:\"Introducing Multi-Source Domain Adaptation for Quality Control in Retail Food Packaging\"",
+      "time_utc": "2026-10-22T14:09:53.594841+00:00",
+      "status": 200,
+      "sha256": "0e80d461adae7e6cf27fd6dcfca8541862a6aedb56002941159f9024b9cea362"
+    },
+    {
+      "file": "arxiv-O1853.xml",
+      "query": "ti:\"UAV-Based Railway Anomaly Detection Algorithm Based on a Twin Network Cascading UNet++\"",
+      "time_utc": "2026-10-22T14:09:57.418403+00:00",
+      "status": 200,
+      "sha256": "8147234dd26a8387a9bae165432ebc8bd29852c831c00683e04face88907c5e3"
+    },
+    {
+      "file": "arxiv-O1855.xml",
+      "query": "ti:\"Tunnel scanner Geometry-informed synthetic point cloud generation and transfer learning for tunnel segmentation\"",
+      "time_utc": "2026-10-22T14:10:01.810966+00:00",
+      "status": 200,
+      "sha256": "1b2282aba55920f881f88e7349654dd1a146851699199f1047befda354b5b25c"
+    },
+    {
+      "file": "arxiv-O1859.xml",
+      "query": "ti:\"A Segment Anything Model adaptation framework for battery visual inspection under complex radiographic imaging conditions\"",
+      "time_utc": "2026-10-22T14:10:05.631079+00:00",
+      "status": 200,
+      "sha256": "b112f65d33f2afc526448a438ff4950b6291a29e18cc6f6a27bb60583d5f9ccf"
+    },
+    {
+      "file": "arxiv-O1862.xml",
+      "query": "ti:\"Robust Pointer Meter Reading Recognition Method Under Image Corruption\"",
+      "time_utc": "2026-10-22T14:10:09.399449+00:00",
+      "status": 200,
+      "sha256": "07ae237c44cd2ba867e85e44d59bba12a5cdc4a708f5263372aeaa79f1c699cf"
+    },
+    {
+      "file": "arxiv-O1874.xml",
+      "query": "ti:\"Robust Multi-Modal Infrared Fault Diagnosis for Power Equipment with Cross-Device Generalization and Corruption Robustness\"",
+      "time_utc": "2026-10-22T14:10:14.198901+00:00",
+      "status": 200,
+      "sha256": "933473dd6ffbd75da77dbdf6a682592248f7d8307517361ed318d4311883259c"
+    },
+    {
+      "file": "arxiv-O1879.xml",
+      "query": "ti:\"Deep learning without human labeling for on-site rebar instance segmentation using synthetic BIM data and domain adaptation\"",
+      "time_utc": "2026-10-22T14:10:18.327590+00:00",
+      "status": 200,
+      "sha256": "e99c7893ecf4188e153a47850f9a72532fe2a1757cdf3528c2dcd0cdf0ca6d61"
+    },
+    {
+      "file": "arxiv-O1881.xml",
+      "query": "ti:\"Ensuring reliable LNG carrier PSC inspections A knowledge-grounded and reinforcement learning-augmented vision-language framework for decision support\"",
+      "time_utc": "2026-10-22T14:10:22.268563+00:00",
+      "status": 200,
+      "sha256": "3d86c862e8e4e2a1f74e7dc8439e657f0781ac68ed05610ace999c4aa181e757"
+    },
+    {
+      "file": "arxiv-O1884.xml",
+      "query": "ti:\"Open-Set Fault Diagnosis Using Clip with Forward-Reverse Reasoning\"",
+      "time_utc": "2026-10-22T14:10:26.265874+00:00",
+      "status": 200,
+      "sha256": "2656cdefaa473fbf5e96e6a25219837bb2c12571c271bf2859e104443ed24f54"
+    },
+    {
+      "file": "arxiv-O1885.xml",
+      "query": "ti:\"MARBLE-DA Masonry analysis with robust, batch-normalised, label-free, explainable domain adaptation for crack detection\"",
+      "time_utc": "2026-10-22T14:10:30.056280+00:00",
+      "status": 200,
+      "sha256": "cb2b357e6b417ee1f8198019d7a0b336fc36ab048944893f44e1a06f8a2921ef"
+    },
+    {
+      "file": "arxiv-O1891.xml",
+      "query": "ti:\"An End-to-end Deep Learning Framework for Automated Woven Fabric Pattern Recognition using UNet, GAN, and CNN\"",
+      "time_utc": "2026-10-22T14:10:33.864063+00:00",
+      "status": 200,
+      "sha256": "00e5a4cfb30fb80723e9dc73951e22b3661870a429bc566821cbd852987b9b39"
+    },
+    {
+      "file": "arxiv-O1898.xml",
+      "query": "ti:\"Advanced Non-Local Pipeline for Domain-Adapted Intelligent Power Device Defects Analysis for a Robust Traction Inverter in Next Generation Electric Cars\"",
+      "time_utc": "2026-10-22T14:10:37.719892+00:00",
+      "status": 200,
+      "sha256": "8ff11f76d66fecc5e8d189123fcb9d7d8defba91e9118deaacb4cd90aa802eb3"
+    },
+    {
+      "file": "arxiv-O1901.xml",
+      "query": "ti:\"Self-training method for structural crack detection using image blending-based domain mixing and mutual learning\"",
+      "time_utc": "2026-10-22T14:10:41.562773+00:00",
+      "status": 200,
+      "sha256": "6a776e91b1dc8450d369773fa631a83f565d85797bf77e9b63d5e7e397beb9bc"
+    },
+    {
+      "file": "arxiv-O1907.xml",
+      "query": "ti:\"Conditional diffusion models as generative classifiers for out-of-distribution detection in inkjet print quality control\"",
+      "time_utc": "2026-10-22T14:10:45.439289+00:00",
+      "status": 200,
+      "sha256": "e359de7a9cc8c763314c7028afc6a0607ccd85d2594380ab1957b5629a87021e"
+    },
+    {
+      "file": "arxiv-O1910.xml",
+      "query": "ti:\"A Self-Supervised Enhancement Method on Large Foundation Vision Model for Power System Detection\"",
+      "time_utc": "2026-10-22T14:10:49.250667+00:00",
+      "status": 200,
+      "sha256": "da6615e0baccef3205c6d0b72882999424f9fb6def8c447969fe28a5f6734e41"
+    },
+    {
+      "file": "arxiv-O1911.xml",
+      "query": "ti:\"Development of Software for Defect Measurement on Threaded Inserts\"",
+      "time_utc": "2026-10-22T14:10:53.080393+00:00",
+      "status": 200,
+      "sha256": "0eba3682f053af39c053cad535e5dfc8f5bb83d07a86042bd309dd608c59f029"
+    },
+    {
+      "file": "arxiv-O1918.xml",
+      "query": "ti:\"Controllable flow matching synthesis for generalizable crack segmentation with a 50k image\u2013mask benchmark\"",
+      "time_utc": "2026-10-22T14:10:56.956115+00:00",
+      "status": 200,
+      "sha256": "1473589465f229ceae0144c9d3b3e002615ca7a67c3c196061591406566569dd"
+    },
+    {
+      "file": "arxiv-O1921.xml",
+      "query": "ti:\"Neuromorphic computing-enabled generalized machine fault diagnosis with dynamic vision\"",
+      "time_utc": "2026-10-22T14:11:00.908711+00:00",
+      "status": 200,
+      "sha256": "9b83f76a919c2826c635e4f5c8796fe32230e7e50fe6e4d00b8dec7d07df183e"
+    },
+    {
+      "file": "arxiv-O1926.xml",
+      "query": "ti:\"Defect Detection For Surgical Instrument Quality Assurance\"",
+      "time_utc": "2026-10-22T14:11:04.733901+00:00",
+      "status": 200,
+      "sha256": "510a8d41a47f41b7d335ffa4c53fcd04406efe33938050521f2791e2e24da60d"
+    },
+    {
+      "file": "arxiv-O1929.xml",
+      "query": "ti:\"Research on AI-based digital image detection of road surface damage for autonomous driving\"",
+      "time_utc": "2026-10-22T14:11:08.656449+00:00",
+      "status": 200,
+      "sha256": "8a3f86aeef7a75219cdcfe4c7f7bbab54cfaf28cd7ada719f8149f6f241eb844"
+    },
+    {
+      "file": "arxiv-O1935.xml",
+      "query": "ti:\"YOLOv12-DynaFocus A Parameter-Budgeted Dynamic-Attention Detector for Thin-Defect-Aware PCB Inspection Under Compute and Latency Constraints\"",
+      "time_utc": "2026-10-22T14:11:12.549445+00:00",
+      "status": 200,
+      "sha256": "141cd7d034dba65e7ed7d63c90000c52ca3c569dc3c69c7e674267788006a819"
+    },
+    {
+      "file": "arxiv-O1939.xml",
+      "query": "ti:\"Open-World Foreign Object Debris Detection Framework Empowered by Generative Adversarial Network and Computer Vision Models\"",
+      "time_utc": "2026-10-22T14:11:16.440875+00:00",
+      "status": 200,
+      "sha256": "d83c7a86de243d12e143bcec26a27cdf194f1a553a6f369644a5a9072e6bd6c9"
+    },
+    {
+      "file": "arxiv-O1940.xml",
+      "query": "ti:\"Research on Active Learning Method Based on Domain Adaptation and Collaborative Training\"",
+      "time_utc": "2026-10-22T14:11:20.536135+00:00",
+      "status": 200,
+      "sha256": "ec2b112d7eafbcd1d10c38e86b5e40a5f70678f6013c9e0e472db00e5c191ff9"
+    },
+    {
+      "file": "arxiv-O1943.xml",
+      "query": "ti:\"Robust Novel Defect Detection with Neurosymbolic AI\"",
+      "time_utc": "2026-10-22T14:11:24.433829+00:00",
+      "status": 200,
+      "sha256": "eb21788760b143ec56c9e1e6f739f1aacdf4cfd331f9085d1ae66b8b6b073ece"
+    },
+    {
+      "file": "arxiv-O1944.xml",
+      "query": "ti:\"Research on Intelligent Diagnosis Algorithm of Transmission Line Sky-ground Integrated Inspection Based on Multi-source Heterogeneous Data Fusion\"",
+      "time_utc": "2026-10-22T14:11:28.239450+00:00",
+      "status": 200,
+      "sha256": "4b836bd983792eeef7f9a8c9e02f81ab959ebf40b42699462fc3ab61b20f2fa3"
+    },
+    {
+      "file": "arxiv-O1947.xml",
+      "query": "ti:\"ReProInspect Framework for Reproducible Defect Datasets for Improved AOI of PCBAs\"",
+      "time_utc": "2026-10-22T14:11:32.109967+00:00",
+      "status": 200,
+      "sha256": "e922076f20c8ded3f6925abd13c614c67486d6894ebd752500723f71a3e88444"
+    },
+    {
+      "file": "arxiv-O1948.xml",
+      "query": "ti:\"Federated Learning Strategies for Enhanced Quality Inspection Processes in Manufacturing Industry\"",
+      "time_utc": "2026-10-22T14:11:35.893233+00:00",
+      "status": 200,
+      "sha256": "528c4a596d35acae9ee5106f4fa64aaf264918507b72e9e972e8a7f48d912199"
+    },
+    {
+      "file": "arxiv-O1952.xml",
+      "query": "ti:\"Out-of-Distribution-Aware Structural Damage Classification via Hybrid Variational Autoencoder and Gradient Boosting\"",
+      "time_utc": "2026-10-22T14:11:39.701357+00:00",
+      "status": 200,
+      "sha256": "042d6753d8acb25bb6f351c8c1c8ca4a98af2854ab8c9da551e6d730c78999bd"
+    },
+    {
+      "file": "arxiv-O1960.xml",
+      "query": "ti:\"Anomaly Detection via a Bottleneck Structure Robust to Noise in In-Distribution Samples\"",
+      "time_utc": "2026-10-22T14:11:43.511528+00:00",
+      "status": 200,
+      "sha256": "5eb54fc4ef86a3cacf4913edbd9107fe454ee69857f34fcc74a77594db7ebd73"
+    },
+    {
+      "file": "arxiv-O1961.xml",
+      "query": "ti:\"Environmentally-Robust Defect Classification With Domain Augmentation Framework\"",
+      "time_utc": "2026-10-22T14:11:47.313588+00:00",
+      "status": 200,
+      "sha256": "9f2e968546b0f705fc6e5dd816122309dd4969114120e3b1a2a595f3372cfd14"
+    },
+    {
+      "file": "arxiv-O1982.xml",
+      "query": "ti:\"Bandung Pothole Image Dataset BPID\"",
+      "time_utc": "2026-10-22T14:11:51.306017+00:00",
+      "status": 200,
+      "sha256": "a742ead1d9d1ededdce25aef754cb1d504361d55a6e75ac2eea1f1eb34ce435a"
+    },
+    {
+      "file": "arxiv-O1993.xml",
+      "query": "ti:\"Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:11:55.333010+00:00",
+      "status": 200,
+      "sha256": "894fdd07377a6710822993ab0f7f8ebe9cd2d69d5a40cacad9202807358f9242"
+    },
+    {
+      "file": "arxiv-O1998.xml",
+      "query": "ti:\"Test-Time Feature Caching Network for cross-domain multilayer ceramic capacitors defect detection\"",
+      "time_utc": "2026-10-22T14:11:59.283020+00:00",
+      "status": 200,
+      "sha256": "8c89ee094de6c89aaf2dce37d7db3604dafc670c12e190e41c1cad18d215cbba"
+    },
+    {
+      "file": "arxiv-O2005.xml",
+      "query": "ti:\"Spatial Attention Mechanism Derived from Diffusion Model for Photovoltaic Cell Fault Diagnosis\"",
+      "time_utc": "2026-10-22T14:12:03.162429+00:00",
+      "status": 200,
+      "sha256": "b26fe0a52128b45ace833c4ca55c879afad44b36dd68049feebfcedae521c6bd"
+    },
+    {
+      "file": "arxiv-O2008.xml",
+      "query": "ti:\"ACVRL An Autonomous Causal Vision-Reinforcement Learning Framework for Self-Evolving Manufacturing Intelligence\"",
+      "time_utc": "2026-10-22T14:12:06.977070+00:00",
+      "status": 200,
+      "sha256": "7535c00b072c0944863a6679ff0ad02bb7742b3fb9f9f9a3dd6aa4be607f02d0"
+    },
+    {
+      "file": "arxiv-O2010.xml",
+      "query": "ti:\"An Offline Adaptive Defect Detection Method via Style- and Instance-Level Domain-Invariant Feature Learning\"",
+      "time_utc": "2026-10-22T14:12:10.848090+00:00",
+      "status": 200,
+      "sha256": "15bbf5e3f4a65f591179136e10707f5a508a668cd61c10817ef2a754e2d622a1"
+    },
+    {
+      "file": "arxiv-O2011.xml",
+      "query": "ti:\"Adaptive Neural Network for Real-World Dynamic Learning Environment\"",
+      "time_utc": "2026-10-22T14:12:14.697626+00:00",
+      "status": 200,
+      "sha256": "97cc4304331730f36ffd51a6ea4fbc9163f4d71a6a1bf4ea320a3d1a47cfbd63"
+    },
+    {
+      "file": "arxiv-O2020.xml",
+      "query": "ti:\"A Cyber-Physical Sovereign Architecture for Autonomous Grid-Inspection Humanoids Variational Bayesian Cubature Kalman Filtering, Sobolev-Orthogonalized MoE-CLIP Anomaly Detection, and Tamper-Evident Spatial Memory Phase III\"",
+      "time_utc": "2026-10-22T14:12:18.778350+00:00",
+      "status": 200,
+      "sha256": "e2f7c6d6326fa033d5065d656117ecf558a5a3a22bd82126892c3ff6a4f1182d"
+    },
+    {
+      "file": "arxiv-O2025.xml",
+      "query": "ti:\"Toward Trustworthy Power Line Perception from Aerial Imagery Segmentation and Reliability Monitoring\"",
+      "time_utc": "2026-10-22T14:12:23.720246+00:00",
+      "status": 200,
+      "sha256": "b9c444485879afe5648dfe17f5fdd6bfaf86752e16114a768bcc610c76bf37ff"
+    },
+    {
+      "file": "arxiv-O2037.xml",
+      "query": "ti:\"A Multi-Task Deep Learning Framework for Road Quality Analysis with Scene Mapping via Sim-to-Real Adaptation\"",
+      "time_utc": "2026-10-22T14:12:27.905572+00:00",
+      "status": 200,
+      "sha256": "b3b1990765d5e5f965e30961d69b96b9d0e4b2510c4972400a540ca626f5fcb2"
+    },
+    {
+      "file": "arxiv-O2040.xml",
+      "query": "ti:\"Domain Generalized Solar Cell Defect Segmentation Based on Shape-Aware and Multi-View Meta-Learning\"",
+      "time_utc": "2026-10-22T14:12:31.704178+00:00",
+      "status": 200,
+      "sha256": "54a84f4f56d7cd8540ab5aed4031db09f9bde6afa6a5cf0373718471f7ccb0dd"
+    },
+    {
+      "file": "arxiv-O2048.xml",
+      "query": "ti:\"Two-Stage Semantic Segmentation of Underwater Concrete Cracks via Physics-Constrained Style Transfer and Prior-Augmented Semi-Supervised Learning\"",
+      "time_utc": "2026-10-22T14:12:35.851616+00:00",
+      "status": 200,
+      "sha256": "be021f0c8e7be834d5ee1b6abebe5c97cfb0ebe5166c71885f6b9d2ab63b00df"
+    },
+    {
+      "file": "arxiv-O2052.xml",
+      "query": "ti:\"Explainable AI reveals Clever Hans effects in unsupervised learning models\"",
+      "time_utc": "2026-10-22T14:12:39.793387+00:00",
+      "status": 200,
+      "sha256": "a6982b41536abdc1be99d9d2c61a1000e642cd44216b2ab6b37ba58e15501243"
+    },
+    {
+      "file": "arxiv-O2062.xml",
+      "query": "ti:\"Multi-sensor AI for Surface Fault Detection\"",
+      "time_utc": "2026-10-22T14:12:43.669809+00:00",
+      "status": 200,
+      "sha256": "3c3099d85f40c6e22fdb5fb33485664a29ec47c4aaa24e3df99e10d6171e57a8"
+    },
+    {
+      "file": "arxiv-O2064.xml",
+      "query": "ti:\"H-VLA A Robust Neuro-Symbolic Framework via Cross-Modal Disagreement and Retrieval-Augmented Adaptation for Fine-Grained Defect Classification\"",
+      "time_utc": "2026-10-22T14:12:47.579411+00:00",
+      "status": 200,
+      "sha256": "3425c568817629914768c44ead8f1c4264599a230519fe9d84a41864f943ea90"
+    },
+    {
+      "file": "arxiv-O2134.xml",
+      "query": "ti:\"Cross-Domain Structural Damage Identification via MMD-Based Transfer Learning Application to An Experimental Truss Model\"",
+      "time_utc": "2026-10-22T14:12:51.374228+00:00",
+      "status": 200,
+      "sha256": "03f436a6f31db91db7b46ea9b8139bacdacd7be00809deb4373390a8aec94830"
+    },
+    {
+      "file": "arxiv-O2136.xml",
+      "query": "ti:\"Scaling Limits of Federated Learning for Road Damage Detection Across Countries\"",
+      "time_utc": "2026-10-22T14:12:55.232348+00:00",
+      "status": 200,
+      "sha256": "abda79f772d836069a0154224f281a338047085209ec9dcf0bea9cc0408b7174"
+    },
+    {
+      "file": "arxiv-O2158.xml",
+      "query": "ti:\"A Human-Centric Augmentation Framework for Robust Object Detection\"",
+      "time_utc": "2026-10-22T14:12:59.455780+00:00",
+      "status": 200,
+      "sha256": "875222cec3a0666a2125403ab13e50ac32fabb01e647c45112ffbb1a14e198be"
+    },
+    {
+      "file": "arxiv-O2161.xml",
+      "query": "ti:\"Towards Reliable Multimodal Learning for Real-world Systems\"",
+      "time_utc": "2026-10-22T14:13:03.601662+00:00",
+      "status": 200,
+      "sha256": "e2e59818489783eb02501e9ebc1a97a8de2fb9b81d1de4559b0a5f0f58b6b440"
+    },
+    {
+      "file": "arxiv-O2167.xml",
+      "query": "ti:\"Synth\u00e8se d'images multimodales pour le contr\u00f4le de qualit\u00e9 bas\u00e9 sur l'IA\"",
+      "time_utc": "2026-10-22T14:13:07.388490+00:00",
+      "status": 200,
+      "sha256": "2e0254b9f6b3c581266416ecd1b0629af96b25e0a44af6f64e8d2706ff5da29f"
+    },
+    {
+      "file": "arxiv-O2178.xml",
+      "query": "ti:\"WoodVision Sim2Real baserad syntetisk bildgenerering f\u00f6r prediktion av produktionsstopp i ett s\u00e5gverk\"",
+      "time_utc": "2026-10-22T14:13:11.231532+00:00",
+      "status": 200,
+      "sha256": "1a37bddbf2f624978dd70b79257459147fb2232588ae3a7ef32886808ca8348d"
+    },
+    {
+      "file": "arxiv-O2184.xml",
+      "query": "ti:\"Multimodal fusion for detection and recognition A task-conditioned survey of methods, applications, and reliability\"",
+      "time_utc": "2026-10-22T14:13:15.112973+00:00",
+      "status": 200,
+      "sha256": "fd156c26926b08d5acef86de56d115301f021f62938135681d6aab4b288d602d"
+    },
+    {
+      "file": "arxiv-O2228.xml",
+      "query": "ti:\"Label-Flip Attack Detection via Trust-Weighted Aggregation in Federated Learning for Underground Mine Security\"",
+      "time_utc": "2026-10-22T14:13:18.988397+00:00",
+      "status": 200,
+      "sha256": "8d50c7065a0d2415b08dfd07527cd62b36ff2d575abbc60700766068941c3d15"
+    },
+    {
+      "file": "arxiv-O2261.xml",
+      "query": "ti:\"Robust Unsupervised Anomaly Detection for Surface Defects Based on Stacked Broad Learning System\"",
+      "time_utc": "2026-10-22T14:13:22.932474+00:00",
+      "status": 200,
+      "sha256": "7bde3daa1001e0934b172cca039c6ce64f53167c6983a230efae644407892cc7"
+    },
+    {
+      "file": "arxiv-O2273.xml",
+      "query": "ti:\"ID-RAG industrial defect retrieval-augmented generation for industrial surface defect detection\"",
+      "time_utc": "2026-10-22T14:13:26.875819+00:00",
+      "status": 200,
+      "sha256": "8d44cd4b97597f235c148a55e19230cda8cbf968ea84d9838549e9ddbfd7826c"
+    },
+    {
+      "file": "arxiv-O2274.xml",
+      "query": "ti:\"Vision\u2013Language Model Assisted Interpretation in Radiographic Welding Defect Evaluation\"",
+      "time_utc": "2026-10-22T14:13:31.042799+00:00",
+      "status": 200,
+      "sha256": "d0e91aa3c378b12fbc3408f22814e4e6a74df6ca1b04281467e064dd77cc9ca0"
+    },
+    {
+      "file": "arxiv-O2277.xml",
+      "query": "ti:\"Toward Trustworthy Human\u2013Drone Interaction Detecting Propeller Faults During Rotation with an Event-Based Vision\u2013CNN Pipeline\"",
+      "time_utc": "2026-10-22T14:13:34.983181+00:00",
+      "status": 200,
+      "sha256": "186b4b7ade81854f7e0823da94e96073122dfe85b862afbb78736e21f8f8ca59"
+    },
+    {
+      "file": "arxiv-O2283.xml",
+      "query": "ti:\"Trustworthy Artificial Intelligence for Real-Time Quality Assurance in Additive Manufacturing\"",
+      "time_utc": "2026-10-22T14:13:38.855123+00:00",
+      "status": 200,
+      "sha256": "4b4441484d04d2881757229e1338bd4745356c2b52ea44de2f5526e1e4117ac5"
+    },
+    {
+      "file": "arxiv-O2290.xml",
+      "query": "ti:\"A Framework for Hallucination-Mitigating Manufacturing Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:13:42.670803+00:00",
+      "status": 200,
+      "sha256": "166838708aa4296d4aa40fd162632f7263b310456018ae0e5ad56efcb06767ba"
+    },
+    {
+      "file": "arxiv-O2293.xml",
+      "query": "ti:\"Computer Vision and Augmented Reality for Human-Centered Fatigue Crack Inspection\"",
+      "time_utc": "2026-10-22T14:13:46.481123+00:00",
+      "status": 200,
+      "sha256": "cb7775f826ea70b788435a96e7ee075420c87a9e2dde5167b9aa7788d7d6845f"
+    },
+    {
+      "file": "arxiv-O2299.xml",
+      "query": "ti:\"Automated processing of eXplainable Artificial Intelligence outputs in deep learning models for fault diagnostics of large infrastructures\"",
+      "time_utc": "2026-10-22T14:13:50.501914+00:00",
+      "status": 200,
+      "sha256": "3620807dcd2e1b7daa0e1d13f904df1555dbf5cf9b1ce1effc4f827e0e3e8010"
+    },
+    {
+      "file": "arxiv-O2309.xml",
+      "query": "ti:\"Interpretable Verification Mechanism for Trustworthy Industrial Large Model in Intelligent Manufacturing\"",
+      "time_utc": "2026-10-22T14:13:54.546932+00:00",
+      "status": 200,
+      "sha256": "4b45fa7b7ac7c7be8f38247e257f98f7f324ab64d93ef0c84d1944812d918707"
+    },
+    {
+      "file": "arxiv-O2314.xml",
+      "query": "ti:\"Asymmetric Cascade Fusion Visual-RAG Large Model for Wind Turbine Blade Defect Recognition\"",
+      "time_utc": "2026-10-22T14:14:04.709867+00:00",
+      "status": 200,
+      "sha256": "3c0d949c6343f57ae218a51c195d038815e38f14a6d2d97a153a6d5c16b4337c"
+    },
+    {
+      "file": "arxiv-O2315.xml",
+      "query": "ti:\"Subsea Inspection Supported by AI-Driven Computer Vision\"",
+      "time_utc": "2026-10-22T14:14:08.632921+00:00",
+      "status": 200,
+      "sha256": "12066744fbdafeac35c8d30a997244e24aa2ebed4a04df4fe75b9f7c9a0e424c"
+    },
+    {
+      "file": "arxiv-O2327.xml",
+      "query": "ti:\"Leveraging Trustworthy AI and IIoT for Cost-Efficient Multimodal Quality Control in Metallurgic Additive Manufacturing\"",
+      "time_utc": "2026-10-22T14:14:12.576628+00:00",
+      "status": 200,
+      "sha256": "65b250282a0487b10690467224f0d90042e813772e8a1b828d4a5c17ae616096"
+    },
+    {
+      "file": "arxiv-O2329.xml",
+      "query": "ti:\"A Human-Centric Decision Support System for Zero-Defect Manufacturing Enabled by Human-in-the-Loop Learning\"",
+      "time_utc": "2026-10-22T14:14:16.434693+00:00",
+      "status": 200,
+      "sha256": "df00597d743b88cbb61176540c91c06b53a423289160fc8201d1c7a0c07c3f3c"
+    },
+    {
+      "file": "arxiv-O2336.xml",
+      "query": "ti:\"Segmentation-assisted defect inspection of glass bottle finishes under severe class imbalance a human-in-the-loop approach\"",
+      "time_utc": "2026-10-22T14:14:20.351342+00:00",
+      "status": 200,
+      "sha256": "c674ae80ca68b9618990279dcde9c3e49cc4fe1bb579a615945603a2ee5509d0"
+    },
+    {
+      "file": "arxiv-O2342.xml",
+      "query": "ti:\"ENHANCING DEEP LEARNING-BASED DAMAGE SEGMENTATION WITH DEPTH HALLUCINATION\"",
+      "time_utc": "2026-10-22T14:14:24.341737+00:00",
+      "status": 200,
+      "sha256": "80036b55c499f2da6372e98850524b3d3095c171da29bcde119c34e06df35efd"
+    },
+    {
+      "file": "arxiv-O2348.xml",
+      "query": "ti:\"Real-Time Industrial Automated Video Analytics System for Welding Defect Detection\"",
+      "time_utc": "2026-10-22T14:14:28.372407+00:00",
+      "status": 200,
+      "sha256": "e934f7e49e1df1160053e7b954686b937f230d7d170035c8d37203fbd3957979"
+    },
+    {
+      "file": "arxiv-O2354.xml",
+      "query": "ti:\"False alarm reduction in railway track quality inspections using machine learning\"",
+      "time_utc": "2026-10-22T14:14:32.552117+00:00",
+      "status": 200,
+      "sha256": "391bcb1635f6cae29bb1556d38e811ada2bf179eba5dd3400a32be9bc59b0246"
+    },
+    {
+      "file": "arxiv-O2359.xml",
+      "query": "ti:\"Trusted Data Anomaly Detection TaDA in Ground Truth Image Data\"",
+      "time_utc": "2026-10-22T14:14:36.535531+00:00",
+      "status": 200,
+      "sha256": "a6b1ac60a0c14b0b1796a03b92a0678e5a6489da0dc043a15d8af38ed30c39a5"
+    },
+    {
+      "file": "arxiv-O2365.xml",
+      "query": "ti:\"Human-Machine Hybrid Strategy for Defect Semantic Segmentation With Limited Data\"",
+      "time_utc": "2026-10-22T14:14:40.360990+00:00",
+      "status": 200,
+      "sha256": "6476f8c884703e2342085efdb29a9e7a91463930387c04ec59f942bd0bdb4729"
+    },
+    {
+      "file": "arxiv-O2384.xml",
+      "query": "ti:\"Knowledge-infused framework for crack diagnosis, condition assessment, and maintenance planning of concrete structures\"",
+      "time_utc": "2026-10-22T14:14:44.284102+00:00",
+      "status": 200,
+      "sha256": "5e248d94700d3c2afd38c855267c95d86216b61cd878570b9c2d12851f8ecfeb"
+    },
+    {
+      "file": "arxiv-O2393.xml",
+      "query": "ti:\"Lightweight multimodal LLM-empowered dual-agent collaboration for reliable defect detection and maintenance recommendation in tunnel infrastructure\"",
+      "time_utc": "2026-10-22T14:14:48.146388+00:00",
+      "status": 200,
+      "sha256": "0af23db415ee65d334bd972930b7d14cf007834244d3695a130b4373b07e3497"
+    },
+    {
+      "file": "arxiv-O2395.xml",
+      "query": "ti:\"AI-powered end-to-end product lifecycle UX-centric human-in-the-loop system boosting reviewer productivity by 82% and accelerating decision-making via real-time anomaly detection and data refinement with GPU-accelerated computer vision, edge computing, and scalable cloud\"",
+      "time_utc": "2026-10-22T14:14:52.080526+00:00",
+      "status": 200,
+      "sha256": "bd7f16330ba24c19d55684439d69293b88df4a651b6ef3b383bc595e72cefd72"
+    },
+    {
+      "file": "arxiv-O2396.xml",
+      "query": "ti:\"Towards Human-Understandable Visual Recognition for Nonexperts in Industrial Inspection A Case Study for Car Manufacturing Lines *\"",
+      "time_utc": "2026-10-22T14:14:56.643311+00:00",
+      "status": 200,
+      "sha256": "9015db9588c81186858fb277a6b2ee277aa54994a12962642879b99b9eb95eef"
+    },
+    {
+      "file": "arxiv-O2400.xml",
+      "query": "ti:\"Zero-Shot Anomaly Detection in Laser Powder Bed Fusion Using Multimodal Retrieval-Augmented Generation and Large Language Models\"",
+      "time_utc": "2026-10-22T14:15:00.563620+00:00",
+      "status": 200,
+      "sha256": "d50d56e575d7e839033af6637279a73842a7d215819c873544f82af56396a619"
+    },
+    {
+      "file": "arxiv-O2403.xml",
+      "query": "ti:\"You can be more trustworthy A feature fusion reinforcement network for credible anti-noise fault diagnosis\"",
+      "time_utc": "2026-10-22T14:15:04.831254+00:00",
+      "status": 200,
+      "sha256": "66fb4196cfd991124df93f70fe66c258224bbbe4ec96659ff618b1d95d565ab2"
+    },
+    {
+      "file": "arxiv-O2459.xml",
+      "query": "ti:\"Fusion of color and hallucinated depth features for enhanced multimodal deep learning-based damage segmentation\"",
+      "time_utc": "2026-10-22T14:15:08.829683+00:00",
+      "status": 200,
+      "sha256": "b0f95886f842d5462d4937758e8eee687225bbf7c4dfa2f48984e1b60b659afd"
+    },
+    {
+      "file": "arxiv-O2473.xml",
+      "query": "ti:\"Increasing Trust with Augmented Reality in Human-in-the-Loop Intelligent System A Case Study with Inspection Task\"",
+      "time_utc": "2026-10-22T14:15:12.663561+00:00",
+      "status": 200,
+      "sha256": "592392a5582aeaaff0deeb3029ab623814ce931b4b3991917fb2a748007887de"
+    },
+    {
+      "file": "arxiv-O2474.xml",
+      "query": "ti:\"Human-in-the-Loop Hybrid Intelligent Decision for Automated Strip Steel Flatness Detection\"",
+      "time_utc": "2026-10-22T14:15:16.548871+00:00",
+      "status": 200,
+      "sha256": "3a98209acc0af593a6d879b8d98fbd2be35f9f8177334a006a23b819a71dcad2"
+    },
+    {
+      "file": "arxiv-O2490.xml",
+      "query": "ti:\"Knowledge-Augmented Multimodal Reasoning for Automated Bridge Crack Diagnosis\"",
+      "time_utc": "2026-10-22T14:15:20.389199+00:00",
+      "status": 200,
+      "sha256": "b4252a74b6f7b00a677f3cf782ce454f834ed3762175ce0226274cf98c38f8f9"
+    },
+    {
+      "file": "arxiv-O2492.xml",
+      "query": "ti:\"Multi-Illumination Feature Enhancement for Robust Ball Grid Array Defect Detection and Explainable Attention Alignment\"",
+      "time_utc": "2026-10-22T14:15:24.249746+00:00",
+      "status": 200,
+      "sha256": "c4629bd8b6a18f33db7a20ca2e4269415d95a3c1c509f49d5c331ee191bada35"
+    },
+    {
+      "file": "arxiv-O2500.xml",
+      "query": "ti:\"GROVE Grounded Violation Evaluator for Visual Inspection\"",
+      "time_utc": "2026-10-22T14:15:28.225234+00:00",
+      "status": 200,
+      "sha256": "0f86978c626bb9ff0bc9fb0998bb146e651b3b0d543c49e01e132c1ca5e4dbb8"
+    },
+    {
+      "file": "arxiv-O2509.xml",
+      "query": "ti:\"LLM-as-Judge for Reliable Crack Segmentation in Edge-Based Structural Inspection\"",
+      "time_utc": "2026-10-22T14:15:32.037696+00:00",
+      "status": 200,
+      "sha256": "f562efa73a26f5f5e21c8603f200b012791c8a740bb8f65a964c90b4a25214c9"
+    },
+    {
+      "file": "arxiv-O2513.xml",
+      "query": "ti:\"SHIELD-PCB securing hardware inspection with enhanced learning and defense against adversarial examples in printed circuit boards images\"",
+      "time_utc": "2026-10-22T14:15:36.251463+00:00",
+      "status": 200,
+      "sha256": "f9efe0e5f4971eca5747531574d846e15d1adea6a16be3ededd1911348b38f07"
+    },
+    {
+      "file": "arxiv-O2515.xml",
+      "query": "ti:\"Autonomous Detection and Assessment of Indoor Building Defects Using Multimodal Learning and GPT\"",
+      "time_utc": "2026-10-22T14:15:40.330208+00:00",
+      "status": 200,
+      "sha256": "b653c10d36c20e943169a7960cfc89d7e03a0fc3cc508132e9df5d55373ba3a7"
+    },
+    {
+      "file": "arxiv-O2538.xml",
+      "query": "ti:\"Agent-human multimodal interactive framework for inspection and maintenance of infrastructure fire safety\"",
+      "time_utc": "2026-10-22T14:15:44.169502+00:00",
+      "status": 200,
+      "sha256": "fa49e8ea4f32b78563a1e440a9133e42e7b21772a70c1610428621a6d9894705"
+    },
+    {
+      "file": "arxiv-O2539.xml",
+      "query": "ti:\"Bi-Directional Database Enhancing Digital Twin's Accuracy with Human-in-The-Loop Interaction A Case Study in Ar and Crack Detection\"",
+      "time_utc": "2026-10-22T14:15:49.512269+00:00",
+      "status": 200,
+      "sha256": "1607da6bc79ad64f3c886de911422fea5bb0b60afe1455d0407e0f1fb8caf325"
+    },
+    {
+      "file": "arxiv-O2544.xml",
+      "query": "ti:\"Causality-guided fault diagnosis under visual interference in fused deposition modeling\"",
+      "time_utc": "2026-10-22T14:15:53.436326+00:00",
+      "status": 200,
+      "sha256": "bffb149091e756da3ad7c83d1628a77f86121ad9b49ce268a6c58568ffacd2b1"
+    },
+    {
+      "file": "arxiv-O2547.xml",
+      "query": "ti:\"When Human Review Is Treated as Ground Truth A Socio-Technical Analysis of Reference Dependence and Measurement Validity in Human-in-the-Loop AI Inspection Systems\"",
+      "time_utc": "2026-10-22T14:15:57.328406+00:00",
+      "status": 200,
+      "sha256": "ce04aa213d1bc56cbd54651094c4bb43749e9f7ff1b44bd23f38892e38e86325"
+    },
+    {
+      "file": "arxiv-O2588.xml",
+      "query": "ti:\"Automated Concrete Structural Damage Classification via Transfer Learning Ensembles and Explainable AI A Multi-Dataset Validation Study\"",
+      "time_utc": "2026-10-22T14:16:01.161615+00:00",
+      "status": 200,
+      "sha256": "17448b2327161463914c057af45de6074896688439e237dc116bdfb02d984add"
+    },
+    {
+      "file": "arxiv-O2605.xml",
+      "query": "ti:\"Enhancing Digital Twin's Accuracy Through Bidirectional Communication and Human-in-The-Loop Interaction\"",
+      "time_utc": "2026-10-22T14:16:04.964460+00:00",
+      "status": 200,
+      "sha256": "95c077f33c46f11708fc17c7a8a79eb8b770c962d4a759ea463f4e4c9340e911"
+    },
+    {
+      "file": "arxiv-O2686.xml",
+      "query": "ti:\"Optimizing Manufacturing Efficiency using human-centered design and AI\"",
+      "time_utc": "2026-10-22T14:16:08.800025+00:00",
+      "status": 200,
+      "sha256": "054d55cce1bbe1a9c5768c74ec34089345fd8ee0132d2f14b5772f99b0e71a89"
+    },
+    {
+      "file": "arxiv-O2692.xml",
+      "query": "ti:\"Using Augmented Intelligence to Automate Subsea Inspection Data Acquisition, Processing, Analysis, Reporting and Access\"",
+      "time_utc": "2026-10-22T14:16:12.687151+00:00",
+      "status": 200,
+      "sha256": "227f98cc7c2091624f15a66cfb0ad4d349a29c69d160cc3b14ef39f9fd958a24"
+    },
+    {
+      "file": "arxiv-O2830.xml",
+      "query": "ti:\"Evaluation, Selection, and Deep Adaptation of General-Purpose Large Models for Power Industry Applications\"",
+      "time_utc": "2026-10-22T14:16:17.471392+00:00",
+      "status": 200,
+      "sha256": "7e7643d6a86c621c370dd77f4a21a388fc5639d5490cb79cd9f40fb06a2072e6"
+    },
+    {
+      "file": "arxiv-O3358.xml",
+      "query": "ti:\"Human-efficient annotation system via active semi-supervised learning and selective review\"",
+      "time_utc": "2026-10-22T14:16:22.823906+00:00",
+      "status": 200,
+      "sha256": "6bbefb6bab6d53cd05bb884023702d615e4e2db2bda9198ee5599233fda357a3"
+    },
+    {
+      "file": "arxiv-O3374.xml",
+      "query": "ti:\"A domain adaptation YOLOv5 model for industrial defect inspection\"",
+      "time_utc": "2026-10-22T14:16:26.589820+00:00",
+      "status": 200,
+      "sha256": "b1a6a9e99b8558111fc9febb995010862b7f586e91843335a8ebf3e7f5c5846a"
+    },
+    {
+      "file": "arxiv-O3381.xml",
+      "query": "ti:\"BaoIAD Towards Trustworthy and Reproducible Benchmarking for Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:16:30.606773+00:00",
+      "status": 200,
+      "sha256": "20828ca1b8477b3356679cbb263e31d0ddc8c4a4acf5f872665d1643a9c44b9a"
+    },
+    {
+      "file": "arxiv-O3384.xml",
+      "query": "ti:\"Bridging the Domain Gap in PCB Defect Detection A Multi-Architecture Ensemble Approach with Confidence Calibration\"",
+      "time_utc": "2026-10-22T14:16:34.474394+00:00",
+      "status": 200,
+      "sha256": "cb4fd9dcf75530f8cd5791c09038c0fe301807635273cfd297aa79e7fea6b565"
+    },
+    {
+      "file": "arxiv-O3385.xml",
+      "query": "ti:\"Rail Surface Defect Detection and Cross-Modal Prediction Uncertainty Estimation Using Image and Point Cloud Fusion\"",
+      "time_utc": "2026-10-22T14:16:38.491148+00:00",
+      "status": 200,
+      "sha256": "9f8ba41e064180651be97d535cad88e040137751ec6114e1c606d9f7ebc5503f"
+    },
+    {
+      "file": "arxiv-O3387.xml",
+      "query": "ti:\"Monocular-depth-guided open-set surface defect segmentation via cross-modal visual representation and distribution-structured anomaly modeling\"",
+      "time_utc": "2026-10-22T14:16:42.320928+00:00",
+      "status": 200,
+      "sha256": "47eafe274c989c4ac5f17afa210a4eca4e03f3687dd15dc178dfe65b3c9c745f"
+    },
+    {
+      "file": "arxiv-O3389.xml",
+      "query": "ti:\"Anomaly Detection for Wind Turbines Detection Frameworks, Uncertainty, and Learning\"",
+      "time_utc": "2026-10-22T14:16:46.144711+00:00",
+      "status": 200,
+      "sha256": "afbda02cf053a7f1a68bfe3e1d0ff2e4677cd4bea3c9618b8653dc7aef193342"
+    },
+    {
+      "file": "arxiv-O3391.xml",
+      "query": "ti:\"Deep Learning Image Processing for Trustworthy Equipment Fault Diagnostics\"",
+      "time_utc": "2026-10-22T14:16:49.948803+00:00",
+      "status": 200,
+      "sha256": "0ca4578a4b85e0f34486c8232c9c1340702897056899e2422ff635786dd65054"
+    },
+    {
+      "file": "arxiv-O3394.xml",
+      "query": "ti:\"Cross-supervised contrastive learning domain adaptation network for steel defect segmentation\"",
+      "time_utc": "2026-10-22T14:16:54.254301+00:00",
+      "status": 200,
+      "sha256": "9a0a56cc612aa4e7a0a71efdd30a5032e1a3fef697e98c57cef699793c4a4760"
+    },
+    {
+      "file": "arxiv-O3395.xml",
+      "query": "ti:\"Transferable visual pattern memory network for domain adaptation in anomaly detection\"",
+      "time_utc": "2026-10-22T14:16:58.064998+00:00",
+      "status": 200,
+      "sha256": "4d1e3947a791321df79baf64e81e858f48ff82fcc31c6d93a7bf0cf550f6a9d0"
+    },
+    {
+      "file": "arxiv-O3398.xml",
+      "query": "ti:\"Corrosion leakage risk diagnosis of oil and gas pipelines based on semi-supervised domain generalization model\"",
+      "time_utc": "2026-10-22T14:17:02.147156+00:00",
+      "status": 200,
+      "sha256": "3f994c8de4fd51d51b0cbdcb41bec47eb0fd54fe6e0993f552abca24917a0b1a"
+    },
+    {
+      "file": "arxiv-O3404.xml",
+      "query": "ti:\"A Novel Parallel Decision Framework for Open-Set Wafer-Map Defect Recognition\"",
+      "time_utc": "2026-10-22T14:17:06.042411+00:00",
+      "status": 200,
+      "sha256": "5c953cabe34d7c980657d95cffa3e3a560f733867e49dbe5d9137f3c2f6e7e69"
+    },
+    {
+      "file": "arxiv-O3406.xml",
+      "query": "ti:\"Industrial Validation of Generative Domain Adaptation for Cross-Fabric Defect Detection\"",
+      "time_utc": "2026-10-22T14:17:09.861865+00:00",
+      "status": 200,
+      "sha256": "6100220970d2ab17bc176a5d0fbecc9f5765fd08c8c13f8bbddc9d307efc02b0"
+    },
+    {
+      "file": "arxiv-O3407.xml",
+      "query": "ti:\"Shape\u2013texture aware multi-source domain adaptation for industrial anomaly detection\"",
+      "time_utc": "2026-10-22T14:17:13.680232+00:00",
+      "status": 200,
+      "sha256": "9206a0009c10f20d74352447f7c84b28690f5e45c728d7d7b7e5dc190e9444c9"
+    },
+    {
+      "file": "arxiv-O3412.xml",
+      "query": "ti:\"Uncertainty-Guided Hybrid CNN-Transformer Architecture for Aircraft Surface Defect Detection\"",
+      "time_utc": "2026-10-22T14:17:17.508935+00:00",
+      "status": 200,
+      "sha256": "654d9391f91c7695afb49449a10b8b3ce9aeddaefa4eec65525d8d57217bc1f1"
+    },
+    {
+      "file": "arxiv-O3413.xml",
+      "query": "ti:\"Few-Shot Source-Free Domain Adaptation for Surface Defect Detection\"",
+      "time_utc": "2026-10-22T14:17:21.503334+00:00",
+      "status": 200,
+      "sha256": "b579b65e2d7f11984fd7d3916dc9a36fbd3927eb7a84fdce8947b5812f2ba7e9"
+    },
+    {
+      "file": "arxiv-O3414.xml",
+      "query": "ti:\"Handling Drift in Industrial Defect Detection Through MMD-Based Domain Adaptation\"",
+      "time_utc": "2026-10-22T14:17:25.354107+00:00",
+      "status": 200,
+      "sha256": "a6e52a8bd36cac1d19edb2cdf0049a515e1077075e6d0b68d7fde42aca5a46bd"
+    },
+    {
+      "file": "arxiv-O3419.xml",
+      "query": "ti:\"FDDA A Feature Disentangling Domain Adaptation Method for Robust Industrial Defect Detection\"",
+      "time_utc": "2026-10-22T14:17:29.186057+00:00",
+      "status": 200,
+      "sha256": "4797b36ddd2335fb1da7062ae4bb405f927a4ea4dfedbf07f52c9ce42fd8d135"
+    },
+    {
+      "file": "arxiv-O3425.xml",
+      "query": "ti:\"Enhanced detection of unknown defect patterns on wafer bin maps based on an open-set recognition approach\"",
+      "time_utc": "2026-10-22T14:17:32.957062+00:00",
+      "status": 200,
+      "sha256": "9c26cc4ef734f74df0321fd288418cf67c5a2845257bae9e579a8180d14e825c"
+    },
+    {
+      "file": "arxiv-O3427.xml",
+      "query": "ti:\"TruKT-Seg A Trustworthy Knowledge Transfer Framework for Semi-Supervised Industrial Defect Segmentation under Low-Annotation Regimes\"",
+      "time_utc": "2026-10-22T14:17:36.860477+00:00",
+      "status": 200,
+      "sha256": "ebe19032b4134d9ed045418b514b190b3101ac155a459246ec05c887a8f6a004"
+    },
+    {
+      "file": "arxiv-O3429.xml",
+      "query": "ti:\"Enabling human\u2013machine collaboration in infrastructure inspections through mixed reality\"",
+      "time_utc": "2026-10-22T14:17:40.657666+00:00",
+      "status": 200,
+      "sha256": "c43d6ad2fa93a613fd42bd6e3a965b2066fd19b61318e4e9ffe499521128169d"
+    },
+    {
+      "file": "arxiv-O3430.xml",
+      "query": "ti:\"Unbalanced classification method using least squares support vector machine with sparse strategy for steel surface defects with label noise\"",
+      "time_utc": "2026-10-22T14:17:44.464487+00:00",
+      "status": 200,
+      "sha256": "ea7f820f258d1140920380b4e711192f8a38e229e404b7ae57153e2e7428941d"
+    },
+    {
+      "file": "arxiv-O3439.xml",
+      "query": "ti:\"Uncertainty-Guided Dual-View Distillation for Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:17:48.306790+00:00",
+      "status": 200,
+      "sha256": "2e26fbbd939652e797b73d8c5f0fb53f235a7f2ca3e21bdcd8c3f6c2f941943d"
+    },
+    {
+      "file": "arxiv-O3441.xml",
+      "query": "ti:\"Cross-specimen defect classification using linear frequency-modulated infrared thermography and domain adaptation\"",
+      "time_utc": "2026-10-22T14:17:52.114993+00:00",
+      "status": 200,
+      "sha256": "1ae933970165754c6fd59794876fe86015fb572b61048dee938301b6a2880f3b"
+    },
+    {
+      "file": "arxiv-O3444.xml",
+      "query": "ti:\"A domain-generalization model for crack detection in aerospace structures through x-ray imaging\"",
+      "time_utc": "2026-10-22T14:17:56.318210+00:00",
+      "status": 200,
+      "sha256": "8d942046e49d6dc32eb0eff3b474b76edcf2e86f753030e8c759040a88c5e630"
+    },
+    {
+      "file": "arxiv-O3446.xml",
+      "query": "ti:\"Vda A vision-based network for open-set defect detection with multi-level feature fusion\"",
+      "time_utc": "2026-10-22T14:18:00.213534+00:00",
+      "status": 200,
+      "sha256": "502da91cf47c4dc4a6809d0196075a01e21d0b83f804db26f00a881650c81357"
+    },
+    {
+      "file": "arxiv-O3449.xml",
+      "query": "ti:\"Arcface Based Open Set Recognition for Industrial Fault\"",
+      "time_utc": "2026-10-22T14:18:03.980259+00:00",
+      "status": 200,
+      "sha256": "35d3e31ac0859f933f614017d4c06432c1e61965f4ca402ed92eb13c64fa4266"
+    },
+    {
+      "file": "arxiv-O3460.xml",
+      "query": "ti:\"Discriminative feature learning and cluster-based defect label reconstruction for reducing uncertainty in wafer bin map labels\"",
+      "time_utc": "2026-10-22T14:18:08.019000+00:00",
+      "status": 200,
+      "sha256": "c3c3412edc678183685396d6770c2e0d2a496947997bb5a9573025ce325bb2bc"
+    },
+    {
+      "file": "arxiv-O3462.xml",
+      "query": "ti:\"Improving out-of-distribution generalization for online weld expulsion inspection using physics-informed neural networks\"",
+      "time_utc": "2026-10-22T14:18:11.887450+00:00",
+      "status": 200,
+      "sha256": "9dc1197fc1c7f7a85fccf88a287ebbd673259692b2090da52b817881f717ac84"
+    },
+    {
+      "file": "arxiv-O3469.xml",
+      "query": "ti:\"Weak defect detection on steel surfaces via uncertainty-guided sparse attention and hierarchical feature fusion\"",
+      "time_utc": "2026-10-22T14:18:15.772616+00:00",
+      "status": 200,
+      "sha256": "1a23a4f508d33a323acefe58550c522f02dc6a5765236e6868e3fc8ff4ac7b6d"
+    },
+    {
+      "file": "arxiv-O3471.xml",
+      "query": "ti:\"Category-level selective dual-adversarial network using significance-augmented unsupervised domain adaptation for surface defect detection\"",
+      "time_utc": "2026-10-22T14:18:19.639874+00:00",
+      "status": 200,
+      "sha256": "5cd0321fa0181331ca1a03bcc33b5eaf3a6190c5d975a08b9c794a7ff045a7cb"
+    },
+    {
+      "file": "arxiv-O3478.xml",
+      "query": "ti:\"Human\u2013machine knowledge hybrid augmentation method for surface defect detection based few-data learning\"",
+      "time_utc": "2026-10-22T14:18:23.456201+00:00",
+      "status": 200,
+      "sha256": "83d00cf9b54cd97881945f9e87d30f09902af3c18c8080aa44ba52948f68ed90"
+    },
+    {
+      "file": "arxiv-O3485.xml",
+      "query": "ti:\"ConCrackNet CLIP-Driven Pseudo-Label Domain Adaptation for Concrete Crack Classification\"",
+      "time_utc": "2026-10-22T14:18:27.446518+00:00",
+      "status": 200,
+      "sha256": "1211446f42340c65e845d94bb85f7dad8140618a8203d39b9692ce3d354ef3e4"
+    },
+    {
+      "file": "arxiv-O3513.xml",
+      "query": "ti:\"Multimodal Neural Interfaces for Human-in-the-loop Verification of Digital Twins of Damaged Infrastructure\"",
+      "time_utc": "2026-10-22T14:18:31.237216+00:00",
+      "status": 200,
+      "sha256": "0c3de02f36c38ec79c2ad2cb2e1b12a16f12a98f102726a59e6aa795899101d6"
+    },
+    {
+      "file": "arxiv-O3514.xml",
+      "query": "ti:\"Uncertainty-guided progressive learning for pavement crack segmentation under challenging visual degradation in smartphone-based imaging\"",
+      "time_utc": "2026-10-22T14:18:35.063984+00:00",
+      "status": 200,
+      "sha256": "a8fe32976a2a07b93454fb3c411f04b679f56730f3992f51914a53c4a54f44ca"
+    },
+    {
+      "file": "arxiv-O3538.xml",
+      "query": "ti:\"Human-Machine Collaborative Adaptive Labeling for Concrete Cracks in Zero-Shot Scenarios\"",
+      "time_utc": "2026-10-22T14:18:39.016953+00:00",
+      "status": 200,
+      "sha256": "93092e3b1b269dc958f5707474cbd363ebf69b648cadac83994c548423d291a8"
+    },
+    {
+      "file": "arxiv-O3543.xml",
+      "query": "ti:\"Probabilistic modelling of environmental uncertainty for building infrared thermography inspection\"",
+      "time_utc": "2026-10-22T14:18:43.673229+00:00",
+      "status": 200,
+      "sha256": "7e8952729f58eeff5223e8c33c644865744d2da098dc4feb098d38b26eb75d7e"
+    },
+    {
+      "file": "arxiv-O3546.xml",
+      "query": "ti:\"Human-in-the-Loop Rebar Inspection Integrating Vision Foundation Model with Mixed Reality for Construction Quality Assurance\"",
+      "time_utc": "2026-10-22T14:18:47.480494+00:00",
+      "status": 200,
+      "sha256": "4da3f58649a964f73128e7894e3f1f02cf4acb3d286e384bc5a9ad244673208a"
+    },
+    {
+      "file": "arxiv-O3550.xml",
+      "query": "ti:\"Label-efficient semi-supervised domain adaptation for connector smart manufacturing inspection under product-type shift\"",
+      "time_utc": "2026-10-22T14:18:51.323075+00:00",
+      "status": 200,
+      "sha256": "b112007b382fa87db656acf79e27b71447173414246fac1091f1663e7017d57a"
+    },
+    {
+      "file": "arxiv-O3554.xml",
+      "query": "ti:\"Collaborative human-machine quality control system steps towards automatic machine vision inspection.\"",
+      "time_utc": "2026-10-22T14:18:55.148376+00:00",
+      "status": 200,
+      "sha256": "b30dcd1cb7c01a9ac2182c7ad825357ba0f594d4f68e7e621d6efd223a0d6dff"
+    },
+    {
+      "file": "arxiv-O3561.xml",
+      "query": "ti:\"Hierarchical detection and evaluation method for surface defects based on dynamic feature selection and uncertainty-guided optimization\"",
+      "time_utc": "2026-10-22T14:18:59.395506+00:00",
+      "status": 200,
+      "sha256": "7b67becf6f2136c3eb420ab84bdfad18c270a5e46cc8e48c75666f248c9d919f"
+    },
+    {
+      "file": "arxiv-O3582.xml",
+      "query": "ti:\"Edge Uncertainty-Aware Infrared Fault Detection Method for Power Equipment\"",
+      "time_utc": "2026-10-22T14:19:03.263841+00:00",
+      "status": 200,
+      "sha256": "de6dc76608e71fec187e1fcca6a06c9e64b0de67ff43350ca4c2074db95cfe60"
+    },
+    {
+      "file": "arxiv-O3605.xml",
+      "query": "ti:\"Novel computing method for uncertainty-aware fault diagnosis of rotating machinery based on image processing and interval theory\"",
+      "time_utc": "2026-10-22T14:19:07.075454+00:00",
+      "status": 200,
+      "sha256": "a1f2bc4b156d057ac6f7576567d43a01b0fa1a6f1dda4607b18413ad0db82e4a"
+    },
+    {
+      "file": "arxiv-O3618.xml",
+      "query": "ti:\"A Study on Cross-Modal Dynamic Fusion Diagnosis of Photovoltaic System Faults Based on Uncertainty Awareness\"",
+      "time_utc": "2026-10-22T14:19:10.895132+00:00",
+      "status": 200,
+      "sha256": "5edca75f4c5952b9ff39369d90a6697a83e78f1f5fb0a8e75b534179afb344c0"
+    },
+    {
+      "file": "arxiv-O3648.xml",
+      "query": "ti:\"Auditable Selective Release with Context-Guided Uncertainty Calibration for Surface-Mount Technology Solder-Paste Inspection\"",
+      "time_utc": "2026-10-22T14:19:14.764229+00:00",
+      "status": 200,
+      "sha256": "5ddc30767067523de877e7b04740e21aafb54d5d04e59e617bf36dcc88d9691f"
+    },
+    {
+      "file": "arxiv-O3649.xml",
+      "query": "ti:\"Auditable Selective Release with Context-Guided Uncertainty Calibration for Surface-Mount Technology Solder-Paste Inspection\"",
+      "time_utc": "2026-10-22T14:19:18.345229+00:00",
+      "status": 200,
+      "sha256": "5ddc30767067523de877e7b04740e21aafb54d5d04e59e617bf36dcc88d9691f"
+    },
+    {
+      "file": "arxiv-O3672.xml",
+      "query": "ti:\"Few-shot vision-language models grounded with hierarchical retrieval for wind turbine blade inspection\"",
+      "time_utc": "2026-10-22T14:19:22.149353+00:00",
+      "status": 200,
+      "sha256": "5df222cf11860b08567e6b9b316a103a49c4513db50e89e098fbf7183ccf5c6d"
+    },
+    {
+      "file": "arxiv-O3675.xml",
+      "query": "ti:\"Cross-domain Transfer and Few-shot Recognition of Defect Images in Complex Industrial Settings\"",
+      "time_utc": "2026-10-22T14:19:26.022365+00:00",
+      "status": 200,
+      "sha256": "8cd266e7774ec4b526ad9d67e2128a890be974bd45886f2c905441330a9410da"
+    },
+    {
+      "file": "arxiv-O3676.xml",
+      "query": "ti:\"Cross-Domain Transfer and Few-Shot Recognition of Defect Images in Complex Industrial Settings\"",
+      "time_utc": "2026-10-22T14:19:29.867448+00:00",
+      "status": 200,
+      "sha256": "8b09808fb0c84ae3287032436c977cc7c74d1b30f048bd7cb9bb20a51fd5ce64"
+    },
+    {
+      "file": "arxiv-O3681.xml",
+      "query": "ti:\"Cross-Domain Transfer and Few-Shot Recognition of Defect Images in Complex Industrial Settings\"",
+      "time_utc": "2026-10-22T14:19:33.489116+00:00",
+      "status": 200,
+      "sha256": "8b09808fb0c84ae3287032436c977cc7c74d1b30f048bd7cb9bb20a51fd5ce64"
+    },
+    {
+      "file": "arxiv-O3692.xml",
+      "query": "ti:\"Cross-Domain Few-Shot Learning Approach for Lithium-Ion Battery Surface Defects Classification Using an Improved Siamese Network\"",
+      "time_utc": "2026-10-22T14:19:37.283673+00:00",
+      "status": 200,
+      "sha256": "c6399d7688141449e3fbda4595ec2ec9b4d76e4a4dee80e2232f8effe4e72da0"
+    },
+    {
+      "file": "arxiv-O3696.xml",
+      "query": "ti:\"EGVLR Evidence-Grounded Vision\u2013Language Reinforcement for Anomaly Reasoning\"",
+      "time_utc": "2026-10-22T14:19:41.274619+00:00",
+      "status": 200,
+      "sha256": "c92cd08cb5c4a52fa3fed44b78078836b73f591edc2866943ca32895533f9cf4"
+    },
+    {
+      "file": "arxiv-O3701.xml",
+      "query": "ti:\"Vision\u2013Language Models for Transmission Line Fault Detection A New Approach for Grid Reliability and Optimization\"",
+      "time_utc": "2026-10-22T14:19:45.050993+00:00",
+      "status": 200,
+      "sha256": "babdd10c05ec57a2aa035b449f70f138fbcce406f28033e6193f9b62047cdf30"
+    },
+    {
+      "file": "arxiv-O3716.xml",
+      "query": "ti:\"Attention and Adaptive Bilinear Matching Network for Cross-Domain Few-Shot Defect Classification of Industrial Parts\"",
+      "time_utc": "2026-10-22T14:19:48.974231+00:00",
+      "status": 200,
+      "sha256": "66c320a93bfc7f56bea86d6910d7955896df5ce0d0a9258fbbbbd5a18fc906bf"
+    },
+    {
+      "file": "arxiv-O3717.xml",
+      "query": "ti:\"Unsupervised learning method for underwater concrete crack image enhancement and augmentation based on cross domain translation strategy\"",
+      "time_utc": "2026-10-22T14:19:52.863458+00:00",
+      "status": 200,
+      "sha256": "499eede0de322dbd793e47b337adb92c4d267e35573f86913f077677f03ed0f6"
+    },
+    {
+      "file": "arxiv-O3719.xml",
+      "query": "ti:\"Quality control and inspection reliability of the PCB manufacturing process through convolutional networks\"",
+      "time_utc": "2026-10-22T14:19:56.750212+00:00",
+      "status": 200,
+      "sha256": "718d0c4d6f34c063118cf8675a63b53870fe844bda2afdf219d56a229900f16c"
+    },
+    {
+      "file": "arxiv-O3722.xml",
+      "query": "ti:\"Research on cross-domain generative diagnosis for oil and gas pipeline defect based on limited field data\"",
+      "time_utc": "2026-10-22T14:20:00.730961+00:00",
+      "status": 200,
+      "sha256": "b7a3a559a46b3a8ef128ab023dd7826b4baf410f686497c507b232aedcd81055"
+    },
+    {
+      "file": "arxiv-O3723.xml",
+      "query": "ti:\"MCF-Det A Cross-Domain Fusion Framework for Few-Shot Blade Defect Detection\"",
+      "time_utc": "2026-10-22T14:20:04.829957+00:00",
+      "status": 200,
+      "sha256": "40b689ac219fb8584460cb4c877bff49dca113c6dfcb76edc3640ca4ec8659b3"
+    },
+    {
+      "file": "arxiv-O3728.xml",
+      "query": "ti:\"SSKD self-supervised knowledge distillation for reliable remote surface defect detection under wireless transmission attenuation\"",
+      "time_utc": "2026-10-22T14:20:08.621272+00:00",
+      "status": 200,
+      "sha256": "b19a3fd4142a1118dd36bf66c5554a2e42111a1ae17315badb3370ba91900e39"
+    },
+    {
+      "file": "arxiv-O3729.xml",
+      "query": "ti:\"A fine-grained flexible graph convolution network for visual inspection of resistance spot welds using cross-domain features\"",
+      "time_utc": "2026-10-22T14:20:12.590813+00:00",
+      "status": 200,
+      "sha256": "04a8b3e55690223d3ce25864e915bcabecb9687735bf2ff7d98b076d217fb5e4"
+    },
+    {
+      "file": "arxiv-O3731.xml",
+      "query": "ti:\"A Transformer-Driven Wafer Map Classification Approach for Generalizable Wafer Quality Control\"",
+      "time_utc": "2026-10-22T14:20:16.568840+00:00",
+      "status": 200,
+      "sha256": "2353c356014967009e1587c454ad8bc447487b6c9736ee9f7e3ceedf344a983f"
+    },
+    {
+      "file": "arxiv-O3733.xml",
+      "query": "ti:\"LOGIC-AD Cross-domain zero-shot anomaly detection via logit-space consistency\"",
+      "time_utc": "2026-10-22T14:20:20.823001+00:00",
+      "status": 200,
+      "sha256": "481b8c5b2670807213d0a02f4533ef96ee5f8aaff9e749ed0a7c4c51147e760c"
+    },
+    {
+      "file": "arxiv-O3736.xml",
+      "query": "ti:\"Cross-Domain Multilevel Feature Adaptive Alignment R-CNN for Insulator Defect Detection in Transmission Lines\"",
+      "time_utc": "2026-10-22T14:20:24.747326+00:00",
+      "status": 200,
+      "sha256": "f864578057f0e0a4cd397c92e12e9f3fa606031754d268204be050aa76f8ef58"
+    },
+    {
+      "file": "arxiv-O3741.xml",
+      "query": "ti:\"Explainable and Calibrated Hierarchical Deep Learning for Thermal Infrared PV Fault Diagnosis\"",
+      "time_utc": "2026-10-22T14:20:28.562560+00:00",
+      "status": 200,
+      "sha256": "be23a305605f99704034eaea65b54ba07163350b2e1e98d49f297e9f266c1db2"
+    },
+    {
+      "file": "arxiv-O3742.xml",
+      "query": "ti:\"Limitations of anomaly detection beyond which size defects can be reliably recognized\"",
+      "time_utc": "2026-10-22T14:20:32.383083+00:00",
+      "status": 200,
+      "sha256": "ac3f816ec02d129f1e164fed30204f20085ef6943318c651b2a92b9e16661eb3"
+    },
+    {
+      "file": "arxiv-O3761.xml",
+      "query": "ti:\"Enhanced Deep Learning Approach for Cross-Domain Detection of Faults and Foreign Objects on Power Transmission Line\"",
+      "time_utc": "2026-10-22T14:20:36.187985+00:00",
+      "status": 200,
+      "sha256": "6835ceacb648acb3d7f7e06177d5b5fca157f9d0b51d8936eae670b1948e38e7"
+    },
+    {
+      "file": "arxiv-O3766.xml",
+      "query": "ti:\"Multimodal Generalized Defect Category Discovery in industrial scenarios via defect-aware representation guided calibrated clustering\"",
+      "time_utc": "2026-10-22T14:20:39.994832+00:00",
+      "status": 200,
+      "sha256": "7f4db755270976f7e0313c366e7753267fcee407750f3cb802e96c8a083be2aa"
+    },
+    {
+      "file": "arxiv-O3769.xml",
+      "query": "ti:\"Cross-Domain Few-Shot Defect Detection for High-Speed Rail Infrastructure Based on Multi-scale Attention and Incremental Data Augmentation\"",
+      "time_utc": "2026-10-22T14:20:43.847280+00:00",
+      "status": 200,
+      "sha256": "90b8336d9b1117f599409605737ffd89336ccb03f79ab712fc11db29eac3c75b"
+    },
+    {
+      "file": "arxiv-O3775.xml",
+      "query": "ti:\"Normal-Variation-Aware Cross-Domain Zero-Shot Anomaly Detection via Multi-Prompt Learning With CLIP\"",
+      "time_utc": "2026-10-22T14:20:47.846054+00:00",
+      "status": 200,
+      "sha256": "c320439ee8a2a8e7b2881a3baf9b697186328a0a7730f837700ddacccc951829"
+    },
+    {
+      "file": "arxiv-O3786.xml",
+      "query": "ti:\"DD-LIVM Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model\"",
+      "time_utc": "2026-10-22T14:20:51.717617+00:00",
+      "status": 200,
+      "sha256": "a799c75ffc84d7c7a2b752af65814b778dd183414c3eae60e4e621ebd39c74d0"
+    },
+    {
+      "file": "arxiv-O3788.xml",
+      "query": "ti:\"Volumetric Defect Detection in Friction Stir Welding Through Convolutional Neural Networks Generalized Across Multiple Aluminum-Alloys and Sheet Thicknesses\"",
+      "time_utc": "2026-10-22T14:20:55.523285+00:00",
+      "status": 200,
+      "sha256": "e72ed091ac9d9f1a38e16a6f4facd7dff399f93ca86dc92926de9d1af77a06da"
+    },
+    {
+      "file": "arxiv-O3793.xml",
+      "query": "ti:\"BottleEdgeNet A Calibrated Edge-Convolutional Neural Network CNN Framework for PET Bottle Quality Inspection in Deposit Return Schemes DRS\"",
+      "time_utc": "2026-10-22T14:20:59.409825+00:00",
+      "status": 200,
+      "sha256": "12b4b4ffcdb769c2362a64999178e261d860c81a7d90d47f8cf354b454c44717"
+    },
+    {
+      "file": "arxiv-O3802.xml",
+      "query": "ti:\"A generalizable pipeline defect detection method with specialized visual-text alignment for dynamic service scenarios\"",
+      "time_utc": "2026-10-22T14:21:03.334734+00:00",
+      "status": 200,
+      "sha256": "0386202566e89a1d1d910526eec4b4488589a0bbf760cb009cc5d388ba9b0af8"
+    },
+    {
+      "file": "arxiv-O3804.xml",
+      "query": "ti:\"Complex product assembly anomaly inspection based on reference-view synthesis and cross-domain comparison\"",
+      "time_utc": "2026-10-22T14:21:07.408105+00:00",
+      "status": 200,
+      "sha256": "32e20485155f097d41eda0340c592833abcec3866ffa7a8666d9165b79b7f4f1"
+    },
+    {
+      "file": "arxiv-O3806.xml",
+      "query": "ti:\"Cross-Domain Defect Detection Network\"",
+      "time_utc": "2026-10-22T14:21:11.258156+00:00",
+      "status": 200,
+      "sha256": "c2570cc7adf6f6caa278c89534a1efd7a85ff8eb162dfa771190c46af1ff70fe"
+    },
+    {
+      "file": "arxiv-O3817.xml",
+      "query": "ti:\"A vision foundation model-based approach for robust and generalizable road marking damage evaluation using unmanned aerial vehicle images\"",
+      "time_utc": "2026-10-22T14:21:15.453120+00:00",
+      "status": 200,
+      "sha256": "666c885cf56e0d0b9c6384ecb5e5ae5ea9b3296e39bf33c96950773d9f456738"
+    },
+    {
+      "file": "arxiv-O3821.xml",
+      "query": "ti:\"A multi-scale cross-domain visual anomaly detection framework for real-world traffic equipment\"",
+      "time_utc": "2026-10-22T14:21:19.205244+00:00",
+      "status": 200,
+      "sha256": "aa5308ca14e464919ff991cf282eef5036fb5cf38d4985a3c184dcbf4589f8e3"
+    },
+    {
+      "file": "arxiv-O3837.xml",
+      "query": "ti:\"Enhancing Generalization of Wafer Defect Detection by Data Discrepancy-aware Preprocessing and Contrast-varied Augmentation\"",
+      "time_utc": "2026-10-22T14:21:22.998274+00:00",
+      "status": 200,
+      "sha256": "63558e1bc206a855e712477bac21b5e8976d0694cf7f4dc2a4671f28941635bb"
+    },
+    {
+      "file": "arxiv-O3841.xml",
+      "query": "ti:\"Style-augmented large-scale vision model with domain-generalized knowledge fusion for anomaly detection in powder bed additive manufacturing\"",
+      "time_utc": "2026-10-22T14:21:27.027073+00:00",
+      "status": 200,
+      "sha256": "f5aba13c892a3020d299020c8cdb0839ba9b0997c80ad0c1be5787b548558097"
+    },
+    {
+      "file": "arxiv-O3843.xml",
+      "query": "ti:\"Predictive fault detection and resolution using YOLOv8 segmentation model A comprehensive study on hotspot faults and generalization challenges in computer vision\"",
+      "time_utc": "2026-10-22T14:21:31.020768+00:00",
+      "status": 200,
+      "sha256": "6a7096ef3b00ec16c70a4279bdbef145460633f4995a6e8984d552942b2ad201"
+    },
+    {
+      "file": "arxiv-O3857.xml",
+      "query": "ti:\"DuEx-Crack A reliability-aware dual-expert framework for cross-domain crack segmentation\"",
+      "time_utc": "2026-10-22T14:21:34.922911+00:00",
+      "status": 200,
+      "sha256": "cf9c461a565f826384a3a7743381ea423e0e3270f4c3306ba05ffb55998aa24c"
+    },
+    {
+      "file": "arxiv-O3862.xml",
+      "query": "ti:\"Weathering the Storm Evaluating the Generalization of Recent Object Detection Models for UAV Power Line Inspection of Insulators in Challenging Meteorological Conditions\"",
+      "time_utc": "2026-10-22T14:21:38.834331+00:00",
+      "status": 200,
+      "sha256": "e870d4cf97270497f3f609fa239b9a53dd1542b8c79aef5f972da67e9c5ea6ce"
+    },
+    {
+      "file": "arxiv-O3872.xml",
+      "query": "ti:\"CycleGAN-based image restoration for reliable crack width detection in concrete with shadow and motion blur\"",
+      "time_utc": "2026-10-22T14:21:42.994106+00:00",
+      "status": 200,
+      "sha256": "65e0ff0bfe43ed7891274875de43eb6431989d0cc72c9bce2222795e203457ab"
+    },
+    {
+      "file": "arxiv-O3875.xml",
+      "query": "ti:\"Multi-algorithm cross-validation-driven reliability improvement method for substation defect detection\"",
+      "time_utc": "2026-10-22T14:21:46.965346+00:00",
+      "status": 200,
+      "sha256": "6cb2f26cc5b296bd72a3758ef86e4e1f1160564e8a9595298a44e6d387201b3a"
+    },
+    {
+      "file": "arxiv-O3878.xml",
+      "query": "ti:\"An Adaptive Attention DropBlock Framework for Real-Time Cross-Domain Defect Classification\"",
+      "time_utc": "2026-10-22T14:21:50.701992+00:00",
+      "status": 200,
+      "sha256": "063042e312d073331c9c3e529f0a62c7690de2740224b25c2db0b1d5418217f7"
+    },
+    {
+      "file": "arxiv-O3887.xml",
+      "query": "ti:\"Toward Reliable High-Speed Railway Pantograph-Catenary System State Detection Multitask Deep Neural Networks With Runtime Reliability Monitoring\"",
+      "time_utc": "2026-10-22T14:21:54.715835+00:00",
+      "status": 200,
+      "sha256": "c6171a1b6feedddc34f1ab5ac4630b4e93ea5bbd5624958b65d19f30fdeb03ba"
+    },
+    {
+      "file": "arxiv-O3892.xml",
+      "query": "ti:\"Trimming the Risk Towards Reliable Continuous Training for Deep Learning Inspection Systems\"",
+      "time_utc": "2026-10-22T14:21:58.608471+00:00",
+      "status": 200,
+      "sha256": "da7c71980a5c16e3cec4c2e30e72963d31f17a3b03e0bda8edfe1632a9bcd1ef"
+    },
+    {
+      "file": "arxiv-O3904.xml",
+      "query": "ti:\"Exploring the Generalizability of Recent Object Detection Models in Identifying Defective Glass Insulators for UAV Power Line Inspection A Case Study in Morocco\"",
+      "time_utc": "2026-10-22T14:22:02.736593+00:00",
+      "status": 200,
+      "sha256": "ee82196cd71135dfde8f1953aaa1cc02ee89275d4662e403b3052dd8b56cc2d7"
+    },
+    {
+      "file": "arxiv-O3915.xml",
+      "query": "ti:\"Towards Reliable Defect Detection in Laser Additive Manufacturing AI-Driven Solutions for Domain-Specific and Interconnected Challenges\"",
+      "time_utc": "2026-10-22T14:22:06.789945+00:00",
+      "status": 200,
+      "sha256": "330bc3b36b1164cc3ea014348c26cf66b5a94d49245a4e40078bbba8117e6a0a"
+    },
+    {
+      "file": "arxiv-O3919.xml",
+      "query": "ti:\"Hybrid-Intelligence Autonomous Aerial System for Infrastructure-Aware Urban Safety Fusing AI Vision and Classical Sensing for Reliable Autonomous Inspection\"",
+      "time_utc": "2026-10-22T14:22:10.786546+00:00",
+      "status": 200,
+      "sha256": "4595d734090d4a363d19c911d605f037f5327cb45e17f1ba469a73cb2d3954a0"
+    },
+    {
+      "file": "arxiv-O3924.xml",
+      "query": "ti:\"Super-Resolution for Reliable Industrial Inspection under Mixed Degradations\"",
+      "time_utc": "2026-10-22T14:22:14.695003+00:00",
+      "status": 200,
+      "sha256": "df3993316966b6bdec5d83bf9cab9ddb03c4d5bd4aced847f5fbf80157033290"
+    },
+    {
+      "file": "arxiv-O3927.xml",
+      "query": "ti:\"A Collaborative Framework Based on MLLM for Generalization Photovoltaic Fault Diagnosis\"",
+      "time_utc": "2026-10-22T14:22:18.565862+00:00",
+      "status": 200,
+      "sha256": "850a7e317f6670ad5442e4d70d2d46f4d0998920c56d7ba943d3112e3c42eb99"
+    },
+    {
+      "file": "arxiv-O3933.xml",
+      "query": "ti:\"X-Ray Defect Recognition \u2013 Reliable and Efficient with AI Support\"",
+      "time_utc": "2026-10-22T14:22:22.692952+00:00",
+      "status": 200,
+      "sha256": "5605c317b4654ec87ffd3297f75ab90bc55dc4e41b84e778257493c5d82ff49a"
+    },
+    {
+      "file": "arxiv-O3942.xml",
+      "query": "ti:\"A reliability study on automated defect assessment in optical pulsed thermography\"",
+      "time_utc": "2026-10-22T14:22:26.533928+00:00",
+      "status": 200,
+      "sha256": "99567a1644321f50ff018a3d0a21a1b29cc29e67ac681a4a5291aa2ffd9f24df"
+    },
+    {
+      "file": "arxiv-O3958.xml",
+      "query": "ti:\"Open-Vocabulary Object Detection for Reliable Transformer Stand Installation Inspection\"",
+      "time_utc": "2026-10-22T14:22:30.347151+00:00",
+      "status": 200,
+      "sha256": "0575ac8b047050ec0a793dda4aaeb3c916ccd86b1f18e2da979105fc8a297d1d"
+    },
+    {
+      "file": "arxiv-O4008.xml",
+      "query": "ti:\"Reliable Estimation of Deterioration Levels via Late Fusion Using Multi-View Distress Images for Practical Inspection\"",
+      "time_utc": "2026-10-22T14:22:34.234873+00:00",
+      "status": 200,
+      "sha256": "f1534d025fe9f79768c5466c192bae490ae27d42cd56c30c2368eccd11e90ed3"
+    },
+    {
+      "file": "arxiv-O4043.xml",
+      "query": "ti:\"SAMPE Auto-Prompting SAM for Generalizable Power Equipment Image Segmentation\"",
+      "time_utc": "2026-10-22T14:22:38.228822+00:00",
+      "status": 200,
+      "sha256": "072c6efdc3793f4bc6343d81e9b8ba3ffcc43e3078cd4c3061e633fede165770"
+    },
+    {
+      "file": "arxiv-O4075.xml",
+      "query": "ti:\"Length-scale-dependent evaluation of detection reliability for NDT image data\"",
+      "time_utc": "2026-10-22T14:22:42.302319+00:00",
+      "status": 200,
+      "sha256": "1483ff67c016824d386e7cc7d2bc14901281c2bc27ce26b7fc0130bd64857bf3"
+    },
+    {
+      "file": "arxiv-O4087.xml",
+      "query": "ti:\"Cross-domain Identification Method and Application for Underwater Cracks in Dams Based on Multi-source Domain Transfer Learning\"",
+      "time_utc": "2026-10-22T14:22:46.240180+00:00",
+      "status": 200,
+      "sha256": "9d76021b5df5c2ca2bf91c837f1b3b6eaf16f58afe2bbb4ca648a6eae2402f5b"
+    },
+    {
+      "file": "arxiv-O4092.xml",
+      "query": "ti:\"HKANet An Efficient Software Framework for Cross-Domain Road Damage Detection utilizing Hybrid Kernel Attention\"",
+      "time_utc": "2026-10-22T14:22:50.209371+00:00",
+      "status": 200,
+      "sha256": "8c9570ca7e19d8db193885bfbac2287d0b8a9f332e86ba1eab17e6354d27819f"
+    },
+    {
+      "file": "arxiv-O4104.xml",
+      "query": "ti:\"CPT-Seg A Crack Pattern Transfer-Enhanced Two-Stage Transfer Learning Framework for Generalizable Crack Segmentation\"",
+      "time_utc": "2026-10-22T14:22:54.206163+00:00",
+      "status": 200,
+      "sha256": "f98ba4287912b23429e54fc550aabd9f684344ad500939be5ff50fe10314408f"
+    },
+    {
+      "file": "arxiv-O4128.xml",
+      "query": "ti:\"Generalized Real-Time Road Damage Detection Using Ensemble YOLO\"",
+      "time_utc": "2026-10-22T14:22:58.302195+00:00",
+      "status": 200,
+      "sha256": "920b176f7dad34979452ebb367d63cc5e1b76577367e7574f7c031b0a87ed831"
+    },
+    {
+      "file": "arxiv-O4132.xml",
+      "query": "ti:\"Multimodal and relation guided distillation for generalizable quality monitoring in material extrusion additive manufacturing\"",
+      "time_utc": "2026-10-22T14:23:02.291890+00:00",
+      "status": 200,
+      "sha256": "0c47263f9ca3b45ded1c327eff0bf2885fcf28c3613b4137c5b01d5df8d42ec0"
+    },
+    {
+      "file": "arxiv-O4162.xml",
+      "query": "ti:\"A Quality-Aware Multimodal Reliability Framework for Health Assessment and Remaining Useful Life Prediction of Cold-Region Tunnels\"",
+      "time_utc": "2026-10-22T14:23:06.155905+00:00",
+      "status": 200,
+      "sha256": "399271d4c32b97c0c96de343529cbe49afe162fa7696f08a09a36c32e139f66e"
+    },
+    {
+      "file": "arxiv-O4287.xml",
+      "query": "ti:\"Addressing Domain Shift in Insulator Defect Data A Generalization Framework for Cross-Domain Detection of Broken and Self-Blast Insulator Defect\"",
+      "time_utc": "2026-10-22T14:23:10.077420+00:00",
+      "status": 200,
+      "sha256": "60a6d9920cb6c00195a9c9b787434841221023bb9d569cf8a1f487b976917fa6"
+    },
+    {
+      "file": "arxiv-O4291.xml",
+      "query": "ti:\"IA-CLIP A Single-Source Industrial Anomaly Detection Method for Multi-Target Domain Generalization\"",
+      "time_utc": "2026-10-22T14:23:13.929715+00:00",
+      "status": 200,
+      "sha256": "648a41d41ef676226658119e8be279504a13502ef8374ff40caab18481076f28"
+    },
+    {
+      "file": "arxiv-O4298.xml",
+      "query": "ti:\"CRAFT Calibrated Robust Adaptive Framework for Texture-Heterogeneity\"",
+      "time_utc": "2026-10-22T14:23:17.869189+00:00",
+      "status": 200,
+      "sha256": "c5aa7976e9a9dbc79bcced45e57d01076a04704d7c0cfe09db5ed16db581f1cf"
+    },
+    {
+      "file": "arxiv-O4300.xml",
+      "query": "ti:\"Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation\"",
+      "time_utc": "2026-10-22T14:23:21.765967+00:00",
+      "status": 200,
+      "sha256": "131bcad2bd4d552cf3e9d7f4a1d5ad6d67e886a17c4d0e1595df41ac7fd712e6"
+    },
+    {
+      "file": "arxiv-O4303.xml",
+      "query": "ti:\"RiskGate Risk-Calibrated Task-Aware Evidence Gating for Reliable Industrial VQA\"",
+      "time_utc": "2026-10-22T14:23:25.755112+00:00",
+      "status": 200,
+      "sha256": "345bc10de0e092dcb273c70dffa1160b5a745ff571dc7aa10ca2f20f05c2c2ff"
+    },
+    {
+      "file": "arxiv-O4304.xml",
+      "query": "ti:\"Advancing Industrial Object Detection Through Domain Adaptation A Solution for Industry 5.0\"",
+      "time_utc": "2026-10-22T14:23:29.601718+00:00",
+      "status": 200,
+      "sha256": "b139c25a7620276a8c219adaf47183e041aabc27cf598d493df20a4fdd4f76d5"
+    },
+    {
+      "file": "arxiv-O4318.xml",
+      "query": "ti:\"Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:23:33.674715+00:00",
+      "status": 200,
+      "sha256": "54490e0312838e297e3a4350d78cf9cb0628dd9984732d2599818342483c5b79"
+    },
+    {
+      "file": "arxiv-O4319.xml",
+      "query": "ti:\"Memory guided dual discrepancy network with domain adaptation for few-shot anomaly detection\"",
+      "time_utc": "2026-10-22T14:23:37.626507+00:00",
+      "status": 200,
+      "sha256": "cd669cc97605c1d1925ee35f3bc0a707c3870ebb808e79387389d0caf0ce0cce"
+    },
+    {
+      "file": "arxiv-O4325.xml",
+      "query": "ti:\"XDNet A Few-Shot Meta-Learning Approach for Cross-Domain Visual Inspection\"",
+      "time_utc": "2026-10-22T14:23:41.802721+00:00",
+      "status": 200,
+      "sha256": "323f9faff7fb6df17b243a2c50a0ea3d06518f6550c4f56f51c8c2a6cdad1229"
+    },
+    {
+      "file": "arxiv-O4327.xml",
+      "query": "ti:\"Diverse Anomaly Feature Distributions Learning for Open-Set Supervised Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:23:45.715056+00:00",
+      "status": 200,
+      "sha256": "6eab8238461fc9ac0c8cd35f23738ed26f5b55b0c8bb0e7e118d204c63d514a2"
+    },
+    {
+      "file": "arxiv-O4331.xml",
+      "query": "ti:\"PCAD A Real-World Dataset for 6D Pose Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:23:49.538755+00:00",
+      "status": 200,
+      "sha256": "d302f5b380eb98c62cba526c7ae9b6c7374b45485d95341712fe3a8a8f36fd69"
+    },
+    {
+      "file": "arxiv-O4332.xml",
+      "query": "ti:\"Manifold-informed meta-learning for out-of-distribution detection and classification in small-scale industrial datasets\"",
+      "time_utc": "2026-10-22T14:23:53.464637+00:00",
+      "status": 200,
+      "sha256": "a4a54db16a1cf1a2d9426a9a7a00d5a7a02c88e4244d84a3d991dc32e57b7523"
+    },
+    {
+      "file": "arxiv-O4337.xml",
+      "query": "ti:\"CDAD A Multi-Scale Feature Fusion Model for Cross-Domain Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:23:59.058840+00:00",
+      "status": 200,
+      "sha256": "7013469a200b90d8f6c4d9c4c196a5652ca66dc7f622a845d7b1b7eb133ba42e"
+    },
+    {
+      "file": "arxiv-O4338.xml",
+      "query": "ti:\"UniAd Unified Adversarial Alignment for Unsupervised Cross-Domain Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:24:03.285934+00:00",
+      "status": 200,
+      "sha256": "1a4e5958f5c15dcff410d72a037159733dd084f8c47f821fa33e9f7d843f5e26"
+    },
+    {
+      "file": "arxiv-O4340.xml",
+      "query": "ti:\"Benchmarking framework for anomaly localization Towards real-world deployment of automated visual inspection\"",
+      "time_utc": "2026-10-22T14:24:09.160693+00:00",
+      "status": 200,
+      "sha256": "162cb05e9dd3483a54dfad023541aa179368f0ca23d6e16155c53d5fed580d6d"
+    },
+    {
+      "file": "arxiv-O4344.xml",
+      "query": "ti:\"Open Set Industrial Surface Defect Recognition With High Frequency Feature Enhancement and Class Mutual-Information Constraint\"",
+      "time_utc": "2026-10-22T14:24:13.869401+00:00",
+      "status": 200,
+      "sha256": "62b78d826a985b00113d1aaf058d3965d826c1f1bc1b90557ac27c0a21013123"
+    },
+    {
+      "file": "arxiv-O4345.xml",
+      "query": "ti:\"Adaptive Local Prototypes for Cross-Domain Few-Shot Defect Segmentation in Intelligent Robotic Inspection\"",
+      "time_utc": "2026-10-22T14:24:18.441110+00:00",
+      "status": 200,
+      "sha256": "2e3bd2b473d1cdd7fc46304a79482de8266e974990eb0b61aafd23d745c17988"
+    },
+    {
+      "file": "arxiv-O4346.xml",
+      "query": "ti:\"Real-IAD D 3 A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:24:22.424492+00:00",
+      "status": 200,
+      "sha256": "7c72282ce9f6062e8558e9f6072a5b5b00ee73f920ccdc32ee3f197474c3bcd9"
+    },
+    {
+      "file": "arxiv-O4349.xml",
+      "query": "ti:\"Anomaly detection for real-world industrial applications benchmarking recent self-supervised and pretrained methods\"",
+      "time_utc": "2026-10-22T14:24:26.373108+00:00",
+      "status": 200,
+      "sha256": "124147f6215a85da2316820ac7988f7a6d99921059b644d038cd3f3f37113ae3"
+    },
+    {
+      "file": "arxiv-O4350.xml",
+      "query": "ti:\"Domain-Specific Robustness Evaluation of Vision-Language Models\"",
+      "time_utc": "2026-10-22T14:24:30.304469+00:00",
+      "status": 200,
+      "sha256": "ed6e7e3895b413de105f355ec1e5d3375e625159ac2ae48929cd1f5059070d0a"
+    },
+    {
+      "file": "arxiv-O4356.xml",
+      "query": "ti:\"Robust Anomaly Detection in Industrial Environments via Meta-Learning\"",
+      "time_utc": "2026-10-22T14:24:37.146848+00:00",
+      "status": 200,
+      "sha256": "6608b5e8bddfdfcf6e2c8075ef13f71a86016f77efd822d727de183fe0e64c79"
+    },
+    {
+      "file": "arxiv-O4362.xml",
+      "query": "ti:\"U-SAMNet Uncertainty-Aware Self-Attention Multi-Task Network for Pore Detection in Additive Manufacturing\"",
+      "time_utc": "2026-10-22T14:24:46.465596+00:00",
+      "status": 200,
+      "sha256": "08f6c510122b03fc858ad276263bebdb8d3892e74139ded45f2b8bc6849735ea"
+    },
+    {
+      "file": "arxiv-O4363.xml",
+      "query": "ti:\"Decoupled calibration of structural and logical evidence for training-free anomaly detection\"",
+      "time_utc": "2026-10-22T14:24:50.529754+00:00",
+      "status": 200,
+      "sha256": "b39ce77d9d21d3e570a1ceaac23c9950821d40c4b7eb1e1eefc3282b802d0be8"
+    },
+    {
+      "file": "arxiv-O4366.xml",
+      "query": "ti:\"Exploring Generalization Boundaries of Unsupervised Industrial Anomaly Detection Models through Attribute Perturbation\"",
+      "time_utc": "2026-10-22T14:24:56.093518+00:00",
+      "status": 200,
+      "sha256": "3188c585a71e3e526ed9d0c56a0c6ad5def883f0cc6017d6c16b80d44ebac411"
+    },
+    {
+      "file": "arxiv-O4367.xml",
+      "query": "ti:\"Risk-controlled multi-view industrial anomaly detection finite-sample false discovery rate guarantees on the Real-IAD benchmark\"",
+      "time_utc": "2026-10-22T14:25:00.715871+00:00",
+      "status": 200,
+      "sha256": "3095f97b670c510c8c43ec9323b2f04160809b87f88b18312a84d085bd3b8e49"
+    },
+    {
+      "file": "arxiv-O4382.xml",
+      "query": "ti:\"RDDPM Robust Denoising Diffusion Probabilistic Model for Unsupervised Anomaly Segmentation\"",
+      "time_utc": "2026-10-22T14:25:05.417729+00:00",
+      "status": 200,
+      "sha256": "cf16403ec6839e538e3cfd19ae222a82b54132268a2d109af049840d4fd67a57"
+    },
+    {
+      "file": "arxiv-O4388.xml",
+      "query": "ti:\"Towards training noise-robust anomaly detection via collaborative adversarial flows\"",
+      "time_utc": "2026-10-22T14:25:09.303805+00:00",
+      "status": 200,
+      "sha256": "6bd7113a8be350f5edffef3bfef6d78f065f19b5e10fdb09f6fa85c88b37ce60"
+    },
+    {
+      "file": "arxiv-O4390.xml",
+      "query": "ti:\"Robust Machine-vision models against adversarial attacks in Industry 4.0\"",
+      "time_utc": "2026-10-22T14:25:13.306472+00:00",
+      "status": 200,
+      "sha256": "bb4b90b200223d698ca8c9bc03b5db0010d49e5e236476103fc4ee1d0bc682e8"
+    },
+    {
+      "file": "arxiv-O4391.xml",
+      "query": "ti:\"Outlier-Probability-Based Feature Adaptation for Robust Unsupervised Anomaly Detection on Contaminated Training Data\"",
+      "time_utc": "2026-10-22T14:25:17.254493+00:00",
+      "status": 200,
+      "sha256": "b972fd358909efd23be06c875f2d1b8b4f33c1b28ec34b3978d9c17296d45724"
+    },
+    {
+      "file": "arxiv-O4399.xml",
+      "query": "ti:\"AnoCSR\u2013A Convolutional Sparse Reconstructive Noise-Robust Framework for Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:25:24.736158+00:00",
+      "status": 200,
+      "sha256": "73395914b0b446e8b5d30cbcff24da3fe0f246323fbbcfc9e190254925e2fcbc"
+    },
+    {
+      "file": "arxiv-O4411.xml",
+      "query": "ti:\"Robustness of Zero-Shot CLIP to Contextual Variations in Industrial Anomaly Detection A Factorized Sensitivity Analysis\"",
+      "time_utc": "2026-10-22T14:25:28.674536+00:00",
+      "status": 200,
+      "sha256": "5c5d588b7b4908efc61e43b2cfeea732151d78b07f4eb78463ee52b48d249b28"
+    },
+    {
+      "file": "arxiv-O4414.xml",
+      "query": "ti:\"Noise-Robust Industrial Anomaly Detection via Clean-Noisy Mixup and Feature Adapter Learning\"",
+      "time_utc": "2026-10-22T14:25:33.886438+00:00",
+      "status": 200,
+      "sha256": "608817fa629724013799158c956344ae43022df9a6f739cb0c9e744be740db7b"
+    },
+    {
+      "file": "arxiv-O4429.xml",
+      "query": "ti:\"A Novel Two-Stage Method for Texture Defect Detection\"",
+      "time_utc": "2026-10-22T14:25:39.467069+00:00",
+      "status": 200,
+      "sha256": "9ac42f18a3bb558fd45e6e232c441804e34d932bb34175ae53d966352be79f2b"
+    },
+    {
+      "file": "arxiv-O4430.xml",
+      "query": "ti:\"Background-Adaptive Neural Networks for Surface Mount Device Defect Segmentation by Comparing With Positive Samples\"",
+      "time_utc": "2026-10-22T14:25:43.650170+00:00",
+      "status": 200,
+      "sha256": "a36382456e022a9afd20e0fa2df3a066a303aad7d5eff33313a09e6a23f01467"
+    },
+    {
+      "file": "arxiv-O4440.xml",
+      "query": "ti:\"Heterogeneous Datasets for Unsupervised Image Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:25:47.536086+00:00",
+      "status": 200,
+      "sha256": "dcf1681eb085773fe9b57ef333aecf7da2faf50793bc64b55898f2c4615d2783"
+    },
+    {
+      "file": "arxiv-O4453.xml",
+      "query": "ti:\"Enhancing automotive surface defect segmentation with physics-inspired synthetic data\"",
+      "time_utc": "2026-10-22T14:25:51.559259+00:00",
+      "status": 200,
+      "sha256": "98f001154d4a87da23cd2c6731761e884ac7529aa67c847fb4dd72898a13e132"
+    },
+    {
+      "file": "arxiv-O4458.xml",
+      "query": "ti:\"Learning Invariant Discriminative Patterns for Unified Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:25:55.557788+00:00",
+      "status": 200,
+      "sha256": "26ecfd6e0de35990d3d4b3d45ffc96b9120d67e1b7e36775ae388579dc46ec1f"
+    },
+    {
+      "file": "arxiv-O4479.xml",
+      "query": "ti:\"Detecting visual anomalies in an industrial environment Unsupervised methods put to the test on the AutoVI dataset\"",
+      "time_utc": "2026-10-22T14:25:59.670934+00:00",
+      "status": 200,
+      "sha256": "d8b0ba68e7e3bf6ba077285d1465148bbceacaa3b8e200ab4c933e2d3a66cb42"
+    },
+    {
+      "file": "arxiv-O4488.xml",
+      "query": "ti:\"Unsupervised Anomaly Detection with Self-Training and Knowledge Distillation\"",
+      "time_utc": "2026-10-22T14:26:03.924970+00:00",
+      "status": 200,
+      "sha256": "c1f2bfd14edbf7a503a1883f4546ea65e2586597194604d0cc38c516eb9e4dd2"
+    },
+    {
+      "file": "arxiv-O4496.xml",
+      "query": "ti:\"ICONIC-444 A 3.1-Million-Image Dataset for OOD Detection Research\"",
+      "time_utc": "2026-10-22T14:26:08.304880+00:00",
+      "status": 200,
+      "sha256": "7305fe7f090a10cf7c163315167a028ff3335304f8942ae5021a8356a583a7e8"
+    },
+    {
+      "file": "arxiv-O4497.xml",
+      "query": "ti:\"Class-Sensitive TPB-Guided Memory Refinement for Online Zero-Shot Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:26:12.353342+00:00",
+      "status": 200,
+      "sha256": "97ad6d1e461b837e658968dcef76e67372deac926f5b965d75f9cd0c7d405210"
+    },
+    {
+      "file": "arxiv-O4503.xml",
+      "query": "ti:\"Denoise Then Train Improving the Performance of Unsupervised Anomaly Detection Models Under Label-Level Noise\"",
+      "time_utc": "2026-10-22T14:26:16.253466+00:00",
+      "status": 200,
+      "sha256": "d7db497b4380670a2179064dc907f7d9086e6cbc0ec95faa76a21afb9beb572d"
+    },
+    {
+      "file": "arxiv-O4505.xml",
+      "query": "ti:\"Foreground-centric reconstruction for unsupervised visual anomaly detection in unconstrained environments\"",
+      "time_utc": "2026-10-22T14:26:20.333052+00:00",
+      "status": 200,
+      "sha256": "56d6e00912d5a8c1ae24c3f304e64379a45167350a9b9b85e36cccef2359b76a"
+    },
+    {
+      "file": "arxiv-O4512.xml",
+      "query": "ti:\"Benchmarking of Anomaly Detection Methods for Industry 4.0 Evaluation, Ranking, and Practical Recommendations\"",
+      "time_utc": "2026-10-22T14:26:24.220100+00:00",
+      "status": 200,
+      "sha256": "5503d15d3851bd74322353724e71cc06c402827ce27c89cb5e530ce877745468"
+    },
+    {
+      "file": "arxiv-O4529.xml",
+      "query": "ti:\"Insights of anomaly detection How does polluted training data influence performance?\"",
+      "time_utc": "2026-10-22T14:26:28.238241+00:00",
+      "status": 200,
+      "sha256": "3981b596e32c5afd5f878d1af606d7be22c2adc7a56da826fa2052c68b9d2fb3"
+    },
+    {
+      "file": "arxiv-O4539.xml",
+      "query": "ti:\"Fully Unsupervised Anomaly Detection in Industrial Images with Unknown Data Contamination\"",
+      "time_utc": "2026-10-22T14:26:32.496180+00:00",
+      "status": 200,
+      "sha256": "45d0b3a78aebacad4aaf5b4676c6637a8bbe100ff811fc6a1b5d8a12bd5f02a1"
+    },
+    {
+      "file": "arxiv-O4555.xml",
+      "query": "ti:\"Deep learning-based defect detection of metal parts evaluating current methods in complex conditions\"",
+      "time_utc": "2026-10-22T14:26:36.339085+00:00",
+      "status": 200,
+      "sha256": "87cda7c3c0d8b3d4a65c30f69b33aed3568918198cbc6cee187db2902e570863"
+    },
+    {
+      "file": "arxiv-O4572.xml",
+      "query": "ti:\"A Casting Surface Dataset and Benchmark for Subtle and Confusable Defect Detection in Complex Contexts\"",
+      "time_utc": "2026-10-22T14:26:41.578975+00:00",
+      "status": 200,
+      "sha256": "f22cfc6305105391342a0a71510654ac623c699fe0d00beb2537c878e5a6a2f6"
+    },
+    {
+      "file": "arxiv-O4610.xml",
+      "query": "ti:\"72\u20103 Deep Learning Based Visual Defect Detection in Noisy and Imbalanced Data\"",
+      "time_utc": "2026-10-22T14:26:45.420276+00:00",
+      "status": 200,
+      "sha256": "c7ec44a353ac97ec32a8b91835354274cb2696f4b73fd8923ad9448980f20d4d"
+    },
+    {
+      "file": "arxiv-O4684.xml",
+      "query": "ti:\"Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:26:49.428820+00:00",
+      "status": 200,
+      "sha256": "89ca709fa1c96c3e21f945d4a221f8b453e8712fbdfea0d2b5290a50c1674bab"
+    },
+    {
+      "file": "arxiv-O4766.xml",
+      "query": "ti:\"Illumination-nuisance-suppressed geometry-adaptive subspace reconstruction for training-free catenary insulator inspection\"",
+      "time_utc": "2026-10-22T14:26:53.306142+00:00",
+      "status": 200,
+      "sha256": "de5b64ab776c97cb5605f49b6291f33bc6dc01bcd6f089cefe7dc4bf5582d37c"
+    },
+    {
+      "file": "arxiv-O4767.xml",
+      "query": "ti:\"Unsupervised, Online and On-The-Fly Anomaly Detection for Non-stationary Image Distributions\"",
+      "time_utc": "2026-10-22T14:26:57.085721+00:00",
+      "status": 200,
+      "sha256": "85d2e85dbbcc91a7758549f114fbd7b2d442958796bfc0570204ffb75f50ae82"
+    },
+    {
+      "file": "arxiv-O4809.xml",
+      "query": "ti:\"Semi-supervised noise-resilient anomaly detection with feature autoencoder\"",
+      "time_utc": "2026-10-22T14:27:01.016020+00:00",
+      "status": 200,
+      "sha256": "8a0208f26cca26e245c7a45bd1c75b09df5fa11c463d9b09fb36c3dfe87c4a06"
+    },
+    {
+      "file": "arxiv-O4827.xml",
+      "query": "ti:\"Industrial Anomaly Detection Under Background Clutter A Foreground Extraction Study with RGB and 3D Data\"",
+      "time_utc": "2026-10-22T14:27:04.880043+00:00",
+      "status": 200,
+      "sha256": "41010c060328690ac299acaeaf20da642e11dac4f513eb055f8ff4b0ad7fc3ed"
+    },
+    {
+      "file": "arxiv-O4842.xml",
+      "query": "ti:\"Benchmarking Few-Shot Anomaly Detection in Image Classification With Low-Rank Adaptation\"",
+      "time_utc": "2026-10-22T14:27:08.688581+00:00",
+      "status": 200,
+      "sha256": "9ef49b13c075c9c6f7da5106fea5373560af76442f736823e213d54ac9a7c833"
+    },
+    {
+      "file": "arxiv-O4857.xml",
+      "query": "ti:\"A Task-Aware Parameter Decoupling Framework for Continual Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:27:12.528984+00:00",
+      "status": 200,
+      "sha256": "0358656e18ea302dde171ae0d39bb2a7a61f2dd01c4be492f4b29ae5a3f57379"
+    },
+    {
+      "file": "arxiv-O4908.xml",
+      "query": "ti:\"Detecting and Mitigating Positional Bias in Zero-Shot Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:27:16.479722+00:00",
+      "status": 200,
+      "sha256": "7fac26d8d6cb2d3a77b0bf0532d928c39d0772b06e301104618e60cef92a198e"
+    },
+    {
+      "file": "arxiv-O4918.xml",
+      "query": "ti:\"PCBClip Vision-Language Defect Detection Model for Low-Sample Inspection Systems\"",
+      "time_utc": "2026-10-22T14:27:20.459805+00:00",
+      "status": 200,
+      "sha256": "e723777bc788ff741a7158bb9b72a056438473665e90533efb7154d3e418e317"
+    },
+    {
+      "file": "arxiv-O4971.xml",
+      "query": "ti:\"Towards Continual Adaptation in Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:27:24.251885+00:00",
+      "status": 200,
+      "sha256": "0ff48e2dfb96d3190ddd30012c2abf64d1409cdd8a634d12c3b2e6afcef259c7"
+    },
+    {
+      "file": "arxiv-O4986.xml",
+      "query": "ti:\"Enhancing Anomaly Detection in Noisy Images Unleashing the Power of Attention-Aware PDE Constraint Feature Denoiser Module\"",
+      "time_utc": "2026-10-22T14:27:28.061717+00:00",
+      "status": 200,
+      "sha256": "f340029f823a4495150136ad0b4c6bbd5076afeb0f408b030de8866bcf4112bf"
+    },
+    {
+      "file": "arxiv-O5014.xml",
+      "query": "ti:\"Finding optimal decision boundaries for human intervention in one-class machine-learning models for industrial inspection\"",
+      "time_utc": "2026-10-22T14:27:31.854792+00:00",
+      "status": 200,
+      "sha256": "83f17642aa973eb3651c0bc210a71880be5ec51b7fa73c9cfae0375f75dffddf"
+    },
+    {
+      "file": "arxiv-O5058.xml",
+      "query": "ti:\"Effective Adversarial Examples Detection Improves Screw Detection in Dust Pollution Within Industry System\"",
+      "time_utc": "2026-10-22T14:27:37.739441+00:00",
+      "status": 200,
+      "sha256": "612a2a556f1e97be6e05018f55bb3c3e2711ce351e3e05e554aac200b9191a19"
+    },
+    {
+      "file": "arxiv-O5123.xml",
+      "query": "ti:\"Self-Trained One-class Classification for Unsupervised Anomaly Detection.\"",
+      "time_utc": "2026-10-22T14:27:41.790198+00:00",
+      "status": 200,
+      "sha256": "3eb31c2e5c9ad22909a519ad4fc31895c3e78d202db879a63050e55a797f8f82"
+    },
+    {
+      "file": "arxiv-O5135.xml",
+      "query": "ti:\"MSC-AD A Multiscene Unsupervised Anomaly Detection Dataset for Small Defect Detection of Casting Surface\"",
+      "time_utc": "2026-10-22T14:27:46.027503+00:00",
+      "status": 200,
+      "sha256": "080636f61573b90dfcd64dd85507f585a79c2518fed649216f7b85fb2ce791e6"
+    },
+    {
+      "file": "arxiv-O5185.xml",
+      "query": "ti:\"Human-Guided Zero-Shot Surface Defect Semantic Segmentation\"",
+      "time_utc": "2026-10-22T14:27:49.837627+00:00",
+      "status": 200,
+      "sha256": "9553a4d3f557431973a7c93e037fa98e1eaa5377fdeb9c70128011a3869cd2d7"
+    },
+    {
+      "file": "arxiv-P04.xml",
+      "query": "ti:\"Risk-Calibrated Multimodal Inspection for Full-Coverage Industrial Anomaly Detection\"",
+      "time_utc": "2026-10-22T14:27:55.363722+00:00",
+      "status": 200,
+      "sha256": "65a55aee1e290545129ff2953fa0dd1d2a189845430378298e6a8391e0b6031c"
+    },
+    {
+      "file": "arxiv-P05.xml",
+      "query": "ti:\"Class-conditional conformal prediction with discriminant-analysis backbones for reliable open-set fault diagnosis in safety-critical industrial systems\"",
+      "time_utc": "2026-10-22T14:27:59.137780+00:00",
+      "status": 200,
+      "sha256": "dd2829420e0e8595e236ce35360ed9a38c0c2691654ae7e0d10fa7f52c5b368d"
+    }
+  ],
+  "finished_utc": "2026-10-22T14:28:02.143161+00:00"
+}

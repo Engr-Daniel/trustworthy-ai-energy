@@ -67,3 +67,33 @@ See docs/progression-plan.md for acceptance criteria; this ledger remains the ac
 - [x] Retry the remaining four primary-source captures and preserve failures.
 - [ ] Resolve P05, P10, R02 and C0032 captures; verify source/version identity for the available evidence.
 - [ ] Daniel records actual calibration decisions; name secondary auditor and agree audit coverage.
+
+## IEEE manuscript scaffold - 15 October 2026
+- [x] Create an IEEE journal LaTeX writing guide with main.tex, refrence.bib and figures/.
+- [x] Add methods/results/discussion reporting guides and empty figure/table placeholders.
+- [x] Package an Overleaf upload ZIP and verify its contents and LaTeX structure.
+- [ ] Compile and inspect the scaffold in Overleaf; select a journal-specific template before submission.
+
+## Review pipeline under protocol v0.4 - 16 October 2026
+Daniel asked to finish the review: run the pipeline, with screening/charting delegated to the AI assistant under documented rationale (see protocol v0.4 amendment).
+- [x] Record Daniel's calibration judgment (all 20 pass) with AI-assisted resolution: 11 retrieve full text, 7 background/supporting, 2 excluded (calibration-20261016/decisions.csv).
+- [x] Protocol v0.4 amendment: delegation, refined eligibility (R1-R8), TA05/FT06, OpenAlex sources; validator and tests updated.
+- [x] OpenAlex collector/integrator with checksummed raw pages; search development runs -01 (failed), -02 (superseded after known-item test), -03 (rate-limited) logged.
+- [x] Activate OpenAlex API key and run the definitive OpenAlex search; integrate (runs OPENALEX-20261022-01/-02, 6,250 occurrences; 5,585 reports).
+- [x] Title/abstract screening of all 5,585 records with rationale (packets 01-18; 785 F, 2 U, 406 B, 4,392 X).
+- [x] Version linkage verified by metadata: 144 links, 104 multi-report studies; 787 FT reports = 766 studies.
+- [x] Open-access full-text retrieval: 219/787 reports retrieved; 568 listed in fulltext/not-retrieved.csv.
+- [x] Full-text eligibility of all 219 retrieved reports (packets ft-01, ft-02): 157 include, 11 background, 51 excluded.
+- [ ] Daniel: optionally obtain non-retrieved PDFs (institutional access) into review-paper/fulltext/manual/<Paper ID>.pdf; then run --stage ingest and assess.
+- [x] Pilot charting on 10 studies; form v0.2; all 157 included studies charted (charting/charting.csv).
+- [x] Descriptive synthesis, PRISMA-ScR flow and figures; manuscript draft v1 with generated counts, tables and verified bibliography.
+- [x] Audit sample prepared (screening/audit-20261023/).
+- [ ] Daniel: complete audit-sample.csv (groups A and B required); then record resolutions and update manuscript.
+- [ ] Abstract-level tier for NR01 reports (or manual retrieval first).
+- [ ] Citation tracing of included studies; final search update.
+- [ ] Author inputs in main.tex (affiliations, funding, conflicts, release DOI, PRISMA-ScR checklist pages); first Overleaf compile.
+- [ ] Resolve linked-study TA conflicts at full text: S0001 (B04/O4549), P05/O3428.
+- [ ] Known-item gap: P03, P07, P09 not returned by OpenAlex (full texts retrieved via arXiv IDs); report as recall limitation; citation tracing pending.
+- [ ] Citation tracing of core studies; final search update.
+- [x] Synthesis, PRISMA-ScR flow, figures/tables, manuscript draft v1, title-level citation verification (see Session 13).
+- [ ] Daniel's verification audit (all FT includes + 10% random TA exclusions) before submission - packet ready.

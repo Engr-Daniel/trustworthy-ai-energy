@@ -1,0 +1,50 @@
+O3101;X;TA02;Review of deep transfer learning for vibration and acoustic fault diagnosis; non-visual
+O3102;X;TA01;Video anomaly detection survey (note 7)
+O3103;X;TA01;Astronomy transient classifier
+O3104;B;;Survey of deep-learning detection of corrosion and cracking on steel parts; core-context review
+O3105;B;;Systematic review of deep learning and computer vision for railway safety and inspection; core-context review
+O3106;X;TA01;Spiking neural networks review (title only)
+O3107;X;TA03;Stainless steel secondary phases corrosion review
+O3108;B;;Systematic review of YOLO for electronic component defect detection; core-context review (title only)
+O3109;B;;Review of imaging systems for monitoring fusion-based metal AM; core-context review
+O3110;X;TA03;NDT techniques for composite pressure vessels review; no AI focus (title only)
+O3111;X;TA01;Industrial wireless networks review
+O3112;X;TA05;Review of bridge SHM sensing technologies; mainly non-visual
+O3113;X;TA02;ML for energy storage fault detection survey; non-visual
+O3114;X;TA03;Review of NDT for small-scale defects; no AI focus
+O3115;X;TA05;Deep learning for underwater robot survey and inspection dissertation; no reliability focus
+O3116;B;;Review of vision-based pavement distress inspection aligned with standards; core-context review
+O3117;X;TA03;Dropped-object inspection management system
+O3118;X;TA05;Real-time pipe crack detection system; accuracy-oriented
+O3119;B;;Comprehensive review of AI for SHM incl. vision-based inspection; core-context review
+O3120;B;;Review and evaluation of VLMs for urban public-infrastructure condition monitoring; core-context review (R8 relevant)
+O3121;B;;Review of NDT and SHM technologies for wind turbine blade damage; core-context (energy) review
+O3122;X;TA03;Image denoising review (title only)
+O3123;B;;Review of image-based sensor-free PV diagnostics; core-context (energy) review
+O3124;B;;Method-scenario review of crack detection in civil infrastructure; core-context review
+O3125;B;;Systematic review of automated airport pavement inspection incl. validation challenges; core-context review (R8 relevant)
+O3126;X;TA01;Medical image analysis review (title only)
+O3127;B;;Generative AI in industrial machine vision review; preprint of O3079 (note 13)
+O3128;X;TA01;Dental radiography meta-analysis
+O3129;B;;Review of large-vision-model appearance defect detection for high-voltage equipment; core-context (energy) review
+O3130;X;TA02;Steam turbine alignment monitoring review; non-visual
+O3131;X;TA05;Systematic review of robotics for HV underground cables; not visual-inspection reliability
+O3132;X;TA05;AI for sustainable textiles review
+O3133;X;TA01;AI in beer brewing review
+O3134;X;TA03;Coal-biomass cofiring review
+O3135;B;;Method-scenario crack detection review; same-title record of O3124 (note 6)
+O3136;X;TA05;Wind turbine fault detection and hybrid AI review; mainly non-visual
+O3137;X;TA01;Dry fruit hyperspectral review
+O3138;B;;Review of YOLO architectures for PV fault localisation; core-context (energy) review
+O3139;X;TA01;Parking slot detection review
+O3140;X;TA05;Infrared thermography review across medical and industrial uses; not AI-inspection reliability focused
+O3141;X;TA05;Survey of AI predictive maintenance for railway infrastructure; not visual-inspection focused
+O3142;X;TA01;Egg quality review protocol
+O3143;X;TA05;ML in AM process optimisation review
+O3144;X;TA05;ML in AM process optimisation review; same-title record (note 6)
+O3145;X;TA01;Date fruit harvest review
+O3146;X;TA03;Friction stir welding review
+O3147;B;;Review of bolt health monitoring incl. vision-based loosening detection; core-context review
+O3148;B;;Review of explainable AI for industrial and medical visual inspection; core-context review on trust
+O3149;X;TA03;AM gears tribology review (title only)
+O3150;B;;Review of industrial visual sim-to-real as a domain-gap problem; R3 core-context review

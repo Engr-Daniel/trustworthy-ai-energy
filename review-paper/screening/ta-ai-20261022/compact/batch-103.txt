@@ -1,0 +1,40 @@
+O0101;X;TA05;Improved YOLOv8 steel defects; accuracy/speed
+O0102;X;TA02;ICA turbine fault diagnosis from process data (title only)
+O0103;X;TA05;Zero-shot SAM texture anomaly detection evaluated on standard benchmarks; drift only motivational (note 2)
+O0104;X;TA05;Gaussian YOLOv3 box uncertainty used internally for localisation/NMS on lumber defects (notes 8/9)
+O0105;X;TA03;Construction project risk analytics; not inspection AI evidence
+O0106;F;;Self-evolving defect diagnosis under non-stationary conditions with MMD shift detection and MC-dropout uncertainty (R1/R3)
+O0107;X;TA05;Zero-shot prompt-based anomaly detection (title only)
+O0108;X;TA05;Semi-supervised strip defect classification with internal uncertainty weighting (note 8)
+O0109;F;;Explainable and uncertainty-aware deep learning for satellite imagery monitoring of nuclear power plants (R1); task to verify (title only)
+O0110;F;;Concrete crack classifier evaluated under noisy adverse conditions, shadows and input variations (R3)
+O0111;B;;Integrative review of AI in nuclear plant operations with reliability synthesis (UQ, false positives, simulator-to-field gap); energy-context review (R8 framing)
+O0112;X;TA05;Cork stopper defect inspection (title only)
+O0113;X;TA05;Classical ML defect classification interface; accuracy/time only
+O0114;X;TA02;Review of ML control of power generation under uncertainty; non-visual
+O0115;F;;Nuclear fuel-rod deposit segmentation showing annotation variability and reference-data uncertainty dominate error on historical data (R4/R8)
+O0116;F;;Uncertainty of camera calibration and defect-detection measurement for robotic aero-blade inspection (R1)
+O0117;X;TA03;Qualitative interview study of AI in pharmaceutical QC; no inspection model evidence
+O0118;X;TA05;Positive-sample air rudder defect detection (title only)
+O0119;F;;Domain-generalised foundation-model bridge damage segmentation with conformal uncertainty and robustness tests (R2/R3); record is a code deposit, verify linked report
+O0120;X;TA01;Cardiovascular imaging
+O0121;X;TA03;Valve identification to reduce operator errors; not defect inspection
+O0122;F;;Human-in-the-loop multimodal AM defect detection with MC-dropout uncertainty, operator decision support and industrial pilot (R1/R5/R6)
+O0123;X;TA05;Tunnel image stitching and semantic crack detection; no reliability evaluation
+O0124;B;;Historical: knowledge-based radiographic defect classification with confidence factors (1991); lineage of uncertainty handling (note 11)
+O0125;B;;Review of industrial anomaly/fault detection and PdM highlighting UQ, XAI and transferability; background review
+O0126;X;TA05;Steel inspection thesis comparing detectors; accuracy/FNR
+O0127;X;TA05;CNN structural condition assessment dissertation; no reliability evaluation signalled
+O0128;X;TA05;Tunnel leakage/scaling classification and segmentation; accuracy
+O0129;F;;Bayesian self-training unsupervised domain adaptation for crack segmentation with uncertainty-screened pseudo-labels (R3)
+O0130;F;;Unknown-defect (open-set) detection (R3) (title only)
+O0131;B;;Monograph framework for wafer anomaly detection with open-set uncertainty, lot-safe splits, site shift and calibration; methodological background (non-empirical)
+O0132;X;TA05;Infrastructure damage segmentation prospects (title only)
+O0133;F;;Bayesian CNN autofocus with uncertainty flagging unreliable predictions incl. PCB inspection imaging (R1/R6 acquisition)
+O0134;X;TA02;Wind-turbine SCADA RUL (title only)
+O0135;F;;Prototype-based interpretable XCT defect detection flagging uncertainty regions and evidence patches (R1/R7)
+O0136;X;TA01;Medical diabetic retinopathy
+O0137;F;;Insulator defect detection with adversarial-robustness evaluation and adverse-weather generalisation (R3; note 10)
+O0138;X;TA05;Crack evolution detection and life prediction (title only)
+O0139;F;;Aggregate characterisation on a concrete plant with aleatoric uncertainty estimation on real production images (R1)
+O0140;X;TA05;Rail defect detection with MobileViT and eddy current (title only)

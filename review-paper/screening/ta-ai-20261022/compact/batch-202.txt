@@ -1,0 +1,50 @@
+O0351;F;;Ball bonding inspection combining machine learning with human judgement (R5) (title only)
+O0352;X;TA03;Earthquake engineering AI review; not inspection reliability
+O0353;X;TA03;Composite strength prediction from microstructure uncertainty (title only)
+O0354;F;;Human-in-the-loop safe ML framework for steel surface inspection with uncertainty detection, explainability and model diversity (R1/R5)
+O0355;X;TA03;Vision-based structural model updating (title only)
+O0356;X;TA03;Special-issue editorial on scientific ML in manufacturing
+O0357;X;TA01;UAV visual geolocalisation
+O0358;X;TA03;Laser ultrasonic imaging signal processing (title only)
+O0359;X;TA03;Fuzzy quantitative risk analysis; not inspection
+O0360;X;TA05;Lightweight YOLO steel defects (title only)
+O0361;X;TA03;Energy consumption forecasting
+O0362;X;TA03;Bibliometric map of AI in cold spray AM
+O0363;X;TA01;Human-robot-infrastructure interaction thesis; not inspection reliability
+O0364;X;TA03;Load identification under uncertainty (title only)
+O0365;X;TA01;Herbal hyperspectral content prediction
+O0366;X;TA05;Fracture-surface image property prediction; not inspection reliability
+O0367;X;TA05;YOLOv8 vs ViT road damage; accuracy
+O0368;X;TA01;Pedestrian/car detection
+O0369;X;TA05;Thermal YOLO conveyor roller defects; accuracy/FN rates
+O0370;X;TA01;Medical model monitoring (title only)
+O0371;F;;Super-resolution XCT validated on defect quantification metrics rather than visual quality (R8 evaluation validity)
+O0372;X;TA02;Tabular corrosion-rate ensemble for gas pipelines; non-visual
+O0373;X;TA05;Wafer bin map similarity search (title only)
+O0374;X;TA03;Narrative review of image processing broadly
+O0375;X;TA03;NCR text analytics review
+O0376;F;;Gaussian mixture corrosion segmentation for remanufacturing with probabilistic uncertainty proposed for further inspection triage (R1)
+O0377;B;;Review of risk-based precision measurement and inspection incl. measurement uncertainty and machine vision decision rules; framing background
+O0378;X;TA01;Wildfire detection
+O0379;X;TA05;Optical tomography defect detection in LPBF (title only)
+O0380;F;;Calibrated mixed-type wafer defect detection with calibrator and uncertainty (R1)
+O0381;X;TA02;Review of ML predictive maintenance for bridges/highways (largely non-visual records)
+O0382;X;TA05;Overheating quantification framework in AM; not inspection-model reliability
+O0383;F;;Conference version of O0380 (R1) (title only)
+O0384;F;;Realistic robot-captured multi-view benchmark with uncontrolled lighting and unknown poses showing benchmark-to-deployment gap (R3/R8)
+O0385;F;;Version of O0380 (R1)
+O0386;B;;Review of automated inspection with calibration and metrological traceability for trustworthy decisions; framing background
+O0387;X;TA01;Medical laboratory VLM review
+O0388;B;;Review of infrared thermography detectability limits and emissivity uncertainty with AI diagnostics in concrete SHM; background (R6 framing)
+O0389;F;;VLM analog gauge reading with systematic robustness, transfer and abstention evaluation on industrial data (R2/R3/R7)
+O0390;X;TA01;Materials-science STEM defect dataset with ensemble disagreement; not asset inspection
+O0391;X;TA02;Axle-box acceleration rail irregularities (title only)
+O0392;X;TA03;Astronomy
+O0393;X;TA05;Robotic star-washer inspection prototype; no reliability evaluation
+O0394;F;;Sim-to-real domain adaptation with uncertainty estimation for industrial meter detection (R3/R1)
+O0395;X;TA05;Steel defect pyramid network; accuracy
+O0396;X;TA05;AM mechanical property prediction from camera data; not inspection reliability
+O0397;X;TA01;Coastal water-quality remote sensing
+O0398;X;TA05;CT image screening for porosity features in FDM; accuracy
+O0399;X;TA03;Lithography defect-prediction modelling review; not inspection AI
+O0400;X;TA01;Sports injury thermal imaging

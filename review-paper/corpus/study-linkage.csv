@@ -1,0 +1,228 @@
+Study ID,Paper ID,Primary report,Record Type,TA Decision,Decision conflict,Linkage basis,Linkage Date
+S0001,B04,no,arxiv-preprint,Background/supporting,yes - resolve at full text,version-linkage-verification.csv,2026-10-22
+S0001,O4549,yes,conference-paper,Exclude,yes - resolve at full text,version-linkage-verification.csv,2026-10-22
+S0002,B05,no,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0002,O4320,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0003,C0015,yes,posted-content,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0003,O4781,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0004,O0035,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0004,O0093,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0005,O0058,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0005,O0068,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0005,O0069,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0006,O0079,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0006,O0080,no,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0007,O0179,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0007,O0180,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0008,O0237,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0008,O0238,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0008,O0241,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0009,O0277,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0009,O0294,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0010,O0299,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0010,O0338,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0011,O0301,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0011,O0322,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0011,O0324,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0012,O0309,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0012,O0310,no,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0013,O0376,no,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0013,O0412,yes,book-chapter,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0014,O0380,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0014,O0383,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0014,O0385,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0015,O0440,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0015,O0450,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0015,O0456,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0016,O0484,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0016,O0510,no,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0017,O0568,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0017,O0594,no,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0018,O0615,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0018,O0616,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0018,O0621,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0018,O0624,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0019,O0647,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0019,O0648,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0020,O0670,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0020,O0672,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0021,O0740,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0021,O0741,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0022,O0768,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0022,O0771,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0023,O1022,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0023,O1025,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0023,O1029,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0024,O1067,yes,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0024,O1068,no,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0025,O1153,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0025,O1154,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0026,O1183,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0026,O1184,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0027,O1239,yes,peer-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0027,O1240,no,peer-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0028,O1294,yes,peer-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0028,O1297,no,peer-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0029,O1375,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0029,O1376,no,editorial,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0030,O1417,yes,book-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0030,O1423,no,book-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0031,O1419,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0031,O1420,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0032,O1463,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0032,O3376,no,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0033,O1469,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0033,O1470,no,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0034,O1475,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0034,O1477,yes,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0035,O1514,yes,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0035,R06,no,unresolved,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0036,O1539,yes,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0036,O1540,no,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0037,O1615,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0037,O1635,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0038,O1649,yes,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0038,O1652,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0039,O1683,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0039,O1687,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0040,O1685,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0040,O1686,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0041,O1732,yes,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0041,O1739,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0042,O1781,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0042,O1786,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0043,O1994,yes,review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0043,O2021,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0044,O2000,yes,data-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0044,O2001,no,dataset,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0045,O2027,yes,data-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0045,O2049,no,dataset,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0046,O2121,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0046,O2130,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0047,O2122,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0047,O2123,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0048,O2142,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0048,O2144,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0049,O2171,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0049,O2172,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0049,O2173,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0050,O2211,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0050,O2212,no,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0051,O2260,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0051,O2262,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0051,O2264,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0052,O2372,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0052,O2375,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0053,O2379,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0053,O2423,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0054,O2410,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0054,O2426,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0055,O2441,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0055,O2443,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0055,O2447,yes,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0056,O2504,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0056,O2533,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0057,O2523,yes,book,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0057,O2525,no,book,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0058,O2562,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0058,O2571,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0059,O2626,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0059,O2628,no,dataset,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0060,O2696,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0060,O2702,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0060,O2710,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0061,O2756,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0061,O2758,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0062,O2770,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0062,O2771,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0062,O2772,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0063,O2789,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0063,O2790,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0064,O2858,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0064,O2875,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0065,O2870,yes,book,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0065,O2871,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0065,O2872,no,book,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0066,O2916,yes,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0066,O2917,no,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0067,O2965,yes,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0067,O2997,no,conference-paper,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0068,O3002,yes,review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0068,O3007,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0069,O3079,yes,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0069,O3127,no,preprint,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0070,O3084,yes,preprint,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0070,O3090,no,preprint,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0071,O3124,yes,conference-paper,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0071,O3135,no,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0072,O3143,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0072,O3144,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0073,O3160,yes,review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0073,O3163,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0074,O3318,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0074,O3327,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0075,O3342,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0075,O3344,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0075,O3345,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0076,O3417,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0076,O3418,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0077,O3421,yes,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0077,O3465,no,article,Background/supporting,no,version-linkage-verification.csv,2026-10-22
+S0078,O3428,yes,article,Background/supporting,yes - resolve at full text,version-linkage-verification.csv,2026-10-22
+S0078,P05,no,unresolved,Retrieve full text,yes - resolve at full text,version-linkage-verification.csv,2026-10-22
+S0079,O3466,yes,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0079,O3467,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0080,O3603,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0080,O3670,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0081,O3640,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0081,O3643,no,conference-abstract,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0082,O3648,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0082,O3649,yes,article,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0083,O3675,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0083,O3676,no,preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0083,O3681,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0084,O3764,yes,peer-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0084,O3767,no,peer-review,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0085,O3773,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0085,O3781,no,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0085,O3782,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0085,O3783,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0086,O3813,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0086,O3825,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0087,O3902,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0087,O3903,yes,other,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0088,O3940,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0088,O3961,no,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0089,O3983,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0089,O3984,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0090,O3996,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0090,O4012,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0091,O4013,yes,dataset,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0091,O4018,no,dataset,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0092,O4033,yes,book-chapter,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0092,O4035,no,book-chapter,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0093,O4134,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0093,O4135,no,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0094,O4177,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0094,O4178,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0095,O4187,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0095,O4188,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0096,O4194,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0096,O4207,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0097,O4221,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0097,O4224,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0097,O4229,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0098,O4234,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0098,O4243,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0099,O4293,yes,conference-paper,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0099,P02,no,arxiv-preprint,Retrieve full text,no,version-linkage-verification.csv,2026-10-22
+S0100,O4482,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0100,O4495,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0101,O4502,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0101,O4526,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0102,O4618,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0102,O5019,no,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0103,O4662,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0103,O4711,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0104,O4730,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0104,O4821,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22

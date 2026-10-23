@@ -1,0 +1,50 @@
+O1101;X;TA03;Climate-informed corrosion digital-twin vision paper; no image AI evidence
+O1102;X;TA02;SCADA telemetry fugitive emissions screening; non-image
+O1103;X;TA01;Hangar collision-risk monitoring; not inspection
+O1104;X;TA05;Active learning YOLOv8 for thermal power plant safety monitoring (note 8; hazard detection)
+O1105;X;TA03;HEA review
+O1106;X;TA02;Rotating machinery PdM digital twin review
+O1107;B;;PRISMA review of AI predictive maintenance for high-voltage equipment incl. thermal imaging and deployment governance; energy-context review
+O1108;X;TA03;Supply chain optimisation (title only)
+O1109;X;TA05;Communication backplane feature detection (title only)
+O1110;X;TA03;PBF porosity process optimisation (title only)
+O1111;X;TA03;Drone AI monograph
+O1112;X;TA03;Human-robot disassembly sample generation (title only)
+O1113;X;TA05;Mamba segmentation for medical/industrial fine-grained targets; accuracy
+O1114;X;TA01;Financial voucher analysis
+O1115;X;TA03;Conference proceedings
+O1116;X;TA01;Flood remote sensing review
+O1117;X;TA01;Human-robot activity mode estimation
+O1118;X;TA03;Bayesian networks in renewable energy survey (title only)
+O1119;X;TA01;Remote sensing interactive segmentation
+O1120;X;TA01;Cancer diagnostics thesis
+O1121;X;TA03;Reverse supply chains
+O1122;X;TA03;Food can production optimisation
+O1123;X;TA05;Value of in-process inspection data in composites; reliability claim not evaluated for AI
+O1124;X;TA03;Quantum sensor monograph
+O1125;X;TA05;Glass bow prediction thesis; not defect inspection reliability
+O1126;X;TA01;Surgery editorial (title only)
+O1127;X;TA02;Seismic surface-wave road characterisation
+O1128;X;TA03;Carbon nanomaterial characterisation review
+O1129;X;TA05;YOLO-SAHI small-object detection framework across domains; not inspection reliability evaluation
+O1130;X;TA01;SAR landslide mapping
+O1131;X;TA03;Seismic fragility inventories (title only)
+O1132;X;TA01;Fintech cybersecurity
+O1133;X;TA01;Hurricane building inventory vision modules
+O1134;X;TA03;Building SHM chapter (title only)
+O1135;X;TA01;Smart surveillance model transferability
+O1136;X;TA03;Resistance welding virtual process twin (Dutch)
+O1137;X;TA05;Robust UAV object detection (title only; not inspection-specific)
+O1138;X;TA01;Petrophysics big data
+O1139;X;TA02;PV electrical-data fault diagnosis thesis
+O1140;X;TA01;Phishing detection software
+O1141;X;TA03;Specific heat measurement physics
+O1142;X;TA03;Fuzzy computation handbook
+O1143;B;;Systematic review of sensor-AI integration in building SHM; core-context review
+O1144;X;TA03;Data centre digital twins (title only)
+O1145;X;TA03;Generative AI finance (title only)
+O1146;X;TA03;Urban resilience (title only)
+O1147;X;TA03;Levee risk soft computing review
+O1148;X;TA03;Conference proceedings (title only)
+O1149;X;TA03;On-machine measurement review
+O1150;X;TA05;Drone-based tailing dam monitoring (title only)

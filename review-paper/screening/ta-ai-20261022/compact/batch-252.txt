@@ -1,0 +1,50 @@
+O2851;X;TA01;Robotic surgery security
+O2852;X;TA01;Document RAG
+O2853;X;TA01;Large model development overview
+O2854;X;TA02;PV state estimation FDI dataset; non-visual
+O2855;X;TA04;Editorial (neural diagnostics)
+O2856;X;TA05;Robotic DIC data acquisition for fatigue testing
+O2857;X;TA01;Malware analysis
+O2858;X;TA01;Drone ethics (title only)
+O2859;X;TA01;Urban flood synthetic dataset (title only)
+O2860;X;TA01;Intelligent systems handbook (2003)
+O2861;X;TA01;Data preparation RL (title only)
+O2862;X;TA01;Intelligent systems handbook (2003)
+O2863;X;TA05;Neurosymbolic explainable AR maintenance framework; explainability
+O2864;X;TA01;Cloud storage
+O2865;X;TA01;Non-scholarly AI history preprint
+O2866;X;TA01;Industry essay book
+O2867;X;TA02;Traditional vs smart grids comparison
+O2868;X;TA01;Student essay on human-AI collaboration
+O2869;X;TA01;Business intelligence review
+O2870;X;TA01;Glioblastoma book
+O2871;X;TA01;Glioblastoma book; same-title record (note 6)
+O2872;X;TA01;Glioblastoma book; same-title record (note 6)
+O2873;X;TA01;Aviation situational awareness
+O2874;X;TA01;Non-scholarly defence concept
+O2875;X;TA01;Drone ethics
+O2876;X;TA04;Editorial (AECO)
+O2877;X;TA01;Food processing colour detection (2007)
+O2878;X;TA01;Fog computing tools
+O2879;X;TA04;Editorial (neuroscience)
+O2880;X;TA01;GPU diagnostics pathology
+O2881;X;TA03;Confidence-aware semantic modelling for indoor robots; scene mapping, not defect inspection
+O2882;X;TA04;Special issue editorial
+O2883;X;TA01;Nephropathology
+O2884;X;TA01;Endoscopy lesion size
+O2885;X;TA01;Deepfake review (mismatched abstract)
+O2886;X;TA01;Ablation planning (title only)
+O2887;X;TA05;Digital twin production line education platform
+O2888;X;TA01;Alzheimer MRI explainability
+O2889;X;TA01;Podcast episode
+O2890;X;TA01;ChatGPT hallucination commentary
+O2891;X;TA01;Blockchain mining
+O2892;X;TA01;Podcast episode
+O2893;X;TA01;Misinformation (title only)
+O2894;X;TA01;Ophthalmic robotics
+O2895;X;TA03;Electromagnetic sensing physics thesis
+O2896;X;TA04;Erratum
+O2897;X;TA04;Thematic editorial
+O2898;X;TA04;Reference glossary
+O2899;X;TA01;Non-scholarly cognitive runtime
+O2900;X;TA01;Religious minorities AI document analysis

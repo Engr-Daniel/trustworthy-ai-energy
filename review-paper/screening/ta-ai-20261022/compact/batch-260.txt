@@ -1,0 +1,50 @@
+O3251;X;TA05;Sensor and AI automation for welding systems review (title only)
+O3252;X;TA02;AI in thermal systems review (title only)
+O3253;X;TA01;Smartphone slit lamp review
+O3254;X;TA03;Injection moulding flash review (title only)
+O3255;X;TA02;Power electronics converters review
+O3256;X;TA02;AI battery storage review
+O3257;X;TA03;IC encapsulation review
+O3258;X;TA01;UAV GNSS-denied navigation review (title only)
+O3259;X;TA05;Conceptual aero-astro pipeline monitoring framework review
+O3260;X;TA05;Masonry bridge assessment survey (title only)
+O3261;X;TA05;AI in AM of lightweight alloys review (title only)
+O3262;B;;Review of in-situ monitoring and control in material extrusion AM incl. vision-based defect detection; core-context review
+O3263;X;TA03;Photogrammetric metrology review; no AI inspection reliability
+O3264;X;TA01;Crop disease mobile app review
+O3265;X;TA01;Disaster response review (title only)
+O3266;B;;Critical review of machine-intelligence structural crack risk assessment; core-context review
+O3267;X;TA03;Metal AM processes review
+O3268;X;TA05;Brief review of industrial equipment monitoring techniques
+O3269;X;TA03;Mobile robot SLAM review
+O3270;X;TA03;NDT methods for reinforced concrete review
+O3271;X;TA05;Sensing technology for civil SHM review (title only)
+O3272;X;TA03;E-waste pyrolysis review
+O3273;X;TA05;Conveyor belt damage sensing review; signal-based focus
+O3274;X;TA03;Point set registration review for aviation part metrology
+O3275;X;TA01;Cloud migration and accessibility dissertation
+O3276;X;TA03;PBF simulation review
+O3277;X;TA01;MANET disaster sensing review
+O3278;X;TA02;Out-of-round wheel detection review; mainly non-visual
+O3279;X;TA03;Solid-state transformers review
+O3280;X;TA03;Hydrogen embrittlement review (title only)
+O3281;X;TA03;Hydrogen embrittlement review
+O3282;B;;Review of foreign-object detection in natural rubber manufacturing; core-context review
+O3283;X;TA01;Anti-UAV survey
+O3284;X;TA05;NDT methods for belt conveyor drives review; mixed modalities, no reliability focus
+O3285;X;TA01;Ransomware detection review
+O3286;X;TA03;Crack closure review (1993, title only)
+O3287;X;TA03;Thermal barrier coatings review
+O3288;X;TA05;IoT quality assurance for manual welding review
+O3289;X;TA03;Spot welding of polymers review
+O3290;X;TA03;3D IC testability review
+O3291;X;TA03;UAV mine surveying accuracy
+O3292;X;TA01;Citrus disease survey
+O3293;X;TA03;Bridge asset management case study
+O3294;X;TA01;Few-shot learning survey (title only)
+O3295;X;TA04;Journal literature-list paratext
+O3296;X;TA03;NDT technologies for semiconductor chips review
+O3297;X;TA04;Conference proceedings volume (2013)
+O3298;X;TA01;Tuberculosis care review
+O3299;X;TA02;Optimal sensor placement SHM review
+O3300;X;TA05;Review of remote sensing for building thermal loss detection; not asset-defect reliability

@@ -1,0 +1,50 @@
+O3651;X;TA04;Erratum (title only)
+O3652;X;TA03;Surface wave magnitude uncertainty (title only)
+O3653;X;TA04;Corrigendum (title only)
+O3654;X;TA03;Life-cycle inspection planning under uncertainty (title only)
+O3655;X;TA02;Interval ICA fault detection under data uncertainty; non-visual (title only)
+O3656;X;TA01;Guidance and control (title only)
+O3657;X;TA03;Earthquake fault imaging (title only)
+O3658;X;TA03;GFRP infrastructure ageing uncertainty (title only)
+O3659;X;TA03;Irradiation damage cross sections (title only)
+O3660;X;TA03;Cloud-model damage identification (title only)
+O3661;X;TA03;Cracking furnace optimisation (title only)
+O3662;X;TA04;Corrigendum (title only)
+O3663;X;TA03;Attribute control charts under operator hesitancy; no learned model (title only)
+O3664;X;TA03;Shaft wear uncertainty (title only)
+O3665;X;TA01;Surface vessel control (title only)
+O3666;X;TA01;Unmanned surface vessel control (title only)
+O3667;X;TA03;Buried pipeline testing UQ (title only)
+O3668;X;TA02;PV fault-aware intelligence under real-world uncertainty; non-visual (title only)
+O3669;X;TA04;Comment letter (title only)
+O3670;X;TA03;Bridge damage localisation (translated record) (title only)
+O3671;X;TA04;Conference topic list (title only)
+O3672;F;;Few-shot VLMs grounded with hierarchical retrieval for wind turbine blade inspection adapting to new defect types (R7/R3)
+O3673;X;TA05;Defect-data-free reconstruction-based inspection; generality claim without reliability evaluation (title only)
+O3674;X;TA05;Self-induction ViT anomaly detection; generalisation claim, accuracy-oriented
+O3675;F;;Cross-domain transfer and few-shot defect recognition across equipment (R3) (title only)
+O3676;F;;Cross-domain few-shot defect recognition under equipment-induced domain drift with new dataset (R3)
+O3677;X;TA05;Transfer-learning patterned wafer defect detection for new products; no reliability evaluation
+O3678;X;TA05;PV performance prediction from EL images; not reliability-focused
+O3679;X;TA05;Cascade Mask R-CNN PV thermal defect detection; accuracy-oriented
+O3680;X;TA05;Dual-route conv-transformer steel defect diagnosis; accuracy-oriented
+O3681;F;;Cross-domain few-shot defect recognition; same-title record of O3676 (note 6)
+O3682;X;TA02;Self-supervised GPR tunnel lining inspection; imaging NDT without reliability method (note 12)
+O3683;X;TA05;Hierarchical semantic alignment for zero-shot AD; feature calibration, not probability calibration (note 9) (title only)
+O3684;X;TA02;GPR tunnel lining defect detection; imaging NDT without reliability method (note 12) (title only)
+O3685;X;TA05;Few-shot metal defect segmentation generalisation; no shift framing (title only)
+O3686;X;TA05;Anomaly-aware feature calibration for zero-shot IAD; not probability calibration (note 9) (title only)
+O3687;X;TA05;Meta-calibration for few-shot defect segmentation; adaptation, not probability calibration (note 9)
+O3688;X;TA05;Attention CNN solar panel anomaly detection; accuracy-oriented
+O3689;X;TA05;ViT wafer defect classification; reliability claimed without evaluation (note 1)
+O3690;X;TA05;Lightweight PCB detector with internal confidence gating (note 8)
+O3691;X;TA05;Inpainting-based surface defect detection; no reliability signalled (title only)
+O3692;F;;Cross-domain few-shot lithium battery surface defect classification (R3); verify shift setting
+O3693;X;TA05;SuperSimpleNet fast surface defect detection; no reliability signalled (title only)
+O3694;X;TA02;Cross-domain acoustic anomaly detection; non-visual
+O3695;F;;Rain-resilient image restoration for reliable industrial visual inspection (R3 adverse conditions); verify downstream evaluation
+O3696;F;;Evidence-grounded vision-language reinforcement for anomaly reasoning (R7); context to verify (title only, note 4)
+O3697;X;TA05;Insulator fault recognition with generalised neural networks; accuracy-oriented
+O3698;X;TA05;DINOv3 zero-shot AD with anomaly-aware feature recalibration; not probability calibration (note 9)
+O3699;X;TA03;Bridge corrosion reliability with ANN surrogates; no learned visual inspection model
+O3700;X;TA05;Background-weakening few-shot metal defect segmentation; accuracy-oriented

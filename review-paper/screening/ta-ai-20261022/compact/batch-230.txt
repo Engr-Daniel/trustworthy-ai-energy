@@ -1,0 +1,50 @@
+O1751;X;TA05;Diffusion-based rare anomaly detection; no reliability signalled (title only)
+O1752;F;;Vision-language bridge health diagnosis with domain adaptation and knowledge-enhanced reasoning (R3/R7); verify evaluation
+O1753;X;TA01;Generic generalisable VLM adaptation dissertation; no industrial inspection context
+O1754;F;;Retrieval-augmented semantic reasoning for wafer defects (R7 evidence-linked outputs); verify (title only, note 4)
+O1755;X;TA05;Comparison of segmentation networks on synthetic wafer maps; accuracy-oriented
+O1756;F;;Domain-adaptive YOLOv7 for substation defect recognition on unknown data (R3)
+O1757;X;TA01;Agricultural produce quality classification; not industrial asset inspection
+O1758;B;;Methodological bridge (safety-critical image classification): benchmark of ML safety monitors detecting classifier errors; transferable runtime-monitoring evaluation (R2/R8)
+O1759;X;TA05;Representation analysis of anomaly-free vs anomalous features; no reliability signalled (title only)
+O1760;F;;Teacher-student unsupervised domain adaptation for multi-perspective pavement damage detection (R3)
+O1761;X;TA02;Generalised zero-shot industrial fault diagnosis; non-visual (title only, consistent with O1720)
+O1762;B;;Critical review of ML defect detection and in-situ monitoring with quality-assurance frameworks in metal AM; core-context review
+O1763;F;;Recognition of unknown wafer defects (R3 open-set) (title only)
+O1764;X;TA02;Cross-domain rotating machinery diagnosis from vibration images; non-optical signal representation
+O1765;X;TA03;Thermal conductivity prediction from IR images; property estimation, not inspection
+O1766;F;;Transferable cross-domain crack segmentation with UAV field inspection (R3) (title only)
+O1767;B;;Adjacent non-visual: covariate-shift handling for nonstationary automated railway track-geometry data; transferable shift method (note 5)
+O1768;F;;Substation robotic-inspection insulator dataset addressing realism gap of UAV transmission-line datasets (R8); verify evaluation
+O1769;F;;Anomaly detection under colour-cast acquisition conditions (R3 acquisition robustness) (title only)
+O1770;F;;Domain disentanglement and randomisation for rail defect segmentation in unseen scenarios (R3) (title only)
+O1771;F;;Industry-oriented validation standard covering domain shift, low-FPR operation, robustness and calibration for defect detection (R8/R1/R3)
+O1772;X;TA01;Outside asset-inspection context: plant disease lab-to-field adaptation
+O1773;F;;Field concrete crack image dataset curated to evaluate domain shift in SHM (R8/R3)
+O1774;F;;LPBF powder-spreading anomaly detection with domain adaptation deployment (R3); verify shift evaluation
+O1775;X;TA01;Outside asset-inspection context: plant disease imaging review
+O1776;X;TA01;Hyperspectral remote-sensing foundation model; not asset inspection
+O1777;F;;Robustness to novel visual defects via StyleGAN latent navigation in manufacturing (R3) (title only)
+O1778;X;TA01;Medical-only segmentation OOD scoring (note 7, consistent with O1535)
+O1779;X;TA02;Review of unsupervised time-series signal analysis; non-visual
+O1780;F;;Joint domain adaptation for thermal-image leak detection across pneumatic components (R3)
+O1781;X;TA01;Medical-only mammogram OOD detection (note 7)
+O1782;X;TA01;Outside asset-inspection context: crop anomaly detection
+O1783;X;TA05;Infrared-visible image alignment for PV inspection; registration accuracy, no reliability evaluation
+O1784;X;TA02;Open-set bearing defect recognition; non-visual signals (title only)
+O1785;F;;Multi-source domain adaptation for food-packaging quality control (R3) (title only)
+O1786;X;TA01;Medical-only mammogram OOD detection; same-title record (note 6)
+O1787;X;TA05;Lightweight aircraft skin defect detection; no reliability signalled (title only)
+O1788;X;TA01;Outside asset-inspection context: astronomy
+O1789;F;;Synthetic-to-real semi-supervised domain adaptation for 3D bridge point-cloud segmentation (R3)
+O1790;F;;Adaptive unsupervised anomaly detection for industrial parts in variable environments (R3)
+O1791;B;;Review of industrial image processing noting pretraining-to-factory domain gaps; core-context review
+O1792;X;TA01;Adversarial attacks on generic collaborative foundation-model pipelines; no industrial context
+O1793;F;;Corruption-robustness benchmark and Fourier mixture-of-experts for infrastructure crack segmentation (R3/R8)
+O1794;X;TA01;Generic domain adaptation network; no inspection context (title only)
+O1795;X;TA05;Simulation pipeline for synthetic quality-inspection training data; no shift evaluation signalled
+O1796;F;;Style-transfer augmentation addressing collection-to-production domain gap in ceramic defect detection (R3)
+O1797;F;;Open-set recognition of unknown LCD manufacturing defects (R3 open-set)
+O1798;X;TA01;Medical-only brain MRI anomaly detection (title only)
+O1799;X;TA01;General computer vision in robotics chapter; no inspection reliability focus
+O1800;F;;Parameter-efficient cross-domain anomaly detection deployed to unseen industrial settings (R3)

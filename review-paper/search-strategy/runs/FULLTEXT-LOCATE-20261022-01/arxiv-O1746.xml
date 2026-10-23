@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/2DfsyHKBWF6gHuRr37+KVW8Na+k</id>
+  <title>arXiv Query: search_query=ti:"Towards Open-World Object-Based Anomaly Detection via Self-Supervised Outlier Synthesis"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:07:58Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Towards+Open-World+Object-Based+Anomaly+Detection+via+Self-Supervised+Outlier+Synthesis%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2407.15763v1</id>
+    <title>Towards Open-World Object-based Anomaly Detection via Self-Supervised Outlier Synthesis</title>
+    <updated>2024-07-22T16:16:38Z</updated>
+    <link href="https://arxiv.org/abs/2407.15763v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.15763v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Object detection is a pivotal task in computer vision that has received significant attention in previous years. Nonetheless, the capability of a detector to localise objects out of the training distribution remains unexplored. Whilst recent approaches in object-level out-of-distribution (OoD) detection heavily rely on class labels, such approaches contradict truly open-world scenarios where the class distribution is often unknown. In this context, anomaly detection focuses on detecting unseen instances rather than classifying detections as OoD. This work aims to bridge this gap by leveraging an open-world object detector and an OoD detector via virtual outlier synthesis. This is achieved by using the detector backbone features to first learn object pseudo-classes via self-supervision. These pseudo-classes serve as the basis for class-conditional virtual outlier sampling of anomalous features that are classified by an OoD head. Our approach empowers our overall object detector architecture to learn anomaly-aware feature representations without relying on class labels, hence enabling truly open-world object anomaly detection. Empirical validation of our approach demonstrates its effectiveness across diverse datasets encompassing various imaging modalities (visible, infrared, and X-ray). Moreover, our method establishes state-of-the-art performance on object-level anomaly detection, achieving an average recall score improvement of over 5.4% for natural images and 23.5% for a security X-ray dataset compared to the current approaches. In addition, our method detects anomalies in datasets where current approaches fail. Code available at https://github.com/KostadinovShalon/oln-ssos.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-07-22T16:16:38Z</published>
+    <arxiv:comment>35 pages, 21 figures, includes supplementary material, accepted at ECCV 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Brian K. S. Isaac-Medina</name>
+    </author>
+    <author>
+      <name>Yona Falinie A. Gaus</name>
+    </author>
+    <author>
+      <name>Neelanjan Bhowmik</name>
+    </author>
+    <author>
+      <name>Toby P. Breckon</name>
+    </author>
+  </entry>
+</feed>

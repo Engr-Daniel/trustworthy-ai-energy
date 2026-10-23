@@ -27,6 +27,13 @@ for run in (root/"review-paper/search-strategy/runs").glob("PILOT-*"):
  m=json.loads((run/"search_manifest.json").read_text())
  for s in m["searches"]:
   if s["status"]=="completed":require(hashlib.sha256((run/s["raw_file"]).read_bytes()).hexdigest()==s["sha256"])
+integrated={e["Run ID"] for e in events if e["Source"]=="OpenAlex"}
+for run_id in integrated:
+ m=json.loads((root/"review-paper/search-strategy/runs"/run_id/"search_manifest.json").read_text(encoding="utf-8"))
+ require(all(s["status"]=="completed" for s in m["searches"]),"Integrated OpenAlex run not completed: "+run_id)
+ for s in m["searches"]:
+  for p in s["pages"]:require(hashlib.sha256((root/"review-paper/search-strategy/runs"/run_id/p["file"]).read_bytes()).hexdigest()==p["sha256"],"OpenAlex page hash mismatch: "+p["file"])
+  require(sum(e["Run ID"]==run_id and e["Search ID"]==s["search_id"] for e in events)==s["records_returned"],"OpenAlex event count mismatch: "+s["search_id"])
 # Verify stable identity mappings and duplicate targets, not only totals.
 registry=json.loads((c/"identity-registry.json").read_text(encoding="utf-8"))
 require(all(registry.get(e["Identity"])==e["Paper ID"] for e in events),"Identity registry mismatch")
@@ -44,7 +51,9 @@ for e in events:
  else:first[e["Identity"]]=e["Event ID"]
  by_event[e["Event ID"]]=e
 require(len(first)==len(ledger),"Identity/report count mismatch")
-for key,source in [("crossref_occurrences","Crossref pilot"),("seed_occurrences","Seed register")]:
+sources=[("crossref_occurrences","Crossref pilot"),("seed_occurrences","Seed register")]+([("openalex_occurrences","OpenAlex")] if "openalex_occurrences" in counts else [])
+require(sum(counts[k] for k,_ in sources)==len(events),"Occurrences not fully attributed to sources")
+for key,source in sources:
  require(counts[key]==sum(e["Source"]==source for e in events),"Source count mismatch: "+key)
 
 expected=[{k:e[k] for k in ["Event ID","Paper ID","Duplicate of","Identity"]} for e in events if e["Duplicate of"]]

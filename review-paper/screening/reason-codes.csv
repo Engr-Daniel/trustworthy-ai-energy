@@ -9,3 +9,5 @@ FT03,Full text,No eligible empirical or benchmark evidence
 FT04,Full text,Duplicate report version after linkage
 FT05,Full text,Language restriction declared in protocol
 NR01,Retrieval,Full text not retrieved after documented attempts
+TA05,Title abstract,No reliability dimension proposed or evaluated (accuracy-only visual inspection)
+FT06,Full text,No reliability dimension proposed or evaluated (accuracy-only visual inspection)

@@ -1,0 +1,50 @@
+O4951;X;TA05;Fourier space compression AD
+O4952;X;TA05;Reverse distillation reconstruction enhancement
+O4953;X;TA05;Random finite set point-pattern AD
+O4954;X;TA05;Continuous memory AD (title only)
+O4955;X;TA05;Cross-view multi-class IAD
+O4956;X;TA05;Diffusion and zero-shot composite defect classification; unseen classes by generation, not open-set evaluation
+O4957;X;TA05;CutMask augmentation (title only)
+O4958;X;TA05;Feature fusion defect segmentation
+O4959;X;TA05;Few-shot high-speed train AD (title only)
+O4960;X;TA05;Segmentation-aware anomaly synthesis
+O4961;X;TA05;Patch matching few-shot defects
+O4962;X;TA05;Geometry-guided score fusion multimodal IAD
+O4963;X;TA05;Adaptive anomaly synthesis triplet training (title only)
+O4964;X;TA05;Pre-trained feature activation learning AD
+O4965;X;TA05;Memory-aware anomaly synthesis (title only)
+O4966;X;TA01;Generic GAN anomaly detection survey
+O4967;X;TA05;DINOv2-CLIP zero/few-shot AD; cold start
+O4968;X;TA05;Infrared bottle seal reconstruction AD
+O4969;X;TA01;Railway track obstacle detection for train perception (note 7 analogue)
+O4970;X;TA05;Dual-prototype semi-supervised AD (title only)
+O4971;F;;Continual adaptation in industrial AD beyond current-task assumptions (R3); verify shift framing (consistent with O4624)
+O4972;X;TA05;Masked autoencoder AD (title only)
+O4973;X;TA05;SiC MOSFET microscopic AD (title only)
+O4974;X;TA05;Zero-shot texture localisation
+O4975;X;TA05;Noise-enhanced fabric defect network (title only)
+O4976;X;TA05;Friction stir weld autoencoder (title only)
+O4977;F;;Noise-resilient defect classification with trust regions tolerating noisy, unlabelled training data (R4)
+O4978;X;TA05;Power-plant leak generative AD with limited data; data scarcity, modality unspecified, no reliability evaluation
+O4979;X;TA05;Interpretability-aware autoencoder IAD; explanation, not reliability evaluation
+O4980;X;TA01;Smart-city traffic monitoring
+O4981;X;TA05;Sparsity-prior weakly supervised AD
+O4982;X;TA05;Autoencoder generalisation in one-class classification
+O4983;X;TA01;Leaf disease mapping
+O4984;X;TA05;CLIP-SAM cascaded prompts (title only)
+O4985;X;TA05;MemSeg semi-supervised defects (title only)
+O4986;F;;AD robustness to noisy input images via PDE-constrained feature denoising (R3 corruption); verify industrial evaluation
+O4987;X;TA05;Weakly supervised residual transformer IAD
+O4988;X;TA05;Nested learning few-shot AD
+O4989;X;TA05;Feature aggregation memory IAD
+O4990;X;TA05;Reference-defect prompt few-shot segmentation
+O4991;X;TA05;Heatmap-guided pseudo-anomalies (title only)
+O4992;X;TA05;Keyword patch prompts few-shot AD
+O4993;X;TA05;VLM-small model collaboration (title only)
+O4994;X;TA05;Diffusion feature reconstruction (title only)
+O4995;X;TA05;Asymmetric autoencoder distillation
+O4996;X;TA05;Structure-aware zero-shot AD (title only)
+O4997;X;TA05;Silk-screen pattern generative AD
+O4998;X;TA05;Frequency-decoupled fabric localisation
+O4999;X;TA05;Adapter CLIP brake shoe AD; confusers handled for accuracy
+O5000;X;TA05;Contrastive predictive coding AD

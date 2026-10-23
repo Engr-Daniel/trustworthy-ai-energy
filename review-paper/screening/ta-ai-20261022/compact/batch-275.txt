@@ -1,0 +1,50 @@
+O4001;X;TA02;GPR translation network; imaging NDT without reliability method (note 12) (title only)
+O4002;X;TA03;UAV image deblurring via PSF calibration; restoration, not inspection reliability
+O4003;X;TA02;GPR data inversion autoencoder; imaging NDT without reliability method (note 12)
+O4004;X;TA05;UAV crack evolution monitoring with temporal consistency; no reliability evaluation
+O4005;X;TA01;Generic DNN hardware reliability threats chapter (title only)
+O4006;X;TA05;HDD head stack corrosion detection for product reliability testing; speed-oriented
+O4007;X;TA03;Robot arm self-calibration
+O4008;F;;Reliable deterioration-level estimation via late fusion of multi-view distress images for practical inspection (R6); verify reliability evaluation
+O4009;X;TA05;Calibration-free substation meter reading; generality, not reliability evaluation
+O4010;X;TA03;Self-calibrating image processing for porosity monitoring (title only)
+O4011;X;TA02;Physics-based kNN wastewater pipe rating from non-image features
+O4012;X;TA01;Neural compression for wind turbine imagery (preprint)
+O4013;X;TA05;Substation equipment annotated dataset; no reliability framing
+O4014;B;;Review of open datasets for assessing PV reliability incl. inspection imagery; core-context (energy) dataset background
+O4015;X;TA03;Rope wire dimension measurement reliability
+O4016;X;TA02;GAN GPR image generation; imaging NDT without reliability method (note 12)
+O4017;X;TA02;Overhead line ground-fault location; non-visual
+O4018;X;TA05;Substation equipment dataset; same-title record (note 6)
+O4019;X;TA03;3D IC packaging reliability prediction
+O4020;X;TA05;YOLO-annotated substation dataset; no reliability framing
+O4021;X;TA03;LiDAR-camera calibration
+O4022;X;TA05;Infrared facade delamination quantification (title only)
+O4023;X;TA02;GPR tunnel lining segmentation model comparison; imaging NDT without reliability method (note 12)
+O4024;X;TA01;Medical imaging software defects
+O4025;X;TA01;Hardware fault injection in SEM deep models; not inspection reliability
+O4026;X;TA02;GPR water pipe crack identification
+O4027;X;TA05;Substation early-warning system with remote sensing and ground monitoring
+O4028;X;TA05;Railway car non-conformity segmentation with ensembles; ensembles not for uncertainty
+O4029;X;TA05;Defect severity scoring for steel connections (title only)
+O4030;X;TA02;Smart instrumentation review for oil and gas
+O4031;X;TA01;Skin cancer assessment
+O4032;X;TA02;Substation automation reliability (title only)
+O4033;X;TA05;Cross-domain methodology transfer for discontinuous processes; not inspection
+O4034;X;TA05;cGAN segmentation for medical and industrial images; accuracy-oriented
+O4035;X;TA05;Cross-domain methodology transfer chapter; same-title record (note 6)
+O4036;X;TA02;Data centre piping reliability review
+O4037;B;;Open datasets for PV reliability; preprint of O4014 (note 13)
+O4038;X;TA05;Solder reflow optimisation with AI defect analysis (title only)
+O4039;X;TA01;Railway beam tracking communications
+O4040;X;TA01;Landslide mapping generalisation
+O4041;B;;Adjacent non-visual: robust virtual sensing of turbine temperature under sensor drift and anomalies (R6, note 14)
+O4042;X;TA02;Generating unit predictive control (2010)
+O4043;F;;SAM auto-prompting for generalisable power equipment segmentation across scales, illumination and angles (R3); verify
+O4044;X;TA01;Medical-only Alzheimer MRI
+O4045;X;TA03;Interatomic potential development
+O4046;X;TA01;Low-altitude cross-domain target matching
+O4047;X;TA05;Thin crack identification network; reliability claimed without evaluation
+O4048;X;TA03;Wind turbine transmission chain stability modelling
+O4049;X;TA02;Wireless bridge monitoring systems dissertation
+O4050;X;TA02;GPR internal defect detection with YOLOX; imaging NDT without reliability method (note 12)

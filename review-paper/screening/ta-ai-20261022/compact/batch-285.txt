@@ -1,0 +1,50 @@
+O4501;X;TA05;Meta-learning few-shot AD generalisability across categories; not framed as deployment shift (note 2)
+O4502;X;TA05;Plausible anomaly augmentation (title only)
+O4503;F;;Unsupervised anomaly detection under label-level training noise (R4) (title only)
+O4504;X;TA05;Memory-bank multicase AD; accuracy-oriented
+O4505;F;;Multi-class AD robust to uncontrolled background variation in power-transmission inspection scenes (R3); verify shift evaluation
+O4506;X;TA05;Noise-induced normal augmentation; representation training
+O4507;X;TA05;Feature denoising reconstruction AD (title only)
+O4508;X;TA05;Zero-shot surface defect segmentation with foundation models; accuracy-oriented
+O4509;X;TA05;Condition-guided diffusion multi-class AD
+O4510;X;TA05;Contrastive sampling IAD (title only)
+O4511;X;TA05;Patch-Wasserstein autoencoder AD
+O4512;F;;Benchmark, ranking and practical recommendations for Industry 4.0 anomaly detection methods (R8); verify visual subset
+O4513;X;TA05;CNN metal nut defect classification
+O4514;B;;Open anomaly benchmark framework for reproducible, comparable image AD evaluation; evaluation-methodology background (R8)
+O4515;X;TA05;Vision transformer AD with BTAD dataset; no reliability framing
+O4516;X;TA05;Pavement distress augmentation (title only)
+O4517;X;TA05;Context-aware distillation AD
+O4518;X;TA05;Weakly supervised lightweight defect inspection
+O4519;X;TA05;Local-GAN IoT anomaly detection
+O4520;X;TA05;Learnable prompts zero-shot AD
+O4521;X;TA05;Local enhancement zero-shot AD
+O4522;X;TA05;Hybrid augmentation IAD
+O4523;X;TA05;Continual-learning MLLM anomaly detection; task-incremental, no reliability framing (title only)
+O4524;X;TA05;Reverse distillation with perturbation
+O4525;X;TA02;Tunnel worker safety from physiological and environmental indicators; non-visual
+O4526;X;TA05;SaliencyCut preprint; same-title record of O4502 (note 6)
+O4527;X;TA05;Neurosymbolic defect detection (title only)
+O4528;X;TA05;Compressed distillation defect detection
+O4529;F;;Effect of polluted training data on industrial AD performance (R4)
+O4530;X;TA01;Generic curved-geometry embeddings for open-set/OOD recognition
+O4531;X;TA05;Rail fastener detection under blur and angles; robustness claimed without shift evaluation
+O4532;X;TA05;Lightweight normalizing flow defect detection
+O4533;X;TA05;Play-Doh 3D AD dataset; controlled lighting variation, no shift evaluation
+O4534;X;TA05;Explainable few-shot automotive AD; explanation not evaluated as reliability
+O4535;X;TA05;Comparison of AD methods on X-ray manufacturing images (title only)
+O4536;X;TA05;Normality prompt transformer multi-class AD
+O4537;B;;InsPLAD real-world UAV power-line asset inspection dataset and benchmark; core-context dataset background
+O4538;X;TA05;VGG16 structural anomaly classification
+O4539;F;;Fully unsupervised IAD with unknown training-data contamination (R4)
+O4540;X;TA05;Adaptive discrepancy distillation AD
+O4541;X;TA05;Normalizing flow with automatic threshold (title only)
+O4542;X;TA01;Medical-only CLIP AD
+O4543;X;TA01;Medical liver tumour segmentation
+O4544;X;TA05;Feature refinement multi-class AD
+O4545;X;TA05;Mamba textured-surface localisation (title only)
+O4546;X;TA05;Inverse-transform autoencoder AD
+O4547;X;TA05;GPT-4V zero-shot AD (title only)
+O4548;X;TA05;RGB-D-text defect detection (title only)
+O4549;X;TA05;PaDiM; foundational method without reliability dimension (title only)
+O4550;X;TA05;Memory-bank IAD

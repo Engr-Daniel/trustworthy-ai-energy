@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/h08wuzT5z1UGoPN/aDD63Zduagc</id>
+  <title>arXiv Query: search_query=ti:"Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-22T14:26:51Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Memory+Efficient+Continual+Learning+for+Edge-Based+Visual+Anomaly+Detection%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2503.02691v1</id>
+    <title>Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection</title>
+    <updated>2025-03-04T15:03:47Z</updated>
+    <link href="https://arxiv.org/abs/2503.02691v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.02691v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Visual Anomaly Detection (VAD) is a critical task in computer vision with numerous real-world applications. However, deploying these models on edge devices presents significant challenges, such as constrained computational and memory resources. Additionally, dynamic data distributions in real-world settings necessitate continuous model adaptation, further complicating deployment under limited resources. To address these challenges, we present a novel investigation into the problem of Continual Learning for Visual Anomaly Detection (CLAD) on edge devices. We evaluate the STFPM approach, given its low memory footprint on edge devices, which demonstrates good performance when combined with the Replay approach. Furthermore, we propose to study the behavior of a recently proposed approach, PaSTe, specifically designed for the edge but not yet explored in the Continual Learning context. Our results show that PaSTe is not only a lighter version of STPFM, but it also achieves superior anomaly detection performance, improving the f1 pixel performance by 10% with the Replay technique. In particular, the structure of PaSTe allows us to test it using a series of Compressed Replay techniques, reducing memory overhead by a maximum of 91.5% compared to the traditional Replay for STFPM. Our study proves the feasibility of deploying VAD models that adapt and learn incrementally on CLAD scenarios on resource-constrained edge devices.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-04T15:03:47Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Manuel Barusco</name>
+    </author>
+    <author>
+      <name>Lorenzo D'Antoni</name>
+    </author>
+    <author>
+      <name>Davide Dalle Pezze</name>
+    </author>
+    <author>
+      <name>Francesco Borsatti</name>
+    </author>
+    <author>
+      <name>Gian Antonio Susto</name>
+    </author>
+  </entry>
+</feed>

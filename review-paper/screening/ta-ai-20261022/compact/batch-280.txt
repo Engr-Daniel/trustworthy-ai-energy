@@ -1,0 +1,50 @@
+O4251;X;TA02;Capacitor placement for distribution reliability
+O4252;X;TA02;Seismic response from acceleration and video (title only)
+O4253;X;TA01;Satellite detection MLOps (title only)
+O4254;X;TA03;Reliability-based linking of SHM data to condition ratings
+O4255;X;TA03;Electromigration reliability
+O4256;X;TA01;InSAR ground deformation inpainting
+O4257;X;TA01;Power grid flood recognition from video; not defect inspection
+O4258;X;TA01;Histopathology dataset
+O4259;X;TA01;Deception detection challenge
+O4260;X;TA02;Fibre optic sensing review
+O4261;X;TA01;GPU cluster maintenance
+O4262;X;TA02;Switchgear digital transformation
+O4263;X;TA04;Editorial (electronic packaging)
+O4264;X;TA05;AI-robotics O&M architecture evaluated on utility indices; not inspection-model reliability
+O4265;X;TA02;Distributed acoustic sensing for ground collapse
+O4266;X;TA02;Condensate pump maintenance
+O4267;X;TA01;Lake water quality time series
+O4268;X;TA03;LPBF residual stress prediction
+O4269;X;TA02;EV management systems
+O4270;X;TA02;Rotating machine reliability and RUL framework
+O4271;X;TA04;Editorial (geotechnical)
+O4272;X;TA02;GPR airfield pavement study
+O4273;X;TA03;Asphalt binder modelling
+O4274;X;TA01;Ground fissure detection in mining areas; geohazard
+O4275;X;TA02;GPR termite nest detection review
+O4276;X;TA03;Processor energy management (title only)
+O4277;X;TA01;Artificial consciousness software
+O4278;X;TA03;Asphalt binder modelling (title only)
+O4279;X;TA01;Building first-floor height estimation; not asset-defect inspection
+O4280;X;TA01;InSAR coastal instability
+O4281;X;TA01;InSAR highway deformation
+O4282;X;TA01;Conceptual essay on anomaly detector explanation claims
+O4283;X;TA03;High-entropy ceramics (title only)
+O4284;X;TA01;Legal mediation abstract
+O4285;X;TA01;Sensing law dataset
+O4286;B;;|Unified survey of anomaly, novelty, open-set and OOD detection; foundational methodological background (R3)
+O4287;F;;|Generalisation framework addressing domain shift in insulator broken and self-blast defect detection (R3)
+O4288;X;TA01;Generic domain generalisation for domain-linked classes
+O4289;B;;|Survey of generalised OOD detection; foundational methodological background (R3) (title only)
+O4290;X;TA01;Post-hoc OOD detection for mobile robots thesis; not inspection
+O4291;F;;|Single-source industrial anomaly detection for multi-target domain generalisation (R3)
+O4292;X;TA05;Ante-hoc interpretability for Industry 5.0 (title only)
+O4293;F;;|Anomaly detection under distribution shift incl. lighting, pose and background variation (R3); verify industrial evaluation
+O4294;F;;|Semi-supervised anomaly detection with domain adaptation (R3); verify industrial evaluation
+O4295;B;;|ViM virtual-logit OOD scoring; foundational OOD method background (R3)
+O4296;B;;|Methodological bridge: single-pass predictive uncertainty for OOD detection in industrial cyber-physical systems (R1/R3)
+O4297;X;TA01;Generic test-time adaptation under class imbalance
+O4298;F;;|Calibrated robust adaptive framework for texture heterogeneity (R1/R3); verify (title only)
+O4299;B;;|Adjacent non-visual: uncertainty quantification and calibration framework for RUL prediction (R1, note 14)
+O4300;F;;|Topological test-time adaptation for anomaly segmentation under noise and texture variation (R3)

@@ -1,0 +1,50 @@
+O2201;X;TA04;Editorial (AI in autonomous and surveillance systems)
+O2202;X;TA01;Medical-only chest X-ray VLM benchmark
+O2203;X;TA01;Generic cross-domain recognition on Office-31/DomainNet
+O2204;X;TA02;Graph contrastive SHM with FEA; non-visual
+O2205;X;TA01;Baggage X-ray prohibited item detection
+O2206;X;TA05;PV soiling image dataset; no reliability framing
+O2207;X;TA05;Graph-based part understanding for recognition; no reliability evaluation
+O2208;X;TA02;Audio anomaly detection under domain shift; non-visual
+O2209;X;TA01;Generic multi-source domain adaptation
+O2210;X;TA01;Defence electro-optical systems review
+O2211;X;TA01;Generic image editing synthetic data
+O2212;X;TA01;Generic image editing; same-title record (note 6)
+O2213;X;TA01;UAV vision-language navigation
+O2214;X;TA01;Cervical cytology staining review
+O2215;X;TA03;BIM synthetic data for MEP progress monitoring; not defect or condition inspection
+O2216;X;TA04;Guest editorial (image processing)
+O2217;X;TA01;Orchard fruit dataset
+O2218;X;TA01;Medical-only chest X-ray anomaly detection
+O2219;X;TA01;Underwater object detection review; not asset-inspection focused
+O2220;X;TA01;Airport surveillance review (note 7)
+O2221;X;TA01;Neuromorphic hardware dependability
+O2222;F;;Flow-matching segmentation and synthesis of thin structures incl. cracks addressing cross-domain generalisation (R3); verify evaluation
+O2223;X;TA01;CAN bus intrusion detection
+O2224;X;TA05;YOLOv8 battery swelling and smoke detection; accuracy and speed
+O2225;X;TA01;Dataset condensation (title only)
+O2226;X;TA01;Web coding benchmark
+O2227;X;TA01;Galaxy morphology classification
+O2228;F;;Label-flip poisoning detection in federated perception for underground mine inspection platforms (R4/R3 adversarial); verify vision context
+O2229;X;TA01;Software rejuvenation
+O2230;X;TA02;Heat exchanger digital twin virtual sensors; non-visual (title only)
+O2231;X;TA02;Generative process calculations for fuel cells; non-visual
+O2232;X;TA01;Deepfake detection bias
+O2233;X;TA01;Physical AI safety certification proposal; no inspection evaluation
+O2234;X;TA01;Medical-only chest X-ray pseudo-labels
+O2235;X;TA02;GBDT extrapolation for heat flux; non-visual
+O2236;X;TA01;Generic safety of deep classifiers dissertation; no inspection context
+O2237;X;TA01;Weak supervision for robotic perception
+O2238;X;TA04;Editorial (single-cell biology)
+O2239;X;TA01;Seismic velocity model dataset
+O2240;X;TA01;Muscle cell segmentation
+O2241;X;TA01;Fake news detection
+O2242;X;TA01;Dental CBCT review
+O2243;X;TA01;Access-control hardware patent
+O2244;X;TA01;Generic ML data cleaning dissertation
+O2245;X;TA01;Essay
+O2246;X;TA01;Youth safeguarding proposal
+O2247;X;TA01;Literary essay
+O2248;X;TA01;Tweet corpus
+O2249;X;TA01;History essay
+O2250;X;TA04;Index paratext

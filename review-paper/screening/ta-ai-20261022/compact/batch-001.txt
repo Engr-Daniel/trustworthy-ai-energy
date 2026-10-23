@@ -1,0 +1,60 @@
+C0001;F;;Title: calibrated few-shot industrial anomaly detection (R1 calibration / R3 adaptation); verify at full text
+C0002;X;TA05;Accuracy-oriented hybrid CNN-transformer IAD method; no reliability dimension signalled (title only)
+C0003;X;TA05;PatchCore application on MVTec AD reporting accuracy; no reliability design or evaluation
+C0004;X;TA05;Text-visual alignment segmentation method; no reliability dimension signalled (title only)
+C0005;X;TA05;Memory-bank unsupervised IAD paradigm; reliability only claimed generically
+C0006;B;;Survey of foundation models for cold-start industrial visual anomaly detection; review for background/overlap
+C0007;X;TA05;Frequency-aware restoration IAD method; accuracy-oriented (title only)
+C0008;X;TA05;Early-stopping heuristic for IAD training; no reliability dimension signalled (title only)
+C0009;B;;Survey of outlier exposure for robust industrial anomaly detection; reliability-relevant review
+C0010;X;TA05;Diffusion-model IAD method; accuracy-oriented (title only)
+C0011;X;TA05;Inpainting IAD method; accuracy-oriented (title only)
+C0012;X;TA05;Online temporal aggregation for yarn breakage detection; no reliability dimension signalled (title only)
+C0013;U;;Technical report; captured abstract is form boilerplate; content cannot be assessed
+C0014;X;TA05;Lightweight multimodal LLM for one-shot IAD; accuracy/efficiency focus (title only)
+C0015;X;TA05;Frequency-aware restoration IAD (version of C0007); accuracy-oriented
+C0016;X;TA05;Zero-shot CLIP-DINOv2 IAD without shift/robustness framing (note 2)
+C0017;X;TA05;Dual-student distillation IAD; accuracy on benchmarks
+C0018;X;TA02;Industrial IoT time-series anomaly detection; no image evidence
+C0019;X;TA05;Cascade reconstruction-discriminant IAD localisation; accuracy-oriented
+C0020;X;TA05;TransGAN anomaly detection on MVTec AD/CIFAR-10; accuracy only
+C0021;X;TA05;Neural network/ViT IAD method; accuracy-oriented (title only)
+C0022;X;TA05;Same-title version of C0021; accuracy-oriented (title only)
+C0023;X;TA05;Prompt-learning tokenisation for IAD; accuracy-oriented (title only)
+C0024;X;TA05;Thesis on normalizing-flow IAD; density modelling for detection accuracy, no reliability evaluation stated
+C0025;F;;Cross-domain industrial image anomaly detection (R3) (title only)
+C0026;F;;Streaming anomaly detection with domain adaptation and shift detection (R3); modality uncertain, verify at full text
+C0027;F;;Cross-domain industrial image anomaly detection (R3) (title only)
+C0029;F;;Vision-language IAD addressing unstable decisions and consistent explanations (R7 grounding); verify evaluation
+C0030;X;TA05;Ensemble pseudo-anomaly IAD method; accuracy-oriented (title only)
+C0031;F;;Domain-shift measurement with graded operator response for IAD (R3/R5); lighting/sensor degradation
+C0033;X;TA05;CNN image-based anomaly detection for predictive maintenance; no reliability dimension signalled (title only)
+C0034;X;TA02;Federated IoT network anomaly detection; no image evidence
+C0035;X;TA02;Audio anomaly detection via spectrogram images; acoustic evidence, no reliability dimension; adjacent rule not met
+C0036;X;TA05;Contrastive distillation IAD; accuracy on MVTec AD/BTAD
+C0037;X;TA05;Lightweight one-class IAD; accuracy/efficiency (title only)
+C0038;X;TA01;Domain generalisation for video anomaly detection (surveillance task), not industrial inspection (title only)
+C0039;F;;Unified multi-domain industrial anomaly detection; multi-domain generalisation (R3) uncertain, verify at full text
+C0040;X;TA01;Video anomaly detection temporal shift module; surveillance, not inspection
+C0041;F;;Multi-class IAD with domain adapter, robust under domain shift, OOD settings on MVTec/VisA (R3)
+C0042;X;TA05;Denoising distillation IAD; accuracy-oriented (title only)
+C0043;X;TA01;Generic cross-domain object detection; no industrial inspection context (title only)
+C0044;X;TA05;Memory-enhanced reverse distillation IAD; accuracy-oriented (title only)
+C0045;F;;Cross-domain unsupervised anomaly detection for medical and industrial images (R3) (title only)
+C0046;F;;Anomaly detection under distribution shift (R3); industrial context to verify (title only)
+C0047;X;TA05;Pruning/fine-tuning few-shot IAD; accuracy on MVTec AD
+C0048;F;;Domain adaptation of attention heads for zero-shot anomaly detection (R3); context to verify (title only)
+C0049;F;;Uncertainty management for defect classification in automated visual inspection with changing environment (R1)
+C0050;X;TA03;Uncertainty quantification software for simulation; no inspection task
+C0051;F;;Uncertainty-aware industrial defect detection evaluation and learning framework (R1) (title only)
+C0052;X;TA03;Uncertainty quantification software for simulation (version of C0050); no inspection task
+C0053;F;;Uncertainty-guided annotation for minimal-annotation VLM defect detection (R1/R4) (title only)
+C0054;F;;Uncertainty quantification in subsurface defect detection (R1); NDE modality to verify (title only)
+C0055;X;TA05;Reconstruction-based quartz defect detection; accuracy-oriented (title only)
+C0056;X;TA05;Short review of saliency defect detection; narrow technique, no reliability focus (note 3)
+C0057;X;TA03;Statistical lurking-variable detection; no visual inspection AI task
+C0058;X;TA02;Probabilistic multiscale microcrack prediction from strain fields; no image evidence
+C0059;X;TA05;Siamese one-class visual defect classification; accuracy only
+C0060;X;TA03;CFD uncertainty quantification; no inspection task
+C0061;X;TA05;Visual-sensor fusion defect detection on simulated data; accuracy, generic reliability claim
+C0062;X;TA05;Inpainting-GAN surface defect detection; accuracy-oriented (title only)

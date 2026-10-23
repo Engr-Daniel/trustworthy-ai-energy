@@ -67,3 +67,7 @@ Raw search captures retain exact bytes across platforms. The root `manifest.json
 - [Current pilot reading packet](review-paper/screening/abstracts-20261015/reading-packet.md): 16 abstracts available; four unresolved; human decisions pending. The 14 October packet is retained.
 
 - [Human screening workflow](docs/screening-workflow.md): pending decision template and provenance checks; no automated eligibility decisions.
+
+## Manuscript writing scaffold
+
+[IEEE LaTeX manuscript guide](review-paper/manuscript/README.md): main.tex, refrence.bib and figures/, with visible section guides and empty table/figure placeholders. This is an unfilled writing scaffold; it does not report completed synthesis. The local manuscript-overleaf.zip can be uploaded as an Overleaf project.

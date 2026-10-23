@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/ACmM7k9VwJjFVRHoSo5WF5JQEA8</id>
+  <title>arXiv Query: search_query=ti:"A survey on RGB, 3D, and multimodal approaches for unsupervised industrial image anomaly detection"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-23T06:27:27Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22A+survey+on+RGB,+3D,+and+multimodal+approaches+for+unsupervised+industrial+image+anomaly+detection%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2410.21982v2</id>
+    <title>A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Image Anomaly Detection</title>
+    <updated>2025-03-21T04:51:16Z</updated>
+    <link href="https://arxiv.org/abs/2410.21982v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2410.21982v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the advancement of industrial informatization, unsupervised anomaly detection technology effectively overcomes the scarcity of abnormal samples and significantly enhances the automation and reliability of smart manufacturing. As an important branch, industrial image anomaly detection focuses on automatically identifying visual anomalies in industrial scenarios (such as product surface defects, assembly errors, and equipment appearance anomalies) through computer vision techniques. With the rapid development of Unsupervised industrial Image Anomaly Detection (UIAD), excellent detection performance has been achieved not only in RGB setting but also in 3D and multimodal (RGB and 3D) settings. However, existing surveys primarily focus on UIAD tasks in RGB setting, with little discussion in 3D and multimodal settings. To address this gap, this artical provides a comprehensive review of UIAD tasks in the three modal settings. Specifically, we first introduce the task concept and process of UIAD. We then overview the research on UIAD in three modal settings (RGB, 3D, and multimodal), including datasets and methods, and review multimodal feature fusion strategies in multimodal setting. Finally, we summarize the main challenges faced by UIAD tasks in the three modal settings, and offer insights into future development directions, aiming to provide researchers with a comprehensive reference and offer new perspectives for the advancement of industrial informatization. Corresponding resources are available at https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-10-29T12:12:45Z</published>
+    <arxiv:comment>Accepted by Information Fusion</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yuxuan Lin</name>
+    </author>
+    <author>
+      <name>Yang Chang</name>
+    </author>
+    <author>
+      <name>Xuan Tong</name>
+    </author>
+    <author>
+      <name>Jiawen Yu</name>
+    </author>
+    <author>
+      <name>Antonio Liotta</name>
+    </author>
+    <author>
+      <name>Guofan Huang</name>
+    </author>
+    <author>
+      <name>Wei Song</name>
+    </author>
+    <author>
+      <name>Deyu Zeng</name>
+    </author>
+    <author>
+      <name>Zongze Wu</name>
+    </author>
+    <author>
+      <name>Yan Wang</name>
+    </author>
+    <author>
+      <name>Wenqiang Zhang</name>
+    </author>
+  </entry>
+</feed>

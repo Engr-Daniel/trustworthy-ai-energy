@@ -1,0 +1,198 @@
+{
+  "flow": {
+    "identified": 6683,
+    "openalex": 6250,
+    "crossref": 400,
+    "seeds": 33,
+    "duplicates": 1098,
+    "screened": 5585,
+    "ta_excluded": 4392,
+    "ta_background": 406,
+    "sought": 787,
+    "not_retrieved": 568,
+    "assessed": 219,
+    "ft_excluded": {
+      "FT01": 3,
+      "FT02": 2,
+      "FT03": 5,
+      "FT04": 15,
+      "FT05": 3,
+      "FT06": 23
+    },
+    "ft_background": 11,
+    "included_studies": 157,
+    "secondary_reports_of_included": 13,
+    "included_reports": 170
+  },
+  "context": {
+    "Core-energy": 21,
+    "Core-manufacturing": 105,
+    "Adjacent-infrastructure": 27,
+    "Adjacent-other": 4
+  },
+  "dims_any": {
+    "R1": 43,
+    "R2": 16,
+    "R3": 99,
+    "R4": 29,
+    "R5": 25,
+    "R6": 12,
+    "R7": 24,
+    "R8": 50
+  },
+  "dims_primary": {
+    "R1": 19,
+    "R2": 6,
+    "R3": 70,
+    "R4": 13,
+    "R5": 11,
+    "R6": 7,
+    "R7": 12,
+    "R8": 19
+  },
+  "maturity": {
+    "Industrial dataset (offline)": 46,
+    "Deployed or operational": 4,
+    "Benchmark (public)": 98,
+    "Human-subject experiment": 1,
+    "Field validation": 8
+  },
+  "guarantee": {
+    "None": 137,
+    "Finite-sample (conformal or risk control)": 4,
+    "Empirical operating point": 16
+  },
+  "human_role": {
+    "Recommended only": 11,
+    "Designed into workflow": 23,
+    "None": 116,
+    "Evaluated with humans": 7
+  },
+  "shift_origin": {
+    "Natural": 74,
+    "Not applicable": 37,
+    "Synthetic": 35,
+    "Not extracted": 1,
+    "Both": 10
+  },
+  "years": {
+    "2022": 10,
+    "2025": 37,
+    "2026": 68,
+    "2024": 17,
+    "unknown": 1,
+    "2019": 1,
+    "2023": 14,
+    "2021": 4,
+    "2020": 4,
+    "2017": 1
+  },
+  "dimension_by_context": {
+    "R1": {
+      "Core-energy": 9,
+      "Core-manufacturing": 23,
+      "Adjacent-infrastructure": 11,
+      "Adjacent-other": 0
+    },
+    "R2": {
+      "Core-energy": 4,
+      "Core-manufacturing": 12,
+      "Adjacent-infrastructure": 0,
+      "Adjacent-other": 0
+    },
+    "R3": {
+      "Core-energy": 12,
+      "Core-manufacturing": 71,
+      "Adjacent-infrastructure": 14,
+      "Adjacent-other": 2
+    },
+    "R4": {
+      "Core-energy": 2,
+      "Core-manufacturing": 21,
+      "Adjacent-infrastructure": 5,
+      "Adjacent-other": 1
+    },
+    "R5": {
+      "Core-energy": 7,
+      "Core-manufacturing": 13,
+      "Adjacent-infrastructure": 5,
+      "Adjacent-other": 0
+    },
+    "R6": {
+      "Core-energy": 2,
+      "Core-manufacturing": 8,
+      "Adjacent-infrastructure": 1,
+      "Adjacent-other": 1
+    },
+    "R7": {
+      "Core-energy": 5,
+      "Core-manufacturing": 14,
+      "Adjacent-infrastructure": 3,
+      "Adjacent-other": 2
+    },
+    "R8": {
+      "Core-energy": 7,
+      "Core-manufacturing": 35,
+      "Adjacent-infrastructure": 7,
+      "Adjacent-other": 1
+    }
+  },
+  "dimension_by_maturity": {
+    "R1": {
+      "Benchmark (public)": 18,
+      "Industrial dataset (offline)": 23,
+      "Field validation": 2,
+      "Deployed or operational": 0,
+      "Human-subject experiment": 0
+    },
+    "R2": {
+      "Benchmark (public)": 9,
+      "Industrial dataset (offline)": 6,
+      "Field validation": 0,
+      "Deployed or operational": 1,
+      "Human-subject experiment": 0
+    },
+    "R3": {
+      "Benchmark (public)": 66,
+      "Industrial dataset (offline)": 25,
+      "Field validation": 6,
+      "Deployed or operational": 2,
+      "Human-subject experiment": 0
+    },
+    "R4": {
+      "Benchmark (public)": 17,
+      "Industrial dataset (offline)": 10,
+      "Field validation": 1,
+      "Deployed or operational": 1,
+      "Human-subject experiment": 0
+    },
+    "R5": {
+      "Benchmark (public)": 11,
+      "Industrial dataset (offline)": 8,
+      "Field validation": 3,
+      "Deployed or operational": 2,
+      "Human-subject experiment": 1
+    },
+    "R6": {
+      "Benchmark (public)": 8,
+      "Industrial dataset (offline)": 4,
+      "Field validation": 0,
+      "Deployed or operational": 0,
+      "Human-subject experiment": 0
+    },
+    "R7": {
+      "Benchmark (public)": 17,
+      "Industrial dataset (offline)": 7,
+      "Field validation": 0,
+      "Deployed or operational": 0,
+      "Human-subject experiment": 0
+    },
+    "R8": {
+      "Benchmark (public)": 37,
+      "Industrial dataset (offline)": 9,
+      "Field validation": 3,
+      "Deployed or operational": 1,
+      "Human-subject experiment": 0
+    }
+  }
+}

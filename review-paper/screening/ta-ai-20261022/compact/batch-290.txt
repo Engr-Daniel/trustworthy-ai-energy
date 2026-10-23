@@ -1,0 +1,50 @@
+O4751;X;TA05;Fourier autoencoder texture defects
+O4752;X;TA05;Deformable transformer PCB detector
+O4753;X;TA05;Residual anomaly synthesis multi-class AD
+O4754;X;TA05;CAM-guided U-Net defect segmentation (title only)
+O4755;X;TA05;Open-vocabulary IAD with CLIP and LLM (title only)
+O4756;X;TA05;Latent regularised hybrid encoder AD (title only)
+O4757;X;TA05;Foundation-model PCB anomaly segmentation
+O4758;X;TA05;Reservoir computing AD; hardware efficiency
+O4759;X;TA05;Few-shot defect image generation
+O4760;X;TA05;Pseudo-state prompts zero-shot AD (title only)
+O4761;X;TA05;Siamese flow multi-texture AD (title only)
+O4762;X;TA05;General multi-product defect model; accuracy-oriented
+O4763;X;TA01;Aerial animal detection
+O4764;X;TA05;Incremental self-supervised AD (title only)
+O4765;X;TA05;Semi-supervised defect segmentation
+O4766;F;;Training-free catenary insulator inspection suppressing outdoor illumination nuisance (R3); verify shift evaluation
+O4767;F;;Online on-the-fly AD for non-stationary image distributions (R3) (title only)
+O4768;X;TA05;Frequency-enhanced prompt zero-shot AD (title only)
+O4769;X;TA05;Noise scheduling for fixed-view sensor reconstruction
+O4770;F;;Critical analysis of academic IAD benchmarks versus controlled-dataset assumptions, with best practices (R8)
+O4771;X;TA05;Intra/inter-correlation AD
+O4772;X;TA05;Sparse feature low-shot AD
+O4773;F;;Alignment validation loss for label-free outlier model selection (R8); verify image evaluation (title only, consistent with O4658)
+O4774;X;TA05;Carpet defect dataset and inspection framework
+O4775;X;TA05;RGB-D track AD; depth fusion, not sensor failure
+O4776;X;TA05;Embedding replay continual AD; catastrophic forgetting framing (title only, consistent with O4674)
+O4777;X;TA05;RGB-point cloud fusion IAD
+O4778;X;TA05;Nested attention surface defect network
+O4779;X;TA05;PaSTe edge efficiency
+O4780;X;TA05;Gaussian prompt geometry zero-shot IAD
+O4781;X;TA05;Frequency-aware restoration AD (title only)
+O4782;X;TA05;GANomaly variant surface defects (title only)
+O4783;X;TA01;Automated outlier detection search; generic data mining
+O4784;X;TA01;Medical AD benchmark
+O4785;X;TA05;Category-agnostic registration few-shot AD
+O4786;X;TA05;Angular margin morphological AD
+O4787;F;;Mixture of experts with test-time adaptation for AD (R3) (title only)
+O4788;X;TA05;Disconnected-manifold GAN AD
+O4789;X;TA05;Weakly supervised CycleGAN IAD for complex textures
+O4790;X;TA05;Diffusion IAD review (title only)
+O4791;X;TA05;Tiled ensemble high-resolution AD; memory efficiency
+O4792;X;TA05;Peripheral instance augmentation (title only)
+O4793;X;TA05;Dynamic visual adaptation multi-class AD
+O4794;X;TA05;Self-supervised normalizing flows
+O4795;X;TA05;Multi-scale distillation AD
+O4796;X;TA01;Optical image VLM review
+O4797;X;TA05;Multi-layer sparse coding AD
+O4798;X;TA05;Train pantograph AD (title only)
+O4799;X;TA05;Few-shot metal defect segmentation
+O4800;X;TA05;Hierarchical reconstruction multi-class AD (title only)
