@@ -1,4 +1,5 @@
-# Versions used to build the 2 November 2026 provisional draft and workbook.
+# Versions used by the Python 3.10 build environment for the 2 November 2026 draft.
+# Validation-only environments should use requirements-test.txt; matplotlib 3.7.0 has no CPython 3.12 Windows wheel.
 requests==2.32.3
 pypdf==5.1.0
 matplotlib==3.7.0
