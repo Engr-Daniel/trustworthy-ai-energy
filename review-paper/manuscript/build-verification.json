@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-02",
+  "engine": "Tectonic 0.17.0 (XeTeX/BibTeX)",
+  "compiler_exit_code": 0,
+  "pages": 14,
+  "overfull_warnings": 0,
+  "missing_glyph_warnings": 0,
+  "unresolved_citation_markers": 0,
+  "scope": "Compiled provisional draft; human audit and review completeness remain unresolved",
+  "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory"
+}

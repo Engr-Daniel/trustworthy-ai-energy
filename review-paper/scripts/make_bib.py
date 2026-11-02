@@ -19,8 +19,35 @@ def read(p):
 
 def latex(s):
     s = unicodedata.normalize("NFC", s or "")
+    # Preserve publisher-supplied paired math; escaping its dollars leaves ^/_ outside math mode.
+    equations = {}
+    def preserve(match):
+        token = "ZZBIBMATH" + str(len(equations)) + "ZZ"
+        equations[token] = match.group(0)
+        return token
+    s = re.sub(r"\$[^$]+\$", preserve, s)
+    s = s.replace("\u2010", "-").replace("\u2011", "-").replace("\u2013", "--").replace("\u2014", "---")
+
     for a, b in [("\\", " "), ("&", r"\&"), ("%", r"\%"), ("_", r"\_"), ("#", r"\#"), ("$", r"\$"), ("~", " ")]:
         s = s.replace(a, b)
+    for char, rendered in [("\u0130", r"\.{I}"), ("\u0131", r"\i{}"), ("\u011f", r"\u{g}")]:
+        s = s.replace(char, rendered)
+    # TeX accent commands preserve spelling and avoid UTF-8 initials being split by BibTeX.
+    accents = {"\u0300": "`", "\u0301": "'", "\u0302": "^", "\u0303": "~", "\u0308": '"',
+               "\u030a": "r", "\u0327": "c", "\u030c": "v", "\u0306": "u", "\u0328": "k", "\u0307": ".", "\u030b": "H"}
+    direct = {"\u2019": "'", "\u2018": "'", "\u201c": "``", "\u201d": "''", "\u00a0": " ",
+              "\u0142": r"\l{}", "\u0141": r"\L{}", "\u00df": r"\ss{}", "\u00e6": r"\ae{}", "\u00f8": r"\o{}", "\u0153": r"\oe{}"}
+    def render_character(char):
+        if char in direct: return direct[char]
+        decomposed = unicodedata.normalize("NFD", char)
+        if len(decomposed) > 1 and decomposed[0].isascii() and all(mark in accents for mark in decomposed[1:]):
+            result = decomposed[0]
+            for mark in decomposed[1:]: result = "\\" + accents[mark] + "{" + result + "}"
+            return result
+        return char
+    s = "".join(render_character(char) for char in s)
+    for token, equation in equations.items():
+        s = s.replace(token, equation)
     return re.sub(r"\s+", " ", s).strip()
 
 def ascii_word(s):

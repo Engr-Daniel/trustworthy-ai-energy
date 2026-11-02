@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-02",
+  "purpose": "Reconcile previously saved delegated AI decisions, preserving original reviewer/date and audit-pending status",
+  "sources": [
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-301.txt",
+      "sha256": "83794bc4ca433eb77dfc96aa41efcc8b75f9f61d88c402042fba9d92ba5f5186"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-302.txt",
+      "sha256": "bb98334a5690cb9cf519d57f516a495445800529660f69612bd438f347b3ed03"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-303.txt",
+      "sha256": "928c5878f1a16bf58d13721abe6a1f82c469cdfc42e934bc12ce3494fc675795"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-304.txt",
+      "sha256": "7a7d37eec72ac6cbbfb6a74f6120f0779325869a1d3f4f8e9b1f68b5267142c8"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-305.txt",
+      "sha256": "8efb49f330154fdab43c0c66ba1bc95a11733429caec2dc56cc33162498fcce8"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-306.txt",
+      "sha256": "bec9c6b5b37620fb070093a534c59f8e8669c4e60f6dbe969ab71061c7fe40f4"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-307.txt",
+      "sha256": "06694571dbfd60c4ef704ddde43a8851f83acf9a5ad13f2a820c29f69df90766"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-308.txt",
+      "sha256": "2b58609f8a762e624af3ff14a11a59d081e5e854962523b6d4aabd730f8c42b9"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-309.txt",
+      "sha256": "2477eb6c0b45a5d708225141c95eea39fab82d7b6f975ed0e588e77d6f6c40b4"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-310.txt",
+      "sha256": "e594b3ecde38c6fd81e2628d431af3f94e6b0f9ce20ec9853f248733f59549a8"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-311.txt",
+      "sha256": "7bea365bc62df607c8034fb997fb031ea881e8e06a5169744d41f35b74e3ac9b"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-312.txt",
+      "sha256": "536ca8439b162b0884b1d731287a1eaa99d6ee2061e7772cf201230233aa3bec"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-313.txt",
+      "sha256": "1073d5a6959beaa1bd866d6cf28247e99339c8c0258598f29d5cbe68875692c8"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-314.txt",
+      "sha256": "14471372177c27796cd7810aca56f784be3c9bd57faa8e5dc8dab3a9404944fb"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-315.txt",
+      "sha256": "8b5c5e399368cf7b523e9a74c6c7799bb3b030e5300d54594e4e2c598ae693b4"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-316.txt",
+      "sha256": "23e331390f16b5d2c44b64b25b0003cb801db71f1e42c572389a81925254423d"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261026/compact/batch-317.txt",
+      "sha256": "c0704aa93ba762269b23afecd66545d6d127306b6b6e58b85669947be9b32391"
+    }
+  ],
+  "accepted": 664,
+  "held_pending": 186,
+  "hold_reason": "Current AGENTS.md prohibits exclusion through title heuristics; no abstract capture locator exists for these proposals"
+}

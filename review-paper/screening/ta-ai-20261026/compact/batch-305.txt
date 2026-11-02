@@ -1,0 +1,50 @@
+O5426;X;TA02;Power-grid false consumption attack detection; non-visual
+O5427;X;TA01;Sustainability policy design
+O5428;X;TA03;CNC machining simulation
+O5429;X;TA01;Deepfake detection
+O5430;B;;Review of UAS multi-sensor corrosion detection across oil, gas and renewable infrastructure; broad review in core context
+O5431;X;TA05;Dual memory-bank anomaly localisation (title only)
+O5432;X;TA05;Multisensor wire-harness quality inspection (title only)
+O5433;X;TA05;Knowledge-language alignment AD
+O5434;X;TA05;Thin crack loss under limited data
+O5435;X;TA01;Generic continual anomaly detection software framework
+O5436;X;TA05;Image-based industrial AD; accuracy-oriented
+O5437;X;TA01;Psychology of work
+O5438;F;;Fully unsupervised image AD with unlabeled anomalies in training data, exploiting learning bias (R4)
+O5439;X;TA05;Defective solar panel detection with pretrained features; accuracy-oriented
+O5440;X;TA01;Video anomaly detection (note 7)
+O5441;X;TA01;Intrusion detection XAI survey
+O5442;X;TA01;Smart homes chapter
+O5443;B;;Critical review of ML in ship, offshore and oil-and-gas corrosion research; broad review in core context
+O5444;F;;Visual corrosion measurement improved by spectral-structural distribution alignment (R3); verify shift framing
+O5445;X;TA05;Zero-shot AD with CLIP infiltration
+O5446;X;TA02;SHM structural damage detection from monitoring data; non-visual
+O5447;X;TA01;Clinical prediction classifier
+O5448;X;TA05;Diffusion-augmented zero-shot industrial AD (title only)
+O5449;X;TA01;Generic concept-agnostic continual AD
+O5450;X;TA05;Prototype distillation AD (title only)
+O5451;X;TA01;EEG anomaly warning
+O5452;X;TA03;Active robotic inspection path planning; no learned image model
+O5453;X;TA03;Corrosion inhibition prediction
+O5454;X;TA01;Surveillance video AD
+O5455;X;TA03;AI in manufacturing chapter
+O5456;X;TA05;Cardboard box visual inspection system (title only)
+O5457;X;TA03;Manufacturing AI integration review
+O5458;X;TA05;Transformer unsupervised image AD
+O5459;X;TA01;Histopathology data sharing
+O5460;X;TA05;Hybrid transformer textured surface AD
+O5461;B;;State-of-the-art review of ML for marine structures incl. inspection; broad review in adjacent context
+O5462;F;;Wafer-analysis MLLM with chain-of-thought retrieval augmentation grounding answers in external knowledge (R7)
+O5463;X;TA05;High-resolution image AD; efficiency
+O5464;X;TA05;Few-shot defect segmentation for unseen categories (note 2)
+O5465;X;TA02;Corrosion quantification from S-parameters; non-visual
+O5466;X;TA01;Open-world segmentation for autonomous vehicles (note 7)
+O5467;X;TA01;Video anomaly detection
+O5468;X;TA05;Wafer bin map classification framework
+O5469;X;TA01;Human-robot interaction and project creativity
+O5470;X;TA01;Fraud detection
+O5471;X;TA01;Medical missing-pattern framework
+O5472;X;TA02;Sensor-driven manufacturing digital twin; non-visual
+O5473;X;TA05;Catheter cross-section dimension measurement
+O5474;X;TA05;Few-shot AD registration (title only)
+O5475;B;;Pitfalls of self-supervised AD evaluation and model selection; R8 methodological background (consistent with O4773)

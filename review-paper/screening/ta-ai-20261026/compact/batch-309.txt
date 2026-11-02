@@ -1,0 +1,50 @@
+O5626;X;TA05;Spatiotemporal fusion robotic structural inspection (title only)
+O5627;X;TA01;EFL education
+O5628;X;TA01;Medical AI decision-making scoping review
+O5629;X;TA01;XAI design framework for human-AI teams; not inspection
+O5630;X;TA01;Metallurgical energy efficiency review; not inspection
+O5631;X;TA03;Mass-customisation decision-making thesis; no visual inspection model
+O5632;X;TA05;Cloud-edge defect detection and semantic reasoning (title only)
+O5633;X;TA01;Generic cross-domain generalisation method (title only)
+O5634;X;TA01;Generic domain generalisation method
+O5635;X;TA01;Generic domain generalisation method
+O5636;X;TA01;Generic domain generalisation benchmark (PACS)
+O5637;X;TA01;Generic domain generalisation method
+O5638;X;TA01;Generic domain generalisation method
+O5639;X;TA01;Generic single-domain generalisation method
+O5640;B;;Survey of domain generalisation; R3 methodological background
+O5641;X;TA01;Generic domain generalisation method
+O5642;X;TA01;Generic domain generalisation method
+O5643;B;;Survey of domain generalisation in vision; R3 methodological background
+O5644;X;TA01;Generic domain generalisation method
+O5645;X;TA01;Generic object-detection calibration method; no inspection context
+O5646;X;TA01;Generic domain generalisation method (title only)
+O5647;X;TA01;Generic domain generalisation method
+O5648;X;TA01;Generic domain generalisation method (title only)
+O5649;X;TA01;Generic domain generalisation method
+O5650;X;TA01;Generic domain generalisation method (title only)
+O5651;X;TA01;Medical-only domain generalisation
+O5652;X;TA01;Generic domain generalisation benchmark
+O5653;X;TA01;Generic domain generalisation method (title only)
+O5654;X;TA01;Generic probability calibration method
+O5655;X;TA01;Generic domain generalisation method (title only)
+O5656;X;TA01;Generic domain generalisation method
+O5657;X;TA01;Generic natural-image OOD benchmark
+O5658;X;TA01;Generic domain generalisation and adaptation method
+O5659;X;TA01;Generic style transfer and domain generalisation
+O5660;X;TA01;Generic OOD detection method
+O5661;X;TA01;Generic domain generalisation method
+O5662;X;TA02;Semantic parsing; non-visual
+O5663;X;TA01;Generic domain generalisation method
+O5664;X;TA01;Urban-scene segmentation domain generalisation; driving context
+O5665;X;TA01;Medical-only domain generalisation
+O5666;X;TA01;Generic zero-shot domain generalisation
+O5667;X;TA01;Face anti-spoofing
+O5668;B;;Large-scale evaluation of predictive uncertainty under dataset shift; R1/R3 methodological background
+O5669;X;TA01;Generic noisy-label training method
+O5670;X;TA01;Face anti-spoofing
+O5671;X;TA01;Generic zero-shot domain generalisation (version of O5666)
+O5672;X;TA01;Generic noisy-label classification method
+O5673;X;TA01;Generic visual domain adaptation method
+O5674;X;TA01;Generic domain generalisation method
+O5675;X;TA01;Generic OOD detection method

@@ -1,0 +1,50 @@
+O5926;X;TA01;Generic AUC evaluation methodology (title only)
+O5927;X;TA02;Generic LOF outlier detection; non-visual
+O5928;X;TA05;Pavement texture CNN; accuracy only
+O5929;X;TA01;Generic rule extraction from ensembles
+O5930;X;TA01;Generic continual learning
+O5931;X;TA03;Probability reasoning essay
+O5932;X;TA02;ERP insider behaviour; non-visual
+O5933;X;TA01;Generic cross-validation
+O5934;X;TA01;Generic open-set classifier (title only)
+O5935;F;;Streaming ML with online active learning for automated visual inspection in manufacturing (R3 drift, R5 human labelling); verify
+O5936;X;TA01;SVM theory
+O5937;X;TA01;Robotic tactile recognition
+O5938;X;TA03;TensorFlow software
+O5939;B;;Question-driven XAI user-experience design practices; R5 methodological background
+O5940;X;TA01;Generic AE AD (title only)
+O5941;X;TA05;Pavement crack CNN; accuracy only
+O5942;X;TA05;Hybrid crack detection (title only)
+O5943;X;TA01;Generic adversarial AD
+O5944;X;TA01;Fetal imaging
+O5945;X;TA05;Synthetic anomalies for AD; no reliability dimension (title only)
+O5946;X;TA01;Generic outlier ensembles (title only)
+O5947;X;TA01;Generic imbalanced learning survey
+O5948;X;TA02;Multivariate AD comparison; non-visual
+O5949;X;TA05;Catenary bird-nest detection; accuracy only (title only)
+O5950;X;TA05;Concrete defect dataset and NAS; accuracy only
+O5951;X;TA01;Generic adversarial defence
+O5952;X;TA01;Generic continual learning
+O5953;X;TA01;Generic adversarial examples
+O5954;X;TA05;Wafer map pattern recognition; accuracy only
+O5955;X;TA01;Video anomalous events
+O5956;X;TA05;Pavement crack networks; accuracy only
+O5957;X;TA01;Generic adversarial training
+O5958;X;TA05;Wafer pattern clustering; accuracy only
+O5959;X;TA01;Generic image AD
+O5960;X;TA01;Robotic visual-tactile generation
+O5961;X;TA01;GAN overview
+O5962;X;TA01;Bayesian backpropagation theory; generic
+O5963;X;TA05;Zero-shot anomaly segmentation without shift evaluation (note 1)
+O5964;X;TA01;Generic explanation method
+O5965;X;TA01;Generic imbalanced learning
+O5966;X;TA05;Concrete crack detection with handwriting interference as a negative class; accuracy only
+O5967;X;TA01;Generic open-world recognition
+O5968;X;TA01;CIFAR dataset
+O5969;X;TA01;Generic adversarial training
+O5970;X;TA01;Generic concept explanations
+O5971;X;TA01;Knowledge graph survey
+O5972;X;TA01;Generic supervised AD
+O5973;X;TA05;Zero-shot anomaly localisation without shift evaluation (note 1)
+O5974;X;TA01;Generic deviation-network AD
+O5975;X;TA02;Graph fraud detection

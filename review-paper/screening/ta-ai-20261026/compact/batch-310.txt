@@ -1,0 +1,50 @@
+O5676;X;TA01;Medical-only federated domain generalisation
+O5677;B;;Survey of learning from noisy labels with deep networks; R4 methodological background
+O5678;X;TA01;Generic adversarial domain adaptation method
+O5679;X;TA01;Generic calibration method
+O5680;X;TA01;Generic domain generalisation method
+O5681;X;TA01;Point-cloud driving 3D detection DG
+O5682;X;TA01;Generic unsupervised domain adaptation method
+O5683;X;TA01;Generic cross-domain segmentation (title only)
+O5684;X;TA01;Generic continual test-time adaptation
+O5685;X;TA01;Generic open-set recognition
+O5686;B;;Survey of classification under label noise; R4 methodological background
+O5687;X;TA01;Generic test-time adaptation
+O5688;X;TA01;Generic noisy-label loss
+O5689;X;TA01;Generic OOD generalisation pretraining
+O5690;X;TA01;Generic open-set recognition
+O5691;B;;Common-corruption robustness benchmark (ImageNet-C); R3/R8 methodological background
+O5692;B;;WILDS benchmark of in-the-wild distribution shifts; R3/R8 methodological background
+O5693;X;TA05;Generic training normalisation; no reliability dimension
+O5694;B;;Survey of deep visual domain adaptation; R3 methodological background
+O5695;X;TA01;Histopathology-only domain shift
+O5696;X;TA01;Generic open-set recognition
+O5697;X;TA01;Generic noisy-label training
+O5698;X;TA01;Generic test-time adaptation segmentation (title only)
+O5699;B;;Survey of unsupervised deep domain adaptation; R3 methodological background
+O5700;X;TA01;Generic weak and noisy-label segmentation
+O5701;X;TA01;Generic domain adaptation method (title only)
+O5702;X;TA01;Generic OOD detection method
+O5703;X;TA01;Generic domain adaptation method
+O5704;X;TA01;Generic multi-source domain adaptation
+O5705;X;TA01;Generic open-set recognition
+O5706;X;TA01;Generic domain adaptation method
+O5707;X;TA01;Generic label smoothing and noise
+O5708;X;TA01;Generic noisy-label method
+O5709;X;TA01;Generic OOD detection method
+O5710;X;TA01;Generic segmentation corruption robustness benchmark; driving scenes
+O5711;X;TA01;Generic self-supervised robustness
+O5712;X;TA01;Generic open-set recognition
+O5713;X;TA01;Generic noisy-label detection
+O5714;X;TA01;Generic adaptive risk minimisation
+O5715;X;TA01;Generic robustness augmentation
+O5716;X;TA01;Generic adversarial robustness evaluation
+O5717;X;TA01;Generic OOD detection method
+O5718;X;TA01;Surveillance video AD
+O5719;X;TA01;Generic self-supervised robustness (version of O5711)
+O5720;X;TA01;Generic source-free domain adaptation
+O5721;X;TA01;Generic multi-source domain adaptation
+O5722;B;;Review of single-source unsupervised visual domain adaptation; R3 methodological background
+O5723;X;TA01;Generic open-set recognition
+O5724;X;TA01;Medical noisy-label segmentation (title only)
+O5725;X;TA01;Generic domain adaptation method

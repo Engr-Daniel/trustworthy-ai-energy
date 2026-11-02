@@ -1,0 +1,50 @@
+O5876;X;TA01;Video AD
+O5877;X;TA01;Point cloud domain generalisation (title only)
+O5878;X;TA01;Generic multitask learning
+O5879;X;TA01;Counterfactual explanations review; not inspection
+O5880;X;TA01;Generic XAI survey
+O5881;X;TA04;Probabilistic graphical models textbook
+O5882;X;TA01;Generic mislabelled data identification
+O5883;X;TA01;Face and text super-resolution
+O5884;B;;Review of trust in AI and acceptance; R5 methodological background
+O5885;X;TA01;Generic augmentation
+O5886;X;TA01;Generic incremental learning (title only)
+O5887;X;TA01;Generic representation learning
+O5888;X;TA01;Medical cardiac MRI generalisation
+O5889;B;;Fooling LIME and SHAP: unreliability of post-hoc explanations; R8 methodological background
+O5890;X;TA01;Driving-scene anomaly segmentation
+O5891;B;;MVTec 3D-AD benchmark dataset paper; benchmark background for evaluation (R8)
+O5892;X;TA01;Generic open-world recognition
+O5893;X;TA01;Generic corrupted-label learning
+O5894;X;TA01;Generic XAI explainer selection
+O5895;X;TA01;Electron microscopy neuroscience
+O5896;X;TA01;Generic adversarial training
+O5897;X;TA01;Generic domain-adaptive segmentation
+O5898;X;TA05;Sewer defect classification; accuracy only
+O5899;X;TA01;Generic nearest-neighbour AD
+O5900;X;TA05;Concrete crack YOLO detection; accuracy only
+O5901;X;TA05;Hyperspectral concrete stain mapping; accuracy only
+O5902;X;TA01;Generic transfer learning survey
+O5903;X;TA01;Generic data scale study
+O5904;X;TA01;Face super-resolution (title only)
+O5905;X;TA01;Synthetic humans
+O5906;X;TA01;Face anti-spoofing (title only)
+O5907;B;;Adjacent non-visual: XAI-guided process-quality decisions in semiconductor manufacturing with field evidence (R5, note 14)
+O5908;B;;Eyecandies multimodal AD benchmark dataset paper; benchmark background (R6/R8)
+O5909;X;TA05;SSIM autoencoder defect segmentation; accuracy only
+O5910;X;TA02;Financial AD survey
+O5911;X;TA01;Generic kernel PCA novelty detection (title only)
+O5912;X;TA05;Bridge deck crack detection; accuracy only
+O5913;F;;Texture-based video crack detection on metallic (nuclear-plant) surfaces with Bayesian data fusion (R1 to verify); core energy context
+O5914;X;TA01;Generic one-class AD
+O5915;X;TA01;Video AD
+O5916;X;TA02;Compressed vibration SHM data
+O5917;X;TA05;Synthetic augmentation for surface defects; accuracy only (title only)
+O5918;B;;Survey of visual sensory anomaly detection; broad background
+O5919;X;TA01;Simulators and synthetic data perspective (title only)
+O5920;X;TA01;Generic multi-task adaptation (title only)
+O5921;X;TA02;Statistics ordinal probit
+O5922;X;TA01;Generic explainable CNN review
+O5923;X;TA01;Generic bilevel learning (title only)
+O5924;X;TA01;Crowd counting
+O5925;X;TA01;Image synthesis

@@ -1,0 +1,665 @@
+# Existing Claude decisions dated 26 October; imported 2 November, not a new independent review.
+O5226;F;;Meta domain generalisation for distribution drift in anomaly detection (R3); context to verify (title only, note 4)
+O5227;X;TA01;Medical-only AD domain generalisation
+O5229;X;TA01;Generic trustworthy AI chapter
+O5230;X;TA01;Generic causal inference for dataset shift
+O5231;X;TA01;Generic distribution shift detection
+O5232;X;TA01;Medical-only OOD segmentation
+O5233;X;TA02;Time-series test-time adaptation; non-visual
+O5234;F;;Evidential learning for trustworthy recognition of mixed-type wafer-map defects (R1)
+O5235;F;;Adversarial domain adaptation for part-to-part generalisation of DL segmentation in manufacturing (R3)
+O5236;X;TA01;Generic human-AI judgement bias
+O5237;F;;Reliability-aware selective fusion of visual and acoustic data for concrete-surface classification when sensors are unavailable (R6, R2; adjacent infrastructure)
+O5238;B;;Review of deep learning with noisy labels across industrial domains; R4 methodological background
+O5239;X;TA01;Generic trustworthy AI overview (IP, privacy, security)
+O5240;X;TA01;Generic open-environment OOD object detection
+O5243;X;TA01;Open-set text recognition
+O5244;F;;Continual learning framework for reliable defect segmentation with pixel-level uncertainty quantification (R1, R3) (title only)
+O5245;F;;Cross-domain anomaly detection for aircraft engine blade manufacturing (R3)
+O5246;F;;Synthetic defect data for segmentation accuracy and robustness in real-world bridge inspection (R3, R8; adjacent) (title only)
+O5247;X;TA01;Software testing
+O5248;X;TA01;Generic multi-scale OOD detection
+O5249;X;TA01;Generic open-set semi-supervised learning
+O5250;F;;Simultaneous classification and OOD detection for semiconductor wafer bin maps (R3)
+O5251;X;TA01;Generic OOD detection via jigsaw puzzles
+O5252;F;;Defect inspection under target-scarce domain adaptation (R3) (title only)
+O5254;X;TA01;Open-set text recognition
+O5256;X;TA02;Machine sound anomaly detection under domain shift; non-visual generic DA (note 14)
+O5257;F;;Few-shot anomaly detection under domain shift with CLIP prompts (R3)
+O5258;X;TA03;Street-view cladding material classification; not an inspection task
+O5259;X;TA01;Intrusion detection
+O5260;X;TA01;Generic few-shot open-set object detection
+O5261;F;;Cross-domain anomaly detection across PV wafer manufacturing lines (R3; core energy manufacturing)
+O5262;X;TA01;Generic comparative explanations
+O5263;X;TA01;Generic adversarial robustness
+O5264;X;TA02;Modulation open-set detection; signals
+O5265;F;;Open-set anomaly detection via normal-invariant representation learning (R3); context to verify (title only, note 4)
+O5266;X;TA01;Wildlife track classification
+O5267;F;;Open-set recognition of mobile-phone screen defects for unknown anomalies (R3)
+O5269;X;TA01;Surveillance video anomalies (note 7)
+O5270;X;TA02;Metal-cutting sound domain adaptation; non-visual generic DA (note 14)
+O5272;X;TA01;Hydrological data classification
+O5273;F;;ISP-AD large real-world industrial AD dataset with synthetic and real defects (R8)
+O5274;B;;Adjacent non-visual: calibrated CRNN for early industrial fault detection on multivariate sensors; transferable calibration method (R1, note 14)
+O5275;X;TA05;Corrosion zone shape identification; accuracy-oriented
+O5276;F;;Structural displacement measurement with deep optical flow and uncertainty analysis (R1; adjacent infrastructure) (title only)
+O5277;X;TA01;Fraud detection
+O5279;B;;Generalisation of CAIPI explanatory interactive learning; R5 methodological bridge used in industrial interactive inspection
+O5280;F;;Calibration methods for deep learning optical quality monitoring under data drift (R1, R3)
+O5281;F;;Pose-agnostic visual AD in realistic industrial scenes (R3, R8)
+O5282;X;TA01;Brain microelectrode implantation; medical robotics
+O5284;F;;Neural processes with reliable inference for industrial equipment AD (R1); modality to verify (title only, note 4)
+O5285;X;TA05;Substation equipment self-supervised AD with diffusion synthesis; accuracy-oriented
+O5286;F;;Robustness of unsupervised image surface-anomaly detection methods (R3)
+O5287;F;;Cross-modal disagreement-guided reliability-aware scoring for RGB-3D industrial AD (R6)
+O5288;X;TA01;Trajectory visualisation
+O5289;X;TA01;Generic adversarial image detection
+O5290;X;TA05;Facade stain mapping; accuracy-oriented
+O5291;F;;Weather-robust crack segmentation for drone road inspection (R3; adjacent)
+O5292;F;;Robust PCB AD using aligned design information (R3); verify robustness evaluation
+O5294;X;TA05;Global-local industrial image AD; robustness claimed
+O5295;X;TA01;Entity disambiguation
+O5296;X;TA01;Network traffic anomaly detection
+O5297;X;TA01;Generic contaminated-data AD (tabular)
+O5298;X;TA05;YOLO corrosion detection for aerospace ground equipment
+O5299;X;TA02;Smart-grid ML detector robustness to evasion; non-visual
+O5300;X;TA01;Generic multi-view outlier detection
+O5302;X;TA01;Medical Grad-CAM faithfulness
+O5303;F;;Robust AD for nuclear fuel-rod cladding surface inspection (R3; core energy) (title only)
+O5304;X;TA01;Attributed network AD
+O5305;B;;Adjacent non-visual: calibration- and alarm-burden-aware validation of substation prognostics; transferable decision method (R1, R2, note 14)
+O5306;F;;Aero-engine blade defect classification under domain shift with scarce samples (R3)
+O5307;X;TA03;Materials chemistry
+O5309;X;TA03;Human-centric AI architecture for Industry 5.0; no inspection task
+O5310;B;;Runtime verification of visual DL systems via loss prediction; methodological bridge for runtime monitoring (R1, R2)
+O5311;B;;Review of managing the unknown in ML (OOD, open-set); R3 methodological background
+O5312;F;;Cross-environment transfer for industrial robot state perception (R3); modality to verify (title only, note 4)
+O5314;F;;Physics-guided attention for generalisable deep learning defect detection (R3) (title only)
+O5315;X;TA02;Drone acoustic anomaly detection
+O5316;X;TA01;XSS detection
+O5318;X;TA05;Synthetic data for metal defect detection
+O5319;X;TA01;Education XAI
+O5320;X;TA01;Fraud detection
+O5321;X;TA02;Agentic QC against standards manuals; document checking, not imaging
+O5322;X;TA01;AI-materials scientist interface review
+O5323;F;;Synergy scoring filter for unsupervised AD with noisy training data (R4); context to verify (title only)
+O5324;F;;Defect filter protecting the patch bank in cold-start online inspection (R4); verify (title only)
+O5325;X;TA05;Transformer unsupervised industrial AD
+O5326;X;TA02;Acoustic anomaly detection with noisy data; non-visual
+O5327;F;;Beyond benchmark scores: resolution, spatial structure, illumination and seed sensitivity of training-free industrial anomaly localisation (R8, R3)
+O5329;X;TA02;Building energy consumption prediction
+O5330;X;TA05;Comparison of unsupervised AD models for glue lines; accuracy comparison
+O5333;X;TA01;Healthcare XAI
+O5334;X;TA05;Aero-engine blade abnormal detection; lightweight
+O5335;X;TA01;Deepfake detection
+O5336;X;TA01;PPE compliance detection; safety monitoring, not asset inspection
+O5337;B;;Adjacent non-visual: dual Bayesian inference for risk-informed vibration damage diagnosis; transferable Bayesian UQ (R1, note 14)
+O5338;X;TA05;Few-shot RGB-point-cloud fusion AD
+O5339;X;TA05;Evaluation and comparison of industrial image AD methods; accuracy comparison
+O5340;X;TA02;Myoelectric gesture recognition
+O5341;X;TA05;Training-free PCB AD with multimodal LLMs
+O5342;F;;Query-conditioned consensus over unverified evidence for training-free zero-shot industrial AD (R2, R7); verify (consistent with O4497)
+O5343;F;;Reusability of ML process-monitoring models across manufacturing digital-twin settings (R3); verify modality
+O5346;X;TA05;Unified zero-shot AD; standard ZSAD protocol (note 2)
+O5348;F;;Real-IAD Variety dataset pushing industrial AD benchmarks (R8) (title only)
+O5349;X;TA05;Corrosion segmentation network
+O5350;X;TA01;Education AI
+O5351;X;TA01;Systematic review screening
+O5352;X;TA01;IoT anomaly data detection
+O5353;X;TA02;Energy theft detection; non-visual
+O5354;X;TA05;Steel bridge corrosion detection
+O5356;F;;Influence of manual inter-observer variability on deep segmentation of real-world structures (R4)
+O5357;B;;Review of human-AI collaboration and reliance in decision support; R5 background
+O5358;X;TA05;Infrastructure component and damage segmentation
+O5359;X;TA05;Unified surface defect detection across supervision regimes
+O5361;F;;Semantic-aware industrial AD robust to contaminated (noisy) training data (R4)
+O5364;X;TA01;Sepsis prediction
+O5366;X;TA05;Synthetic dataset for pipeline corrosion classification
+O5367;X;TA01;Healthcare explanations
+O5369;X;TA05;YOLO corrosion segmentation comparison
+O5371;X;TA03;PBF numerical modelling review
+O5372;X;TA01;Generic XAI evaluation
+O5376;X;TA01;Driver identification
+O5377;X;TA01;Generic weakly supervised AD
+O5378;X;TA01;Robotic grasping of transparent objects
+O5380;X;TA05;Zero-shot point-cloud AD; standard protocol
+O5382;X;TA05;Steel surface defect segmentation
+O5384;X;TA02;Time-series AD adversarial vulnerability
+O5385;X;TA01;Video anomaly detection review (note 7)
+O5387;X;TA05;Prompt learning for continual defect detection; task-incremental framing
+O5389;F;;Transfer learning for wafer surface defect detection after imaging-system changes (R3)
+O5390;X;TA01;Maritime command and control
+O5391;X;TA01;Generic domain-adaptive object detection
+O5392;X;TA05;Causal enhancement defect detection; accuracy-oriented
+O5394;X;TA01;Medical brain MRI AD
+O5395;X;TA05;3D defect detection with Mamba adapters
+O5396;X;TA03;Industry 5.0 socio-technical chapter
+O5399;B;;Scoping review of Clever Hans effects in medical imaging; R8 methodological background
+O5400;B;;Review of machine-vision technologies for steel-structure operation and maintenance; broad review in adjacent asset context
+O5401;X;TA01;Intestinal robot abnormality detection
+O5402;F;;Unsupervised micro-anomaly detection for industrial robot grasping under domain shift (R3); verify
+O5403;X;TA05;Corrosion image classification transfer learning
+O5404;X;TA05;Weld microstructure quantification
+O5405;X;TA01;Cloud network security
+O5406;X;TA01;Egocentric multi-view review
+O5407;F;;Prototype learning for defect transfer detection on new semiconductor wafers (R3)
+O5408;X;TA05;Red-bean processing-line AD
+O5409;X;TA05;Natively explainable AD; explanation not evaluated as reliability
+O5410;X;TA02;CO2 pipeline corrosion prediction; non-visual
+O5411;X;TA01;Surveillance anomaly detection
+O5412;X;TA02;Bridge anomaly detection from monitoring data; non-visual
+O5413;F;;Corrosion detection and quantification in coated steel under different illumination (R3); verify (title only)
+O5414;F;;Shift equivalence of CNNs in industrial defect segmentation (R3 robustness to image shifts)
+O5415;X;TA01;Astronomical time series
+O5417;X;TA01;Trojan input inversion
+O5418;X;TA01;Medical IoT access control
+O5419;X;TA01;Histopathology AD
+O5422;X;TA05;VLM explainable zero-shot industrial AD
+O5423;X;TA05;Point-cloud industrial AD
+O5426;X;TA02;Power-grid false consumption attack detection; non-visual
+O5427;X;TA01;Sustainability policy design
+O5428;X;TA03;CNC machining simulation
+O5429;X;TA01;Deepfake detection
+O5430;B;;Review of UAS multi-sensor corrosion detection across oil, gas and renewable infrastructure; broad review in core context
+O5433;X;TA05;Knowledge-language alignment AD
+O5434;X;TA05;Thin crack loss under limited data
+O5435;X;TA01;Generic continual anomaly detection software framework
+O5436;X;TA05;Image-based industrial AD; accuracy-oriented
+O5438;F;;Fully unsupervised image AD with unlabeled anomalies in training data, exploiting learning bias (R4)
+O5439;X;TA05;Defective solar panel detection with pretrained features; accuracy-oriented
+O5440;X;TA01;Video anomaly detection (note 7)
+O5441;X;TA01;Intrusion detection XAI survey
+O5442;X;TA01;Smart homes chapter
+O5443;B;;Critical review of ML in ship, offshore and oil-and-gas corrosion research; broad review in core context
+O5444;F;;Visual corrosion measurement improved by spectral-structural distribution alignment (R3); verify shift framing
+O5445;X;TA05;Zero-shot AD with CLIP infiltration
+O5446;X;TA02;SHM structural damage detection from monitoring data; non-visual
+O5447;X;TA01;Clinical prediction classifier
+O5449;X;TA01;Generic concept-agnostic continual AD
+O5453;X;TA03;Corrosion inhibition prediction
+O5455;X;TA03;AI in manufacturing chapter
+O5457;X;TA03;Manufacturing AI integration review
+O5458;X;TA05;Transformer unsupervised image AD
+O5460;X;TA05;Hybrid transformer textured surface AD
+O5461;B;;State-of-the-art review of ML for marine structures incl. inspection; broad review in adjacent context
+O5462;F;;Wafer-analysis MLLM with chain-of-thought retrieval augmentation grounding answers in external knowledge (R7)
+O5463;X;TA05;High-resolution image AD; efficiency
+O5464;X;TA05;Few-shot defect segmentation for unseen categories (note 2)
+O5465;X;TA02;Corrosion quantification from S-parameters; non-visual
+O5466;X;TA01;Open-world segmentation for autonomous vehicles (note 7)
+O5468;X;TA05;Wafer bin map classification framework
+O5469;X;TA01;Human-robot interaction and project creativity
+O5470;X;TA01;Fraud detection
+O5472;X;TA02;Sensor-driven manufacturing digital twin; non-visual
+O5473;X;TA05;Catheter cross-section dimension measurement
+O5475;B;;Pitfalls of self-supervised AD evaluation and model selection; R8 methodological background (consistent with O4773)
+O5477;F;;Unsupervised anomaly localisation in the wild with test-time score correction (R3) (title only)
+O5478;X;TA01;Generic computer vision overview
+O5479;X;TA05;Generative AI models for bus chassis QC; accuracy comparison
+O5481;X;TA01;Smart health XAI
+O5482;B;;Review of deep learning for industrial images: sample-space and hypothesis-space challenges; broad background
+O5484;F;;Railway catenary component AD with invariant normal-region prototypes against complex aerial backgrounds (R3); verify (consistent with O4505)
+O5489;X;TA02;Anomalous sound detection
+O5490;X;TA01;Financial fraud explanation
+O5492;X;TA01;Human-centric video AD
+O5493;X;TA01;Generic point-cloud operator
+O5494;X;TA01;Generative AI and design creativity
+O5495;X;TA01;Generic UAV small-object detection under blur
+O5496;X;TA05;Steel section loss prediction from imagery
+O5497;X;TA05;Industrial chip AD
+O5499;X;TA01;DNN test input generation
+O5500;X;TA05;Railway U-bolt defect detection
+O5501;X;TA05;Industrial vision AD fusion
+O5502;X;TA05;Gas pipeline corrosion detection and severity
+O5503;X;TA01;AI coding assistants in manufacturing
+O5504;X;TA01;Network traffic AD
+O5506;X;TA02;Multivariate time-series AD
+O5507;X;TA05;Self-supervised solar panel defect detection
+O5508;X;TA05;Open-vocabulary anomaly segmentation
+O5510;X;TA01;IoT intrusion detection
+O5512;B;;Survey of deep learning video analytics for corrosion detection; broad review in core context
+O5513;B;;Critical review of deep learning in corrosion assessment; broad review in core context
+O5514;X;TA01;Toxicology LLM workflow
+O5515;X;TA03;Visuo-tactile artificial skin
+O5516;X;TA05;Marine vessel corrosion segmentation
+O5517;X;TA05;Rendered synthetic aero-engine blade dataset; data generation
+O5518;X;TA05;Hybrid prompts zero-shot AD
+O5520;X;TA01;6D pose estimation for collaboration
+O5521;X;TA01;Neural-symbolic explanation generation
+O5522;X;TA02;Hypothesis testing on production time series
+O5527;X;TA05;Point-cloud multi-class AD
+O5528;X;TA02;Catenary defect diagnosis from pantograph vibration; non-visual
+O5529;X;TA01;Voice spoofing detection
+O5530;B;;Adjacent non-visual: Bayesian online anomaly inference for bearing degradation; transferable Bayesian UQ (R1, note 14)
+O5531;X;TA02;LLM agent for industrial state assessment; non-visual
+O5533;X;TA05;Corrosion grading database for pipe supports
+O5534;B;;Adjacent non-visual: probabilistic anomaly detection for LNG storage tanks with limited sensor data; transferable UQ (R1, note 14) (title only)
+O5535;F;;DefectCoT: evaluation of interpretability reasoning of multimodal LLMs for power-equipment defect detection (R7, R8; core energy)
+O5536;B;;Review of machine learning in railway catenary inspection data processing; broad review in electrified-rail context
+O5537;X;TA05;Memory-augmented VAE AD
+O5538;F;;Large-scale benchmark for visual AD under complex view-illumination interplay (R3, R8) (title only)
+O5540;X;TA05;Generative synthesis of multi-component asset images; data generation
+O5543;X;TA05;Semi-supervised corrosion segmentation for hydraulic steel structures
+O5544;X;TA03;Industrial automation ML review with digital twins
+O5545;B;;Capabilities and limitations of AI aerial corrosion detection; broad review in core context
+O5548;X;TA01;Intelligent vehicle perception under NVH disturbance
+O5549;X;TA03;Crevice corrosion image processing; classical
+O5551;X;TA05;Graph neural network logical AD
+O5552;X;TA03;Foundry quality-control KPIs
+O5554;X;TA05;Unsupervised fractography clustering
+O5555;X;TA05;Semi-supervised bridge and road defect segmentation
+O5557;X;TA02;EV charging protocol anomaly detection
+O5558;X;TA05;Track anomaly reconstruction network
+O5560;X;TA03;Corrosion inhibitor materials
+O5562;X;TA05;Vision-based monitoring of shaking-table seismic tests
+O5563;X;TA01;Organisational psychology of AI collaboration
+O5564;X;TA01;Generic multi-view outlier detection
+O5565;X;TA01;Neural-symbolic relational explanations
+O5567;B;;Review of UAV sensors and deep learning for building facade pathology; broad review in adjacent context
+O5568;X;TA05;Pantograph-catenary segmentation for electric trucks
+O5569;X;TA05;Steel bridge corrosion segmentation
+O5570;X;TA01;Cherry sorting
+O5571;X;TA03;Oil-and-gas pipeline corrosion management review; not AI image inspection
+O5572;X;TA01;Autonomous vehicle sensor fault interpretation
+O5573;X;TA05;Catenary crack detection by structure perception
+O5574;X;TA05;Multiresolution textured-surface anomaly localisation
+O5576;X;TA01;Quantum federated AD
+O5577;X;TA02;Industrial time-series AD
+O5578;X;TA05;Wafer defect pattern clustering
+O5579;B;;Survey on evaluating explainable AI with humans (trust, reliance, performance); R5 methodological background
+O5580;X;TA05;Interpretable image AD for manufacturing pipelines
+O5581;X;TA01;Teaching innovation
+O5582;X;TA01;Robotic grasper
+O5583;X;TA05;Unified anomaly localisation CNN
+O5584;F;;Explainable evaluation framework for anomaly detection via item response theory (R8); context to verify (title only, note 4)
+O5585;X;TA01;Medical implant corrosion screening
+O5588;F;;Controlled equivalence study of masking with defect-derived data in PatchCore-based AD (R8); verify (title only)
+O5589;X;TA02;Time-series AD retraining
+O5590;X;TA05;Keyhole mode detection from surface topography
+O5592;X;TA05;Context-aware bridge corrosion assessment
+O5593;X;TA05;GAN synthetic data for EMU defects
+O5595;X;TA02;Modulation classification
+O5596;X;TA01;Animal genomics
+O5597;X;TA01;Employee competence
+O5598;X;TA05;Solar panel multi-task monitoring model
+O5601;X;TA01;COPD histology
+O5604;X;TA05;YOLO versus R-CNN corrosion comparison
+O5607;X;TA01;Remote sensing change detection
+O5608;X;TA05;Corrosion detection and severity estimation
+O5609;X;TA02;Concept extraction for time series
+O5610;F;;Scalable concept extraction for CNNs in Industry 4.0 quality control to expose biases (R8); verify (consistent with O5167) (title only)
+O5613;X;TA05;Steel corrosion segmentation and area measurement
+O5614;X;TA02;Steel manufacturing process analytics
+O5615;X;TA01;HR productivity
+O5617;X;TA01;Aerospace manager competency
+O5619;X;TA05;Hybrid corrosion detection network
+O5620;X;TA01;Medical LLM explanations
+O5621;X;TA01;Offshore wind SAR mapping; not inspection
+O5623;X;TA01;Surveillance AD
+O5624;X;TA05;Rotor production reconstruction AD
+O5625;X;TA01;Medical AI decision-making scoping review
+O5628;X;TA01;Medical AI decision-making scoping review
+O5629;X;TA01;XAI design framework for human-AI teams; not inspection
+O5630;X;TA01;Metallurgical energy efficiency review; not inspection
+O5631;X;TA03;Mass-customisation decision-making thesis; no visual inspection model
+O5634;X;TA01;Generic domain generalisation method
+O5635;X;TA01;Generic domain generalisation method
+O5636;X;TA01;Generic domain generalisation benchmark (PACS)
+O5637;X;TA01;Generic domain generalisation method
+O5638;X;TA01;Generic domain generalisation method
+O5639;X;TA01;Generic single-domain generalisation method
+O5640;B;;Survey of domain generalisation; R3 methodological background
+O5641;X;TA01;Generic domain generalisation method
+O5642;X;TA01;Generic domain generalisation method
+O5643;B;;Survey of domain generalisation in vision; R3 methodological background
+O5644;X;TA01;Generic domain generalisation method
+O5645;X;TA01;Generic object-detection calibration method; no inspection context
+O5647;X;TA01;Generic domain generalisation method
+O5649;X;TA01;Generic domain generalisation method
+O5651;X;TA01;Medical-only domain generalisation
+O5652;X;TA01;Generic domain generalisation benchmark
+O5654;X;TA01;Generic probability calibration method
+O5656;X;TA01;Generic domain generalisation method
+O5658;X;TA01;Generic domain generalisation and adaptation method
+O5659;X;TA01;Generic style transfer and domain generalisation
+O5660;X;TA01;Generic OOD detection method
+O5661;X;TA01;Generic domain generalisation method
+O5662;X;TA02;Semantic parsing; non-visual
+O5663;X;TA01;Generic domain generalisation method
+O5664;X;TA01;Urban-scene segmentation domain generalisation; driving context
+O5665;X;TA01;Medical-only domain generalisation
+O5666;X;TA01;Generic zero-shot domain generalisation
+O5667;X;TA01;Face anti-spoofing
+O5668;B;;Large-scale evaluation of predictive uncertainty under dataset shift; R1/R3 methodological background
+O5669;X;TA01;Generic noisy-label training method
+O5670;X;TA01;Face anti-spoofing
+O5671;X;TA01;Generic zero-shot domain generalisation (version of O5666)
+O5672;X;TA01;Generic noisy-label classification method
+O5673;X;TA01;Generic visual domain adaptation method
+O5674;X;TA01;Generic domain generalisation method
+O5675;X;TA01;Generic OOD detection method
+O5676;X;TA01;Medical-only federated domain generalisation
+O5677;B;;Survey of learning from noisy labels with deep networks; R4 methodological background
+O5678;X;TA01;Generic adversarial domain adaptation method
+O5679;X;TA01;Generic calibration method
+O5680;X;TA01;Generic domain generalisation method
+O5681;X;TA01;Point-cloud driving 3D detection DG
+O5682;X;TA01;Generic unsupervised domain adaptation method
+O5684;X;TA01;Generic continual test-time adaptation
+O5685;X;TA01;Generic open-set recognition
+O5686;B;;Survey of classification under label noise; R4 methodological background
+O5687;X;TA01;Generic test-time adaptation
+O5688;X;TA01;Generic noisy-label loss
+O5689;X;TA01;Generic OOD generalisation pretraining
+O5690;X;TA01;Generic open-set recognition
+O5691;B;;Common-corruption robustness benchmark (ImageNet-C); R3/R8 methodological background
+O5692;B;;WILDS benchmark of in-the-wild distribution shifts; R3/R8 methodological background
+O5693;X;TA05;Generic training normalisation; no reliability dimension
+O5694;B;;Survey of deep visual domain adaptation; R3 methodological background
+O5695;X;TA01;Histopathology-only domain shift
+O5696;X;TA01;Generic open-set recognition
+O5697;X;TA01;Generic noisy-label training
+O5699;B;;Survey of unsupervised deep domain adaptation; R3 methodological background
+O5700;X;TA01;Generic weak and noisy-label segmentation
+O5702;X;TA01;Generic OOD detection method
+O5703;X;TA01;Generic domain adaptation method
+O5704;X;TA01;Generic multi-source domain adaptation
+O5705;X;TA01;Generic open-set recognition
+O5706;X;TA01;Generic domain adaptation method
+O5707;X;TA01;Generic label smoothing and noise
+O5708;X;TA01;Generic noisy-label method
+O5709;X;TA01;Generic OOD detection method
+O5710;X;TA01;Generic segmentation corruption robustness benchmark; driving scenes
+O5711;X;TA01;Generic self-supervised robustness
+O5712;X;TA01;Generic open-set recognition
+O5713;X;TA01;Generic noisy-label detection
+O5714;X;TA01;Generic adaptive risk minimisation
+O5715;X;TA01;Generic robustness augmentation
+O5716;X;TA01;Generic adversarial robustness evaluation
+O5717;X;TA01;Generic OOD detection method
+O5718;X;TA01;Surveillance video AD
+O5719;X;TA01;Generic self-supervised robustness (version of O5711)
+O5720;X;TA01;Generic source-free domain adaptation
+O5721;X;TA01;Generic multi-source domain adaptation
+O5722;B;;Review of single-source unsupervised visual domain adaptation; R3 methodological background
+O5723;X;TA01;Generic open-set recognition
+O5725;X;TA01;Generic domain adaptation method
+O5726;X;TA01;Generic open-set recognition
+O5727;X;TA01;Generic object-detector domain adaptation
+O5728;X;TA01;Pedestrian detection; driving context
+O5729;X;TA01;Autonomous driving user study
+O5731;X;TA01;Driving-scene segmentation domain adaptation
+O5732;B;;Baseline for misclassification and OOD detection from softmax confidence; R1/R3 methodological background
+O5734;X;TA01;Generic zero-shot and open-set recognition
+O5735;F;;Deep domain adaptation for pavement crack detection across datasets (R3); adjacent infrastructure context
+O5736;X;TA01;Generic OOD detection method
+O5737;X;TA01;Generic source-free domain adaptation
+O5738;X;TA01;Generic test-time adaptation
+O5739;X;TA01;Generic multi-source domain adaptation
+O5740;X;TA01;Generic open-set recognition
+O5741;X;TA01;Generic novelty detection method
+O5742;X;TA01;Generic multi-source domain adaptation
+O5743;X;TA01;Medical noisy-label segmentation
+O5744;X;TA01;Reinforcement learning on Atari
+O5745;X;TA01;Generic cross-FoV domain adaptation
+O5746;B;;Calibration of modern neural networks (temperature scaling); R1 methodological background
+O5747;X;TA01;Generic OOD detection method
+O5748;X;TA01;Human-AI advice in management study; not inspection
+O5749;X;TA01;Generic large-scale OOD detection
+O5750;B;;Human decisions in presence of erroneous algorithmic scores; R5 methodological background
+O5751;X;TA01;Generic multi-label noise framework
+O5752;X;TA02;Weather forecast reliability diagrams; non-visual
+O5754;X;TA01;Generic pixel-level label noise segmentation
+O5755;X;TA01;Remote sensing label noise
+O5756;X;TA01;Generic OOD detection method
+O5758;X;TA01;Stereo and motion evaluation; not inspection
+O5759;X;TA01;Medical spine segmentation
+O5760;X;TA02;Generic robust autoencoder AD; non-visual
+O5762;X;TA03;Linked data for human-in-the-loop industrial CPS; no visual inspection model
+O5764;X;TA04;UAI conference history
+O5765;X;TA01;Face presentation attack detection
+O5766;X;TA03;Kappa statistic tutorial; not AI inspection
+O5767;X;TA01;Driving-scene sim-to-real generalisation
+O5769;X;TA01;Generic adversarial robustness benchmark
+O5770;X;TA05;Industrial image anomaly localisation; generic reliability claim (note 1)
+O5771;X;TA02;Network intrusion detection
+O5772;X;TA01;Generic adversarial robustness theory
+O5773;X;TA01;Generic long-tailed OOD detection
+O5774;B;;Measuring calibration in deep learning; R1/R8 methodological background
+O5776;X;TA01;Generic robust PCA
+O5777;X;TA01;Generic denoising autoencoders
+O5781;B;;Evaluation of scalable Bayesian deep learning for robust computer vision; R1 methodological background
+O5782;X;TA01;Generic adversarial robustness
+O5783;B;;MC dropout as Bayesian approximation; R1 methodological background
+O5784;B;;Survey of classifier calibration assessment and improvement; R1 methodological background
+O5785;B;;Methodological framework for assessing ML model robustness; R3/R8 methodological background
+O5786;F;;Deep-learning domain adaptation bridging dissimilar LPBF process maps for monitoring (R3); verify image modality
+O5788;X;TA01;Medical COVID CT noisy labels
+O5789;B;;Aleatoric and epistemic uncertainty in Bayesian deep learning for vision; R1 methodological background
+O5791;F;;Normality-calibrated autoencoder for AD under training-data contamination (R4); context to verify (title only, note 4)
+O5792;X;TA01;Generic one-class classification
+O5793;X;TA01;Generic adversarial defence
+O5794;X;TA01;Medical chest radiograph dataset
+O5795;X;TA01;Generic distributional robustness theory
+O5796;X;TA01;Histopathology stain invariance
+O5797;X;TA01;Generic adversarial defence
+O5798;F;;Robust image anomaly detection with adversarial autoencoders, likely under contaminated training data (R4); context to verify (title only, note 4)
+O5800;X;TA01;Sonar image object detection; not inspection context
+O5801;X;TA01;Generic adversarial transfer
+O5802;X;TA02;Vibration-based building damage diagnosis
+O5803;X;TA01;Human pose estimation robustness
+O5804;X;TA01;Generic scene-understanding segmentation uncertainty
+O5805;X;TA02;Network intrusion detection
+O5807;X;TA02;Network intrusion detection
+O5808;X;TA01;Generic scene segmentation uncertainty (version of O5804)
+O5809;X;TA02;Generic AE adversarial robustness; non-visual
+O5811;X;TA03;Concrete damage detection field robustness; classical image processing
+O5812;X;TA01;Generic robust subspace AD
+O5814;X;TA02;Network intrusion detection
+O5816;F;;Noise-robust completed-LBP classification of hot-rolled steel strip defects evaluated under added noise (R3); verify (title only)
+O5817;X;TA01;Generic calibration theory
+O5819;F;;CrackGAN pavement crack detection from partially accurate ground truth (R4); adjacent infrastructure context
+O5821;X;TA01;Robotic tactile edge perception
+O5824;X;TA02;IoT AD poisoning; non-visual
+O5825;X;TA01;Medical stroke reliability functions
+O5826;X;TA02;Seismic bridge analysis; non-visual
+O5827;X;TA02;Industrial cyberattack AD robustness; non-visual
+O5828;X;TA02;Soft-sensor fault robustness; non-visual
+O5829;X;TA01;Shipping label recognition; logistics
+O5831;X;TA01;Generic noisy image labels
+O5833;X;TA01;Medical-only domain generalisation
+O5834;X;TA01;Generic one-class classification
+O5835;X;TA01;Generic semi-supervised learning
+O5836;X;TA01;Generic active learning ensembles
+O5837;X;TA01;Point cloud completion
+O5839;X;TA01;Generic domain generalisation
+O5840;B;;Natural adversarial examples benchmark (ImageNet-A/O); R3/R8 methodological background
+O5841;X;TA01;Generic source-free segmentation adaptation
+O5842;X;TA01;Reinforcement learning transfer
+O5843;X;TA01;Generic test-time adaptation
+O5844;X;TA01;Robot control sim-to-real
+O5845;X;TA01;Medical CT segmentation
+O5846;X;TA01;Synthetic-to-real driving segmentation
+O5847;X;TA02;Vibration-based structural damage segmentation
+O5848;X;TA01;Generic noise-tolerant loss
+O5850;X;TA01;Generic self-adaptive training
+O5851;X;TA01;Generic cross-domain self-supervision
+O5852;X;TA01;Person re-identification
+O5853;B;;LIME local explanations and trust; R5/R8 methodological background
+O5854;X;TA01;Generic augmentation
+O5855;X;TA01;Generic domain generalisation
+O5856;X;TA01;Synthetic scene generation
+O5857;X;TA02;Laser AM process optimisation; non-visual
+O5858;X;TA01;Synthetic animal parsing
+O5859;X;TA05;Concrete multi-damage FCN segmentation; accuracy only
+O5860;X;TA01;Synthetic urban-scene dataset
+O5863;X;TA03;Image deformation graphics
+O5864;X;TA01;Generic multi-label noise
+O5865;X;TA05;CNN crack detection; generic robustness claim (note 1)
+O5866;X;TA01;Generic memorisation study
+O5867;X;TA01;Medical ambiguous labels
+O5868;X;TA01;Video AD
+O5869;X;TA01;Driving-scene domain-adaptive segmentation
+O5870;X;TA01;Generic AD for general data
+O5871;X;TA01;Generic forgetting study
+O5872;X;TA01;Driving-scene domain adaptation
+O5873;X;TA02;Generic AD ensembles; non-visual
+O5875;X;TA01;Face anti-spoofing
+O5876;X;TA01;Video AD
+O5879;X;TA01;Counterfactual explanations review; not inspection
+O5880;X;TA01;Generic XAI survey
+O5881;X;TA04;Probabilistic graphical models textbook
+O5882;X;TA01;Generic mislabelled data identification
+O5883;X;TA01;Face and text super-resolution
+O5884;B;;Review of trust in AI and acceptance; R5 methodological background
+O5885;X;TA01;Generic augmentation
+O5887;X;TA01;Generic representation learning
+O5888;X;TA01;Medical cardiac MRI generalisation
+O5889;B;;Fooling LIME and SHAP: unreliability of post-hoc explanations; R8 methodological background
+O5890;X;TA01;Driving-scene anomaly segmentation
+O5891;B;;MVTec 3D-AD benchmark dataset paper; benchmark background for evaluation (R8)
+O5892;X;TA01;Generic open-world recognition
+O5893;X;TA01;Generic corrupted-label learning
+O5894;X;TA01;Generic XAI explainer selection
+O5895;X;TA01;Electron microscopy neuroscience
+O5896;X;TA01;Generic adversarial training
+O5897;X;TA01;Generic domain-adaptive segmentation
+O5898;X;TA05;Sewer defect classification; accuracy only
+O5899;X;TA01;Generic nearest-neighbour AD
+O5900;X;TA05;Concrete crack YOLO detection; accuracy only
+O5901;X;TA05;Hyperspectral concrete stain mapping; accuracy only
+O5902;X;TA01;Generic transfer learning survey
+O5903;X;TA01;Generic data scale study
+O5905;X;TA01;Synthetic humans
+O5907;B;;Adjacent non-visual: XAI-guided process-quality decisions in semiconductor manufacturing with field evidence (R5, note 14)
+O5908;B;;Eyecandies multimodal AD benchmark dataset paper; benchmark background (R6/R8)
+O5909;X;TA05;SSIM autoencoder defect segmentation; accuracy only
+O5912;X;TA05;Bridge deck crack detection; accuracy only
+O5913;F;;Texture-based video crack detection on metallic (nuclear-plant) surfaces with Bayesian data fusion (R1 to verify); core energy context
+O5914;X;TA01;Generic one-class AD
+O5915;X;TA01;Video AD
+O5916;X;TA02;Compressed vibration SHM data
+O5918;B;;Survey of visual sensory anomaly detection; broad background
+O5921;X;TA02;Statistics ordinal probit
+O5922;X;TA01;Generic explainable CNN review
+O5924;X;TA01;Crowd counting
+O5925;X;TA01;Image synthesis
+O5927;X;TA02;Generic LOF outlier detection; non-visual
+O5928;X;TA05;Pavement texture CNN; accuracy only
+O5929;X;TA01;Generic rule extraction from ensembles
+O5930;X;TA01;Generic continual learning
+O5931;X;TA03;Probability reasoning essay
+O5932;X;TA02;ERP insider behaviour; non-visual
+O5933;X;TA01;Generic cross-validation
+O5935;F;;Streaming ML with online active learning for automated visual inspection in manufacturing (R3 drift, R5 human labelling); verify
+O5936;X;TA01;SVM theory
+O5937;X;TA01;Robotic tactile recognition
+O5938;X;TA03;TensorFlow software
+O5939;B;;Question-driven XAI user-experience design practices; R5 methodological background
+O5941;X;TA05;Pavement crack CNN; accuracy only
+O5943;X;TA01;Generic adversarial AD
+O5947;X;TA01;Generic imbalanced learning survey
+O5948;X;TA02;Multivariate AD comparison; non-visual
+O5950;X;TA05;Concrete defect dataset and NAS; accuracy only
+O5951;X;TA01;Generic adversarial defence
+O5952;X;TA01;Generic continual learning
+O5953;X;TA01;Generic adversarial examples
+O5954;X;TA05;Wafer map pattern recognition; accuracy only
+O5955;X;TA01;Video anomalous events
+O5956;X;TA05;Pavement crack networks; accuracy only
+O5957;X;TA01;Generic adversarial training
+O5958;X;TA05;Wafer pattern clustering; accuracy only
+O5959;X;TA01;Generic image AD
+O5960;X;TA01;Robotic visual-tactile generation
+O5961;X;TA01;GAN overview
+O5962;X;TA01;Bayesian backpropagation theory; generic
+O5963;X;TA05;Zero-shot anomaly segmentation without shift evaluation (note 1)
+O5965;X;TA01;Generic imbalanced learning
+O5966;X;TA05;Concrete crack detection with handwriting interference as a negative class; accuracy only
+O5967;X;TA01;Generic open-world recognition
+O5968;X;TA01;CIFAR dataset
+O5969;X;TA01;Generic adversarial training
+O5970;X;TA01;Generic concept explanations
+O5971;X;TA01;Knowledge graph survey
+O5972;X;TA01;Generic supervised AD
+O5973;X;TA05;Zero-shot anomaly localisation without shift evaluation (note 1)
+O5974;X;TA01;Generic deviation-network AD
+O5975;X;TA02;Graph fraud detection
+O5976;X;TA01;Optimal transport monograph
+O5977;X;TA05;Surface defect detection network; accuracy only
+O5978;X;TA05;Wafer map defect recognition; accuracy only
+O5979;X;TA05;Multiscale CNN structural inspection; accuracy only
+O5980;X;TA01;Generic black-box adversarial attacks
+O5981;X;TA01;Generic SVM probability calibration method
+O5982;X;TA05;Railway track robotic reconstruction; no reliability dimension
+O5983;B;;Definitions and evaluation of interpretable ML; R8 methodological background
+O5984;X;TA01;Generic partial multi-label learning
+O5985;X;TA01;Generic open-world recognition (version of O5967)
+O5986;X;TA01;Generic data valuation
+O5989;F;;SoftPatch unsupervised industrial AD with noisy (contaminated) training data (R4)
+O5991;X;TA01;Generic synthetic image data review
+O5992;X;TA02;Time-series augmentation survey
+O5993;X;TA02;Vibration machine fault diagnosis transfer; non-visual
+O5994;X;TA01;Generic GAN training
+O5995;X;TA01;Generic adversarial attacks
+O5997;X;TA01;Medical chest X-ray
+O5998;X;TA02;Audio synthesis
+O5999;X;TA01;Generic optimiser
+O6000;X;TA01;Robotic tactile servoing
+O6002;X;TA01;Generic memory networks
+O6003;X;TA01;Generic VAE analysis
+O6005;X;TA05;Bridge post-disaster inspection with Bayesian hyperparameter optimisation; no reliability dimension
+O6007;X;TA01;Generic GAN training
+O6009;B;;Unbiased look at dataset bias across recognition benchmarks; R3/R8 methodological background
+O6010;X;TA01;Optical flow attacks
+O6011;X;TA01;Generic novelty detection transfer
+O6012;X;TA01;Generic memory-augmented AE AD
+O6014;X;TA01;Driving road anomaly detection
+O6016;X;TA02;Multivariate datastream change detection; non-visual
+O6017;X;TA05;Concrete crack CNN comparison; accuracy only
+O6019;X;TA01;Generic optimiser
+O6020;X;TA02;Online ML product-failure detection; non-visual
+O6021;X;TA05;Sewer CCTV video defects; accuracy only
+O6022;X;TA03;Crack width image measurement; no learned model
+O6025;X;TA01;Medical brain MRI
+O6027;X;TA01;Generic AD bias theory
+O6028;X;TA01;Adversarial video defence
+O6029;X;TA05;Materials degradation DL review; not inspection-reliability
+O6030;X;TA03;Bridge crack edge detection; no learned model
+O6031;X;TA01;ImageNet dataset
+O6032;X;TA01;Pedestrian detection
+O6033;X;TA01;Generic classifier comparison statistics
+O6034;X;TA01;Generic augmentation
+O6035;X;TA02;Financial auditing AD; non-visual
+O6036;X;TA01;Logic programming explanations
+O6037;X;TA03;Pantograph-catenary interaction review; no AI
+O6038;X;TA01;Generic one-class classifier
+O6039;X;TA01;Music retrieval
+O6040;X;TA01;Driving-scene domain generalisation
+O6041;X;TA01;Generic adversarial evaluation
+O6042;X;TA05;Lightweight surface defect segmentation; accuracy only
+O6044;X;TA03;Pavement crack minimal path; no learned model
+O6045;X;TA01;Algorithm aversion psychology; not inspection
+O6047;X;TA05;Railway track multitask inspection; accuracy only
+O6048;X;TA01;Generic activation functions
+O6049;X;TA05;Concrete crack segmentation; accuracy only
+O6050;X;TA01;Autonomous vehicle Bayesian DL
+O6052;B;;Benchmarking and survey of explanation methods; R8 methodological background
+O6053;X;TA03;Canny edge detection
+O6054;X;TA05;U-Net crack detection; accuracy only
+O6055;X;TA01;Video abnormal events
+O6057;X;TA01;Generic one-class NN
+O6058;X;TA02;Predictive quality inspection; non-visual process data
+O6059;X;TA05;Road defect AdaBoost; accuracy only
+O6060;X;TA01;Generic AD explanation
+O6061;X;TA01;Clinician AI acceptance
+O6062;X;TA01;Generic Bayesian CNN
+O6063;X;TA01;Generic multi-task pruning
+O6065;X;TA01;Generic outlier exposure
+O6066;X;TA01;Generic supervised AD
+O6067;X;TA01;Generic explanation method
+O6068;B;;Consistency of human visual sewer inspection labels; evidence on inspection label noise (R4) in adjacent infrastructure context
+O6069;X;TA01;Generic self-supervised ViT
+O6072;X;TA01;Generic unsupervised video learning
+O6074;B;;Review of computer-vision civil infrastructure inspection and monitoring; broad review in adjacent context
+O6075;X;TA02;Surface metrology transfer; non-image data

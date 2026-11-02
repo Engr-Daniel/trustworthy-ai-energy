@@ -40,7 +40,9 @@ def read_workbook(path):
                     column = re.match(r"[A-Z]+", cell.get("r")).group()
                     value = cell.findtext("m:v", "", NS)
                     if cell.get("t") == "s": value = strings[int(value)]
-                    if cell.get("t") == "inlineStr": value = "".join(cell.find("m:is", NS).itertext())
+                    if cell.get("t") == "inlineStr":
+                        inline = cell.find("m:is", NS)
+                        value = "".join(inline.itertext()) if inline is not None else ""
                     formula = cell.findtext("m:f", "", NS)
                     cells[column] = "=" + formula if formula else value
                 rows[int(row.get("r"))] = cells

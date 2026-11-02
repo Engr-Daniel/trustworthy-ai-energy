@@ -1,0 +1,50 @@
+O5576;X;TA01;Quantum federated AD
+O5577;X;TA02;Industrial time-series AD
+O5578;X;TA05;Wafer defect pattern clustering
+O5579;B;;Survey on evaluating explainable AI with humans (trust, reliance, performance); R5 methodological background
+O5580;X;TA05;Interpretable image AD for manufacturing pipelines
+O5581;X;TA01;Teaching innovation
+O5582;X;TA01;Robotic grasper
+O5583;X;TA05;Unified anomaly localisation CNN
+O5584;F;;Explainable evaluation framework for anomaly detection via item response theory (R8); context to verify (title only, note 4)
+O5585;X;TA01;Medical implant corrosion screening
+O5586;X;TA05;Multimodal novelty detection representation (title only)
+O5587;X;TA05;Surface defect segmentation (title only)
+O5588;F;;Controlled equivalence study of masking with defect-derived data in PatchCore-based AD (R8); verify (title only)
+O5589;X;TA02;Time-series AD retraining
+O5590;X;TA05;Keyhole mode detection from surface topography
+O5591;X;TA02;Concrete corrosion risk prediction; non-visual
+O5592;X;TA05;Context-aware bridge corrosion assessment
+O5593;X;TA05;GAN synthetic data for EMU defects
+O5594;X;TA05;VQ-VAE AD (title only)
+O5595;X;TA02;Modulation classification
+O5596;X;TA01;Animal genomics
+O5597;X;TA01;Employee competence
+O5598;X;TA05;Solar panel multi-task monitoring model
+O5599;X;TA01;Tactile sensor manipulation
+O5600;X;TA05;Imbalanced image augmentation (title only)
+O5601;X;TA01;COPD histology
+O5602;X;TA05;CNN-Mamba network (title only)
+O5603;X;TA01;Medical ultrasound AD
+O5604;X;TA05;YOLO versus R-CNN corrosion comparison
+O5605;X;TA05;Image-text fusion industrial inspection (title only)
+O5606;X;TA02;Pipeline leak prediction; non-visual
+O5607;X;TA01;Remote sensing change detection
+O5608;X;TA05;Corrosion detection and severity estimation
+O5609;X;TA02;Concept extraction for time series
+O5610;F;;Scalable concept extraction for CNNs in Industry 4.0 quality control to expose biases (R8); verify (consistent with O5167) (title only)
+O5611;X;TA05;Aero-engine blade defect detection (title only)
+O5612;X;TA05;Multimodal AD cross-modal learning (title only)
+O5613;X;TA05;Steel corrosion segmentation and area measurement
+O5614;X;TA02;Steel manufacturing process analytics
+O5615;X;TA01;HR productivity
+O5616;X;TA05;Marble slab few-shot defects (title only)
+O5617;X;TA01;Aerospace manager competency
+O5618;X;TA05;Rotation-invariant multi-view assembly verification (title only)
+O5619;X;TA05;Hybrid corrosion detection network
+O5620;X;TA01;Medical LLM explanations
+O5621;X;TA01;Offshore wind SAR mapping; not inspection
+O5622;X;TA05;Industrial anomaly class discovery (title only)
+O5623;X;TA01;Surveillance AD
+O5624;X;TA05;Rotor production reconstruction AD
+O5625;X;TA01;Medical AI decision-making scoping review

@@ -1,0 +1,50 @@
+O5726;X;TA01;Generic open-set recognition
+O5727;X;TA01;Generic object-detector domain adaptation
+O5728;X;TA01;Pedestrian detection; driving context
+O5729;X;TA01;Autonomous driving user study
+O5730;X;TA01;Face anti-spoofing (title only)
+O5731;X;TA01;Driving-scene segmentation domain adaptation
+O5732;B;;Baseline for misclassification and OOD detection from softmax confidence; R1/R3 methodological background
+O5733;X;TA01;Generic open-set adversarial defence (title only)
+O5734;X;TA01;Generic zero-shot and open-set recognition
+O5735;F;;Deep domain adaptation for pavement crack detection across datasets (R3); adjacent infrastructure context
+O5736;X;TA01;Generic OOD detection method
+O5737;X;TA01;Generic source-free domain adaptation
+O5738;X;TA01;Generic test-time adaptation
+O5739;X;TA01;Generic multi-source domain adaptation
+O5740;X;TA01;Generic open-set recognition
+O5741;X;TA01;Generic novelty detection method
+O5742;X;TA01;Generic multi-source domain adaptation
+O5743;X;TA01;Medical noisy-label segmentation
+O5744;X;TA01;Reinforcement learning on Atari
+O5745;X;TA01;Generic cross-FoV domain adaptation
+O5746;B;;Calibration of modern neural networks (temperature scaling); R1 methodological background
+O5747;X;TA01;Generic OOD detection method
+O5748;X;TA01;Human-AI advice in management study; not inspection
+O5749;X;TA01;Generic large-scale OOD detection
+O5750;B;;Human decisions in presence of erroneous algorithmic scores; R5 methodological background
+O5751;X;TA01;Generic multi-label noise framework
+O5752;X;TA02;Weather forecast reliability diagrams; non-visual
+O5753;X;TA01;Generic active learning theory (title only)
+O5754;X;TA01;Generic pixel-level label noise segmentation
+O5755;X;TA01;Remote sensing label noise
+O5756;X;TA01;Generic OOD detection method
+O5757;X;TA01;Generic open-set adversarial defence (title only)
+O5758;X;TA01;Stereo and motion evaluation; not inspection
+O5759;X;TA01;Medical spine segmentation
+O5760;X;TA02;Generic robust autoencoder AD; non-visual
+O5761;X;TA01;Medical endoscopy noisy labels
+O5762;X;TA03;Linked data for human-in-the-loop industrial CPS; no visual inspection model
+O5763;X;TA01;Face identification
+O5764;X;TA04;UAI conference history
+O5765;X;TA01;Face presentation attack detection
+O5766;X;TA03;Kappa statistic tutorial; not AI inspection
+O5767;X;TA01;Driving-scene sim-to-real generalisation
+O5768;X;TA01;Urban driving anomaly segmentation (title only)
+O5769;X;TA01;Generic adversarial robustness benchmark
+O5770;X;TA05;Industrial image anomaly localisation; generic reliability claim (note 1)
+O5771;X;TA02;Network intrusion detection
+O5772;X;TA01;Generic adversarial robustness theory
+O5773;X;TA01;Generic long-tailed OOD detection
+O5774;B;;Measuring calibration in deep learning; R1/R8 methodological background
+O5775;X;TA01;Generic zero-shot and open-set recognition (title only)

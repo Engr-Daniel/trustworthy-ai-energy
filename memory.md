@@ -66,3 +66,8 @@ Charting is complete for the 157 included studies (charting/charting.csv, form v
 - Citation tracing.
 - Author inputs marked [Author input required] in main.tex.
 Nothing has been committed since ca19572; ask Daniel before committing or pushing.
+
+## Current handoff - 2 November 2026
+Latest user request authorises checking/updating local and remote and progressing the paper. Both repos began at 3405d41. CT02 had added 1,385 pending reports. Reconciled 664 saved prior decisions (original Claude/date retained), held 186 unsupported title-only exclusions, and assessed 20 further complete abstracts as OpenAI-assisted under delegation. Current totals: 8,626 occurrences, 6,970 reports, 6,269 TA dispositions, 701 pending; 853 routed/unclear, 787 attempted, 66 await retrieval initiation; 219 core full texts assessed, 157 provisionally included/charted studies. Fourteen background retrievals (eight retrieved) are separate from core flow.
+
+main.tex is updated and compiles locally to a 14-page provisional main.pdf with regenerated inputs. Added supplied author details: Daniel Oyewale, Ormedian Research Institute, corresponding email, no funding. Conflicts remain pending. User says audit completed, but reread local audit CSV still has all 658 auditor entries blank; requested its location and do not invent agreement. New Review_Tracker_20261102.xlsx reflects CSVs; original workbook/live Sheet were not overwritten. Current completion gates are in reporting-status.md and the dated active task plan.

@@ -1,0 +1,50 @@
+O5476;X;TA01;AI delegation and human performance in e-commerce
+O5477;F;;Unsupervised anomaly localisation in the wild with test-time score correction (R3) (title only)
+O5478;X;TA01;Generic computer vision overview
+O5479;X;TA05;Generative AI models for bus chassis QC; accuracy comparison
+O5480;X;TA01;Generic explainability evaluation chapter
+O5481;X;TA01;Smart health XAI
+O5482;B;;Review of deep learning for industrial images: sample-space and hypothesis-space challenges; broad background
+O5483;X;TA03;General AI/ML in manufacturing processes review (title only)
+O5484;F;;Railway catenary component AD with invariant normal-region prototypes against complex aerial backgrounds (R3); verify (consistent with O4505)
+O5485;X;TA05;Concrete crack segmentation (title only)
+O5486;X;TA05;Corroded steel mass loss from imagery (title only)
+O5487;X;TA01;Network traffic detection
+O5488;X;TA05;Same-title record of O5486 (note 6)
+O5489;X;TA02;Anomalous sound detection
+O5490;X;TA01;Financial fraud explanation
+O5491;X;TA03;Sensor deployment optimisation
+O5492;X;TA01;Human-centric video AD
+O5493;X;TA01;Generic point-cloud operator
+O5494;X;TA01;Generative AI and design creativity
+O5495;X;TA01;Generic UAV small-object detection under blur
+O5496;X;TA05;Steel section loss prediction from imagery
+O5497;X;TA05;Industrial chip AD
+O5498;X;TA05;Diffusion AD (title only)
+O5499;X;TA01;DNN test input generation
+O5500;X;TA05;Railway U-bolt defect detection
+O5501;X;TA05;Industrial vision AD fusion
+O5502;X;TA05;Gas pipeline corrosion detection and severity
+O5503;X;TA01;AI coding assistants in manufacturing
+O5504;X;TA01;Network traffic AD
+O5505;X;TA05;Memory fusion AD (title only)
+O5506;X;TA02;Multivariate time-series AD
+O5507;X;TA05;Self-supervised solar panel defect detection
+O5508;X;TA05;Open-vocabulary anomaly segmentation
+O5509;X;TA01;Class-agnostic counting
+O5510;X;TA01;IoT intrusion detection
+O5511;X;TA05;Efficient industrial AD (title only)
+O5512;B;;Survey of deep learning video analytics for corrosion detection; broad review in core context
+O5513;B;;Critical review of deep learning in corrosion assessment; broad review in core context
+O5514;X;TA01;Toxicology LLM workflow
+O5515;X;TA03;Visuo-tactile artificial skin
+O5516;X;TA05;Marine vessel corrosion segmentation
+O5517;X;TA05;Rendered synthetic aero-engine blade dataset; data generation
+O5518;X;TA05;Hybrid prompts zero-shot AD
+O5519;X;TA01;Nominal-data subspace AD
+O5520;X;TA01;6D pose estimation for collaboration
+O5521;X;TA01;Neural-symbolic explanation generation
+O5522;X;TA02;Hypothesis testing on production time series
+O5523;X;TA05;Crack segmentation Mamba (title only)
+O5524;X;TA05;Hyperspectral corrosion detection (title only)
+O5525;X;TA05;Steel surface defect network

@@ -1,0 +1,50 @@
+O5976;X;TA01;Optimal transport monograph
+O5977;X;TA05;Surface defect detection network; accuracy only
+O5978;X;TA05;Wafer map defect recognition; accuracy only
+O5979;X;TA05;Multiscale CNN structural inspection; accuracy only
+O5980;X;TA01;Generic black-box adversarial attacks
+O5981;X;TA01;Generic SVM probability calibration method
+O5982;X;TA05;Railway track robotic reconstruction; no reliability dimension
+O5983;B;;Definitions and evaluation of interpretable ML; R8 methodological background
+O5984;X;TA01;Generic partial multi-label learning
+O5985;X;TA01;Generic open-world recognition (version of O5967)
+O5986;X;TA01;Generic data valuation
+O5987;X;TA01;Medical MRI
+O5988;X;TA05;Segmentation-based surface defect detection; accuracy only (title only)
+O5989;F;;SoftPatch unsupervised industrial AD with noisy (contaminated) training data (R4)
+O5990;X;TA03;Digital twin review; not visual inspection
+O5991;X;TA01;Generic synthetic image data review
+O5992;X;TA02;Time-series augmentation survey
+O5993;X;TA02;Vibration machine fault diagnosis transfer; non-visual
+O5994;X;TA01;Generic GAN training
+O5995;X;TA01;Generic adversarial attacks
+O5996;X;TA05;Defect image classifier (title only); accuracy only
+O5997;X;TA01;Medical chest X-ray
+O5998;X;TA02;Audio synthesis
+O5999;X;TA01;Generic optimiser
+O6000;X;TA01;Robotic tactile servoing
+O6001;X;TA03;Industrial ellipse detection; no learned model (title only)
+O6002;X;TA01;Generic memory networks
+O6003;X;TA01;Generic VAE analysis
+O6004;X;TA01;Generic image synthesis (title only)
+O6005;X;TA05;Bridge post-disaster inspection with Bayesian hyperparameter optimisation; no reliability dimension
+O6006;X;TA01;Generic dataset bias correction method (title only)
+O6007;X;TA01;Generic GAN training
+O6008;X;TA05;Sewer CCTV defect classification; accuracy only
+O6009;B;;Unbiased look at dataset bias across recognition benchmarks; R3/R8 methodological background
+O6010;X;TA01;Optical flow attacks
+O6011;X;TA01;Generic novelty detection transfer
+O6012;X;TA01;Generic memory-augmented AE AD
+O6013;X;TA01;Medical segmentation losses
+O6014;X;TA01;Driving road anomaly detection
+O6015;X;TA05;Sewer pipe CNN; accuracy only
+O6016;X;TA02;Multivariate datastream change detection; non-visual
+O6017;X;TA05;Concrete crack CNN comparison; accuracy only
+O6018;X;TA01;ImageNet dataset
+O6019;X;TA01;Generic optimiser
+O6020;X;TA02;Online ML product-failure detection; non-visual
+O6021;X;TA05;Sewer CCTV video defects; accuracy only
+O6022;X;TA03;Crack width image measurement; no learned model
+O6023;X;TA01;Generic SVDD
+O6024;X;TA05;CNN architectures for industrial inspection; accuracy only
+O6025;X;TA01;Medical brain MRI

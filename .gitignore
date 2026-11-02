@@ -21,3 +21,7 @@ review-paper/fulltext/raw/
 review-paper/fulltext/text/
 review-paper/fulltext/digests/
 review-paper/fulltext/manual/
+
+# Original manuscript outputs may be versioned; source-paper PDFs remain ignored.
+!review-paper/manuscript/figures/*.pdf
+!review-paper/manuscript/main.pdf

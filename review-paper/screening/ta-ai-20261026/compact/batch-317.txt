@@ -1,0 +1,50 @@
+O6026;X;TA03;Knowledge-transfer survey for manufacturing analytics; not visual-specific
+O6027;X;TA01;Generic AD bias theory
+O6028;X;TA01;Adversarial video defence
+O6029;X;TA05;Materials degradation DL review; not inspection-reliability
+O6030;X;TA03;Bridge crack edge detection; no learned model
+O6031;X;TA01;ImageNet dataset
+O6032;X;TA01;Pedestrian detection
+O6033;X;TA01;Generic classifier comparison statistics
+O6034;X;TA01;Generic augmentation
+O6035;X;TA02;Financial auditing AD; non-visual
+O6036;X;TA01;Logic programming explanations
+O6037;X;TA03;Pantograph-catenary interaction review; no AI
+O6038;X;TA01;Generic one-class classifier
+O6039;X;TA01;Music retrieval
+O6040;X;TA01;Driving-scene domain generalisation
+O6041;X;TA01;Generic adversarial evaluation
+O6042;X;TA05;Lightweight surface defect segmentation; accuracy only
+O6043;X;TA02;Acoustic emission localisation; non-visual
+O6044;X;TA03;Pavement crack minimal path; no learned model
+O6045;X;TA01;Algorithm aversion psychology; not inspection
+O6046;X;TA01;Style transfer
+O6047;X;TA05;Railway track multitask inspection; accuracy only
+O6048;X;TA01;Generic activation functions
+O6049;X;TA05;Concrete crack segmentation; accuracy only
+O6050;X;TA01;Autonomous vehicle Bayesian DL
+O6051;X;TA05;Microstructure classification; accuracy only (title only)
+O6052;B;;Benchmarking and survey of explanation methods; R8 methodological background
+O6053;X;TA03;Canny edge detection
+O6054;X;TA05;U-Net crack detection; accuracy only
+O6055;X;TA01;Video abnormal events
+O6056;X;TA02;SLM surface quality prediction; non-visual (title only)
+O6057;X;TA01;Generic one-class NN
+O6058;X;TA02;Predictive quality inspection; non-visual process data
+O6059;X;TA05;Road defect AdaBoost; accuracy only
+O6060;X;TA01;Generic AD explanation
+O6061;X;TA01;Clinician AI acceptance
+O6062;X;TA01;Generic Bayesian CNN
+O6063;X;TA01;Generic multi-task pruning
+O6064;X;TA05;Sewer defect classification; accuracy only (title only)
+O6065;X;TA01;Generic outlier exposure
+O6066;X;TA01;Generic supervised AD
+O6067;X;TA01;Generic explanation method
+O6068;B;;Consistency of human visual sewer inspection labels; evidence on inspection label noise (R4) in adjacent infrastructure context
+O6069;X;TA01;Generic self-supervised ViT
+O6070;X;TA03;Lab crack image processing; no learned model (title only)
+O6071;X;TA05;Masonry damage mobile DL; accuracy only
+O6072;X;TA01;Generic unsupervised video learning
+O6073;X;TA01;Generic novelty detection (title only)
+O6074;B;;Review of computer-vision civil infrastructure inspection and monitoring; broad review in adjacent context
+O6075;X;TA02;Surface metrology transfer; non-image data

@@ -1,0 +1,5 @@
+# Versions used to build the 2 November 2026 provisional draft and workbook.
+requests==2.32.3
+pypdf==5.1.0
+matplotlib==3.7.0
+openpyxl==3.1.5

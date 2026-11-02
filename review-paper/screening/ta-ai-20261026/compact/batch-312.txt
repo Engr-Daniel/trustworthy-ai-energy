@@ -1,0 +1,50 @@
+O5776;X;TA01;Generic robust PCA
+O5777;X;TA01;Generic denoising autoencoders
+O5778;X;TA01;Generic uncertainty sampling (title only)
+O5779;X;TA01;Synthetic game data for driving scenes
+O5780;X;TA01;Visual tracking
+O5781;B;;Evaluation of scalable Bayesian deep learning for robust computer vision; R1 methodological background
+O5782;X;TA01;Generic adversarial robustness
+O5783;B;;MC dropout as Bayesian approximation; R1 methodological background
+O5784;B;;Survey of classifier calibration assessment and improvement; R1 methodological background
+O5785;B;;Methodological framework for assessing ML model robustness; R3/R8 methodological background
+O5786;F;;Deep-learning domain adaptation bridging dissimilar LPBF process maps for monitoring (R3); verify image modality
+O5787;X;TA05;Pavement crack detection; generic reliability claim (note 1, title only)
+O5788;X;TA01;Medical COVID CT noisy labels
+O5789;B;;Aleatoric and epistemic uncertainty in Bayesian deep learning for vision; R1 methodological background
+O5790;X;TA02;Numerical epistemic UQ; non-visual
+O5791;F;;Normality-calibrated autoencoder for AD under training-data contamination (R4); context to verify (title only, note 4)
+O5792;X;TA01;Generic one-class classification
+O5793;X;TA01;Generic adversarial defence
+O5794;X;TA01;Medical chest radiograph dataset
+O5795;X;TA01;Generic distributional robustness theory
+O5796;X;TA01;Histopathology stain invariance
+O5797;X;TA01;Generic adversarial defence
+O5798;F;;Robust image anomaly detection with adversarial autoencoders, likely under contaminated training data (R4); context to verify (title only, note 4)
+O5799;X;TA01;Generic noisy-label method (title only)
+O5800;X;TA01;Sonar image object detection; not inspection context
+O5801;X;TA01;Generic adversarial transfer
+O5802;X;TA02;Vibration-based building damage diagnosis
+O5803;X;TA01;Human pose estimation robustness
+O5804;X;TA01;Generic scene-understanding segmentation uncertainty
+O5805;X;TA02;Network intrusion detection
+O5806;X;TA02;Numerical epistemic UQ; non-visual
+O5807;X;TA02;Network intrusion detection
+O5808;X;TA01;Generic scene segmentation uncertainty (version of O5804)
+O5809;X;TA02;Generic AE adversarial robustness; non-visual
+O5810;X;TA05;Sewer defect segmentation; generic robustness claim (note 1, title only)
+O5811;X;TA03;Concrete damage detection field robustness; classical image processing
+O5812;X;TA01;Generic robust subspace AD
+O5813;X;TA01;Generic adversarial novelty detection (title only)
+O5814;X;TA02;Network intrusion detection
+O5815;X;TA01;Generic semi-supervised learning (title only)
+O5816;F;;Noise-robust completed-LBP classification of hot-rolled steel strip defects evaluated under added noise (R3); verify (title only)
+O5817;X;TA01;Generic calibration theory
+O5818;X;TA03;Concrete crack image processing; no learned model (title only)
+O5819;F;;CrackGAN pavement crack detection from partially accurate ground truth (R4); adjacent infrastructure context
+O5820;X;TA03;Laser AM transfer learning; machine calibration sense (title only)
+O5821;X;TA01;Robotic tactile edge perception
+O5822;X;TA02;Generic GP AD
+O5823;X;TA02;Seismic ground motion
+O5824;X;TA02;IoT AD poisoning; non-visual
+O5825;X;TA01;Medical stroke reliability functions

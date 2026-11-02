@@ -30,29 +30,9 @@ def dims(r):
     return [d.strip() for d in r["Reliability dimensions"].split(";") if d.strip() in DIMS]
 
 def flow_counts():
-    c = json.loads((RP / "corpus/scope-counts.json").read_text(encoding="utf-8"))
-    dec = read(RP / "screening/confirmed-decisions.csv")
-    ta = collections.Counter(r["Decision"] for r in dec if r["Stage"] == "TA")
-    ft = [r for r in dec if r["Stage"] == "FT"]
-    status = read(RP / "fulltext/retrieval-status.csv")
-    retrieved = sum(s["Outcome"].startswith("Retrieved") for s in status)
-    ftx = collections.Counter(r["Reason Code"] for r in ft if r["Decision"] == "Exclude")
-    inc = [r["Paper ID"] for r in ft if r["Decision"] == "Include"]
-    link = read(RP / "corpus/study-linkage.csv")
-    members = collections.defaultdict(list)
-    for r in link:
-        members[r["Study ID"]].append(r["Paper ID"])
-    study = {p: s for s, m in members.items() for p in m}
-    inc_set = set(inc)
-    secondary_of_included = [r["Paper ID"] for r in ft if r["Reason Code"] == "FT04"
-                             and any(q in inc_set for q in members.get(study.get(r["Paper ID"], ""), []))]
-    return {"identified": c["retrieval_occurrences"], "openalex": c["openalex_occurrences"], "crossref": c["crossref_occurrences"],
-            "seeds": c["seed_occurrences"], "duplicates": c["duplicate_occurrences"], "screened": c["unique_reports"],
-            "ta_excluded": ta["Exclude"], "ta_background": ta["Background/supporting"],
-            "sought": ta["Retrieve full text"] + ta["Unclear"], "not_retrieved": len(status) - retrieved, "assessed": retrieved,
-            "ft_excluded": {k: v for k, v in sorted(ftx.items())}, "ft_background": sum(r["Decision"] == "Background/supporting" for r in ft),
-            "included_studies": len(inc), "secondary_reports_of_included": len(secondary_of_included),
-            "included_reports": len(inc) + len(secondary_of_included)}
+    from review_progress import flow_counts as current_flow
+    return current_flow(RP)
+
 
 def box(ax, x, y, w, h, text, fc="#f2f2f2", fs=6.4):
     ax.add_patch(plt.Rectangle((x, y), w, h, fc=fc, ec="#333333", lw=0.8))
@@ -62,20 +42,20 @@ def arrow(ax, x1, y1, x2, y2):
     ax.annotate("", xy=(x2, y2), xytext=(x1, y1), arrowprops=dict(arrowstyle="->", lw=0.8, color="#333333"))
 
 def draw_flow(f):
-    fig, ax = plt.subplots(figsize=(3.5, 4.6)); ax.set_xlim(0, 10); ax.set_ylim(0, 13); ax.axis("off")
+    fig, ax = plt.subplots(figsize=(3.5, 5.1)); ax.set_xlim(0, 10); ax.set_ylim(0, 13); ax.axis("off")
     ex = f["ft_excluded"]
     ex_txt = "Reports excluded (n = %d)\n" % (sum(v for k, v in ex.items() if k != "FT04")) + \
              "\n".join(f"{k}: {v}" for k, v in ex.items() if k != "FT04") + \
              f"\nSecondary versions (FT04): {ex.get('FT04', 0)}\nBackground/supporting: {f['ft_background']}"
-    box(ax, 0.1, 11.2, 5.3, 1.6, f"Records identified (n = {f['identified']:,})\nOpenAlex {f['openalex']:,}; Crossref pilot {f['crossref']};\nseed records {f['seeds']}")
+    box(ax, 0.1, 11.2, 5.3, 1.6, f"Identified occurrences: {f['identified']:,}\nOpenAlex: {f['openalex']:,}\nCrossref: {f['crossref']}; seeds: {f['seeds']}")
     box(ax, 5.9, 11.4, 4.0, 1.2, f"Duplicate occurrences\nremoved (n = {f['duplicates']:,})")
-    box(ax, 0.1, 9.0, 5.3, 1.4, f"Report records screened\n(title/abstract) (n = {f['screened']:,})")
-    box(ax, 5.9, 8.8, 4.0, 1.8, f"Excluded (n = {f['ta_excluded']:,})\nBackground/supporting\n(n = {f['ta_background']})")
+    box(ax, 0.1, 9.0, 5.3, 1.4, f"Title/abstract dispositions: {f['screened']:,}\nPending: {f['pending_ta']:,}\nTotal unique reports: {f['unique_reports']:,}")
+    box(ax, 5.9, 8.8, 4.0, 1.8, f"Excluded: {f['ta_excluded']:,}\nBackground: {f['ta_background']}\nRetrieval not begun: {f['awaiting_retrieval']}")
     box(ax, 0.1, 6.8, 5.3, 1.4, f"Reports sought for retrieval\n(open access) (n = {f['sought']})")
     box(ax, 5.9, 6.9, 4.0, 1.2, f"Not retrieved\n(n = {f['not_retrieved']})")
     box(ax, 0.1, 4.6, 5.3, 1.4, f"Reports assessed for\nfull-text eligibility (n = {f['assessed']})")
     box(ax, 5.6, 2.2, 4.3, 4.0, ex_txt, fs=5.8)
-    box(ax, 0.1, 1.6, 5.3, 2.0, f"Studies included (n = {f['included_studies']})\nin {f['included_reports']} reports", fc="#dde8f5")
+    box(ax, 0.1, 1.6, 5.3, 2.0, f"Provisional studies: {f['included_studies']}\nPrimary reports: {f['primary_included_reports']}\nLinked secondary reports: {f['secondary_reports_of_included']}", fc="#dde8f5")
     for (x1, y1, x2, y2) in [(2.75, 11.2, 2.75, 10.4), (2.75, 9.0, 2.75, 8.2), (2.75, 6.8, 2.75, 6.0), (2.75, 4.6, 2.75, 3.6),
                              (5.4, 12.0, 5.9, 12.0), (5.4, 9.7, 5.9, 9.7), (5.4, 7.5, 5.9, 7.5), (5.4, 5.3, 5.6, 5.0)]:
         arrow(ax, x1, y1, x2, y2)

@@ -1,0 +1,50 @@
+O5526;X;TA05;Lightweight adaptive corrosion inspection for steel infrastructure (title only)
+O5527;X;TA05;Point-cloud multi-class AD
+O5528;X;TA02;Catenary defect diagnosis from pantograph vibration; non-visual
+O5529;X;TA01;Voice spoofing detection
+O5530;B;;Adjacent non-visual: Bayesian online anomaly inference for bearing degradation; transferable Bayesian UQ (R1, note 14)
+O5531;X;TA02;LLM agent for industrial state assessment; non-visual
+O5532;X;TA05;Metallic corrosion detection network (title only)
+O5533;X;TA05;Corrosion grading database for pipe supports
+O5534;B;;Adjacent non-visual: probabilistic anomaly detection for LNG storage tanks with limited sensor data; transferable UQ (R1, note 14) (title only)
+O5535;F;;DefectCoT: evaluation of interpretability reasoning of multimodal LLMs for power-equipment defect detection (R7, R8; core energy)
+O5536;B;;Review of machine learning in railway catenary inspection data processing; broad review in electrified-rail context
+O5537;X;TA05;Memory-augmented VAE AD
+O5538;F;;Large-scale benchmark for visual AD under complex view-illumination interplay (R3, R8) (title only)
+O5539;X;TA01;Security X-ray explosives inspection
+O5540;X;TA05;Generative synthesis of multi-component asset images; data generation
+O5541;X;TA01;Retinal AD benchmark
+O5542;X;TA05;Masking denoising anomaly location (title only)
+O5543;X;TA05;Semi-supervised corrosion segmentation for hydraulic steel structures
+O5544;X;TA03;Industrial automation ML review with digital twins
+O5545;B;;Capabilities and limitations of AI aerial corrosion detection; broad review in core context
+O5546;X;TA05;Saliency-guided SSL AD (title only)
+O5547;X;TA05;Thin-structure state-space model (title only)
+O5548;X;TA01;Intelligent vehicle perception under NVH disturbance
+O5549;X;TA03;Crevice corrosion image processing; classical
+O5550;X;TA01;Pathology image classification
+O5551;X;TA05;Graph neural network logical AD
+O5552;X;TA03;Foundry quality-control KPIs
+O5553;X;TA05;Class-agnostic AD via residual features (title only)
+O5554;X;TA05;Unsupervised fractography clustering
+O5555;X;TA05;Semi-supervised bridge and road defect segmentation
+O5556;X;TA02;Corrosion prediction for steel structures; non-visual (title only)
+O5557;X;TA02;EV charging protocol anomaly detection
+O5558;X;TA05;Track anomaly reconstruction network
+O5559;X;TA01;Endoscopy anomaly detection
+O5560;X;TA03;Corrosion inhibitor materials
+O5561;X;TA05;Low-complexity defect detection network (title only)
+O5562;X;TA05;Vision-based monitoring of shaking-table seismic tests
+O5563;X;TA01;Organisational psychology of AI collaboration
+O5564;X;TA01;Generic multi-view outlier detection
+O5565;X;TA01;Neural-symbolic relational explanations
+O5566;X;TA05;Frequency-guided industrial anomaly localisation (title only)
+O5567;B;;Review of UAV sensors and deep learning for building facade pathology; broad review in adjacent context
+O5568;X;TA05;Pantograph-catenary segmentation for electric trucks
+O5569;X;TA05;Steel bridge corrosion segmentation
+O5570;X;TA01;Cherry sorting
+O5571;X;TA03;Oil-and-gas pipeline corrosion management review; not AI image inspection
+O5572;X;TA01;Autonomous vehicle sensor fault interpretation
+O5573;X;TA05;Catenary crack detection by structure perception
+O5574;X;TA05;Multiresolution textured-surface anomaly localisation
+O5575;X;TA03;Shotcrete property prediction

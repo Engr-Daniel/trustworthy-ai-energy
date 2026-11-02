@@ -52,6 +52,18 @@ class HandoffTests(unittest.TestCase):
         self.assertEqual(module.extract_html_abstract('<script>xplGlobal.document.metadata={broken;</script>'), "")
         self.assertEqual(module.extract_html_abstract('<script>other.metadata={"abstract":"Unrelated"};</script>'), "")
 
+    def test_empty_inline_string_in_xlsx_is_read_as_empty(self):
+        import tempfile
+        import zipfile
+        module = load("audit_workbook")
+        with tempfile.TemporaryDirectory() as directory:
+            path = pathlib.Path(directory) / "empty.xlsx"
+            with zipfile.ZipFile(path, "w") as archive:
+                archive.writestr("xl/workbook.xml", '<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><sheets><sheet name="Empty" sheetId="1" r:id="rId1"/></sheets></workbook>')
+                archive.writestr("xl/_rels/workbook.xml.rels", '<Relationships><Relationship Id="rId1" Target="worksheets/sheet1.xml"/></Relationships>')
+                archive.writestr("xl/worksheets/sheet1.xml", '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><sheetData><row r="7"><c r="A7" t="inlineStr"/></row></sheetData></worksheet>')
+            self.assertEqual(module.read_workbook(path)["Empty"][7]["A"], "")
+
     def test_generic_page_description_is_not_an_abstract(self):
         module = load("retrieve_pilot_abstracts")
         parser = module.AbstractParser()

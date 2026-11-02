@@ -1,0 +1,187 @@
+Paper ID,Prior proposed reason,Prior proposed rationale,Disposition
+O5228,TA01,Generic incremental domain generalisation (title only),Retained Pending; no captured abstract locator; source review required
+O5241,TA01,Open-set text recognition,Retained Pending; no captured abstract locator; source review required
+O5242,TA02,Tabular test-time adaptation; non-visual,Retained Pending; no captured abstract locator; source review required
+O5253,TA01,Open-set text recognition,Retained Pending; no captured abstract locator; source review required
+O5255,TA01,Plant disease detection,Retained Pending; no captured abstract locator; source review required
+O5268,TA02,Open-set bearing fault diagnosis; non-visual generic open-set (note 14),Retained Pending; no captured abstract locator; source review required
+O5271,TA03,Bayesian networks for material response prediction; not inspection imagery,Retained Pending; no captured abstract locator; source review required
+O5278,TA02,Reliability quantification in semiconductor big data; non-visual (title only),Retained Pending; no captured abstract locator; source review required
+O5283,TA01,Generic reliable continual learning (title only),Retained Pending; no captured abstract locator; source review required
+O5293,TA02,Noise-robust AD on temporal features; non-visual (title only),Retained Pending; no captured abstract locator; source review required
+O5301,TA02,Battery thermal runaway prognostics; non-visual,Retained Pending; no captured abstract locator; source review required
+O5308,TA05,Aero-engine blade defect detection network (title only),Retained Pending; no captured abstract locator; source review required
+O5313,TA02,Machine sound anomaly detection,Retained Pending; no captured abstract locator; source review required
+O5317,TA01,Service intervention analytics,Retained Pending; no captured abstract locator; source review required
+O5328,TA03,Pipeline coating materials,Retained Pending; no captured abstract locator; source review required
+O5331,TA05,Pavement crack segmentation network (title only),Retained Pending; no captured abstract locator; source review required
+O5332,TA02,Energy deception attacks in CPS,Retained Pending; no captured abstract locator; source review required
+O5344,TA05,AdaCLIP zero-shot AD (title only),Retained Pending; no captured abstract locator; source review required
+O5345,TA05,Mixed-defect wafer-map classification (title only),Retained Pending; no captured abstract locator; source review required
+O5347,TA05,Crack segmentation network (title only),Retained Pending; no captured abstract locator; source review required
+O5355,TA01,LLM epistemology,Retained Pending; no captured abstract locator; source review required
+O5360,TA05,Vision-to-tactile cross-modal micro-defect detection (title only),Retained Pending; no captured abstract locator; source review required
+O5362,TA03,Mass individualisation manufacturing paradigm,Retained Pending; no captured abstract locator; source review required
+O5363,TA01,Generic contamination-resilient semi-supervised AD (title only),Retained Pending; no captured abstract locator; source review required
+O5365,TA05,Diffusion damage image generation (title only),Retained Pending; no captured abstract locator; source review required
+O5368,TA05,Melt pool defect classification (title only),Retained Pending; no captured abstract locator; source review required
+O5370,TA01,Navigation for visually impaired,Retained Pending; no captured abstract locator; source review required
+O5373,TA01,Medical-only CLIP AD,Retained Pending; no captured abstract locator; source review required
+O5374,TA04,"Book front matter (""Background"")",Retained Pending; no captured abstract locator; source review required
+O5375,TA01,Generic unknown-class learning,Retained Pending; no captured abstract locator; source review required
+O5379,TA02,Acoustic industrial AD (title only),Retained Pending; no captured abstract locator; source review required
+O5381,TA01,Generic ROC analysis,Retained Pending; no captured abstract locator; source review required
+O5383,TA05,Multi-modal multi-class AD (title only),Retained Pending; no captured abstract locator; source review required
+O5386,TA02,Time-series forecasting XAI,Retained Pending; no captured abstract locator; source review required
+O5388,TA01,Generic human-AI collaboration chapter (title only),Retained Pending; no captured abstract locator; source review required
+O5393,TA05,Zero-shot industrial AD prompts (title only),Retained Pending; no captured abstract locator; source review required
+O5397,TA05,Wafer AD with point transformers (title only),Retained Pending; no captured abstract locator; source review required
+O5398,TA05,Ship corrosion image processing,Retained Pending; no captured abstract locator; source review required
+O5416,TA05,Casting defect detection with artificial defects (title only),Retained Pending; no captured abstract locator; source review required
+O5420,TA05,Bearing surface defect detection (title only),Retained Pending; no captured abstract locator; source review required
+O5421,TA02,Drone acoustic anomaly detection; same-content record of O5315 (note 6),Retained Pending; no captured abstract locator; source review required
+O5424,TA05,Multi-expert MLLM industrial AD (title only),Retained Pending; no captured abstract locator; source review required
+O5425,TA05,Few-shot defect augmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5431,TA05,Dual memory-bank anomaly localisation (title only),Retained Pending; no captured abstract locator; source review required
+O5432,TA05,Multisensor wire-harness quality inspection (title only),Retained Pending; no captured abstract locator; source review required
+O5437,TA01,Psychology of work,Retained Pending; no captured abstract locator; source review required
+O5448,TA05,Diffusion-augmented zero-shot industrial AD (title only),Retained Pending; no captured abstract locator; source review required
+O5450,TA05,Prototype distillation AD (title only),Retained Pending; no captured abstract locator; source review required
+O5451,TA01,EEG anomaly warning,Retained Pending; no captured abstract locator; source review required
+O5452,TA03,Active robotic inspection path planning; no learned image model,Retained Pending; no captured abstract locator; source review required
+O5454,TA01,Surveillance video AD,Retained Pending; no captured abstract locator; source review required
+O5456,TA05,Cardboard box visual inspection system (title only),Retained Pending; no captured abstract locator; source review required
+O5459,TA01,Histopathology data sharing,Retained Pending; no captured abstract locator; source review required
+O5467,TA01,Video anomaly detection,Retained Pending; no captured abstract locator; source review required
+O5471,TA01,Medical missing-pattern framework,Retained Pending; no captured abstract locator; source review required
+O5474,TA05,Few-shot AD registration (title only),Retained Pending; no captured abstract locator; source review required
+O5476,TA01,AI delegation and human performance in e-commerce,Retained Pending; no captured abstract locator; source review required
+O5480,TA01,Generic explainability evaluation chapter,Retained Pending; no captured abstract locator; source review required
+O5483,TA03,General AI/ML in manufacturing processes review (title only),Retained Pending; no captured abstract locator; source review required
+O5485,TA05,Concrete crack segmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5486,TA05,Corroded steel mass loss from imagery (title only),Retained Pending; no captured abstract locator; source review required
+O5487,TA01,Network traffic detection,Retained Pending; no captured abstract locator; source review required
+O5488,TA05,Same-title record of O5486 (note 6),Retained Pending; no captured abstract locator; source review required
+O5491,TA03,Sensor deployment optimisation,Retained Pending; no captured abstract locator; source review required
+O5498,TA05,Diffusion AD (title only),Retained Pending; no captured abstract locator; source review required
+O5505,TA05,Memory fusion AD (title only),Retained Pending; no captured abstract locator; source review required
+O5509,TA01,Class-agnostic counting,Retained Pending; no captured abstract locator; source review required
+O5511,TA05,Efficient industrial AD (title only),Retained Pending; no captured abstract locator; source review required
+O5519,TA01,Nominal-data subspace AD,Retained Pending; no captured abstract locator; source review required
+O5523,TA05,Crack segmentation Mamba (title only),Retained Pending; no captured abstract locator; source review required
+O5524,TA05,Hyperspectral corrosion detection (title only),Retained Pending; no captured abstract locator; source review required
+O5525,TA05,Steel surface defect network,Retained Pending; no captured abstract locator; source review required
+O5526,TA05,Lightweight adaptive corrosion inspection for steel infrastructure (title only),Retained Pending; no captured abstract locator; source review required
+O5532,TA05,Metallic corrosion detection network (title only),Retained Pending; no captured abstract locator; source review required
+O5539,TA01,Security X-ray explosives inspection,Retained Pending; no captured abstract locator; source review required
+O5541,TA01,Retinal AD benchmark,Retained Pending; no captured abstract locator; source review required
+O5542,TA05,Masking denoising anomaly location (title only),Retained Pending; no captured abstract locator; source review required
+O5546,TA05,Saliency-guided SSL AD (title only),Retained Pending; no captured abstract locator; source review required
+O5547,TA05,Thin-structure state-space model (title only),Retained Pending; no captured abstract locator; source review required
+O5550,TA01,Pathology image classification,Retained Pending; no captured abstract locator; source review required
+O5553,TA05,Class-agnostic AD via residual features (title only),Retained Pending; no captured abstract locator; source review required
+O5556,TA02,Corrosion prediction for steel structures; non-visual (title only),Retained Pending; no captured abstract locator; source review required
+O5559,TA01,Endoscopy anomaly detection,Retained Pending; no captured abstract locator; source review required
+O5561,TA05,Low-complexity defect detection network (title only),Retained Pending; no captured abstract locator; source review required
+O5566,TA05,Frequency-guided industrial anomaly localisation (title only),Retained Pending; no captured abstract locator; source review required
+O5575,TA03,Shotcrete property prediction,Retained Pending; no captured abstract locator; source review required
+O5586,TA05,Multimodal novelty detection representation (title only),Retained Pending; no captured abstract locator; source review required
+O5587,TA05,Surface defect segmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5591,TA02,Concrete corrosion risk prediction; non-visual,Retained Pending; no captured abstract locator; source review required
+O5594,TA05,VQ-VAE AD (title only),Retained Pending; no captured abstract locator; source review required
+O5599,TA01,Tactile sensor manipulation,Retained Pending; no captured abstract locator; source review required
+O5600,TA05,Imbalanced image augmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5602,TA05,CNN-Mamba network (title only),Retained Pending; no captured abstract locator; source review required
+O5603,TA01,Medical ultrasound AD,Retained Pending; no captured abstract locator; source review required
+O5605,TA05,Image-text fusion industrial inspection (title only),Retained Pending; no captured abstract locator; source review required
+O5606,TA02,Pipeline leak prediction; non-visual,Retained Pending; no captured abstract locator; source review required
+O5611,TA05,Aero-engine blade defect detection (title only),Retained Pending; no captured abstract locator; source review required
+O5612,TA05,Multimodal AD cross-modal learning (title only),Retained Pending; no captured abstract locator; source review required
+O5616,TA05,Marble slab few-shot defects (title only),Retained Pending; no captured abstract locator; source review required
+O5618,TA05,Rotation-invariant multi-view assembly verification (title only),Retained Pending; no captured abstract locator; source review required
+O5622,TA05,Industrial anomaly class discovery (title only),Retained Pending; no captured abstract locator; source review required
+O5626,TA05,Spatiotemporal fusion robotic structural inspection (title only),Retained Pending; no captured abstract locator; source review required
+O5627,TA01,EFL education,Retained Pending; no captured abstract locator; source review required
+O5632,TA05,Cloud-edge defect detection and semantic reasoning (title only),Retained Pending; no captured abstract locator; source review required
+O5633,TA01,Generic cross-domain generalisation method (title only),Retained Pending; no captured abstract locator; source review required
+O5646,TA01,Generic domain generalisation method (title only),Retained Pending; no captured abstract locator; source review required
+O5648,TA01,Generic domain generalisation method (title only),Retained Pending; no captured abstract locator; source review required
+O5650,TA01,Generic domain generalisation method (title only),Retained Pending; no captured abstract locator; source review required
+O5653,TA01,Generic domain generalisation method (title only),Retained Pending; no captured abstract locator; source review required
+O5655,TA01,Generic domain generalisation method (title only),Retained Pending; no captured abstract locator; source review required
+O5657,TA01,Generic natural-image OOD benchmark,Retained Pending; no captured abstract locator; source review required
+O5683,TA01,Generic cross-domain segmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5698,TA01,Generic test-time adaptation segmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5701,TA01,Generic domain adaptation method (title only),Retained Pending; no captured abstract locator; source review required
+O5724,TA01,Medical noisy-label segmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5730,TA01,Face anti-spoofing (title only),Retained Pending; no captured abstract locator; source review required
+O5733,TA01,Generic open-set adversarial defence (title only),Retained Pending; no captured abstract locator; source review required
+O5753,TA01,Generic active learning theory (title only),Retained Pending; no captured abstract locator; source review required
+O5757,TA01,Generic open-set adversarial defence (title only),Retained Pending; no captured abstract locator; source review required
+O5761,TA01,Medical endoscopy noisy labels,Retained Pending; no captured abstract locator; source review required
+O5763,TA01,Face identification,Retained Pending; no captured abstract locator; source review required
+O5768,TA01,Urban driving anomaly segmentation (title only),Retained Pending; no captured abstract locator; source review required
+O5775,TA01,Generic zero-shot and open-set recognition (title only),Retained Pending; no captured abstract locator; source review required
+O5778,TA01,Generic uncertainty sampling (title only),Retained Pending; no captured abstract locator; source review required
+O5779,TA01,Synthetic game data for driving scenes,Retained Pending; no captured abstract locator; source review required
+O5780,TA01,Visual tracking,Retained Pending; no captured abstract locator; source review required
+O5787,TA05,"Pavement crack detection; generic reliability claim (note 1, title only)",Retained Pending; no captured abstract locator; source review required
+O5790,TA02,Numerical epistemic UQ; non-visual,Retained Pending; no captured abstract locator; source review required
+O5799,TA01,Generic noisy-label method (title only),Retained Pending; no captured abstract locator; source review required
+O5806,TA02,Numerical epistemic UQ; non-visual,Retained Pending; no captured abstract locator; source review required
+O5810,TA05,"Sewer defect segmentation; generic robustness claim (note 1, title only)",Retained Pending; no captured abstract locator; source review required
+O5813,TA01,Generic adversarial novelty detection (title only),Retained Pending; no captured abstract locator; source review required
+O5815,TA01,Generic semi-supervised learning (title only),Retained Pending; no captured abstract locator; source review required
+O5818,TA03,Concrete crack image processing; no learned model (title only),Retained Pending; no captured abstract locator; source review required
+O5820,TA03,Laser AM transfer learning; machine calibration sense (title only),Retained Pending; no captured abstract locator; source review required
+O5822,TA02,Generic GP AD,Retained Pending; no captured abstract locator; source review required
+O5823,TA02,Seismic ground motion,Retained Pending; no captured abstract locator; source review required
+O5830,TA01,Generic image enhancement (title only),Retained Pending; no captured abstract locator; source review required
+O5832,TA01,Synthetic image rendering (title only),Retained Pending; no captured abstract locator; source review required
+O5838,TA01,Robot visuomotor adaptation (title only),Retained Pending; no captured abstract locator; source review required
+O5849,TA01,Urban scene synthetic data (title only),Retained Pending; no captured abstract locator; source review required
+O5861,TA01,Video scene AD (title only),Retained Pending; no captured abstract locator; source review required
+O5862,TA01,Video anomalous event detection (title only),Retained Pending; no captured abstract locator; source review required
+O5874,TA01,Generic domain-adversarial training (title only),Retained Pending; no captured abstract locator; source review required
+O5877,TA01,Point cloud domain generalisation (title only),Retained Pending; no captured abstract locator; source review required
+O5878,TA01,Generic multitask learning,Retained Pending; no captured abstract locator; source review required
+O5886,TA01,Generic incremental learning (title only),Retained Pending; no captured abstract locator; source review required
+O5904,TA01,Face super-resolution (title only),Retained Pending; no captured abstract locator; source review required
+O5906,TA01,Face anti-spoofing (title only),Retained Pending; no captured abstract locator; source review required
+O5910,TA02,Financial AD survey,Retained Pending; no captured abstract locator; source review required
+O5911,TA01,Generic kernel PCA novelty detection (title only),Retained Pending; no captured abstract locator; source review required
+O5917,TA05,Synthetic augmentation for surface defects; accuracy only (title only),Retained Pending; no captured abstract locator; source review required
+O5919,TA01,Simulators and synthetic data perspective (title only),Retained Pending; no captured abstract locator; source review required
+O5920,TA01,Generic multi-task adaptation (title only),Retained Pending; no captured abstract locator; source review required
+O5923,TA01,Generic bilevel learning (title only),Retained Pending; no captured abstract locator; source review required
+O5926,TA01,Generic AUC evaluation methodology (title only),Retained Pending; no captured abstract locator; source review required
+O5934,TA01,Generic open-set classifier (title only),Retained Pending; no captured abstract locator; source review required
+O5940,TA01,Generic AE AD (title only),Retained Pending; no captured abstract locator; source review required
+O5942,TA05,Hybrid crack detection (title only),Retained Pending; no captured abstract locator; source review required
+O5944,TA01,Fetal imaging,Retained Pending; no captured abstract locator; source review required
+O5945,TA05,Synthetic anomalies for AD; no reliability dimension (title only),Retained Pending; no captured abstract locator; source review required
+O5946,TA01,Generic outlier ensembles (title only),Retained Pending; no captured abstract locator; source review required
+O5949,TA05,Catenary bird-nest detection; accuracy only (title only),Retained Pending; no captured abstract locator; source review required
+O5964,TA01,Generic explanation method,Retained Pending; no captured abstract locator; source review required
+O5987,TA01,Medical MRI,Retained Pending; no captured abstract locator; source review required
+O5988,TA05,Segmentation-based surface defect detection; accuracy only (title only),Retained Pending; no captured abstract locator; source review required
+O5990,TA03,Digital twin review; not visual inspection,Retained Pending; no captured abstract locator; source review required
+O5996,TA05,Defect image classifier (title only); accuracy only,Retained Pending; no captured abstract locator; source review required
+O6001,TA03,Industrial ellipse detection; no learned model (title only),Retained Pending; no captured abstract locator; source review required
+O6004,TA01,Generic image synthesis (title only),Retained Pending; no captured abstract locator; source review required
+O6006,TA01,Generic dataset bias correction method (title only),Retained Pending; no captured abstract locator; source review required
+O6008,TA05,Sewer CCTV defect classification; accuracy only,Retained Pending; no captured abstract locator; source review required
+O6013,TA01,Medical segmentation losses,Retained Pending; no captured abstract locator; source review required
+O6015,TA05,Sewer pipe CNN; accuracy only,Retained Pending; no captured abstract locator; source review required
+O6018,TA01,ImageNet dataset,Retained Pending; no captured abstract locator; source review required
+O6023,TA01,Generic SVDD,Retained Pending; no captured abstract locator; source review required
+O6024,TA05,CNN architectures for industrial inspection; accuracy only,Retained Pending; no captured abstract locator; source review required
+O6026,TA03,Knowledge-transfer survey for manufacturing analytics; not visual-specific,Retained Pending; no captured abstract locator; source review required
+O6043,TA02,Acoustic emission localisation; non-visual,Retained Pending; no captured abstract locator; source review required
+O6046,TA01,Style transfer,Retained Pending; no captured abstract locator; source review required
+O6051,TA05,Microstructure classification; accuracy only (title only),Retained Pending; no captured abstract locator; source review required
+O6056,TA02,SLM surface quality prediction; non-visual (title only),Retained Pending; no captured abstract locator; source review required
+O6064,TA05,Sewer defect classification; accuracy only (title only),Retained Pending; no captured abstract locator; source review required
+O6070,TA03,Lab crack image processing; no learned model (title only),Retained Pending; no captured abstract locator; source review required
+O6071,TA05,Masonry damage mobile DL; accuracy only,Retained Pending; no captured abstract locator; source review required
+O6073,TA01,Generic novelty detection (title only),Retained Pending; no captured abstract locator; source review required

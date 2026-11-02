@@ -1,0 +1,50 @@
+O5376;X;TA01;Driver identification
+O5377;X;TA01;Generic weakly supervised AD
+O5378;X;TA01;Robotic grasping of transparent objects
+O5379;X;TA02;Acoustic industrial AD (title only)
+O5380;X;TA05;Zero-shot point-cloud AD; standard protocol
+O5381;X;TA01;Generic ROC analysis
+O5382;X;TA05;Steel surface defect segmentation
+O5383;X;TA05;Multi-modal multi-class AD (title only)
+O5384;X;TA02;Time-series AD adversarial vulnerability
+O5385;X;TA01;Video anomaly detection review (note 7)
+O5386;X;TA02;Time-series forecasting XAI
+O5387;X;TA05;Prompt learning for continual defect detection; task-incremental framing
+O5388;X;TA01;Generic human-AI collaboration chapter (title only)
+O5389;F;;Transfer learning for wafer surface defect detection after imaging-system changes (R3)
+O5390;X;TA01;Maritime command and control
+O5391;X;TA01;Generic domain-adaptive object detection
+O5392;X;TA05;Causal enhancement defect detection; accuracy-oriented
+O5393;X;TA05;Zero-shot industrial AD prompts (title only)
+O5394;X;TA01;Medical brain MRI AD
+O5395;X;TA05;3D defect detection with Mamba adapters
+O5396;X;TA03;Industry 5.0 socio-technical chapter
+O5397;X;TA05;Wafer AD with point transformers (title only)
+O5398;X;TA05;Ship corrosion image processing
+O5399;B;;Scoping review of Clever Hans effects in medical imaging; R8 methodological background
+O5400;B;;Review of machine-vision technologies for steel-structure operation and maintenance; broad review in adjacent asset context
+O5401;X;TA01;Intestinal robot abnormality detection
+O5402;F;;Unsupervised micro-anomaly detection for industrial robot grasping under domain shift (R3); verify
+O5403;X;TA05;Corrosion image classification transfer learning
+O5404;X;TA05;Weld microstructure quantification
+O5405;X;TA01;Cloud network security
+O5406;X;TA01;Egocentric multi-view review
+O5407;F;;Prototype learning for defect transfer detection on new semiconductor wafers (R3)
+O5408;X;TA05;Red-bean processing-line AD
+O5409;X;TA05;Natively explainable AD; explanation not evaluated as reliability
+O5410;X;TA02;CO2 pipeline corrosion prediction; non-visual
+O5411;X;TA01;Surveillance anomaly detection
+O5412;X;TA02;Bridge anomaly detection from monitoring data; non-visual
+O5413;F;;Corrosion detection and quantification in coated steel under different illumination (R3); verify (title only)
+O5414;F;;Shift equivalence of CNNs in industrial defect segmentation (R3 robustness to image shifts)
+O5415;X;TA01;Astronomical time series
+O5416;X;TA05;Casting defect detection with artificial defects (title only)
+O5417;X;TA01;Trojan input inversion
+O5418;X;TA01;Medical IoT access control
+O5419;X;TA01;Histopathology AD
+O5420;X;TA05;Bearing surface defect detection (title only)
+O5421;X;TA02;Drone acoustic anomaly detection; same-content record of O5315 (note 6)
+O5422;X;TA05;VLM explainable zero-shot industrial AD
+O5423;X;TA05;Point-cloud industrial AD
+O5424;X;TA05;Multi-expert MLLM industrial AD (title only)
+O5425;X;TA05;Few-shot defect augmentation (title only)

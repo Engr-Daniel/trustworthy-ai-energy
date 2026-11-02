@@ -1,0 +1,50 @@
+O5826;X;TA02;Seismic bridge analysis; non-visual
+O5827;X;TA02;Industrial cyberattack AD robustness; non-visual
+O5828;X;TA02;Soft-sensor fault robustness; non-visual
+O5829;X;TA01;Shipping label recognition; logistics
+O5830;X;TA01;Generic image enhancement (title only)
+O5831;X;TA01;Generic noisy image labels
+O5832;X;TA01;Synthetic image rendering (title only)
+O5833;X;TA01;Medical-only domain generalisation
+O5834;X;TA01;Generic one-class classification
+O5835;X;TA01;Generic semi-supervised learning
+O5836;X;TA01;Generic active learning ensembles
+O5837;X;TA01;Point cloud completion
+O5838;X;TA01;Robot visuomotor adaptation (title only)
+O5839;X;TA01;Generic domain generalisation
+O5840;B;;Natural adversarial examples benchmark (ImageNet-A/O); R3/R8 methodological background
+O5841;X;TA01;Generic source-free segmentation adaptation
+O5842;X;TA01;Reinforcement learning transfer
+O5843;X;TA01;Generic test-time adaptation
+O5844;X;TA01;Robot control sim-to-real
+O5845;X;TA01;Medical CT segmentation
+O5846;X;TA01;Synthetic-to-real driving segmentation
+O5847;X;TA02;Vibration-based structural damage segmentation
+O5848;X;TA01;Generic noise-tolerant loss
+O5849;X;TA01;Urban scene synthetic data (title only)
+O5850;X;TA01;Generic self-adaptive training
+O5851;X;TA01;Generic cross-domain self-supervision
+O5852;X;TA01;Person re-identification
+O5853;B;;LIME local explanations and trust; R5/R8 methodological background
+O5854;X;TA01;Generic augmentation
+O5855;X;TA01;Generic domain generalisation
+O5856;X;TA01;Synthetic scene generation
+O5857;X;TA02;Laser AM process optimisation; non-visual
+O5858;X;TA01;Synthetic animal parsing
+O5859;X;TA05;Concrete multi-damage FCN segmentation; accuracy only
+O5860;X;TA01;Synthetic urban-scene dataset
+O5861;X;TA01;Video scene AD (title only)
+O5862;X;TA01;Video anomalous event detection (title only)
+O5863;X;TA03;Image deformation graphics
+O5864;X;TA01;Generic multi-label noise
+O5865;X;TA05;CNN crack detection; generic robustness claim (note 1)
+O5866;X;TA01;Generic memorisation study
+O5867;X;TA01;Medical ambiguous labels
+O5868;X;TA01;Video AD
+O5869;X;TA01;Driving-scene domain-adaptive segmentation
+O5870;X;TA01;Generic AD for general data
+O5871;X;TA01;Generic forgetting study
+O5872;X;TA01;Driving-scene domain adaptation
+O5873;X;TA02;Generic AD ensembles; non-visual
+O5874;X;TA01;Generic domain-adversarial training (title only)
+O5875;X;TA01;Face anti-spoofing

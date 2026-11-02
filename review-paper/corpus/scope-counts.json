@@ -1,14 +1,14 @@
 {
-  "retrieval_occurrences": 6683,
+  "retrieval_occurrences": 8626,
   "crossref_occurrences": 400,
   "seed_occurrences": 33,
-  "duplicate_occurrences": 1098,
-  "unique_reports": 5585,
-  "reading_queue": 5455,
+  "duplicate_occurrences": 1656,
+  "unique_reports": 6970,
+  "reading_queue": 6840,
   "automatic_title_candidates": 197,
-  "formal_screened": 5585,
+  "formal_screened": 6269,
   "formal_included": 157,
-  "status": "Identification includes OpenAlex run OPENALEX-20261022-02; screening in progress",
-  "formal_background": 417,
-  "openalex_occurrences": 6250
+  "status": "Identification includes OpenAlex run OPENALEX-20261026-CT02; screening in progress",
+  "formal_background": 474,
+  "openalex_occurrences": 8193
 }

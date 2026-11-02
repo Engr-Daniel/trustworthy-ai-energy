@@ -15,5 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}
+      - run: python -m pip install -r review-paper/scripts/requirements.txt
       - run: python review-paper/scripts/validate_scope.py
+      - run: python review-paper/scripts/validate_manuscript.py
       - run: python -m unittest discover -s review-paper/scripts/tests -v

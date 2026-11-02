@@ -1,73 +1,72 @@
 # Trustworthy AI for Energy and Industrial Systems
-Research programme investigating reliability of image-based industrial inspection.
 
-## Current review workspace
-Read memory.md, AGENTS.md and task.md on restart.
-The current scope is review-paper/protocol.md (v0.3): a systematic scoping review and evidence map.
-The earlier narrower scope draft and closest-work memo are historical pilot records.
+Research programme on reliability of image-based industrial inspection.
 
-Shared Google Sheet: https://docs.google.com/spreadsheets/d/14NW5z6UziqVTzN2ZsmPbhT8Nmjo-ZQzQo0YaLDvNHTw/edit
-Drive folder: https://drive.google.com/drive/folders/15KlOofeUQ7soHwr26TbkoSw-7ppkw9eD
+## Current review status - 2 November 2026
 
-The pilot captured 433 occurrences, 360 unique reports and a 230-record reading queue.
-All formal eligibility screening is pending. The reading queue is not an included-study set.
-The workbook contains Overview, Corpus, Screening, Identification, Searches, Evidence matrix, Synthesis, Data audit and Decisions.
+The IEEE review manuscript is a **provisional draft**, not a completed or submission-ready review. Protocol v0.5 governs; title/abstract and full-text work is AI-assisted under Daniel's documented delegation.
 
-The user's 30 corpus fields are preserved, with 10 added provenance/workflow fields.
-Definitions: review-paper/corpus/data-dictionary.csv.
-Replay: review-paper/scripts/build_corpus.py and validate_scope.py.
-Exact pilot queries, manifests and raw snapshots: review-paper/search-strategy/.
-Subject-database search specification: review-paper/search-strategy/database-searches.md.
+| Unit/stage | Current count |
+| --- | ---: |
+| Retrieval occurrences | 8,626 |
+| Deduplicated report records | 6,970 |
+| Reports with title/abstract dispositions | 6,269 |
+| Pending title/abstract records | 701 |
+| Reports routed to full text or unclear | 853 |
+| Retrieval initiated | 787 |
+| Awaiting retrieval initiation | 66 |
+| Core reports retrieved and assessed | 219 |
+| Provisional included studies / primary reports | 157 / 157 |
+| Associated secondary reports | 13 |
 
-Current XLSX is an archive snapshot. Read fresh shared-sheet changes before editing or synchronising back to CSV; do not overwrite collaborator changes with a replay.
+These are different counting units. The evidence map describes the assessed 157-study subset, not a completed selection outcome of the expanded search. Fourteen supplementary background-review retrievals are separate from the core full-text flow.
 
-**Current stage:** review scoping and novelty assessment.
-**Technical projects:** candidates only; implementation has not started.
+## Read the paper and supporting records
 
-## Start here
-- docs/programme-charter.md: purpose and workstreams.
-- docs/research-story.md: dated research log and decision history.
-- review-paper/protocol.md: current draft protocol (v0.3).
-- review-paper/screening/pilot-20261013/: 20-record eligibility calibration packet.
-- review-paper/scope-and-protocol-draft.md: historical earlier scope.
-- review-paper/closest-work-comparison.md: evidence, novelty threats and data audit.
-- review-paper/corpus/Industrial_Inspection_Corpus_Tracker.xlsx: editable tracker.
-- review-paper/corpus/*.csv: text records suitable for git diffs.
-- research/candidate-branches/: three branch briefs.
-- docs/novelty-gate.md: conditions for moving into implementation.
+- [IEEE manuscript and build instructions](review-paper/manuscript/README.md).
+- [Provisional paper PDF](review-paper/manuscript/main.pdf).
+- [LaTeX source](review-paper/manuscript/main.tex) and [bibliography](review-paper/manuscript/refrence.bib).
+- [Reporting and completion gates](review-paper/reporting-status.md).
+- [Current protocol and dated amendments](review-paper/protocol.md).
+- [Dated research story](docs/research-story.md) and [active task ledger](task.md).
+- [Charted full-text evidence](review-paper/charting/charting.csv).
+- [Occurrence/report counts](review-paper/corpus/scope-counts.json), [screening evidence](review-paper/screening/confirmed-decisions.csv) and [version linkage](review-paper/corpus/study-linkage.csv).
+- [Current dated workbook](review-paper/corpus/Review_Tracker_20261102.xlsx); the original XLSX remains the historical pilot snapshot.
 
-The seed corpus is not a completed systematic search. Screening decisions remain unscreened. Retrieved full text is not equivalent to completed critical extraction.
+## Remaining completion gates
 
-## Updating the record
-Keep source and decision IDs stable. Update the Excel tracker and corresponding CSV files together.
-Append dated sessions to the research story. Record sources, version, access level, findings, interpretations and rejected directions.
-Keep dataset bytes and third-party paper PDFs outside git. Cite primary records and preserve relevant licences.
+Finish screening the 701 pending reports, retrieve/assess the 66 newly routed reports, chart eligible additions and resolve version conflicts. Reconcile Daniel's completed audit entries: the current local audit CSV remains blank, so no completed audit or agreement statistic is claimed. Confirm conflicts of interest, acknowledgments and any co-authors; the supplied affiliation, corresponding email and no-funding statement are in the draft. Refresh the audit sample after screening changes, then complete the reporting checklist and submission checks.
 
-## Reproduce the saved pilot
-Run from the repository root with Python 3.10 or later (standard library only):
-```bash
+The 568 unsuccessfully retrieved core reports remain non-retrieved, not excluded. The abstract inventory is an exploratory summary of screening rationales, not independent full-text charting or proof that retrieval bias is absent. Reuse licensing and journal selection still require confirmation.
+
+## Reproduce and validate
+
+Python dependencies for the current build are recorded in `review-paper/scripts/requirements.txt`.
+
+```sh
+python -m pip install -r review-paper/scripts/requirements.txt
 python review-paper/scripts/validate_scope.py
+python review-paper/scripts/validate_manuscript.py
 python -m unittest discover -s review-paper/scripts/tests -v
+python review-paper/scripts/make_figures.py
+python review-paper/scripts/make_bib.py
+python review-paper/scripts/make_tables.py
+```
+
+Figures require matplotlib; the workbook builder requires openpyxl. The PDF was compiled locally with Tectonic 0.17.0; pdfLaTeX/BibTeX are the intended Overleaf workflow. Local build dependencies are not part of the manuscript package. The requested filename `refrence.bib` is intentional.
+
+Historical pilot replay is separate:
+
+```sh
 python review-paper/scripts/build_corpus.py --output-dir replay-output
 ```
-Replay uses preserved snapshots and requires a separate, new or empty output directory. It does not run a fresh search, modify the source corpus or rebuild the XLSX. Review generated diffs before applying changes. The validator supports confirmed human decisions only with reconciled provenance, ledger, JSON and derived counts; see docs/screening-workflow.md. The saved pilot itself remains unscreened.
 
-## Current handoff
-GitHub workspace initialised 14 October 2026. The shared Sheet remains the collaboration surface; repository CSVs and XLSX are the saved scoping snapshot. Session 04 pilot suggestions are separate from formal decisions. Next: abstract retrieval and reviewer calibration, followed by validated multi-source searches.
+Replay creates the unscreened 13 October pilot in a separate empty directory. It must never overwrite later screening or charting. The original 433/360/230 pilot counts remain historical.
 
-## Contributor workflow and next milestones
+## Shared workspace and continuity
 
-- [Contributor guide](CONTRIBUTING.md): validation, safe replay, evidence preservation and synchronisation.
-- [Progression milestones](docs/progression-plan.md): acceptance criteria for the active task ledger.
-- [Repository review, 14 October 2026](docs/repository-review-20261014.md): findings, fixes and remaining limits.
+Read AGENTS.md, memory.md, task.md and the protocol before work. Preserve stable identities, raw captures and dated decisions. See [contributor guidance](CONTRIBUTING.md) and [workbook synchronisation procedure](docs/workbook-synchronisation.md).
 
-Raw search captures retain exact bytes across platforms. The root `manifest.json` records the initial delivery snapshot; search-run manifests verify the preserved captures. Reuse licensing is not yet declared.
+[Google Sheet](https://docs.google.com/spreadsheets/d/14NW5z6UziqVTzN2ZsmPbhT8Nmjo-ZQzQo0YaLDvNHTw/edit) and [Drive folder](https://drive.google.com/drive/folders/15KlOofeUQ7soHwr26TbkoSw-7ppkw9eD) remain the shared locations. The live Sheet was not updated in this session; read and reconcile fresh collaborator edits before any write. The dated workbook reflects repository CSVs only.
 
-- [Workbook synchronisation procedure](docs/workbook-synchronisation.md): version relationships, keyed reconciliation and release checks.
-- [Current pilot reading packet](review-paper/screening/abstracts-20261015/reading-packet.md): 16 abstracts available; four unresolved; human decisions pending. The 14 October packet is retained.
-
-- [Human screening workflow](docs/screening-workflow.md): pending decision template and provenance checks; no automated eligibility decisions.
-
-## Manuscript writing scaffold
-
-[IEEE LaTeX manuscript guide](review-paper/manuscript/README.md): main.tex, refrence.bib and figures/, with visible section guides and empty table/figure placeholders. This is an unfilled writing scaffold; it does not report completed synthesis. The local manuscript-overleaf.zip can be uploaded as an Overleaf project.
+Original technical projects remain candidates: [branch briefs](research/candidate-branches/) and [novelty/feasibility gate](docs/novelty-gate.md). No model experiment is approved by this review draft.

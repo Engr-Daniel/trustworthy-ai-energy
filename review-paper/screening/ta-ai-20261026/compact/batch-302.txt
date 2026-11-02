@@ -1,0 +1,50 @@
+O5276;F;;Structural displacement measurement with deep optical flow and uncertainty analysis (R1; adjacent infrastructure) (title only)
+O5277;X;TA01;Fraud detection
+O5278;X;TA02;Reliability quantification in semiconductor big data; non-visual (title only)
+O5279;B;;Generalisation of CAIPI explanatory interactive learning; R5 methodological bridge used in industrial interactive inspection
+O5280;F;;Calibration methods for deep learning optical quality monitoring under data drift (R1, R3)
+O5281;F;;Pose-agnostic visual AD in realistic industrial scenes (R3, R8)
+O5282;X;TA01;Brain microelectrode implantation; medical robotics
+O5283;X;TA01;Generic reliable continual learning (title only)
+O5284;F;;Neural processes with reliable inference for industrial equipment AD (R1); modality to verify (title only, note 4)
+O5285;X;TA05;Substation equipment self-supervised AD with diffusion synthesis; accuracy-oriented
+O5286;F;;Robustness of unsupervised image surface-anomaly detection methods (R3)
+O5287;F;;Cross-modal disagreement-guided reliability-aware scoring for RGB-3D industrial AD (R6)
+O5288;X;TA01;Trajectory visualisation
+O5289;X;TA01;Generic adversarial image detection
+O5290;X;TA05;Facade stain mapping; accuracy-oriented
+O5291;F;;Weather-robust crack segmentation for drone road inspection (R3; adjacent)
+O5292;F;;Robust PCB AD using aligned design information (R3); verify robustness evaluation
+O5293;X;TA02;Noise-robust AD on temporal features; non-visual (title only)
+O5294;X;TA05;Global-local industrial image AD; robustness claimed
+O5295;X;TA01;Entity disambiguation
+O5296;X;TA01;Network traffic anomaly detection
+O5297;X;TA01;Generic contaminated-data AD (tabular)
+O5298;X;TA05;YOLO corrosion detection for aerospace ground equipment
+O5299;X;TA02;Smart-grid ML detector robustness to evasion; non-visual
+O5300;X;TA01;Generic multi-view outlier detection
+O5301;X;TA02;Battery thermal runaway prognostics; non-visual
+O5302;X;TA01;Medical Grad-CAM faithfulness
+O5303;F;;Robust AD for nuclear fuel-rod cladding surface inspection (R3; core energy) (title only)
+O5304;X;TA01;Attributed network AD
+O5305;B;;Adjacent non-visual: calibration- and alarm-burden-aware validation of substation prognostics; transferable decision method (R1, R2, note 14)
+O5306;F;;Aero-engine blade defect classification under domain shift with scarce samples (R3)
+O5307;X;TA03;Materials chemistry
+O5308;X;TA05;Aero-engine blade defect detection network (title only)
+O5309;X;TA03;Human-centric AI architecture for Industry 5.0; no inspection task
+O5310;B;;Runtime verification of visual DL systems via loss prediction; methodological bridge for runtime monitoring (R1, R2)
+O5311;B;;Review of managing the unknown in ML (OOD, open-set); R3 methodological background
+O5312;F;;Cross-environment transfer for industrial robot state perception (R3); modality to verify (title only, note 4)
+O5313;X;TA02;Machine sound anomaly detection
+O5314;F;;Physics-guided attention for generalisable deep learning defect detection (R3) (title only)
+O5315;X;TA02;Drone acoustic anomaly detection
+O5316;X;TA01;XSS detection
+O5317;X;TA01;Service intervention analytics
+O5318;X;TA05;Synthetic data for metal defect detection
+O5319;X;TA01;Education XAI
+O5320;X;TA01;Fraud detection
+O5321;X;TA02;Agentic QC against standards manuals; document checking, not imaging
+O5322;X;TA01;AI-materials scientist interface review
+O5323;F;;Synergy scoring filter for unsupervised AD with noisy training data (R4); context to verify (title only)
+O5324;F;;Defect filter protecting the patch bank in cold-start online inspection (R4); verify (title only)
+O5325;X;TA05;Transformer unsupervised industrial AD

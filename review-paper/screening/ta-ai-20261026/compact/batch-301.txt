@@ -1,0 +1,51 @@
+# Citation-tracing records (run OPENALEX-20261026-CT02), screened 2026-10-26 under screening notes 1-14.
+O5226;F;;Meta domain generalisation for distribution drift in anomaly detection (R3); context to verify (title only, note 4)
+O5227;X;TA01;Medical-only AD domain generalisation
+O5228;X;TA01;Generic incremental domain generalisation (title only)
+O5229;X;TA01;Generic trustworthy AI chapter
+O5230;X;TA01;Generic causal inference for dataset shift
+O5231;X;TA01;Generic distribution shift detection
+O5232;X;TA01;Medical-only OOD segmentation
+O5233;X;TA02;Time-series test-time adaptation; non-visual
+O5234;F;;Evidential learning for trustworthy recognition of mixed-type wafer-map defects (R1)
+O5235;F;;Adversarial domain adaptation for part-to-part generalisation of DL segmentation in manufacturing (R3)
+O5236;X;TA01;Generic human-AI judgement bias
+O5237;F;;Reliability-aware selective fusion of visual and acoustic data for concrete-surface classification when sensors are unavailable (R6, R2; adjacent infrastructure)
+O5238;B;;Review of deep learning with noisy labels across industrial domains; R4 methodological background
+O5239;X;TA01;Generic trustworthy AI overview (IP, privacy, security)
+O5240;X;TA01;Generic open-environment OOD object detection
+O5241;X;TA01;Open-set text recognition
+O5242;X;TA02;Tabular test-time adaptation; non-visual
+O5243;X;TA01;Open-set text recognition
+O5244;F;;Continual learning framework for reliable defect segmentation with pixel-level uncertainty quantification (R1, R3) (title only)
+O5245;F;;Cross-domain anomaly detection for aircraft engine blade manufacturing (R3)
+O5246;F;;Synthetic defect data for segmentation accuracy and robustness in real-world bridge inspection (R3, R8; adjacent) (title only)
+O5247;X;TA01;Software testing
+O5248;X;TA01;Generic multi-scale OOD detection
+O5249;X;TA01;Generic open-set semi-supervised learning
+O5250;F;;Simultaneous classification and OOD detection for semiconductor wafer bin maps (R3)
+O5251;X;TA01;Generic OOD detection via jigsaw puzzles
+O5252;F;;Defect inspection under target-scarce domain adaptation (R3) (title only)
+O5253;X;TA01;Open-set text recognition
+O5254;X;TA01;Open-set text recognition
+O5255;X;TA01;Plant disease detection
+O5256;X;TA02;Machine sound anomaly detection under domain shift; non-visual generic DA (note 14)
+O5257;F;;Few-shot anomaly detection under domain shift with CLIP prompts (R3)
+O5258;X;TA03;Street-view cladding material classification; not an inspection task
+O5259;X;TA01;Intrusion detection
+O5260;X;TA01;Generic few-shot open-set object detection
+O5261;F;;Cross-domain anomaly detection across PV wafer manufacturing lines (R3; core energy manufacturing)
+O5262;X;TA01;Generic comparative explanations
+O5263;X;TA01;Generic adversarial robustness
+O5264;X;TA02;Modulation open-set detection; signals
+O5265;F;;Open-set anomaly detection via normal-invariant representation learning (R3); context to verify (title only, note 4)
+O5266;X;TA01;Wildlife track classification
+O5267;F;;Open-set recognition of mobile-phone screen defects for unknown anomalies (R3)
+O5268;X;TA02;Open-set bearing fault diagnosis; non-visual generic open-set (note 14)
+O5269;X;TA01;Surveillance video anomalies (note 7)
+O5270;X;TA02;Metal-cutting sound domain adaptation; non-visual generic DA (note 14)
+O5271;X;TA03;Bayesian networks for material response prediction; not inspection imagery
+O5272;X;TA01;Hydrological data classification
+O5273;F;;ISP-AD large real-world industrial AD dataset with synthetic and real defects (R8)
+O5274;B;;Adjacent non-visual: calibrated CRNN for early industrial fault detection on multivariate sensors; transferable calibration method (R1, note 14)
+O5275;X;TA05;Corrosion zone shape identification; accuracy-oriented

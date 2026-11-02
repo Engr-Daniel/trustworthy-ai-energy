@@ -90,10 +90,24 @@ Daniel asked to finish the review: run the pipeline, with screening/charting del
 - [x] Audit sample prepared (screening/audit-20261023/).
 - [ ] Daniel: complete audit-sample.csv (groups A and B required); then record resolutions and update manuscript.
 - [ ] Abstract-level tier for NR01 reports (or manual retrieval first).
-- [ ] Citation tracing of included studies; final search update.
+- [ ] Citation tracing of included studies (families defined; run CT01 failed 403 key_not_activated - Daniel to re-activate OpenAlex key), then final search update.
 - [ ] Author inputs in main.tex (affiliations, funding, conflicts, release DOI, PRISMA-ScR checklist pages); first Overleaf compile.
 - [ ] Resolve linked-study TA conflicts at full text: S0001 (B04/O4549), P05/O3428.
 - [ ] Known-item gap: P03, P07, P09 not returned by OpenAlex (full texts retrieved via arXiv IDs); report as recall limitation; citation tracing pending.
 - [ ] Citation tracing of core studies; final search update.
 - [x] Synthesis, PRISMA-ScR flow, figures/tables, manuscript draft v1, title-level citation verification (see Session 13).
 - [ ] Daniel's verification audit (all FT includes + 10% random TA exclusions) before submission - packet ready.
+
+## Active finalisation plan - 2 November 2026
+This dated plan supersedes older open-task summaries; historical entries above are retained.
+- [x] Compare local and remote: both began at 3405d41; preserve the later CT02 working files.
+- [x] Reconcile 664 saved 26 October decisions with original attribution; retain 186 unsupported title-only exclusion proposals Pending.
+- [x] Assess 20 more complete abstracts under OpenAI delegation with dated rationales (8 full text, 1 background, 11 excluded).
+- [x] Regenerate count/figure/table outputs and fix identified-versus-screened and supplementary-retrieval counting errors.
+- [x] Add Daniel's supplied author details/no-funding declaration; retain conflicts and audit reconciliation as open.
+- [x] Compile provisional 14-page PDF; fix math escaping and author-name typography against the primary source; no missing glyphs, overfull boxes or unresolved citations.
+- [x] Build dated workbook and verify mapped tables against CSV; preserve the original pilot workbook and live Sheet.
+- [ ] Complete 701 pending TA records and initiate retrieval for the 66 newly routed reports using retrieval-plan-20261102.csv.
+- [ ] Assess/chart eligible new full texts, resolve version conflicts, update the audit sample and determine the final search cutoff.
+- [ ] Locate Daniel's completed audit: current local CSV has 658 blank auditor decisions; reconcile disagreements before claiming completion.
+- [ ] Confirm conflicts of interest/acknowledgments, finalise checklist and journal formatting, then remove provisional banner.

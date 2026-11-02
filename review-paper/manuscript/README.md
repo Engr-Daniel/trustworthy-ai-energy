@@ -1,23 +1,29 @@
-# IEEE review manuscript, draft v1 (23 October 2026)
+# IEEE review manuscript - provisional revision, 2 November 2026
 
-`main.tex` is a complete first draft of the scoping review, written from the charted evidence. Remaining `[Author input required: ...]` items need the authors: affiliations, the completed human audit, acknowledgments, funding, conflicts, an archived release, and the PRISMA-ScR checklist page numbers. Do not submit while any remain.
+Start with [main.pdf](main.pdf). It is a compiled, 14-page provisional review draft, not a final submission. The manuscript reflects 157 charted studies in the assessed full-text subset. There are still 701 pending title/abstract records and 66 routed reports awaiting retrieval initiation; audit entries and author declarations remain unresolved.
 
-## Regenerating numbers, figures and references
+Author details supplied by Daniel are included: Ormedian Research Institute, the corresponding email and no funding. Conflicts of interest remain an author input. Earlier Claude screening/reading and the later OpenAI reconciliation are disclosed separately; neither is a second independent human review.
 
-Nothing in the draft is hand-counted. From the repository root:
+## Regenerate the draft artifacts
 
+From the repository root, with dependencies in scripts/requirements.txt installed:
+
+```sh
+python review-paper/scripts/make_figures.py
+python review-paper/scripts/make_bib.py
+python review-paper/scripts/make_tables.py
+python review-paper/scripts/validate_scope.py
+python review-paper/scripts/validate_manuscript.py
 ```
-python review-paper/scripts/make_figures.py   # figures/*.pdf|png and figures/figure-data.json
-python review-paper/scripts/make_bib.py       # refrence.bib and citation-verification.csv
-python review-paper/scripts/make_tables.py    # generated/counts.tex, cites.tex, tab_energy.tex, tab_decision.tex
-```
 
-Run them in this order after any change to decisions, retrieval or charting. `citation-verification.csv` records, for each entry, whether its title matched page 1 of the retrieved full text. `metadata-overrides.csv` documents the few metadata values taken from a primary source rather than from corpus records.
+Numbers come from current CSV records. The flow distinguishes identified, assessed, pending and not-yet-attempted reports; supplementary background retrievals are separate. The abstract inventory is exploratory screening metadata, not evidence that retrieval bias is absent. The bibliography's title checks do not verify every author field, scientific claim or citation interpretation.
 
-## Open in Overleaf
+## Overleaf
 
-Upload `manuscript-overleaf.zip` from the parent `review-paper` folder, or this folder's contents. Select `main.tex` and pdfLaTeX; the bibliography uses IEEEtran style and the requested file name `refrence.bib`. No local LaTeX compiler was available, so the first Overleaf compile is the first typesetting check. The draft was checked for cite keys, macro definitions, brace balance and environment pairing.
+Upload the contents of the regenerated parent-folder manuscript-overleaf.zip as a new project. Select main.tex and pdfLaTeX; BibTeX uses IEEEtran style and the requested filename refrence.bib. The bundle includes generated inputs and figure PDFs. No source papers are redistributed.
 
-## Layout
+Local compilation succeeded with Tectonic 0.17.0 (XeTeX/BibTeX), standard TeX Live support files and the generic IEEEtran journal class. build-verification.json records the result. No overfull boxes, missing glyphs or unresolved citation markers were reported; this is not a final visual or scientific audit. Overleaf/pdfLaTeX pagination can differ. Select a specific journal and apply its official template before submission.
 
-Generic `IEEEtran` journal layout. Adapt to the selected journal's template before submission.
+## Remaining author/review work
+
+See ../reporting-status.md. Keep the provisional banner until screening additions, retrieval, charting and audit reconciliation are complete. Complete the reporting checklist with final locations/pages only after the manuscript stabilises. Do not infer a no-conflict declaration from the absence of funding.

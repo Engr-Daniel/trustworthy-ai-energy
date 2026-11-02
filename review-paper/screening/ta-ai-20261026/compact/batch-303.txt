@@ -1,0 +1,50 @@
+O5326;X;TA02;Acoustic anomaly detection with noisy data; non-visual
+O5327;F;;Beyond benchmark scores: resolution, spatial structure, illumination and seed sensitivity of training-free industrial anomaly localisation (R8, R3)
+O5328;X;TA03;Pipeline coating materials
+O5329;X;TA02;Building energy consumption prediction
+O5330;X;TA05;Comparison of unsupervised AD models for glue lines; accuracy comparison
+O5331;X;TA05;Pavement crack segmentation network (title only)
+O5332;X;TA02;Energy deception attacks in CPS
+O5333;X;TA01;Healthcare XAI
+O5334;X;TA05;Aero-engine blade abnormal detection; lightweight
+O5335;X;TA01;Deepfake detection
+O5336;X;TA01;PPE compliance detection; safety monitoring, not asset inspection
+O5337;B;;Adjacent non-visual: dual Bayesian inference for risk-informed vibration damage diagnosis; transferable Bayesian UQ (R1, note 14)
+O5338;X;TA05;Few-shot RGB-point-cloud fusion AD
+O5339;X;TA05;Evaluation and comparison of industrial image AD methods; accuracy comparison
+O5340;X;TA02;Myoelectric gesture recognition
+O5341;X;TA05;Training-free PCB AD with multimodal LLMs
+O5342;F;;Query-conditioned consensus over unverified evidence for training-free zero-shot industrial AD (R2, R7); verify (consistent with O4497)
+O5343;F;;Reusability of ML process-monitoring models across manufacturing digital-twin settings (R3); verify modality
+O5344;X;TA05;AdaCLIP zero-shot AD (title only)
+O5345;X;TA05;Mixed-defect wafer-map classification (title only)
+O5346;X;TA05;Unified zero-shot AD; standard ZSAD protocol (note 2)
+O5347;X;TA05;Crack segmentation network (title only)
+O5348;F;;Real-IAD Variety dataset pushing industrial AD benchmarks (R8) (title only)
+O5349;X;TA05;Corrosion segmentation network
+O5350;X;TA01;Education AI
+O5351;X;TA01;Systematic review screening
+O5352;X;TA01;IoT anomaly data detection
+O5353;X;TA02;Energy theft detection; non-visual
+O5354;X;TA05;Steel bridge corrosion detection
+O5355;X;TA01;LLM epistemology
+O5356;F;;Influence of manual inter-observer variability on deep segmentation of real-world structures (R4)
+O5357;B;;Review of human-AI collaboration and reliance in decision support; R5 background
+O5358;X;TA05;Infrastructure component and damage segmentation
+O5359;X;TA05;Unified surface defect detection across supervision regimes
+O5360;X;TA05;Vision-to-tactile cross-modal micro-defect detection (title only)
+O5361;F;;Semantic-aware industrial AD robust to contaminated (noisy) training data (R4)
+O5362;X;TA03;Mass individualisation manufacturing paradigm
+O5363;X;TA01;Generic contamination-resilient semi-supervised AD (title only)
+O5364;X;TA01;Sepsis prediction
+O5365;X;TA05;Diffusion damage image generation (title only)
+O5366;X;TA05;Synthetic dataset for pipeline corrosion classification
+O5367;X;TA01;Healthcare explanations
+O5368;X;TA05;Melt pool defect classification (title only)
+O5369;X;TA05;YOLO corrosion segmentation comparison
+O5370;X;TA01;Navigation for visually impaired
+O5371;X;TA03;PBF numerical modelling review
+O5372;X;TA01;Generic XAI evaluation
+O5373;X;TA01;Medical-only CLIP AD
+O5374;X;TA04;Book front matter ("Background")
+O5375;X;TA01;Generic unknown-class learning
