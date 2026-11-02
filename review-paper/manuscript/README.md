@@ -27,3 +27,5 @@ Local compilation succeeded with Tectonic 0.17.0 (XeTeX/BibTeX), standard TeX Li
 ## Remaining author/review work
 
 See ../reporting-status.md. Keep the provisional banner until screening additions, retrieval, charting and audit reconciliation are complete. Complete the reporting checklist with final locations/pages only after the manuscript stabilises. Do not infer a no-conflict declaration from the absence of funding.
+
+The draft PRISMA-ScR item crosswalk is prisma-scr-crosswalk-20261102.csv (paraphrased reporting areas; source: https://www.prisma-statement.org/scoping). It records open gates and is not a completed compliance checklist.

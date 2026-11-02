@@ -1,0 +1,23 @@
+Item,Reporting area (paraphrased),Draft locator,Status / remaining gate,Final pages
+1,Review identification,Title,Draft identifies a scoping review,Await final audited pagination
+2,Abstract,Abstract,Provisional counts and unfinished selection explicitly stated,Await final audited pagination
+3,Motivation,Introduction,Claims and prior-review comparison still need final audit,Await final audited pagination
+4,Objectives,Introduction: review questions,Confirm final question wording after additions,Await final audited pagination
+5,Protocol,Methods: protocol and amendments,No preregistration claimed,Await final audited pagination
+6,Eligibility,Methods: eligibility,Dated refinements retained,Await final audited pagination
+7,Sources,Methods: information sources,Initial and citation-tracing runs distinguished,Await final audited pagination
+8,Search reproducibility,"Methods, Appendix A, search manifests",Final update/cutoff decision outstanding,Await final audited pagination
+9,Selection procedure,Methods: selection,AI delegation disclosed; human audit reconciliation open,Await final audited pagination
+10,Charting procedure,Methods: charting,Form v0.2 and page locators recorded,Await final audited pagination
+11,Charted variables,"Background, Methods, Appendix B",Definitions and missingness conventions available,Await final audited pagination
+12,"Appraisal, if used",Methods: evaluation limitations,Qualitative assessment; no universal quality score,Await final audited pagination
+13,Synthesis approach,Methods: evidence mapping,Descriptive and attributed narrative; provisional subset,Await final audited pagination
+14,Selection outcome,"Results, flow figure, ledgers",Incomplete: 701 TA records and 66 retrieval initiations remain,Await final audited pagination
+15,Evidence characteristics,"Results, generated tables, charting.csv",157-study subset only,Await final audited pagination
+16,"Appraisal findings, if used",Results: maturity and reproducibility,Interpretation requires source/audit verification,Await final audited pagination
+17,Individual source evidence,Charting records and cited results,Audit and outstanding candidate assessment pending,Await final audited pagination
+18,Synthesis outputs,Evidence map and Discussion,Provisional; revise after remaining assessments,Await final audited pagination
+19,Interpretation,Discussion,Bound claims to assessed subset,Await final audited pagination
+20,Limitations,Discussion: evidence and process limits,"Access, indexing, incomplete selection and audit limits explicit",Await final audited pagination
+21,Conclusions,Conclusion,Retain provisional qualifications,Await final audited pagination
+22,Support and interests,Acknowledgment and Declarations,No funding confirmed; conflicts still pending,Await final audited pagination
