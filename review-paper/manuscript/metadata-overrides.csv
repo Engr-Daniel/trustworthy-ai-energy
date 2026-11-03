@@ -1,7 +1,40 @@
-Paper ID,Full Authors,Year,Venue / Journal,Source
-C0041,Hossein Kashiani; Niloufar Alipour Talemi; Fatemeh Afghah,2025,2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),Authors and title from retrieved full text page 1; year and venue from DOI 10.1109/wacv61041.2025.00768
-O1774,,2026,McGill University (MSc thesis),Venue from retrieved full text title page (thesis submitted to McGill University)
-O4881,,2026,Anais do 53o Seminário Integrado de Software e Hardware (SEMISH 2026) / CSBC 2026,Venue from retrieved full text page header
-O2564,,2025,arXiv preprint arXiv:2505.13828,Venue from retrieved arXiv PDF location (retrieval-status.csv)
-C0006,,2026,Research Square preprint,Venue from retrieved PDF location (researchsquare.com)
-O1712,Miroslav Avramov; Veska Gancheva,,,Retrieved full text O1712.txt pages 1-2; Latin author spelling confirmed on IOP DOI page https://doi.org/10.1088/1755-1315/1661/1/012026 (2026-11-02). Original corpus metadata has mixed Cyrillic homoglyphs.
+Paper ID,Full Authors,Full Title,Year,Venue / Journal,DOI,URL,arXiv ID,Source
+C0041,Hossein Kashiani; Niloufar Alipour Talemi; Fatemeh Afghah,,2025,2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),,,,Authors and title from retrieved full text page 1; year and venue from DOI 10.1109/wacv61041.2025.00768
+O1774,Daniel Atewin Amoshie,,2026,McGill University,,,,Venue from retrieved full text title page (thesis submitted to McGill University) | byline on retrieved full text page 1
+O4881,Dário Alef Barros Lima; Karen Letícia Santana da Silva; Willian do Nascimento Severiano; Antonio Fontenele; Wington L. Vital; Hendrio Bragança; Ítalo P. Caliari,,2026,Anais do 53o Seminário Integrado de Software e Hardware (SEMISH 2026) / CSBC 2026,,,,Venue from retrieved full text page header | byline on retrieved full text page 1
+O2564,"Naghavi Khanghah, Kiarash; Zhiling Chen; Lela Romeo; Qian Yang; Rajiv Malhotra; Farhad Imani; Hongyi Xu",,2025,"Proceedings of the ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE), Vol. 3A",,,,"Venue from retrieved arXiv PDF location (retrieval-status.csv) | Authors: doi.org CSL record (family name Naghavi Khanghah), checked 2026-11-02 | doi.org CSL record checked 2026-11-02"
+C0006,,,2026,Research Square preprint,,,,Venue from retrieved PDF location (researchsquare.com)
+O1712,Miroslav Avramov; Veska Gancheva,,,,,,,Retrieved full text O1712.txt pages 1-2; Latin author spelling confirmed on IOP DOI page https://doi.org/10.1088/1755-1315/1661/1/012026 (2026-11-02). Original corpus metadata has mixed Cyrillic homoglyphs.
+O0383,Satwik Sai Prakash Sahoo; Jyoti Prakash Sahoo; Ting Wang; Subrota Kumar Mondal,,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O0766,Liang Xu; Taro Hatsutani; Xing Liu; Engkarat Techapanurak; Han Zou; Takayuki Okatani,,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4484,Jiawen Yu; Jieji Ren; Yang Chang; Qiaojun Yu; Xuan Tong; Boyang Wang; Yan Song; You Li; Xinji Mai; Wenqiang Zhang,,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4621,Qishan Wang; Shuyong Gao; Junjie Hu; Jiawen Yu; Xuan Tong; You Li; Wenqiang Zhang,,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O5038,Tianpeng Bao; Jiadong Chen; Wei Li; Xiang Wang; Jingjing Fei; Liwei Wu; Rui Zhao; Ye Zheng,,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4375,"Hossein Mirzaei; Mohammad Jafari; Hamid Reza Dehbashi; Sadat Taghavi, Zeinab; Mohammad Sabokrou; Mohammad Hossein Rohban",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O3892,"Altaf Allah Abbassi; Ben Braiek, Houssem; Foutse Khomh; Thomas Reid",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O1676,"Ghosh Mondal, Tarutal; Zhenhua Shi; Haibin Zhang; Genda Chen",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O1703,"Oliveira Santos, Bruno; Jónatas Valença; João Paulo Costeira; Eduardo Júlio",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4465,"Nikola Bugarin; Jovana Bugaric; Manuel Barusco; Dalle Pezze, Davide; Gian Antonio Susto",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4624,"Dalle Pezze, Davide; Eugenia Anello; Chiara Masiero; Gian Antonio Susto",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4684,"Manuel Barusco; Lorenzo D'Antoni; Francesco Borsatti; Dalle Pezze, Davide; Gian Antonio Susto",,,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O1463,"Adrian Poniatowski; Natalie Gentner; Manuel Barusco; Dalle Pezze, Davide; Samuele Salti; Gian Antonio Susto",,2026,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O1678,,,2022,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4487,,,2025,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O4361,,,2024,,,,,"doi.org CSL record and retrieved full text page 1, checked 2026-11-02 (manuscript/citation-check-20261102)"
+O1478,,,,,Not registered,https://jogss.org/index.php/JGS/article/view/55,,DOI 10.71465/jgs55 returned 'DOI does not exist' at doi.org (2026-11-02); cite article page
+O1608,,,,,,,2603.26776,arXiv ID printed on retrieved full text page 1; arXiv API record title and authors match (checked 2026-11-02)
+O1522,,,,,,,,Printed DOI 10.17051/ECC/04.03.01 returned 'DOI does not exist' at doi.org (2026-11-02); left without DOI
+O0541,,Autonomous Robotic Inspection Based on Active Vision and Deep Reinforcement Learning,,,,,,Title case only; source prints the title in capitals (retrieved full text page 1)
+O0852,,Precision Manufacturing in Aerospace Engineering Using Advanced Robotic Systems,,,,,,Title case only; source prints the title in capitals (retrieved full text page 1)
+O1533,,Synthetic-to-Real Domain Adaptation in Computer Vision Systems: Towards High-Precision Industrial Applications,,,,,,Title case only; source prints the title in capitals (retrieved full text page 1)
+O1586,Jun Wu,,,,,,,Author capitalisation from retrieved full text page 1 (corpus metadata lower-case)
+O0299,,,,2021 29th Mediterranean Conference on Control and Automation (MED),,,,doi.org CSL record checked 2026-11-02
+O1854,,,,2024 IEEE 20th International Conference on Automation Science and Engineering (CASE),,,,doi.org CSL record checked 2026-11-02
+O4372,,,,2024 IEEE 20th International Conference on Automation Science and Engineering (CASE),,,,doi.org CSL record checked 2026-11-02
+O1852,,,,Zenodo,,,,doi.org CSL record checked 2026-11-02 (Zenodo deposit)
+O2410,,,,Proceedings of the AAAI Conference on Artificial Intelligence,,,,doi.org CSL record checked 2026-11-02
+O1493,İsmail Hakkı Kınalıoğlu,,,,,,,byline on retrieved full text page 1
+O4453,Sinan Ilyas; Cemil Oz; Muhammed Ali Nur Oz,,,,,,,byline on retrieved full text page 1 and doi.org CSL record checked 2026-11-02
+O1531,Paul Berlin Ndjoko,Automated crack detection in concrete civil infrastructure using deep learning: from benchmark to field deployment with domain adaptation,,,,,,byline on retrieved full text page 1 (P.B. Ndjoko); capitals in metadata; trailing period removed from title
+O0532,"Wei Sun; Weixia Zhang; Linhan Cao; Mingkai Lu; Xiongkuo Min; Xiaoping Zhang; Le Callet, Patrick; Guangtao Zhai; Hongxing Chen; Wenqi Wu; Zhenhao Hu; Shanshan Lin; Guanjie Huang; Kai Xie; Rui Xin; Zilong Zhao; Runmin Cong; Ningjing Li; Siqi Ma; Yi Jin Ong; Tianfei Zhou; Shunzhou Wang; Zhiyang Chen; Hao Fang; Chen Zhang; Tze-Hsiang Tang; Dikai Li; Xianjin Wu; Avinash Kumar Sharma; Zhaoyang Wang; Haiyong Chen; Binyi Su; Atik Shahariar",,,,,,,byline on retrieved full text page 1
+F02,Melissa L. Rethlefsen; Shona Kirtley; Siw Waffenschmidt; Ana Patricia Ayala; David Moher; Matthew J. Page; Jonathan B. Koffel; {PRISMA-S Group}; Heather Blunt; Tara Brigham; Steven Chang; Justin Clark; Aislinn Conway; Rachel Couban; Shelley de Kock; Kelly Farrah; Paul Fehrmann; Margaret Foster; Susan A. Fowler; Julie Glanville; Elizabeth Harris; Lilian Hoffecker; Jaana Isojarvi; David Kaunelis; Hans Ket; Paul Levay; Jennifer Lyon; Jessie McGowan; M. Hassan Murad; Joey Nicholson; Virginia Pannabecker; Robin Paynter; Rachel Pinotti; Amanda Ross-White; Margaret Sampson; Tracy Shields; Adrienne Stevens; Anthea Sutton; Elizabeth Weinfurter; Kath Wright; Sarah Young,,,,,,,group author braced so BibTeX does not parse it as a person

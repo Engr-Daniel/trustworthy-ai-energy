@@ -49,3 +49,7 @@ Overview formulas and display-only flags are derived. Read formulas separately f
 The archived XLSX has matching key sets and zero substantive differences across the eight mapped tables. The audit preserves 278 representation differences: 259 date-only timestamp differences and 19 search timestamps rendered to milliseconds. The Identification Identity column remains CSV-only, and the historical search block is excluded from current-run comparisons.
 
 Live metadata confirms the expected nine tabs, Africa/Lagos timezone and inspected row-7 headers. This is not a full live-data audit. The detailed audit and live metadata observation are retained under `review-paper/synchronisation/`. No full last-reconciled live snapshot exists yet; capture one before any sync that changes research records.
+
+## Post-audit local snapshot - 2 November 2026
+
+The automated builder now creates a new workbook directly from the authoritative CSVs, with row-7 headers and row-8 data. Review_Tracker_20261102_post-audit.xlsx supersedes the earlier same-day presentation snapshot for current reading; both earlier workbooks are preserved. The eight mapped tables are checked with audit_workbook.py, and all thirteen CSV-backed tabs are compared cell by cell, including charting, linkage, full-text status, abstract inventory and human audit. Overview totals and screening validation are checked separately. The audit reports are in review-paper/synchronisation/ with the post-audit suffix. No live Sheet was read or written, and local equivalence does not establish live equivalence.

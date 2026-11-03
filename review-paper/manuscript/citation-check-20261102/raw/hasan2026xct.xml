@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/Mvr3vr/XYUTNPYGxv2KLkdpKlN4</id>
+  <title>arXiv Query: search_query=&amp;id_list=2607.14287&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:18:23Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2607.14287" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2607.14287v1</id>
+    <title>XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</title>
+    <updated>2026-07-15T18:49:09Z</updated>
+    <link href="https://arxiv.org/abs/2607.14287v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.14287v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Defect segmentation in additive manufacturing (AM) X-ray computed tomography (XCT) images remains challenging due to severe class imbalance and large distribution shifts across scan conditions. Although recent foundation models such as the Segment Anything Model (SAM) provide strong general-purpose segmentation priors, their natural-image pre-training transfers poorly to the AM XCT domain, where defects appear as subtle non-semantic microstructural anomalies. Moreover, adapting SAM to the AM domain is further limited by the large domain gap and scarcity of labeled real XCT data. We present XCT-SAM, a sequential parameter-efficient adaptation framework for AM XCT defect segmentation. Instead of adapting SAM directly from natural images to XCT data, we first fine-tune Conv-LoRA adapters on an alloy-microstructure dataset and subsequently transfer the adapted model to XCT images, progressively bridging the domain gap. Using Conv-LoRA adapters with rank r=2, the framework injects convolutional spatial inductive bias into SAM's backbone while training approximately 4.15M parameters and keeping over 99% of the model frozen. We evaluate XCT-SAM on out-of-distribution CycleGAN-XCT benchmarks and real-world NIST XCT scans. Across both settings, XCT-SAM consistently outperforms zero-shot SAM and other domain-adapted SAM baselines, achieving the best overall IoU and Dice scores. These results demonstrate the effectiveness of intermediate domain adaptation with parameter-efficient adapters for industrial XCT defect segmentation. The source code is publicly available at https://github.com/Mahedi-61/XCT-SAM.git</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-15T18:49:09Z</published>
+    <arxiv:comment>10 pages, 7 figures, 3 tables. Accepted to the IAPR Workshop on Machine Vision for Industrial Inspection (MVI2), in conjunction with ICPR 2026. Code: https://github.com/Mahedi-61/XCT-SAM</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Md Mahedi Hasan</name>
+    </author>
+    <author>
+      <name>Md Mushfiqur Rahaman</name>
+    </author>
+    <author>
+      <name>Alan Pachkovskiy</name>
+    </author>
+    <author>
+      <name>Imtiaz Ahmed</name>
+    </author>
+    <author>
+      <name>Jeremy Dawson</name>
+    </author>
+    <author>
+      <name>Srinjoy Das</name>
+    </author>
+  </entry>
+</feed>

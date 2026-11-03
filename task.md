@@ -111,3 +111,31 @@ This dated plan supersedes older open-task summaries; historical entries above a
 - [ ] Assess/chart eligible new full texts, resolve version conflicts, update the audit sample and determine the final search cutoff.
 - [ ] Locate Daniel's completed audit: current local CSV has 658 blank auditor decisions; reconcile disagreements before claiming completion.
 - [ ] Confirm conflicts of interest/acknowledgments, finalise checklist and journal formatting, then remove provisional banner.
+
+## Audit pass and reference check - 2 November 2026 (later session)
+Daniel asked to complete the audit, provide the audit file and check citations, spelling, papers and DOIs; do not push.
+- [x] AI-assisted second pass over all 658 audit rows (screening/audit-20261023/ai-audit-pass-20261102.csv; summary JSON; README addendum). Same-AI consistency check, not the human audit.
+- [x] Applied resolution packet: O2008/O2036/O5049 excluded at full text, O1602 included (charted in chart-002.txt), O5204 to full text (OA download failed; NR01), O3810 code TA05. Included studies now 155.
+- [x] Abstract tier now also covers attempted core reports from later dated plans (O5204); counts, figures, bibliography and tables regenerated; manuscript audit text updated with generated macros.
+- [x] Reference check against DOI/arXiv registration records (manuscript/citation-check-20261102/); manuscript spelling check.
+- [ ] Daniel or another named human: fill the human columns of the audit file; then record outcomes in a dated packet (Audit Status Complete requires a named human).
+- [ ] Optional: place CC BY PDF of O5204 in fulltext/manual/ and ingest; assess at full text.
+- [ ] Remaining citation-tracing screening (701 pending from O6076 onward; batches 301-317 were reconciled on 2 November) and the 66 routed reports.
+
+### Local artifact synchronisation - 2 November 2026
+Continuation of the active finalisation plan; no new research decisions.
+- [x] Refresh current README/manuscript guidance/reporting counts after the AI consistency resolutions (155 included; 167 bibliography entries).
+- [x] Preserve earlier workbook and build a post-audit CSV-backed snapshot; verify mapped tables and all thirteen CSV-backed tabs.
+- [x] Refresh the local Overleaf package and add a separately dated post-audit artifact manifest, preserving the historical manifest.
+- [ ] Remaining research gates above are unchanged: screening/retrieval, version linkage, named human audit and author declarations.
+
+Workbook builder maintenance: replaced repeated populated-cell scans during string typing with direct row/column access. The post-audit export is verified against all thirteen CSV sources; screening dropdowns and Overview totals are checked separately.
+
+## Human audit confirmation - 2 November 2026
+
+Daniel explicitly confirmed in chat: "I completed the human audit of all 658 sampled records and agreed with every current decision." Recorded 658 agreements with current post-resolution decisions, including all 155 current full-text inclusions. The original sample is archived as audit-sample-before-human-confirmation-20261102.csv; human-confirmation-20261102.csv preserves original versus current decisions and the attestation basis. The date is the confirmation date; individual reading dates were not supplied. This is human verification of AI-assisted single-reviewer decisions, not independent dual human screening. Remaining screening (701), retrieval initiation (66), linkage and author declarations stay open; refresh audit coverage for later decisions. No commit, push or live Sheet write.
+
+Human-confirmation verification: 658 current decision audits marked Complete with Daniel as named auditor, all 155 included studies covered; scope/manuscript checks and all 35 regression tests passed. Human-confirmed workbook matches all thirteen CSV-backed tables. Updated PDF remains 14 pages. Fixed sample confirmation does not close outstanding selection or final sampling.
+
+## Remote update authorised - 3 November 2026
+Daniel explicitly requested pushing the necessary updates. Prepared the current manuscript, DOI/arXiv checks, AI resolution history, human confirmation of 658 sampled decisions, CSV-backed workbooks and synchronisation reports for publication. Local TeX logs, source-paper downloads and compiler files are excluded. Research selection remains incomplete (701 TA pending, 66 retrieval initiations); no live Sheet update. Hosted CI is to be checked for the resulting commit.

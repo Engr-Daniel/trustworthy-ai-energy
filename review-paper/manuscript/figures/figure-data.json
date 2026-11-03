@@ -8,52 +8,52 @@
     "unique_reports": 6970,
     "screened": 6269,
     "pending_ta": 701,
-    "ta_excluded": 4953,
+    "ta_excluded": 4952,
     "ta_background": 463,
-    "eligible_for_retrieval": 853,
+    "eligible_for_retrieval": 854,
     "awaiting_retrieval": 66,
     "supplementary_retrievals": 14,
     "supplementary_retrieved": 8,
-    "sought": 787,
-    "not_retrieved": 568,
+    "sought": 788,
+    "not_retrieved": 569,
     "retrieved": 219,
     "assessed": 219,
     "awaiting_ft_assessment": 0,
     "ft_excluded": {
-      "FT01": 3,
-      "FT02": 2,
+      "FT01": 5,
+      "FT02": 3,
       "FT03": 5,
       "FT04": 15,
       "FT05": 3,
-      "FT06": 23
+      "FT06": 22
     },
     "ft_background": 11,
-    "included_studies": 157,
-    "primary_included_reports": 157,
+    "included_studies": 155,
+    "primary_included_reports": 155,
     "secondary_reports_of_included": 13,
-    "included_reports": 170
+    "included_reports": 168
   },
   "context": {
     "Core-energy": 21,
     "Core-manufacturing": 105,
     "Adjacent-infrastructure": 27,
-    "Adjacent-other": 4
+    "Adjacent-other": 2
   },
   "dims_any": {
     "R1": 43,
     "R2": 16,
-    "R3": 99,
-    "R4": 29,
+    "R3": 98,
+    "R4": 28,
     "R5": 25,
     "R6": 12,
-    "R7": 24,
+    "R7": 23,
     "R8": 50
   },
   "dims_primary": {
     "R1": 19,
     "R2": 6,
-    "R3": 70,
-    "R4": 13,
+    "R3": 69,
+    "R4": 12,
     "R5": 11,
     "R6": 7,
     "R7": 12,
@@ -62,32 +62,32 @@
   "maturity": {
     "Industrial dataset (offline)": 46,
     "Deployed or operational": 4,
-    "Benchmark (public)": 98,
+    "Benchmark (public)": 96,
     "Human-subject experiment": 1,
     "Field validation": 8
   },
   "guarantee": {
-    "None": 137,
+    "None": 135,
     "Finite-sample (conformal or risk control)": 4,
     "Empirical operating point": 16
   },
   "human_role": {
     "Recommended only": 11,
     "Designed into workflow": 23,
-    "None": 116,
+    "None": 114,
     "Evaluated with humans": 7
   },
   "shift_origin": {
     "Natural": 74,
     "Not applicable": 37,
-    "Synthetic": 35,
+    "Synthetic": 32,
     "Not extracted": 1,
-    "Both": 10
+    "Both": 11
   },
   "years": {
-    "2022": 10,
+    "2022": 9,
     "2025": 37,
-    "2026": 68,
+    "2026": 67,
     "2024": 17,
     "unknown": 1,
     "2019": 1,
@@ -113,13 +113,13 @@
       "Core-energy": 12,
       "Core-manufacturing": 71,
       "Adjacent-infrastructure": 14,
-      "Adjacent-other": 2
+      "Adjacent-other": 1
     },
     "R4": {
       "Core-energy": 2,
       "Core-manufacturing": 21,
       "Adjacent-infrastructure": 5,
-      "Adjacent-other": 1
+      "Adjacent-other": 0
     },
     "R5": {
       "Core-energy": 7,
@@ -137,7 +137,7 @@
       "Core-energy": 5,
       "Core-manufacturing": 14,
       "Adjacent-infrastructure": 3,
-      "Adjacent-other": 2
+      "Adjacent-other": 1
     },
     "R8": {
       "Core-energy": 7,
@@ -162,14 +162,14 @@
       "Human-subject experiment": 0
     },
     "R3": {
-      "Benchmark (public)": 66,
+      "Benchmark (public)": 65,
       "Industrial dataset (offline)": 25,
       "Field validation": 6,
       "Deployed or operational": 2,
       "Human-subject experiment": 0
     },
     "R4": {
-      "Benchmark (public)": 17,
+      "Benchmark (public)": 16,
       "Industrial dataset (offline)": 10,
       "Field validation": 1,
       "Deployed or operational": 1,
@@ -190,7 +190,7 @@
       "Human-subject experiment": 0
     },
     "R7": {
-      "Benchmark (public)": 17,
+      "Benchmark (public)": 16,
       "Industrial dataset (offline)": 7,
       "Field validation": 0,
       "Deployed or operational": 0,

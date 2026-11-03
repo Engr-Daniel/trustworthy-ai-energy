@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/QjbOWZtJU1cBqZgr5K9Kq/xLa1U</id>
+  <title>arXiv Query: search_query=&amp;id_list=2507.07579&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:12:31Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2507.07579" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2507.07579v1</id>
+    <title>NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning</title>
+    <updated>2025-07-10T09:29:26Z</updated>
+    <link href="https://arxiv.org/abs/2507.07579v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2507.07579v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a novel few-shot cross-domain anomaly detection framework, Nexus Vision Transformer for Anomaly Detection (NexViTAD), based on vision foundation models, which effectively addresses domain-shift challenges in industrial anomaly detection through innovative shared subspace projection mechanisms and multi-task learning (MTL) module. The main innovations include: (1) a hierarchical adapter module that adaptively fuses complementary features from Hiera and DINO-v2 pre-trained models, constructing more robust feature representations; (2) a shared subspace projection strategy that enables effective cross-domain knowledge transfer through bottleneck dimension constraints and skip connection mechanisms; (3) a MTL Decoder architecture supports simultaneous processing of multiple source domains, significantly enhancing model generalization capabilities; (4) an anomaly score inference method based on Sinkhorn-K-means clustering, combined with Gaussian filtering and adaptive threshold processing for precise pixel level. Valuated on the MVTec AD dataset, NexViTAD delivers state-of-the-art performance with an AUC of 97.5%, AP of 70.4%, and PRO of 95.2% in the target domains, surpassing other recent models, marking a transformative advance in cross-domain defect detection.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-07-10T09:29:26Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Tianwei Mu</name>
+    </author>
+    <author>
+      <name>Feiyu Duan</name>
+    </author>
+    <author>
+      <name>Bo Zhou</name>
+    </author>
+    <author>
+      <name>Dan Xue</name>
+    </author>
+    <author>
+      <name>Manhong Huang</name>
+    </author>
+  </entry>
+</feed>

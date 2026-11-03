@@ -6,6 +6,7 @@
   "overfull_warnings": 0,
   "missing_glyph_warnings": 0,
   "unresolved_citation_markers": 0,
-  "scope": "Compiled provisional draft; human audit and review completeness remain unresolved",
-  "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory"
+  "scope": "Compiled provisional draft with Daniel Oyewale human confirmation of the fixed 658-record sample; selection and refreshed sampling remain open",
+  "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory",
+  "main_pdf_sha256": "32d341a32821e38980ce55570cd37f4cd408a8ba40b085ff2bd743fac072a01f"
 }

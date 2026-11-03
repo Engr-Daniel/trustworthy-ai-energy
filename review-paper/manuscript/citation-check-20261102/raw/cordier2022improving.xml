@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/PFBPGPRQ0W59f1n2dvV9f+KZjd4</id>
+  <title>arXiv Query: search_query=&amp;id_list=2202.12818&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:15:20Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2202.12818" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2202.12818v1</id>
+    <title>Improving generalization with synthetic training data for deep learning based quality inspection</title>
+    <updated>2022-02-25T16:51:01Z</updated>
+    <link href="https://arxiv.org/abs/2202.12818v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2202.12818v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automating quality inspection with computer vision techniques is often a very data-demanding task. Specifically, supervised deep learning requires a large amount of annotated images for training. In practice, collecting and annotating such data is not only costly and laborious, but also inefficient, given the fact that only a few instances may be available for certain defect classes. If working with video frames can increase the number of these instances, it has a major disadvantage: the resulting images will be highly correlated with one another. As a consequence, models trained under such constraints are expected to be very sensitive to input distribution changes, which may be caused in practice by changes in the acquisition system (cameras, lights), in the parts or in the defects aspect. In this work, we demonstrate the use of randomly generated synthetic training images can help tackle domain instability issues, making the trained models more robust to contextual changes. We detail both our synthetic data generation pipeline and our deep learning methodology for answering these questions.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-02-25T16:51:01Z</published>
+    <arxiv:comment>15 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Antoine Cordier</name>
+    </author>
+    <author>
+      <name>Pierre Gutierrez</name>
+    </author>
+    <author>
+      <name>Victoire Plessis</name>
+    </author>
+  </entry>
+</feed>

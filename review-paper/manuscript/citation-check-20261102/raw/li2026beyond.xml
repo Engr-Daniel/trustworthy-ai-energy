@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/5dpOQwon1yHnDJMUJYKIiYSsTek</id>
+  <title>arXiv Query: search_query=&amp;id_list=2609.21276&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:13:59Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2609.21276" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2609.21276v1</id>
+    <title>Beyond Exact Match: Task-Aware GRPO for Cross-Domain PCBA Visual Question Answering</title>
+    <updated>2026-09-18T03:41:53Z</updated>
+    <link href="https://arxiv.org/abs/2609.21276v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.21276v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In automated Printed Circuit Board Assembly (PCBA) inspection, standards-guided decisions require systems to jointly reason over fine-grained visual cues, component semantics, and manufacturing knowledge. Although large vision-language models (VLMs) provide a promising foundation, their deployment is hindered by the domain shift between standards-derived samples and real-world production-line imagery, together with heterogeneous output spaces spanning choice-based and numerical counting tasks. To address these challenges, we propose a multimodal reasoning framework for cross-domain PCBA visual question answering. The framework converts standards-derived, real-world, and auxiliary PCB-domain data into a unified instruction format and constructs verified reasoning traces aligned with visual evidence, question semantics, candidate options, and ground-truth answers. We further introduce Task-Aware Group Relative Policy Optimization (GRPO), which moves beyond exact-match supervision by integrating multi-component semantic rewards for choice-based questions, distance-aware rewards for counting questions, and an auxiliary format reward for valid outputs. During inference, answer-option semantic consistency correction, self-consistency voting, and multi-model arbitration are combined to improve prediction robustness. The proposed system achieves an Overall Score of 83.24 on the official PCBA Standard-to-Real Grand Challenge leaderboard, demonstrating the effectiveness of task-aware reward design and robust inference for cross-domain PCBA visual question answering.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-18T03:41:53Z</published>
+    <arxiv:comment>8 pages, 2 figures. Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Jia Li</name>
+    </author>
+    <author>
+      <name>Li Dai</name>
+    </author>
+    <author>
+      <name>Peng Jia</name>
+    </author>
+    <author>
+      <name>Zhenzhen Hu</name>
+    </author>
+    <author>
+      <name>Chee Seng Chan</name>
+    </author>
+    <author>
+      <name>Bingkun Bao</name>
+    </author>
+    <author>
+      <name>Richang Hong</name>
+    </author>
+    <arxiv:doi>10.1145/3767308.3836634</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1145/3767308.3836634" title="doi"/>
+  </entry>
+</feed>

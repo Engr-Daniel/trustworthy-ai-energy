@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/4hRMLbM8rCqe7A2yJFwyvnJu8vk</id>
+  <title>arXiv Query: search_query=&amp;id_list=2004.05151&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:11:50Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2004.05151" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2004.05151v1</id>
+    <title>Model Uncertainty Quantification for Reliable Deep Vision Structural Health Monitoring</title>
+    <updated>2020-04-10T17:54:10Z</updated>
+    <link href="https://arxiv.org/abs/2004.05151v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2004.05151v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Computer vision leveraging deep learning has achieved significant success in the last decade. Despite the promising performance of the existing deep models in the recent literature, the extent of models' reliability remains unknown. Structural health monitoring (SHM) is a crucial task for the safety and sustainability of structures, and thus prediction mistakes can have fatal outcomes. This paper proposes Bayesian inference for deep vision SHM models where uncertainty can be quantified using the Monte Carlo dropout sampling. Three independent case studies for cracks, local damage identification, and bridge component detection are investigated using Bayesian inference. Aside from better prediction results, mean class softmax variance and entropy, the two uncertainty metrics, are shown to have good correlations with misclassifications. While the uncertainty metrics can be used to trigger human intervention and potentially improve prediction results, interpretation of uncertainty masks can be challenging. Therefore, surrogate models are introduced to take the uncertainty as input such that the performance can be further boosted. The proposed methodology in this paper can be applied to future deep vision SHM frameworks to incorporate model uncertainty in the inspection processes.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-04-10T17:54:10Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Seyed Omid Sajedi</name>
+    </author>
+    <author>
+      <name>Xiao Liang</name>
+    </author>
+  </entry>
+</feed>

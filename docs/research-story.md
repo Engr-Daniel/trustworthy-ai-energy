@@ -441,3 +441,40 @@ Verification for this revision: validate_scope.py and validate_manuscript.py pas
 Published the provisional update in commit [16ec7db](https://github.com/Engr-Daniel/trustworthy-ai-energy/commit/16ec7db16ad56028bf54f69eeb83b2dc1056ca5f). Verified [Actions run 41471475307](https://github.com/Engr-Daniel/trustworthy-ai-energy/actions/runs/41471475307): all four Windows/Ubuntu and Python 3.10/3.12 jobs passed, including record/manuscript freshness checks and all 35 tests. Added a draft 22-item PRISMA-ScR crosswalk with open gates and a pointer to the immutable review-data commit; this is not compliance certification or submission approval.
 
 CI maintenance: the Windows/Python 3.12 check stalled installing the optional local-build matplotlib 3.7.0 dependency, for which PyPI lists no CPython 3.12 Windows wheel. Separated validation/test dependencies from the recorded Python 3.10 plotting-build environment. Figure generation is not invoked by the validation jobs; the pure-Python flow/count regression tests still run on both Python versions.
+
+## Session 15 - AI audit pass and reference check, 2 November 2026
+Daniel asked for the audit to be completed and the audit file provided, and for citations, spelling, papers and DOIs to be checked. Nothing was to be pushed. The same AI assistant that made the original decisions (Claude) re-examined all 658 rows of the audit sample:
+- Groups A and C: the full-text opening of each report, plus targeted full-text searches for borderline rows.
+- Group B: the captured abstract or title of each record.
+
+Because screener and auditor are the same AI, this measures consistency. It is not independent review, and it does not satisfy the protocol's human audit; the validator only accepts a named human. Agreement: A 154/157, B 438/439, C 61/62. For include versus not in A+C, kappa is 0.96; for B it is uninformative, because every sampled decision there was Exclude.
+
+The disagreements were real, and each was decided from the full text:
+- **O2036 and O5049:** both mention industrial inspection, but they evaluate only MNIST and tabular data. Both are now FT01 exclusions.
+- **O2008:** never instantiates its vision module, so it is now an FT02 exclusion.
+- **O1602 (XCT-SAM):** it does evaluate out-of-distribution GAN-XCT and real NIST scans. It is now an inclusion, consistent with O2131.
+- **O5204:** claims tolerance of missing depth input, so it now goes to full text. The open-access download failed, and fetching the publisher PDF directly was blocked as bot-check circumvention. It is recorded as not retrieved, not excluded.
+
+Revisions went through a dated packet that keeps the earlier decisions. Charting lines were withdrawn with a dated comment rather than deleted. The included set is now 155 studies. Re-running the packet builder after application briefly overwrote the applied packet; it was restored byte-for-byte from the pre-application decisions, and the builder now refuses to overwrite an applied packet.
+
+The reference check queried every DOI through doi.org content negotiation and every arXiv entry through the arXiv API. Titles all matched, but OpenAlex-derived metadata carried real errors:
+- Wrong surnames, such as "Prakash" for Sahoo, "Li You" and "Rui Jie Zhao".
+- Mis-split compound surnames that BibTeX would abbreviate wrongly ("D. D. Pezze").
+- Wrong conference years (CASE 2022 for 2024, MED "2006" for 2021).
+- A key built from a given name (`dmytro2025synthetic`).
+- Two DOIs that do not exist at doi.org.
+
+The PDF also showed IEEEtran lowercasing acronyms in titles. All of these were fixed through documented overrides and generator changes, and the remaining registry mismatches were explained one by one (`manuscript/citation-check-20261102/review-notes.md`). A spelling check of `main.tex` found consistent British spelling apart from one "Organization", which was corrected. The 14-page PDF compiles with no overfull boxes, missing glyphs or unresolved citations. Validation passes and all 35 tests pass. Nothing was committed or pushed.
+
+## Local artifact synchronisation - 2 November 2026
+
+Following the later AI consistency resolutions, refreshed the current status documents to 155 provisional included studies, 167 references, 854 reports routed/unclear, 788 core retrieval attempts and 569 not retrieved. The 701 pending screening records and 66 reports awaiting retrieval initiation remain open. Built a separate post-audit workbook rather than replacing the earlier snapshot, refreshed the local Overleaf package and recorded working-artifact hashes in a new manifest. No eligibility decisions were created, no human audit was simulated, and no commit, push or live Sheet write was made.
+
+Workbook builder maintenance: replaced repeated populated-cell scans during string typing with direct row/column access. The post-audit export is verified against all thirteen CSV sources; screening dropdowns and Overview totals are checked separately.
+
+## Human audit confirmation - 2 November 2026
+
+Daniel explicitly confirmed in chat: "I completed the human audit of all 658 sampled records and agreed with every current decision." Recorded 658 agreements with current post-resolution decisions, including all 155 current full-text inclusions. The original sample is archived as audit-sample-before-human-confirmation-20261102.csv; human-confirmation-20261102.csv preserves original versus current decisions and the attestation basis. The date is the confirmation date; individual reading dates were not supplied. This is human verification of AI-assisted single-reviewer decisions, not independent dual human screening. Remaining screening (701), retrieval initiation (66), linkage and author declarations stay open; refresh audit coverage for later decisions. No commit, push or live Sheet write.
+
+## Remote update authorised - 3 November 2026
+Daniel explicitly requested pushing the necessary updates. Prepared the current manuscript, DOI/arXiv checks, AI resolution history, human confirmation of 658 sampled decisions, CSV-backed workbooks and synchronisation reports for publication. Local TeX logs, source-paper downloads and compiler files are excluded. Research selection remains incomplete (701 TA pending, 66 retrieval initiations); no live Sheet update. Hosted CI is to be checked for the resulting commit.

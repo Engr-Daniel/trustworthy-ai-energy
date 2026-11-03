@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/u+9Z0CAKi4viYSSZUVGJ60viHLQ</id>
+  <title>arXiv Query: search_query=&amp;id_list=2006.10609&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:17:15Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2006.10609" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2006.10609v1</id>
+    <title>The Clever Hans Effect in Anomaly Detection</title>
+    <updated>2020-06-18T15:27:05Z</updated>
+    <link href="https://arxiv.org/abs/2006.10609v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2006.10609v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The 'Clever Hans' effect occurs when the learned model produces correct predictions based on the 'wrong' features. This effect which undermines the generalization capability of an ML model and goes undetected by standard validation techniques has been frequently observed for supervised learning where the training algorithm leverages spurious correlations in the data. The question whether Clever Hans also occurs in unsupervised learning, and in which form, has received so far almost no attention. Therefore, this paper will contribute an explainable AI (XAI) procedure that can highlight the relevant features used by popular anomaly detection models of different type. Our analysis reveals that the Clever Hans effect is widespread in anomaly detection and occurs in many (unexpected) forms. Interestingly, the observed Clever Hans effects are in this case not so much due to the data, but due to the anomaly detection models themselves whose structure makes them unable to detect the truly relevant features, even though vast amounts of data points are available. Overall, our work contributes a warning against an unrestrained use of existing anomaly detection models in practical applications, but it also points at a possible way out of the Clever Hans dilemma, specifically, by allowing multiple anomaly models to mutually cancel their individual structural weaknesses to jointly produce a better and more trustworthy anomaly detector.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-06-18T15:27:05Z</published>
+    <arxiv:comment>17 pages, preprint</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Jacob Kauffmann</name>
+    </author>
+    <author>
+      <name>Lukas Ruff</name>
+    </author>
+    <author>
+      <name>Grégoire Montavon</name>
+    </author>
+    <author>
+      <name>Klaus-Robert Müller</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-02",
+  "tables": {
+    "Corpus": {
+      "rows": 6840,
+      "all_cells_equal": true
+    },
+    "Screening": {
+      "rows": 6970,
+      "all_cells_equal": true
+    },
+    "Identification": {
+      "rows": 8626,
+      "all_cells_equal": true
+    },
+    "Searches": {
+      "rows": 55,
+      "all_cells_equal": true
+    },
+    "Evidence matrix": {
+      "rows": 230,
+      "all_cells_equal": true
+    },
+    "Synthesis": {
+      "rows": 7,
+      "all_cells_equal": true
+    },
+    "Data audit": {
+      "rows": 6,
+      "all_cells_equal": true
+    },
+    "Decisions": {
+      "rows": 17,
+      "all_cells_equal": true
+    },
+    "Study charting": {
+      "rows": 155,
+      "all_cells_equal": true
+    },
+    "Study linkage": {
+      "rows": 227,
+      "all_cells_equal": true
+    },
+    "Full-text status": {
+      "rows": 802,
+      "all_cells_equal": true
+    },
+    "Abstract inventory": {
+      "rows": 569,
+      "all_cells_equal": true
+    },
+    "Human audit": {
+      "rows": 658,
+      "all_cells_equal": true
+    }
+  },
+  "overview_included": 155,
+  "live_sheet_written": false
+}

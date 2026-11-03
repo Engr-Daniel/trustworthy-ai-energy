@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/d2PLL8zaY0YEsv9njeS99Bodz7Y</id>
+  <title>arXiv Query: search_query=&amp;id_list=2603.13659&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:14:06Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2603.13659" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2603.13659v1</id>
+    <title>FMS$^2$: Unified Flow Matching for Segmentation and Synthesis of Thin Structures</title>
+    <updated>2026-03-14T00:04:25Z</updated>
+    <link href="https://arxiv.org/abs/2603.13659v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.13659v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Segmenting thin structures like infrastructure cracks and anatomical vessels is a task hampered by topology-sensitive geometry, high annotation costs, and poor generalization across domains. Existing methods address these challenges in isolation. We propose FMS$^2$, a flow-matching framework with two modules. (1) SegFlow is a 2.96M-parameter segmentation model built on a standard encoder-decoder backbone that recasts prediction as continuous image $\rightarrow$ mask transport. It learns a time-indexed velocity field with a flow-matching regression loss and outputs the mask via ODE integration, rather than supervising only end-state logits. This trajectory-level supervision improves thin-structure continuity and sharpness, compared with tuned topology-aware loss baselines, without auxiliary topology heads, post-processing, or multi-term loss engineering. (2) SynFlow is a mask-conditioned mask $\rightarrow$ image generator that produces pixel-aligned synthetic image-mask pairs. It injects mask geometry at multiple scales and emphasizes boundary bands via edge-aware gating, while a controllable mask generator expands sparsity, width, and branching regimes. On five crack and vessel benchmarks, SegFlow alone outperforms strong CNN, Transformer, Mamba, and generative baselines, improving the volumetric metric (mean IoU) from 0.511 to 0.599 (+17.2%) and reducing the topological metric (Betti matching error) from 82.145 to 51.524 (-37.3%). When training with limited labels, augmenting SegFlow with SynFlow-generated pairs recovers near-full performance using 25% of real annotations and improves cross-domain IoU by 0.11 on average. Unlike classical data augmentation that promotes invariance via label-preserving transforms, SynFlow provides pixel-aligned paired supervision with controllable structural shifts (e.g., sparsity, width, branching), which is particularly effective under domain shift.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-14T00:04:25Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Babak Asadi</name>
+    </author>
+    <author>
+      <name>Peiyang Wu</name>
+    </author>
+    <author>
+      <name>Mani Golparvar-Fard</name>
+    </author>
+    <author>
+      <name>Viraj Shah</name>
+    </author>
+    <author>
+      <name>Ramez Hajj</name>
+    </author>
+  </entry>
+</feed>

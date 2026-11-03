@@ -1,0 +1,13 @@
+{
+  "date_recorded": "2026-11-02",
+  "auditor": "Daniel Oyewale",
+  "basis": "Explicit user attestation in chat, transcribed by the assistant; no per-record human narratives supplied",
+  "audited_records": 658,
+  "agree_current_decisions": 658,
+  "disagree_current_decisions": 0,
+  "agreement_percent": 100,
+  "current_inclusions_covered": 155,
+  "scope": "Fixed 23 October sample, current post-resolution decisions. Not independent dual human screening. Sample must be refreshed after remaining screening.",
+  "original_sample_sha256": "2b569e7c31bd6f203d1095ccb44da42a9b795ec478267b81d26a47a53f24a6f8",
+  "completion_date_note": "Confirmation date recorded; individual review dates unknown."
+}

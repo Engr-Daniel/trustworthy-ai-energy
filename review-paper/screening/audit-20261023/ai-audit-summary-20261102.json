@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-02",
+  "auditor": "Claude (AI assistant, delegated by Daniel Oyewale); second AI pass, not independent human audit",
+  "rows": 658,
+  "groups": {
+    "A": {
+      "rows": 157,
+      "agree": 154,
+      "disagree": 3,
+      "percent_agreement": 98.1,
+      "disagreements": [
+        "O2008",
+        "O2036",
+        "O5049"
+      ]
+    },
+    "B": {
+      "rows": 439,
+      "agree": 438,
+      "disagree": 1,
+      "percent_agreement": 99.8,
+      "disagreements": [
+        "O5204"
+      ]
+    },
+    "C": {
+      "rows": 62,
+      "agree": 61,
+      "disagree": 1,
+      "percent_agreement": 98.4,
+      "disagreements": [
+        "O1602"
+      ]
+    }
+  },
+  "code_corrections": [
+    "O3810"
+  ],
+  "kappa_include_vs_not": {
+    "A+C": 0.9554,
+    "B": 0.0
+  },
+  "kappa_note": "Group B kappa is 0 by construction and uninformative: every sampled AI decision in B is Exclude, so kappa cannot exceed chance; report percent agreement for B."
+}

@@ -13,6 +13,24 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 RP = ROOT / "review-paper"
 EXTRA = ["F01", "F02", "F03", "B01", "R01", "R02", "R03", "R04", "R10", "R11", "C0006", "O0744"]  # methodology, MVTec AD, retrieved prior reviews
 
+# OpenAlex host or source strings that are not citable venue names (checked against DOI records, 2026-11-02).
+VENUE = {
+    "arXiv (Cornell University)": "arXiv preprint",
+    "Zenodo (CERN European Organization for Nuclear Research)": "Zenodo",
+    "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings":
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "Lecture notes in computer science": "Lecture Notes in Computer Science",
+    "Lecture notes in electrical engineering": "Lecture Notes in Electrical Engineering",
+    "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences":
+        "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+    "Additive manufacturing": "Additive Manufacturing",
+    "IOP Conference Series Earth and Environmental Science": "IOP Conference Series: Earth and Environmental Science",
+    "Jornal of Kryvyi Rih National University": "Journal of Kryvyi Rih National University",
+    "Journal of geospace science": "Journal of Geospace Science",
+    "NPARC": "NRC Publications Archive",
+    "VTechWorks (Virginia Tech)": "Virginia Polytechnic Institute and State University",
+}
+
 def read(p):
     with p.open(encoding="utf-8", newline="") as f:
         return list(csv.DictReader(f))
@@ -30,7 +48,7 @@ def latex(s):
 
     for a, b in [("\\", " "), ("&", r"\&"), ("%", r"\%"), ("_", r"\_"), ("#", r"\#"), ("$", r"\$"), ("~", " ")]:
         s = s.replace(a, b)
-    for char, rendered in [("\u0130", r"\.{I}"), ("\u0131", r"\i{}"), ("\u011f", r"\u{g}")]:
+    for char, rendered in [("\u0130", r"{\.{I}}"), ("\u0131", r"{\i}"), ("\u011f", r"{\u{g}}")]:
         s = s.replace(char, rendered)
     # TeX accent commands preserve spelling and avoid UTF-8 initials being split by BibTeX.
     accents = {"\u0300": "`", "\u0301": "'", "\u0302": "^", "\u0303": "~", "\u0308": '"',
@@ -43,7 +61,7 @@ def latex(s):
         if len(decomposed) > 1 and decomposed[0].isascii() and all(mark in accents for mark in decomposed[1:]):
             result = decomposed[0]
             for mark in decomposed[1:]: result = "\\" + accents[mark] + "{" + result + "}"
-            return result
+            return "{" + result + "}"  # braced so BibTeX keeps accented letters inside initials (J{\~{a}}o -> J.)
         return char
     s = "".join(render_character(char) for char in s)
     for token, equation in equations.items():
@@ -51,7 +69,7 @@ def latex(s):
     return re.sub(r"\s+", " ", s).strip()
 
 def ascii_word(s):
-    return re.sub(r"[^a-z]", "", unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower())
+    return re.sub(r"[^a-z]", "", unicodedata.normalize("NFKD", s.replace("ı", "i")).encode("ascii", "ignore").decode().lower())
 
 def words(s):
     return [w for w in re.findall(r"[a-z0-9]+", unicodedata.normalize("NFKD", s.lower()).encode("ascii", "ignore").decode()) if len(w) > 2]
@@ -64,7 +82,11 @@ def main():
         base = corpus.get(o["Paper ID"]) or {"Paper ID": o["Paper ID"], "Full Title": ledger[o["Paper ID"]]["Full Title"],
                                               "DOI": ledger[o["Paper ID"]]["DOI"], "arXiv ID": ledger[o["Paper ID"]]["arXiv ID"],
                                               "Record Type": ledger[o["Paper ID"]]["Record Type"], "Metadata Status": "Override: " + o["Source"]}
-        base.update({k: o[k] for k in ("Full Authors", "Year", "Venue / Journal") if o[k]})
+        base.update({k: o[k] for k in ("Full Authors", "Full Title", "Year", "Venue / Journal", "URL", "arXiv ID") if o.get(k)})
+        if o.get("DOI") == "Not registered":  # publisher-listed DOI that doi.org does not know
+            base["DOI"] = ""
+        elif o.get("DOI"):
+            base["DOI"] = o["DOI"]
         corpus[o["Paper ID"]] = base
     charted = [r["Paper ID used"] for r in read(RP / "charting/charting.csv")]
     ids = charted + [e for e in EXTRA if e in corpus]
@@ -72,7 +94,8 @@ def main():
     for pid in ids:
         m = corpus[pid]
         authors = [a.strip() for a in m["Full Authors"].split(";") if a.strip()]
-        first = ascii_word(authors[0].split()[-1]) if authors else "anon"
+        # "Family, Given" marks compound surnames (e.g. "Dalle Pezze, Davide"); otherwise the last word is the surname.
+        first = ascii_word(authors[0].split(",")[0] if "," in authors[0] else authors[0].split()[-1]) if authors else "anon"
         key = f"{first or 'anon'}{m['Year'] or 'nd'}{ascii_word(words(m['Full Title'])[0] if words(m['Full Title']) else 'x')}"
         keys[key] = keys.get(key, 0) + 1
         if keys[key] > 1:
@@ -83,6 +106,7 @@ def main():
         fields = {"author": " and ".join(latex(a) for a in authors) or "{Anonymous}", "title": "{" + latex(m["Full Title"]) + "}",
                   "year": m["Year"] or "n.d."}
         venue = latex(m["Venue / Journal"])
+        venue = VENUE.get(venue, venue)
         text = RP / "fulltext/text" / f"{pid}.txt"
         if kind == "phdthesis" and text.exists() and re.search(r"Master of Science|Masters? of Research|MSc", text.read_text(encoding="utf-8", errors="replace")[:4000]):
             kind = "mastersthesis"
@@ -96,9 +120,11 @@ def main():
             fields["howpublished"] = venue or ("arXiv preprint arXiv:" + m["arXiv ID"] if m["arXiv ID"] else "Preprint")
         if m["DOI"]:
             fields["doi"] = m["DOI"]
+        elif m.get("URL"):
+            fields["url"] = m["URL"]
         elif m["arXiv ID"]:
             fields["note"] = "arXiv:" + m["arXiv ID"]
-        entries.append(f"@{kind}{{{key},\n" + ",\n".join(f"  {k} = {{{v}}}" if k != "title" else f"  {k} = {v}" for k, v in fields.items()) + "\n}\n")
+        entries.append(f"@{kind}{{{key},\n" + ",\n".join(f"  {k} = {{{v}}}" for k, v in fields.items()) + "\n}\n")
         if text.exists():
             page1 = " ".join(words(text.read_text(encoding="utf-8", errors="replace")[:6000]))
             tw = words(m["Full Title"])

@@ -25,3 +25,7 @@ review-paper/fulltext/manual/
 # Original manuscript outputs may be versioned; source-paper PDFs remain ignored.
 !review-paper/manuscript/figures/*.pdf
 !review-paper/manuscript/main.pdf
+
+# Local TeX compiler diagnostics
+review-paper/manuscript/*.log
+review-paper/manuscript/*.blg

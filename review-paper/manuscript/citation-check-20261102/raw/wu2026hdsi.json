@@ -1,0 +1,28 @@
+{
+  "type": "article",
+  "id": "https://doi.org/10.5281/zenodo.22985370",
+  "categories": [
+    "insulator defect detection; hierarchical semantic supervision; cross-domain generalization; YOLOv8; power line inspection"
+  ],
+  "author": [
+    {
+      "family": "wu",
+      "given": "jun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ]
+  },
+  "abstract": "Insulator defect detection is a core task of intelligent inspection of power transmission lines, but existing deep-learning detectors face two bottlenecks: severe semantic ambiguity among rare defect  classes (broken vs. pollution-flashover) under flat classification heads, and poor cross-domain generalization across datasets with different imaging conditions and class taxonomies. This paper  proposes HDSI-YOLO, a hierarchical-semantics-driven detector that injects the well-known-but-never-modeled class hierarchy of insulator defects into a YOLOv8 base: (i) a hierarchical detection head  (HierarchicalDetect) that adds a lightweight parent-class branch parallel to the decoupled head; (ii) a hierarchical supervision loss (ChildMapLoss) that derives parent labels automatically from  child labels via a mapping table at zero annotation cost; and (iii) a defect feature amplification module (DFAM) with a P2 high-resolution branch. On CPLID single-domain ablations, HDSI-YOLO improves  mAP50-95 by +0.009 and defect AP by +0.020, with the hierarchical head and loss as the main gain source. Under joint CPLID+IDID training with 3-seed paired tests, gains on the original official IDID  validation split appeared significant (mAP50-95 +1.42 pp, p=0.014); however, a subsequent split audit showed that this split contains scene-level leakage (41.7% of images share source scenes with  the training set), and on a leakage-free evaluation set the gains lose significance (+0.75 pp, p=0.301), with only a small nominal flashover gain remaining (+0.17 pp, p=0.022). We report both  evaluation settings transparently. The paper also provides a systematic attribution of the negative result of diffusion-based synthetic augmentation and honest overhead measurements. The takeaway is  methodological: class-hierarchy priors offer cheap, deployment-friendly structural regularization, but their claimed cross-domain value must be re-examined on leakage-free evaluation sets.",
+  "DOI": "10.5281/ZENODO.22985370",
+  "publisher": "Zenodo",
+  "title": "HDSI-YOLO: Hierarchical-semantics Driven Insulator Defect Detection with Cross-domain Generalization",
+  "URL": "https://zenodo.org/doi/10.5281/zenodo.22985370",
+  "copyright": "Creative Commons Attribution 4.0 International"
+}

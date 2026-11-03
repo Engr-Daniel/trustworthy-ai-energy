@@ -12,14 +12,14 @@ The IEEE review manuscript is a **provisional draft**, not a completed or submis
 | Deduplicated report records | 6,970 |
 | Reports with title/abstract dispositions | 6,269 |
 | Pending title/abstract records | 701 |
-| Reports routed to full text or unclear | 853 |
-| Retrieval initiated | 787 |
+| Reports routed to full text or unclear | 854 |
+| Retrieval initiated | 788 |
 | Awaiting retrieval initiation | 66 |
 | Core reports retrieved and assessed | 219 |
-| Provisional included studies / primary reports | 157 / 157 |
+| Provisional included studies / primary reports | 155 / 155 |
 | Associated secondary reports | 13 |
 
-These are different counting units. The evidence map describes the assessed 157-study subset, not a completed selection outcome of the expanded search. Fourteen supplementary background-review retrievals are separate from the core full-text flow.
+These are different counting units. The evidence map describes the assessed 155-study subset, not a completed selection outcome of the expanded search. Fourteen supplementary background-review retrievals are separate from the core full-text flow.
 
 ## Read the paper and supporting records
 
@@ -31,13 +31,13 @@ These are different counting units. The evidence map describes the assessed 157-
 - [Dated research story](docs/research-story.md) and [active task ledger](task.md).
 - [Charted full-text evidence](review-paper/charting/charting.csv).
 - [Occurrence/report counts](review-paper/corpus/scope-counts.json), [screening evidence](review-paper/screening/confirmed-decisions.csv) and [version linkage](review-paper/corpus/study-linkage.csv).
-- [Current dated workbook](review-paper/corpus/Review_Tracker_20261102.xlsx); the original XLSX remains the historical pilot snapshot.
+- [Current dated workbook](review-paper/corpus/Review_Tracker_20261102_human-confirmed.xlsx); the original XLSX remains the historical pilot snapshot.
 
 ## Remaining completion gates
 
-Finish screening the 701 pending reports, retrieve/assess the 66 newly routed reports, chart eligible additions and resolve version conflicts. Reconcile Daniel's completed audit entries: the current local audit CSV remains blank, so no completed audit or agreement statistic is claimed. Confirm conflicts of interest, acknowledgments and any co-authors; the supplied affiliation, corresponding email and no-funding statement are in the draft. Refresh the audit sample after screening changes, then complete the reporting checklist and submission checks.
+Finish screening the 701 pending reports, retrieve/assess the 66 newly routed reports, chart eligible additions and resolve version conflicts. The 658-row AI consistency pass and its resolutions are recorded separately; Daniel confirmed human review of all 658 sampled current decisions, with 658 agreements; the dated confirmation and original sample are preserved. Confirm conflicts of interest, acknowledgments and any co-authors; the supplied affiliation, corresponding email and no-funding statement are in the draft. Refresh the audit sample after screening changes, then complete the reporting checklist and submission checks.
 
-The 568 unsuccessfully retrieved core reports remain non-retrieved, not excluded. The abstract inventory is an exploratory summary of screening rationales, not independent full-text charting or proof that retrieval bias is absent. Reuse licensing and journal selection still require confirmation.
+The 569 unsuccessfully retrieved core reports remain non-retrieved, not excluded. The abstract inventory is an exploratory summary of screening rationales, not independent full-text charting or proof that retrieval bias is absent. Reuse licensing and journal selection still require confirmation.
 
 ## Reproduce and validate
 

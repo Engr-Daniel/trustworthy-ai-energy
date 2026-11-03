@@ -3,3 +3,6 @@ review-paper/search-strategy/runs/** -text
 *.py text eol=lf
 *.md text eol=lf
 *.yml text eol=lf
+
+# DOI/arXiv reference-check captures retain exact checksum bytes.
+review-paper/manuscript/citation-check-*/raw/** -text

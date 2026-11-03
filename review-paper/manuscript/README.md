@@ -1,6 +1,6 @@
 # IEEE review manuscript - provisional revision, 2 November 2026
 
-Start with [main.pdf](main.pdf). It is a compiled, 14-page provisional review draft, not a final submission. The manuscript reflects 157 charted studies in the assessed full-text subset. There are still 701 pending title/abstract records and 66 routed reports awaiting retrieval initiation; audit entries and author declarations remain unresolved.
+Start with [main.pdf](main.pdf). It is a compiled, 14-page provisional review draft, not a final submission. The manuscript reflects 155 charted studies in the assessed full-text subset. There are still 701 pending title/abstract records and 66 routed reports awaiting retrieval initiation; the fixed audit sample is confirmed; sample refresh and author declarations remain unresolved.
 
 Author details supplied by Daniel are included: Ormedian Research Institute, the corresponding email and no funding. Conflicts of interest remain an author input. Earlier Claude screening/reading and the later OpenAI reconciliation are disclosed separately; neither is a second independent human review.
 
@@ -16,7 +16,7 @@ python review-paper/scripts/validate_scope.py
 python review-paper/scripts/validate_manuscript.py
 ```
 
-Numbers come from current CSV records. The flow distinguishes identified, assessed, pending and not-yet-attempted reports; supplementary background retrievals are separate. The abstract inventory is exploratory screening metadata, not evidence that retrieval bias is absent. The bibliography's title checks do not verify every author field, scientific claim or citation interpretation.
+Numbers come from current CSV records. The flow distinguishes identified, assessed, pending and not-yet-attempted reports; supplementary background retrievals are separate. The abstract inventory is exploratory screening metadata, not evidence that retrieval bias is absent. The bibliography has 167 entries. DOI/arXiv registration checks and metadata corrections are recorded in citation-check-20261102/; these do not verify scientific claims or citation interpretation. The AI consistency pass is separate from the subsequently confirmed human audit of the fixed sample.
 
 ## Overleaf
 
@@ -26,6 +26,6 @@ Local compilation succeeded with Tectonic 0.17.0 (XeTeX/BibTeX), standard TeX Li
 
 ## Remaining author/review work
 
-See ../reporting-status.md. Keep the provisional banner until screening additions, retrieval, charting and audit reconciliation are complete. Complete the reporting checklist with final locations/pages only after the manuscript stabilises. Do not infer a no-conflict declaration from the absence of funding.
+See ../reporting-status.md. Keep the provisional banner until screening additions, retrieval, charting and the updated audit are complete. Complete the reporting checklist with final locations/pages only after the manuscript stabilises. Do not infer a no-conflict declaration from the absence of funding.
 
 The draft PRISMA-ScR item crosswalk is prisma-scr-crosswalk-20261102.csv (paraphrased reporting areas; source: https://www.prisma-statement.org/scoping). It records open gates and is not a completed compliance checklist.

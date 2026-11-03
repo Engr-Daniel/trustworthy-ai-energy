@@ -20,6 +20,13 @@ def main():
     status = {r["Paper ID"]: r for r in read(RP / "fulltext/retrieval-status.csv")}
     plan = {r["Paper ID"]: r for r in read(RP / "fulltext/retrieval-plan.csv")}
     ta = {r["Paper ID"]: r for r in read(RP / "screening/confirmed-decisions.csv") if r["Stage"] == "TA"}
+    # Later dated plans add core reports routed after the main plan; only attempted ones belong in this tier
+    # (unattempted reports are awaiting retrieval, and background-review plans are outside the core flow).
+    for extra in sorted((RP / "fulltext").glob("retrieval-plan-*.csv")):
+        for r in read(extra):
+            pid = r["Paper ID"]
+            if pid not in plan and pid in status and ta.get(pid, {}).get("Decision") in ("Retrieve full text", "Unclear"):
+                plan[pid] = r
     rows = []
     for pid, p in plan.items():
         s = status.get(pid, {})

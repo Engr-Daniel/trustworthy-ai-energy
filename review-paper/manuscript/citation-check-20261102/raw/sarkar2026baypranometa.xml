@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/u7+QPlIacY1632qIS8AwIdvQ0wY</id>
+  <title>arXiv Query: search_query=&amp;id_list=2601.19992&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-02T16:08:46Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2601.19992" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2601.19992v1</id>
+    <title>BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection</title>
+    <updated>2026-01-27T19:00:33Z</updated>
+    <link href="https://arxiv.org/abs/2601.19992v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.19992v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Industrial image anomaly detection is a challenging problem owing to extreme class imbalance and the scarcity of labeled defective samples, particularly in few-shot settings. We propose BayPrAnoMeta, a Bayesian generalization of Proto-MAML for few-shot industrial image anomaly detection. Unlike existing Proto-MAML approaches that rely on deterministic class prototypes and distance-based adaptation, BayPrAnoMeta replaces prototypes with task-specific probabilistic normality models and performs inner-loop adaptation via a Bayesian posterior predictive likelihood. We model normal support embeddings with a Normal-Inverse-Wishart (NIW) prior, producing a Student-$t$ predictive distribution that enables uncertainty-aware, heavy-tailed anomaly scoring and is essential for robustness in extreme few-shot settings. We further extend BayPrAnoMeta to a federated meta-learning framework with supervised contrastive regularization for heterogeneous industrial clients and prove convergence to stationary points of the resulting nonconvex objective. Experiments on the MVTec AD benchmark demonstrate consistent and significant AUROC improvements over MAML, Proto-MAML, and PatchCore-based methods in few-shot anomaly detection settings.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-27T19:00:33Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Soham Sarkar</name>
+    </author>
+    <author>
+      <name>Tanmay Sen</name>
+    </author>
+    <author>
+      <name>Sayantan Banerjee</name>
+    </author>
+  </entry>
+</feed>

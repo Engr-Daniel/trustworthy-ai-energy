@@ -1,0 +1,15 @@
+{
+  "run_id": "FULLTEXT-LOCATE-20261102-AUDIT",
+  "purpose": "Open-access full-text location for reports sent to full text",
+  "started_utc": "2026-11-02T16:05:13.292653+00:00",
+  "requests": [
+    {
+      "file": "arxiv-O5204.xml",
+      "query": "ti:\"Accurate industrial anomaly detection with efficient multimodal fusion\"",
+      "time_utc": "2026-11-02T16:05:14.435505+00:00",
+      "status": 200,
+      "sha256": "67267b4290d564917df21ccc9a2e24ddf68fbca5ca7812d7c0276ae89feaa91f"
+    }
+  ],
+  "finished_utc": "2026-11-02T16:05:17.440480+00:00"
+}

@@ -1,0 +1,1311 @@
+{
+  "date": "2026-11-02",
+  "bib_sha256": "c8d92218d16e36617428c3e4b0b4a18916d9d1769ada6e8848c7d706ae58f155",
+  "entries": 167,
+  "responses": [
+    {
+      "key": "nash2022deep",
+      "url": "https://doi.org/10.1038/s41529-022-00232-6",
+      "http_status": 200,
+      "file": "raw/nash2022deep.json",
+      "sha256": "821bc2db2c8f8b1d2a7e38c75e57ee201f74aa7529962dfc273c818964f7a25f",
+      "bytes": 16461
+    },
+    {
+      "key": "estievenart2025risk",
+      "url": "http://export.arxiv.org/api/query?id_list=2503.19146",
+      "http_status": 200,
+      "file": "raw/estievenart2025risk.xml",
+      "sha256": "8e878a3291da2a9a426d644ed4d9b7146af3160322e85897c5bd47f5f3adf332",
+      "bytes": 3134
+    },
+    {
+      "key": "hecklerkram2026the",
+      "url": "https://doi.org/10.1007/s11263-026-02743-0",
+      "http_status": 200,
+      "file": "raw/hecklerkram2026the.json",
+      "sha256": "9667d03d9475df0b3f805fe9a132bdea6965537e67368b21d24fe3bd588c52a7",
+      "bytes": 20463
+    },
+    {
+      "key": "senoner2024explainable",
+      "url": "https://doi.org/10.1038/s41598-024-82501-9",
+      "http_status": 200,
+      "file": "raw/senoner2024explainable.json",
+      "sha256": "05df56b1119c4246de5cdb17a9e2c1c440855a9cbfae7fa9b4309e33352cfe17",
+      "bytes": 32589
+    },
+    {
+      "key": "wallace2025inspectvlm",
+      "url": "https://doi.org/10.1109/iccvw69036.2025.00153",
+      "http_status": 200,
+      "file": "raw/wallace2025inspectvlm.json",
+      "sha256": "02e642290725bb94a236913c0897fa30faf6fb7d64780e92e33dbda2c6dad9a3",
+      "bytes": 4773
+    },
+    {
+      "key": "hoang2026supervised",
+      "url": "https://doi.org/10.21203/rs.3.rs-10675288/v1",
+      "http_status": 200,
+      "file": "raw/hoang2026supervised.json",
+      "sha256": "4f57d91f8e4b762c3c74d4323546bd2068bf349f52c6bf3cdf94c2ada2d5df2c",
+      "bytes": 4518
+    },
+    {
+      "key": "alqahtani2026robust",
+      "url": "https://doi.org/10.1038/s41598-026-66049-4",
+      "http_status": 200,
+      "file": "raw/alqahtani2026robust.json",
+      "sha256": "58b1f216027f9b7574e87476e2a30a7b686928a4a3df91afa04d7083ce124a99",
+      "bytes": 17431
+    },
+    {
+      "key": "das2025adaptive",
+      "url": "https://doi.org/10.1109/wacv61041.2025.00859",
+      "http_status": 200,
+      "file": "raw/das2025adaptive.json",
+      "sha256": "d330375713a2b0b98ce6b68c2b978c0e6d84ea5f8ca5ac5fed2b05ab5cb29606",
+      "bytes": 7909
+    },
+    {
+      "key": "ndjoko2026automated",
+      "url": "https://doi.org/10.5281/zenodo.22019079",
+      "http_status": 200,
+      "file": "raw/ndjoko2026automated.json",
+      "sha256": "358f338ecc7950e0f70b9421245d3d3ccdfbf26ab1b4c4b50601bf2bb859564b",
+      "bytes": 2771
+    },
+    {
+      "key": "floreale2025automated",
+      "url": "https://doi.org/10.1016/j.engappai.2025.110518",
+      "http_status": 200,
+      "file": "raw/floreale2025automated.json",
+      "sha256": "9759b631b042400935a1cb10e65feaca38df21b532874ad91b34aeffc1d181f4",
+      "bytes": 17035
+    },
+    {
+      "key": "kashiani2025roads",
+      "url": "https://doi.org/10.1109/wacv61041.2025.00768",
+      "http_status": 200,
+      "file": "raw/kashiani2025roads.json",
+      "sha256": "13ba7e1d314a6d513308ec21a8a8014cb8c5263e271355a8f7ca120e044bc106",
+      "bytes": 7673
+    },
+    {
+      "key": "aqeel2025self",
+      "url": "https://doi.org/10.5220/0013178100003912",
+      "http_status": 200,
+      "file": "raw/aqeel2025self.json",
+      "sha256": "7ec14499651a30c12b26e706a6d3ec1aa84bbabdbf3c4ab3a133e00ec292c370",
+      "bytes": 2424
+    },
+    {
+      "key": "sundaravadivel2026adaptive",
+      "url": "https://doi.org/10.1007/s44163-026-02008-2",
+      "http_status": 200,
+      "file": "raw/sundaravadivel2026adaptive.json",
+      "sha256": "e3a79c0e8329f463064cc32f9b04fca3a946ebf3450555adf2a68bb8ba705ecb",
+      "bytes": 19381
+    },
+    {
+      "key": "estermann2026unsupervised",
+      "url": "https://doi.org/10.58286/33081",
+      "http_status": 200,
+      "file": "raw/estermann2026unsupervised.json",
+      "sha256": "766733cc4bd6842a99e43885dc785a495ec5b31033634a913badccff194d8da0",
+      "bytes": 3820
+    },
+    {
+      "key": "rintrawong2026coverage",
+      "url": "https://doi.org/10.1038/s41598-026-68249-4",
+      "http_status": 200,
+      "file": "raw/rintrawong2026coverage.json",
+      "sha256": "325193b451cd0c4d34759193b4e7dea0abafd30550bc3c8d321c084ee2d61810",
+      "bytes": 14463
+    },
+    {
+      "key": "sarkar2026baypranometa",
+      "url": "http://export.arxiv.org/api/query?id_list=2601.19992",
+      "http_status": 200,
+      "file": "raw/sarkar2026baypranometa.xml",
+      "sha256": "61a130bf1a5e08269ae39e6e844885504163de1a1b7779272d5b2eac2438127d",
+      "bytes": 2764
+    },
+    {
+      "key": "wang2022automated",
+      "url": "https://doi.org/10.1007/s00170-022-10249-5",
+      "http_status": 200,
+      "file": "raw/wang2022automated.json",
+      "sha256": "25770ba925f6bcdfca8e6b180f3709fe41672fbaacc6704ee3571b65e79a543e",
+      "bytes": 21463
+    },
+    {
+      "key": "khandagale2026dasformer",
+      "url": "https://doi.org/10.70917/ijcisim-2026-2917",
+      "http_status": 200,
+      "file": "raw/khandagale2026dasformer.json",
+      "sha256": "23d69e9a3c12a14c154cfd3b7009547d52a62f66d0d3b1ba18fd589a0db39782",
+      "bytes": 4219
+    },
+    {
+      "key": "gohel2026interpretable",
+      "url": "https://doi.org/10.21203/rs.3.rs-10406726/v1",
+      "http_status": 200,
+      "file": "raw/gohel2026interpretable.json",
+      "sha256": "34ca94ad858210cae82fde51ffa48facf80bbb07302ab8fbd3210b6995f2a1eb",
+      "bytes": 5001
+    },
+    {
+      "key": "kibet2026self",
+      "url": "https://doi.org/10.47772/ijriss.2026.100300271",
+      "http_status": 200,
+      "file": "raw/kibet2026self.json",
+      "sha256": "0b67068af5ced57e3ca186093ecc3bc883d1966382a55a2363f670e2ed17cd08",
+      "bytes": 3632
+    },
+    {
+      "key": "corredor2026interpretable",
+      "url": "http://export.arxiv.org/api/query?id_list=2605.20159",
+      "http_status": 200,
+      "file": "raw/corredor2026interpretable.xml",
+      "sha256": "2d8d425781e4ce3d3f159b6f113c5e0670bbbb1e36cfca7359cf79f5bf21f28e",
+      "bytes": 3911
+    },
+    {
+      "key": "khandagale2026meta",
+      "url": "https://doi.org/10.70917/ijcisim-2026-4248",
+      "http_status": 200,
+      "file": "raw/khandagale2026meta.json",
+      "sha256": "db4d1649c9f577649ab1c87cdc9b649c6be3e3bd25bca894e871603a766045d4",
+      "bytes": 4496
+    },
+    {
+      "key": "kompanets2026evaluation",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.17726",
+      "http_status": 200,
+      "file": "raw/kompanets2026evaluation.xml",
+      "sha256": "2ea62c5ba982edea95858ae1c5e77086a2df6bce59cdab526ab9ecd378955874",
+      "bytes": 3360
+    },
+    {
+      "key": "kang2019contact",
+      "url": "https://doi.org/10.1109/access.2019.2955753",
+      "http_status": 200,
+      "file": "raw/kang2019contact.json",
+      "sha256": "780f9c5aaf20ad4d626aa08b4813196263894422b5588d0f169ae43cddf757e4",
+      "bytes": 6929
+    },
+    {
+      "key": "kyem2026multi",
+      "url": "https://doi.org/10.1016/j.autcon.2026.107190",
+      "http_status": 200,
+      "file": "raw/kyem2026multi.json",
+      "sha256": "a02ab34f00f28d25b781112b9ccf542f39f065d80aab268c86118b8b19a1a105",
+      "bytes": 26488
+    },
+    {
+      "key": "rozanec2023active",
+      "url": "https://doi.org/10.1007/s10845-023-02098-0",
+      "http_status": 200,
+      "file": "raw/rozanec2023active.json",
+      "sha256": "d0c3e22a75fbc9d38a1e301eff96e4a0886e2aa7e46e1402808a2409fb2c581b",
+      "bytes": 35278
+    },
+    {
+      "key": "jiang2021vision",
+      "url": "https://doi.org/10.1109/med51440.2021.9480274",
+      "http_status": 200,
+      "file": "raw/jiang2021vision.json",
+      "sha256": "06f4e228ece37855f4a22eedb588006a7fe4e16ca2caf51fe258f97e2207c06c",
+      "bytes": 6106
+    },
+    {
+      "key": "malihi2026quantitative",
+      "url": "https://doi.org/10.5194/isprs-annals-x-4-w8-2025-479-2026",
+      "http_status": 200,
+      "file": "raw/malihi2026quantitative.json",
+      "sha256": "a71e576b709c5a17866acb1778e3cbf37a1737d9fb906f42c568f3d6fd008f82",
+      "bytes": 5663
+    },
+    {
+      "key": "wu2026chips",
+      "url": "https://doi.org/10.1007/s00170-026-17765-8",
+      "http_status": 200,
+      "file": "raw/wu2026chips.json",
+      "sha256": "12647bed50af79988d3fce583775b3add477cd2bac5dae325aa50f53e61c24df",
+      "bytes": 14835
+    },
+    {
+      "key": "klos2025super",
+      "url": "https://doi.org/10.1038/s41598-025-20372-4",
+      "http_status": 200,
+      "file": "raw/klos2025super.json",
+      "sha256": "35cf0b35e8873285fac8d8537e3ec239426635ada0329a918c731190d7c98800",
+      "bytes": 28727
+    },
+    {
+      "key": "sahoo2026hybrid",
+      "url": "https://doi.org/10.1007/978-981-92-2014-4_38",
+      "http_status": 200,
+      "file": "raw/sahoo2026hybrid.json",
+      "sha256": "a3c26c2421080b739b09b7120f0bea005a835555cfcfb11ae748e926660344fe",
+      "bytes": 13588
+    },
+    {
+      "key": "chang2024rad",
+      "url": "http://export.arxiv.org/api/query?id_list=2410.00713",
+      "http_status": 200,
+      "file": "raw/chang2024rad.xml",
+      "sha256": "73a23c075c2ee043a5e258081d0e47f4687465d7ef10c64e857516b61f3f028e",
+      "bytes": 3674
+    },
+    {
+      "key": "mueez2026vision",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.17723",
+      "http_status": 200,
+      "file": "raw/mueez2026vision.xml",
+      "sha256": "0eb8185e748568915fa6c4eeb683c0999a6b1815bfd000723240d01c62641d08",
+      "bytes": 3524
+    },
+    {
+      "key": "ghasemlou2026cross",
+      "url": "https://doi.org/10.5194/isprs-annals-xi-2-2026-85-2026",
+      "http_status": 200,
+      "file": "raw/ghasemlou2026cross.json",
+      "sha256": "f726308164381ab7261f463396daa7d1f13e5672d4965ed78c4d374bb6cee441",
+      "bytes": 4182
+    },
+    {
+      "key": "thakur2024deep",
+      "url": "https://doi.org/10.53555/ajbr.v27i6s.8803",
+      "http_status": 200,
+      "file": "raw/thakur2024deep.json",
+      "sha256": "827e0dc82c384aac5e000d5056926b8b897f5e28bcaa107bbcbfc95238105865",
+      "bytes": 3077
+    },
+    {
+      "key": "sajedi2020model",
+      "url": "http://export.arxiv.org/api/query?id_list=2004.05151",
+      "http_status": 200,
+      "file": "raw/sajedi2020model.xml",
+      "sha256": "f8d483fa51a5322660a5987a4163a56875775047be074f2d7d8d53935512ff79",
+      "bytes": 2702
+    },
+    {
+      "key": "sun2026icme",
+      "url": "http://export.arxiv.org/api/query?id_list=2607.04675",
+      "http_status": 200,
+      "file": "raw/sun2026icme.xml",
+      "sha256": "2b3d7320fdd391d621bd4f5af69730d8e4ba30b5626e5e0770bcbe595cd1dcb3",
+      "bytes": 4831
+    },
+    {
+      "key": "tang2023autonomous",
+      "url": "https://doi.org/10.12783/shm2023/36973",
+      "http_status": 200,
+      "file": "raw/tang2023autonomous.json",
+      "sha256": "554e86c7b1298fd9ee8e41e63851180c47edcb8b477c939ef24a3f226888e5df",
+      "bytes": 3341
+    },
+    {
+      "key": "plevris2025assessing",
+      "url": "https://doi.org/10.1007/s00477-024-02898-7",
+      "http_status": 200,
+      "file": "raw/plevris2025assessing.json",
+      "sha256": "ed0e902f726a8edd086992b3e9ce0528b08e4840e2410c285cb4138b68640bcf",
+      "bytes": 21266
+    },
+    {
+      "key": "li2025efficient",
+      "url": "https://doi.org/10.1016/j.addma.2025.104912",
+      "http_status": 200,
+      "file": "raw/li2025efficient.json",
+      "sha256": "ca9b85c134647282f871a9b504d951593a68c255ef158d2f5d35d8fbe3887a53",
+      "bytes": 14040
+    },
+    {
+      "key": "xu2021pushing",
+      "url": "http://export.arxiv.org/api/query?id_list=2101.03326",
+      "http_status": 200,
+      "file": "raw/xu2021pushing.xml",
+      "sha256": "b2ff3e01a339e7bc13b6900e8474c43fdf507b6da926d52ac9d26c9fde73882e",
+      "bytes": 3112
+    },
+    {
+      "key": "liang2020deep",
+      "url": "http://export.arxiv.org/api/query?id_list=2009.11460",
+      "http_status": 200,
+      "file": "raw/liang2020deep.xml",
+      "sha256": "f61a302b711e6d7adebb6b7101f440710f5802a6952abc63bf649e08179a50d2",
+      "bytes": 3222
+    },
+    {
+      "key": "patel2026precision",
+      "url": "https://doi.org/10.67772/30q43713",
+      "http_status": 200,
+      "file": "raw/patel2026precision.json",
+      "sha256": "c3c39c53bb5ffe3d4b0c555777cbb004d49a1eef0b493d91774257bc507b0825",
+      "bytes": 3194
+    },
+    {
+      "key": "xie2024iad",
+      "url": "https://doi.org/10.1109/tcyb.2024.3357213",
+      "http_status": 200,
+      "file": "raw/xie2024iad.json",
+      "sha256": "ad6f8edeb3d90e4e7643244d0178779e8421aa66fd7a32c6acddddc933622b31",
+      "bytes": 16659
+    },
+    {
+      "key": "poniatowski2026domain",
+      "url": "https://doi.org/10.1109/tase.2025.3621854",
+      "http_status": 200,
+      "file": "raw/poniatowski2026domain.json",
+      "sha256": "57f4bfbfadeee7db2588efe621ce36b4c966e98d77262748cf94a1e9435dd0cf",
+      "bytes": 8369
+    },
+    {
+      "key": "johansson2026poisoning",
+      "url": "https://doi.org/10.1109/cai68641.2026.11536357",
+      "http_status": 200,
+      "file": "raw/johansson2026poisoning.json",
+      "sha256": "080e90ed42451e8fd223ab31604faa01a68ddc82c80fbbbd3b23e9fb0c256ee7",
+      "bytes": 6015
+    },
+    {
+      "key": "jeong2025domain",
+      "url": "https://doi.org/10.2139/ssrn.5461139",
+      "http_status": 200,
+      "file": "raw/jeong2025domain.json",
+      "sha256": "0426ed53079ca02c921b8e7eebd3f7c24f45b1ba9c8f88b603d0ecd9b95e029f",
+      "bytes": 1556
+    },
+    {
+      "key": "mu2025nexvitad",
+      "url": "http://export.arxiv.org/api/query?id_list=2507.07579",
+      "http_status": 200,
+      "file": "raw/mu2025nexvitad.xml",
+      "sha256": "d7d6e22eceb5c3d22543de24c66c3d0cf04e45fe912d8df44d03d81970144f36",
+      "bytes": 2960
+    },
+    {
+      "key": "kinalioglu2026risk",
+      "url": "https://doi.org/10.28979/jarnas.1957308",
+      "http_status": 200,
+      "file": "raw/kinalioglu2026risk.json",
+      "sha256": "5e44946fcbbb3ac09ccd05a287e2eb4bafb9ce587fb80dbe0ef9c84402707611",
+      "bytes": 9874
+    },
+    {
+      "key": "liang2026open",
+      "url": "http://export.arxiv.org/api/query?id_list=2604.01171",
+      "http_status": 200,
+      "file": "raw/liang2026open.xml",
+      "sha256": "0ad478f80ae9a135acb7a7f0bdee554b066141b9ff282eb2553b16ea5232b5ef",
+      "bytes": 3464
+    },
+    {
+      "key": "trinh2024multiple",
+      "url": "https://doi.org/10.1109/itsc58415.2024.10919919",
+      "http_status": 200,
+      "file": "raw/trinh2024multiple.json",
+      "sha256": "55cc3383c7b1fb2104a6323d9b24cd214d641f23cc6ab9ad1dad64c7e97f0514",
+      "bytes": 10751
+    },
+    {
+      "key": "bondar2025synthetic",
+      "url": "https://doi.org/10.17683/ijomam/issue21.29",
+      "http_status": 200,
+      "file": "raw/bondar2025synthetic.json",
+      "sha256": "eefd90a951ddda2050d2e0cd18693d2bdd2f37855425e2667f2fe2c954c2a5c8",
+      "bytes": 1542
+    },
+    {
+      "key": "wu2026hdsi",
+      "url": "https://doi.org/10.5281/zenodo.22985370",
+      "http_status": 200,
+      "file": "raw/wu2026hdsi.json",
+      "sha256": "fcdacccf6c50bef0bd1208e9a54049071e5bc42bba8a057e474c953c2d190881",
+      "bytes": 2693
+    },
+    {
+      "key": "mistry2026from",
+      "url": "http://export.arxiv.org/api/query?id_list=2603.26776",
+      "http_status": 200,
+      "file": "raw/mistry2026from.xml",
+      "sha256": "da3e40aacc5bf4a1c94c9c74eaa60c4e15777fec0ea8e094c6ed39eabcea1ee1",
+      "bytes": 3187
+    },
+    {
+      "key": "durmaz2023microstructure",
+      "url": "https://doi.org/10.3389/fmats.2023.1222456",
+      "http_status": 200,
+      "file": "raw/durmaz2023microstructure.json",
+      "sha256": "3b92d8c6d5599acfa9aa7e75591e6771039a687efaf931ca11b23c5e9be0a71c",
+      "bytes": 9737
+    },
+    {
+      "key": "he2026self",
+      "url": "http://export.arxiv.org/api/query?id_list=2603.14869",
+      "http_status": 200,
+      "file": "raw/he2026self.xml",
+      "sha256": "ee7c8529e05832174de0f184d14404d18da7d45536a292ee3885b76a42e4cd3b",
+      "bytes": 3419
+    },
+    {
+      "key": "leyendecker2023study",
+      "url": "https://doi.org/10.1007/978-3-662-66769-9_6",
+      "http_status": 200,
+      "file": "raw/leyendecker2023study.json",
+      "sha256": "303b9dad57ca8a0f535094c9a3ea83ce7dee1328df7593d1003fdb4cc4adb7e4",
+      "bytes": 19290
+    },
+    {
+      "key": "hecklerkram2026detecting",
+      "url": "http://export.arxiv.org/api/query?id_list=2610.04392",
+      "http_status": 200,
+      "file": "raw/hecklerkram2026detecting.xml",
+      "sha256": "01fd854fc2d052558c5f1eb5a9331e974c68b2497cfe6de8e2b6ee5625bf76ea",
+      "bytes": 3794
+    },
+    {
+      "key": "ghoshmondal2025class",
+      "url": "https://doi.org/10.1007/s13349-025-00922-0",
+      "http_status": 200,
+      "file": "raw/ghoshmondal2025class.json",
+      "sha256": "d5f0d449f6208bb8af8be54d2742fc3b2410185de54e78a2dc2351892cf547da",
+      "bytes": 22625
+    },
+    {
+      "key": "frittoli2022deep",
+      "url": "https://doi.org/10.1016/j.patcog.2021.108488",
+      "http_status": 200,
+      "file": "raw/frittoli2022deep.json",
+      "sha256": "1809e2a17387c4cbb1e82b60ff45ed38743850512d508ebae87ac92794bc0e5f",
+      "bytes": 18729
+    },
+    {
+      "key": "oliveirasantos2022domain",
+      "url": "https://doi.org/10.1007/s43503-022-00008-6",
+      "http_status": 200,
+      "file": "raw/oliveirasantos2022domain.json",
+      "sha256": "002647a0449798084908ba161a56a758a4be0ce5847b208de89ca03bf808566a",
+      "bytes": 21755
+    },
+    {
+      "key": "avramov2026synthetic",
+      "url": "https://doi.org/10.1088/1755-1315/1661/1/012026",
+      "http_status": 200,
+      "file": "raw/avramov2026synthetic.json",
+      "sha256": "bfb27fdf92cbd3b069c43a1e20d69f030fbdee82bbb37437988078f7836ccbda",
+      "bytes": 8075
+    },
+    {
+      "key": "li2023building",
+      "url": "https://doi.org/10.1109/icit58465.2023.10143099",
+      "http_status": 200,
+      "file": "raw/li2023building.json",
+      "sha256": "057b3ad97d8d9b5bbe4a597a6c1d4bed9917381d7e2ff762931ae74966475384",
+      "bytes": 7120
+    },
+    {
+      "key": "bartczak2026dataset",
+      "url": "https://doi.org/10.5194/isprs-annals-xi-2-2026-767-2026",
+      "http_status": 200,
+      "file": "raw/bartczak2026dataset.json",
+      "sha256": "ad4f8c44ba9e647f14e33c491c6986278811d4a6d495db74bdbb75b632f40c0d",
+      "bytes": 4028
+    },
+    {
+      "key": "mikayilov2025development",
+      "url": "https://doi.org/10.31721/2306-5451-2025-2-23-46-58",
+      "http_status": 200,
+      "file": "raw/mikayilov2025development.json",
+      "sha256": "690b6c2546449ff9c20ac93919e110e9f68d718ccf419417b8dcb5899378ccbc",
+      "bytes": 4775
+    },
+    {
+      "key": "amoshie2026domain",
+      "url": "https://doi.org/10.82308/56061",
+      "http_status": 200,
+      "file": "raw/amoshie2026domain.json",
+      "sha256": "a44f543610fda11f6efcee50d49270140744517fba34bc12364c7fc2525c20e0",
+      "bytes": 887
+    },
+    {
+      "key": "hecklerkram2025from",
+      "url": "http://export.arxiv.org/api/query?id_list=2509.17615",
+      "http_status": 200,
+      "file": "raw/hecklerkram2025from.xml",
+      "sha256": "72b7bb24162cbef700c81566a7c9eb694ed96d3fd7a4107c53048bcc3b02cee0",
+      "bytes": 2771
+    },
+    {
+      "key": "thota2020introducing",
+      "url": "https://doi.org/10.5281/zenodo.4077393",
+      "http_status": 200,
+      "file": "raw/thota2020introducing.json",
+      "sha256": "c449bc596980229ac5992680b73df5f8bc1011f6bb9e9e0ecf52fb6ada567555",
+      "bytes": 2134
+    },
+    {
+      "key": "xie2024investigation",
+      "url": "https://doi.org/10.1109/case59546.2024.10711510",
+      "http_status": 200,
+      "file": "raw/xie2024investigation.json",
+      "sha256": "f51ecc6b6b031255905f89a021f4388dd836d7566382aaccf080f7712cacbc18",
+      "bytes": 6138
+    },
+    {
+      "key": "asadi2026cracksegflow",
+      "url": "http://export.arxiv.org/api/query?id_list=2601.03637",
+      "http_status": 200,
+      "file": "raw/asadi2026cracksegflow.xml",
+      "sha256": "c0a9e24a26c15d4f3bef337a39fb86e9b7bfe8eac19d451ee177b791d50c56a3",
+      "bytes": 2649
+    },
+    {
+      "key": "jia2026adaptive",
+      "url": "http://export.arxiv.org/api/query?id_list=2601.08885",
+      "http_status": 200,
+      "file": "raw/jia2026adaptive.xml",
+      "sha256": "dfa491f9755c66884382692fb7275e6e95b716e967400ec9b950f1e95596fca7",
+      "bytes": 3151
+    },
+    {
+      "key": "wang2026cross",
+      "url": "https://doi.org/10.1080/09507116.2026.2729138",
+      "http_status": 200,
+      "file": "raw/wang2026cross.json",
+      "sha256": "4ba97cabefaa2e2f58bddca303f16ab05288efdbad0d1471ac06beceade5ee76",
+      "bytes": 11187
+    },
+    {
+      "key": "kemeter2024towards",
+      "url": "http://export.arxiv.org/api/query?id_list=2406.19175",
+      "http_status": 200,
+      "file": "raw/kemeter2024towards.xml",
+      "sha256": "29ff8aa709bc645fccc623a363fa45d4d53325d669fd4a3545d86ef4cca452f5",
+      "bytes": 3166
+    },
+    {
+      "key": "kauffmann2025explainable",
+      "url": "https://doi.org/10.1038/s42256-025-01000-2",
+      "http_status": 200,
+      "file": "raw/kauffmann2025explainable.json",
+      "sha256": "21581d657905f4d041476c7674424d05a5fa73039abdda62358585d09a785ad9",
+      "bytes": 32568
+    },
+    {
+      "key": "prajapati2025generative",
+      "url": "https://doi.org/10.1007/s42421-025-00118-4",
+      "http_status": 200,
+      "file": "raw/prajapati2025generative.json",
+      "sha256": "6babe096cca41448fe1a8e30cde139edadf4cc0b130709da4cc1d06c283c8787",
+      "bytes": 44406
+    },
+    {
+      "key": "yosifov2026directional",
+      "url": "https://doi.org/10.58286/32615",
+      "http_status": 200,
+      "file": "raw/yosifov2026directional.json",
+      "sha256": "e9d5a4947e00377028433810036f08ac8d462e48e9c1a12334ef07c811cabfed",
+      "bytes": 4892
+    },
+    {
+      "key": "jaziri2024designing",
+      "url": "https://doi.org/10.1109/wacv57701.2024.00844",
+      "http_status": 200,
+      "file": "raw/jaziri2024designing.json",
+      "sha256": "365fd18a0103ac4a0ac0b147e717063118199f4d0b7a0e8806226ff9674e8778",
+      "bytes": 8787
+    },
+    {
+      "key": "tabassum2024adapting",
+      "url": "http://export.arxiv.org/api/query?id_list=2412.11381",
+      "http_status": 200,
+      "file": "raw/tabassum2024adapting.xml",
+      "sha256": "a08c3c1fd92c3e4e405e462e73854b32ef874f426513244c510adb219c88b1ce",
+      "bytes": 3418
+    },
+    {
+      "key": "li2026beyond",
+      "url": "http://export.arxiv.org/api/query?id_list=2609.21276",
+      "http_status": 200,
+      "file": "raw/li2026beyond.xml",
+      "sha256": "1cbdb927e6b002865f5673bdc64ffbd6430021a9d842e0b1a85673ac9a9fa5f3",
+      "bytes": 3598
+    },
+    {
+      "key": "chen2026aranet",
+      "url": "https://doi.org/10.4108/eetsis.13054",
+      "http_status": 200,
+      "file": "raw/chen2026aranet.json",
+      "sha256": "b4ac4c930e6089a617c3a020bfc515b6312629282357cc6eba09f05afb84993d",
+      "bytes": 6569
+    },
+    {
+      "key": "asadi2026fms",
+      "url": "http://export.arxiv.org/api/query?id_list=2603.13659",
+      "http_status": 200,
+      "file": "raw/asadi2026fms.xml",
+      "sha256": "9eeb9bea1f04a5788a1356375768618b9e076f4180adffd3283d672ed81c6306",
+      "bytes": 3490
+    },
+    {
+      "key": "shimbo2023pipe",
+      "url": "https://doi.org/10.36001/phmap.2023.v4i1.3699",
+      "http_status": 200,
+      "file": "raw/shimbo2023pipe.json",
+      "sha256": "81f68a4d33115f7fc847bcd487213f5d9dcf044562a518841c936fe82ea626b6",
+      "bytes": 3482
+    },
+    {
+      "key": "malikussaid2026hybrid",
+      "url": "http://export.arxiv.org/api/query?id_list=2605.26533",
+      "http_status": 200,
+      "file": "raw/malikussaid2026hybrid.xml",
+      "sha256": "3a5ef760a93b012a045e3b1ae847a83cd7a2d8ea32f4888532d0ef0672e01554",
+      "bytes": 3452
+    },
+    {
+      "key": "shimbo2023operation",
+      "url": "https://doi.org/10.17265/2159-5275/2023.05.001",
+      "http_status": 200,
+      "file": "raw/shimbo2023operation.json",
+      "sha256": "69b4efd111cdc236b081e94b5557fdd1eb3bfae22b2cdfb13c66fdff32621125",
+      "bytes": 1809
+    },
+    {
+      "key": "chen2026zsg",
+      "url": "http://export.arxiv.org/api/query?id_list=2604.17949",
+      "http_status": 200,
+      "file": "raw/chen2026zsg.xml",
+      "sha256": "0362f2c924a303c0da9287b6a71d16889ad2978ea5c14113fe3b151a0ffded10",
+      "bytes": 2700
+    },
+    {
+      "key": "amorim2025collaborative",
+      "url": "https://doi.org/10.1007/s10846-025-02265-w",
+      "http_status": 200,
+      "file": "raw/amorim2025collaborative.json",
+      "sha256": "4cb0d3e02bc46e0c2cfb3c7bad8caddd16d0fec91eebce31926a51fb11322d48",
+      "bytes": 30592
+    },
+    {
+      "key": "hu2025fault",
+      "url": "https://doi.org/10.1007/978-981-96-2409-6_14",
+      "http_status": 200,
+      "file": "raw/hu2025fault.json",
+      "sha256": "0ace5687e7319a26c3a02550734d07de51662ab94642813077162af7eb6d98a5",
+      "bytes": 11721
+    },
+    {
+      "key": "shi2026industrial",
+      "url": "https://doi.org/10.1038/s41598-026-69071-8",
+      "http_status": 200,
+      "file": "raw/shi2026industrial.json",
+      "sha256": "e472f121fd0c531cf6bd05455c6238f9bf19a3aadc17efbd8c5e079578a9f09b",
+      "bytes": 17055
+    },
+    {
+      "key": "szklarzewski2026from",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.07770",
+      "http_status": 200,
+      "file": "raw/szklarzewski2026from.xml",
+      "sha256": "a4180944bd5239755d3b83411cf5b6b7529ad8cd59e94797dc57a9ae9e17f7c4",
+      "bytes": 3755
+    },
+    {
+      "key": "gramelt2025interactive",
+      "url": "https://doi.org/10.1007/978-3-031-92805-5_9",
+      "http_status": 200,
+      "file": "raw/gramelt2025interactive.json",
+      "sha256": "62e84155b79fce1483328639904afd4ea5678206186a67ba8d82e2bdc184d4c5",
+      "bytes": 17657
+    },
+    {
+      "key": "lo2026semantic",
+      "url": "https://doi.org/10.65157/ijira.2026.01",
+      "http_status": 200,
+      "file": "raw/lo2026semantic.json",
+      "sha256": "ed95b81161f6d088571d1c64e063ea558365c1cfecc2cf1b3f7d7ab9ff1c9b49",
+      "bytes": 1663
+    },
+    {
+      "key": "liu2026wildroadbench",
+      "url": "http://export.arxiv.org/api/query?id_list=2605.20306",
+      "http_status": 200,
+      "file": "raw/liu2026wildroadbench.xml",
+      "sha256": "d4038b32bc47e5b73887babcf85e7526e7f1d15e9b0c5f92ef9b95e9eb7ddf29",
+      "bytes": 3605
+    },
+    {
+      "key": "muller2022interactive",
+      "url": "https://doi.org/10.1609/aaai.v36i11.21530",
+      "http_status": 200,
+      "file": "raw/muller2022interactive.json",
+      "sha256": "5bddb5a9414d814e34e4df99f35cd4fb284ab1465c327af2471601aded2c2286",
+      "bytes": 3474
+    },
+    {
+      "key": "naghavikhanghah2025multimodal",
+      "url": "https://doi.org/10.1115/detc2025-168615",
+      "http_status": 200,
+      "file": "raw/naghavikhanghah2025multimodal.json",
+      "sha256": "b5262674ab987481eb8a47d700d0cf470f6eb52e9318c62a3a9e0e929d7cc2ab",
+      "bytes": 5634
+    },
+    {
+      "key": "dukuray2026integrated",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.08935",
+      "http_status": 200,
+      "file": "raw/dukuray2026integrated.xml",
+      "sha256": "b59ab4529d3e09eb6fe448c2d9c0d6b862b44e9c41a5b4ff37c55f835cbe3114",
+      "bytes": 3298
+    },
+    {
+      "key": "liu2026insightx",
+      "url": "https://doi.org/10.1109/tr.2026.3668946",
+      "http_status": 200,
+      "file": "raw/liu2026insightx.json",
+      "sha256": "2787523c7cc258e2a41a4c4c12de9f511c57634471a580f4244210142f9be9cc",
+      "bytes": 9108
+    },
+    {
+      "key": "zhong2026can",
+      "url": "http://export.arxiv.org/api/query?id_list=2603.20148",
+      "http_status": 200,
+      "file": "raw/zhong2026can.xml",
+      "sha256": "5b66dcecb45e2b2b056e628de285a229e16b52789325729308540da864d468ee",
+      "bytes": 3469
+    },
+    {
+      "key": "niu2024learning",
+      "url": "https://doi.org/10.1016/j.asoc.2024.112138",
+      "http_status": 200,
+      "file": "raw/niu2024learning.json",
+      "sha256": "d8a92a763a47416b911dffce576bb9b1d80416c69a5740ce99c8e8d451db0100",
+      "bytes": 17340
+    },
+    {
+      "key": "song2024source",
+      "url": "https://doi.org/10.1007/978-3-031-78189-6_13",
+      "http_status": 200,
+      "file": "raw/song2024source.json",
+      "sha256": "c90aaebd17640eba9fb4377541c8887fa02b651f3ef4b92a47c23a0e37746b27",
+      "bytes": 21608
+    },
+    {
+      "key": "chelouche2025when",
+      "url": "https://doi.org/10.1007/978-3-031-92805-5_18",
+      "http_status": 200,
+      "file": "raw/chelouche2025when.json",
+      "sha256": "03d29dc90d44d8436738580ab1a55ffa34d466093ef2ea4a4472e9209b147e8b",
+      "bytes": 25012
+    },
+    {
+      "key": "cordier2022improving",
+      "url": "http://export.arxiv.org/api/query?id_list=2202.12818",
+      "http_status": 200,
+      "file": "raw/cordier2022improving.xml",
+      "sha256": "9b13f5ffa2afda71f0da08cf0739cdf307f39cedeb081ea9cca516a2692b1613",
+      "bytes": 2783
+    },
+    {
+      "key": "jiang2026anomalyclaw",
+      "url": "http://export.arxiv.org/api/query?id_list=2605.10397",
+      "http_status": 200,
+      "file": "raw/jiang2026anomalyclaw.xml",
+      "sha256": "dae7b36c090f4d1c74337e22ca11745b295aec9ddecda5cab07cf9ab2eac075d",
+      "bytes": 3379
+    },
+    {
+      "key": "deng2026distribution",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.15090",
+      "http_status": 200,
+      "file": "raw/deng2026distribution.xml",
+      "sha256": "4d03125eb91e47191a1585c89bd2dac7e5d4f2d27b0c17d0fc8797cc791356bb",
+      "bytes": 3220
+    },
+    {
+      "key": "deng2026maf",
+      "url": "http://export.arxiv.org/api/query?id_list=2607.11170",
+      "http_status": 200,
+      "file": "raw/deng2026maf.xml",
+      "sha256": "fbb04e4ceea5ad4fcdd8273a4d7030b5ea5b700289770a6080cfc5062119e547",
+      "bytes": 2830
+    },
+    {
+      "key": "bence2026yolov",
+      "url": "https://doi.org/10.64972/jaat.2026v4.388p33e:442-457",
+      "http_status": 200,
+      "file": "raw/bence2026yolov.json",
+      "sha256": "54dd1c578801d0373aa6c63569402c0b7abcb15386b803d40c2fbfc36d29952a",
+      "bytes": 3594
+    },
+    {
+      "key": "abbassi2024trimming",
+      "url": "https://doi.org/10.2139/ssrn.4935952",
+      "http_status": 200,
+      "file": "raw/abbassi2024trimming.json",
+      "sha256": "43dbacc6151f5d547967233cf0be022deb19d0b087fb102eb04d4763fe979590",
+      "bytes": 1575
+    },
+    {
+      "key": "chen2025attack",
+      "url": "https://doi.org/10.1609/aaai.v39i15.33755",
+      "http_status": 200,
+      "file": "raw/chen2025attack.json",
+      "sha256": "6655a5f12bfdce2c747635616839c6aa796e589de5a4ecbb7c5270bbaa4e7320",
+      "bytes": 4059
+    },
+    {
+      "key": "wu2026hid",
+      "url": "https://doi.org/10.1038/s41598-026-72195-6",
+      "http_status": 200,
+      "file": "raw/wu2026hid.json",
+      "sha256": "504913672144acc458fdb4372822948ebf32233ca729f603378dea93bd535d88",
+      "bytes": 5187
+    },
+    {
+      "key": "wang2025lightweight",
+      "url": "https://doi.org/10.21203/rs.3.rs-7002574/v1",
+      "http_status": 200,
+      "file": "raw/wang2025lightweight.json",
+      "sha256": "643b1a27ea204900eb7f4a42eb4bfba9931993e48d5780a00e204df080e0bde7",
+      "bytes": 23514
+    },
+    {
+      "key": "cao2026robust",
+      "url": "https://doi.org/10.1016/j.jmapro.2026.01.039",
+      "http_status": 200,
+      "file": "raw/cao2026robust.json",
+      "sha256": "188b0235c7bd2780c1e8bd012e0992073f9bd2a894b1f1b2c32c02492512f5f0",
+      "bytes": 18921
+    },
+    {
+      "key": "cao2023anomaly",
+      "url": "https://doi.org/10.1109/iccv51070.2023.00599",
+      "http_status": 200,
+      "file": "raw/cao2023anomaly.json",
+      "sha256": "b18f6140f46abe4965df06a7dbc8e75cba9ee1056eee1156d8a352ac16f4181a",
+      "bytes": 12603
+    },
+    {
+      "key": "zia2026learning",
+      "url": "https://doi.org/10.1109/tpami.2026.3710196",
+      "http_status": 200,
+      "file": "raw/zia2026learning.json",
+      "sha256": "c0bb52b51017967951795646271ebfde6ec674d995fa479196a282eafc765c21",
+      "bytes": 13795
+    },
+    {
+      "key": "ding2022catching",
+      "url": "https://doi.org/10.1109/cvpr52688.2022.00724",
+      "http_status": 200,
+      "file": "raw/ding2022catching.json",
+      "sha256": "b414bc97001765337f2a2a187d1fdbb9ef1d6790a5e907576164a7efcf5a4782",
+      "bytes": 11293
+    },
+    {
+      "key": "wang2025distribution",
+      "url": "https://doi.org/10.1109/cvpr52734.2025.01901",
+      "http_status": 200,
+      "file": "raw/wang2025distribution.json",
+      "sha256": "ce97a0e69dc748c51589f9734e96d02de88a3eff8e723dda19abd4a8556730e6",
+      "bytes": 10036
+    },
+    {
+      "key": "wang2024real",
+      "url": "https://doi.org/10.1109/cvpr52733.2024.02159",
+      "http_status": 200,
+      "file": "raw/wang2024real.json",
+      "sha256": "c22641ce901bb64804eee9055bb68dedfdccf18122403828ebd406349be07a2f",
+      "bytes": 7827
+    },
+    {
+      "key": "aqeel2025robust",
+      "url": "https://doi.org/10.1109/iccvw69036.2025.00155",
+      "http_status": 200,
+      "file": "raw/aqeel2025robust.json",
+      "sha256": "c1f20184d8feb504719ebea2ccdc9127701fbc218e46c1cb5b5b3faab1e09705",
+      "bytes": 5678
+    },
+    {
+      "key": "wang2024robustness",
+      "url": "https://doi.org/10.52396/justc-2022-0165",
+      "http_status": 200,
+      "file": "raw/wang2024robustness.json",
+      "sha256": "1e3b0b023ec638a69c2881eede0a9bf176b3d63846daf904c6bdbe69405fbf1c",
+      "bytes": 14100
+    },
+    {
+      "key": "lo2022adversarially",
+      "url": "https://doi.org/10.1109/tpami.2022.3189638",
+      "http_status": 200,
+      "file": "raw/lo2022adversarially.json",
+      "sha256": "2206264c868086a318c72e32db671f3b43eba4b1388d3987609ddb23047fd6ae",
+      "bytes": 10236
+    },
+    {
+      "key": "weatherly2026rethinking",
+      "url": "https://doi.org/10.1007/978-3-032-37393-9_5",
+      "http_status": 200,
+      "file": "raw/weatherly2026rethinking.json",
+      "sha256": "ecd24f7277d7b0e58058326fa2619ab2e2a4a6dbec1297a26b3bbd5ad7ead7e1",
+      "bytes": 19952
+    },
+    {
+      "key": "cheng2024rad",
+      "url": "https://doi.org/10.1109/case59546.2024.10711763",
+      "http_status": 200,
+      "file": "raw/cheng2024rad.json",
+      "sha256": "c8f66be75a50f50fa93ad050b678727bc93dd454ffc98cfc35d6c06e33f33f64",
+      "bytes": 5835
+    },
+    {
+      "key": "mirzaei2024killing",
+      "url": "https://doi.org/10.1109/icassp48485.2024.10446155",
+      "http_status": 200,
+      "file": "raw/mirzaei2024killing.json",
+      "sha256": "7b3930a6bf14deed732352064e454214b59268d5571ee1fe39c56a944778a7b4",
+      "bytes": 5854
+    },
+    {
+      "key": "lin2025exploring",
+      "url": "https://doi.org/10.1609/aaai.v39i11.33324",
+      "http_status": 200,
+      "file": "raw/lin2025exploring.json",
+      "sha256": "5429e0f5a439071c4966a6b40fc35c7aafc3e890c338ef132ad7d38a3840f15b",
+      "bytes": 3451
+    },
+    {
+      "key": "moradi2025rddpm",
+      "url": "https://doi.org/10.1109/iccvw69036.2025.00157",
+      "http_status": 200,
+      "file": "raw/moradi2025rddpm.json",
+      "sha256": "1a7c00d8c38f2d5429f6cb02d64b829ff2f826465a8a60b083246555c6bf35f1",
+      "bytes": 7873
+    },
+    {
+      "key": "nafez2025patchguard",
+      "url": "https://doi.org/10.1109/cvpr52734.2025.01898",
+      "http_status": 200,
+      "file": "raw/nafez2025patchguard.json",
+      "sha256": "ec12bdcd98a6faf1cb8a4d2235fefb8977078f7597e830e2fcf73e36d3d388d5",
+      "bytes": 12282
+    },
+    {
+      "key": "kauffmann2020the",
+      "url": "http://export.arxiv.org/api/query?id_list=2006.10609",
+      "http_status": 200,
+      "file": "raw/kauffmann2020the.xml",
+      "sha256": "e362c94735617e65ad1cf966be5354f0f0d1c7e45dbf9a1fe4037e4157b17747",
+      "bytes": 3130
+    },
+    {
+      "key": "chen2022domain",
+      "url": "https://doi.org/10.1109/icme52920.2022.9859637",
+      "http_status": 200,
+      "file": "raw/chen2022domain.json",
+      "sha256": "c9a1b55523b232d10462240689b0a1429406de4153de7016c928880122a8cc77",
+      "bytes": 4735
+    },
+    {
+      "key": "ilyas2026enhancing",
+      "url": "https://doi.org/10.1007/s00371-026-04569-w",
+      "http_status": 200,
+      "file": "raw/ilyas2026enhancing.json",
+      "sha256": "b4af501816fa256839b5d1c2020fd787329c6ba8842b68d328bde297db30206f",
+      "bytes": 19285
+    },
+    {
+      "key": "bugarin2024unveiling",
+      "url": "https://doi.org/10.1109/cvprw63382.2024.00410",
+      "http_status": 200,
+      "file": "raw/bugarin2024unveiling.json",
+      "sha256": "6d1ae0f65d6a859ca8ca0c390156d5e0a08c1ff011d89e0a25f298bee9615c55",
+      "bytes": 7808
+    },
+    {
+      "key": "yu2025noise",
+      "url": "https://doi.org/10.1109/iros60139.2025.11247510",
+      "http_status": 200,
+      "file": "raw/yu2025noise.json",
+      "sha256": "63a454b0ad82f34da1e6b179060f71cfc777ae1b53add0ef0b9751bf072de8d6",
+      "bytes": 10566
+    },
+    {
+      "key": "wang2025softpatch",
+      "url": "https://doi.org/10.1016/j.patcog.2024.111295",
+      "http_status": 200,
+      "file": "raw/wang2025softpatch.json",
+      "sha256": "9ddcfafd3e31f406d320e6d26e4b18c27eb7749f78cc5e737a7f7af8b316a17d",
+      "bytes": 17718
+    },
+    {
+      "key": "krumpl2026iconic",
+      "url": "https://doi.org/10.1109/wacv61042.2026.00813",
+      "http_status": 200,
+      "file": "raw/krumpl2026iconic.json",
+      "sha256": "56cce89cf99b3c0113dd84788c8a1a033268d683c7cc23fb94848537e9d9d487",
+      "bytes": 9810
+    },
+    {
+      "key": "deng2026global",
+      "url": "https://doi.org/10.1007/978-3-032-37550-6_17",
+      "http_status": 200,
+      "file": "raw/deng2026global.json",
+      "sha256": "c275681ac50565316afb13244ccae7c108ce44eaa82a5e0464a615c3c68b0c4c",
+      "bytes": 18692
+    },
+    {
+      "key": "wang2025hss",
+      "url": "https://doi.org/10.1109/icme59968.2025.11208914",
+      "http_status": 200,
+      "file": "raw/wang2025hss.json",
+      "sha256": "c3eea5b8cf50afbf3262b6fbfdcd753870963a151def736bc6fd88dbc183fd11",
+      "bytes": 5507
+    },
+    {
+      "key": "dallepezze2025continual",
+      "url": "https://doi.org/10.1007/s12530-025-09732-7",
+      "http_status": 200,
+      "file": "raw/dallepezze2025continual.json",
+      "sha256": "ad4d0c6dc75c7103d1c0ae341d0e3f619d7b06e11281321ad0b49df6a06b604a",
+      "bytes": 21979
+    },
+    {
+      "key": "fung2025model",
+      "url": "https://doi.org/10.1109/tai.2025.3562505",
+      "http_status": 200,
+      "file": "raw/fung2025model.json",
+      "sha256": "5f0564282f381d0931cb9296edc4124e9fad0b3ffabff6f2d98d01ec551ea6d7",
+      "bytes": 12880
+    },
+    {
+      "key": "barusco2025memory",
+      "url": "https://doi.org/10.1016/j.ifacol.2025.12.015",
+      "http_status": 200,
+      "file": "raw/barusco2025memory.json",
+      "sha256": "e46e9bb71da7e7989b01411aecf65bb382ceaa16f5d35165396540186980df32",
+      "bytes": 7483
+    },
+    {
+      "key": "yao2023explicit",
+      "url": "https://doi.org/10.1109/cvpr52729.2023.02346",
+      "http_status": 200,
+      "file": "raw/yao2023explicit.json",
+      "sha256": "9ea9afc35655d327b6d25453ffd8c318493681aa191acfb842616723af082587",
+      "bytes": 10877
+    },
+    {
+      "key": "baitieva2025beyond",
+      "url": "https://doi.org/10.1109/cvprw67362.2025.00386",
+      "http_status": 200,
+      "file": "raw/baitieva2025beyond.json",
+      "sha256": "a90d0fea0c752180ed18d68521b18dcd03f9d246e38d8c5695b28664bcf06643",
+      "bytes": 10840
+    },
+    {
+      "key": "yoo2023dsv",
+      "url": "https://doi.org/10.1007/978-3-031-43412-9_15",
+      "http_status": 200,
+      "file": "raw/yoo2023dsv.json",
+      "sha256": "29d83d18963eecdae837531e8d4bc81cc52911e8b1aa5f7376c1b2263cbbad72",
+      "bytes": 13739
+    },
+    {
+      "key": "lei2025adapted",
+      "url": "https://doi.org/10.1007/978-981-96-9891-2_36",
+      "http_status": 200,
+      "file": "raw/lei2025adapted.json",
+      "sha256": "ff91a92f3b79e50137bbc661c673a3b8873c3a3fa867195a854683da5f676bd3",
+      "bytes": 10329
+    },
+    {
+      "key": "lima2026rethinking",
+      "url": "https://doi.org/10.5753/semish.2026.20750",
+      "http_status": 200,
+      "file": "raw/lima2026rethinking.json",
+      "sha256": "33be60a019c0e7cd8075904f92ff190b74d122e78d2aee4208b9ddee5d22933a",
+      "bytes": 6869
+    },
+    {
+      "key": "tan2021trustmae",
+      "url": "https://doi.org/10.1109/wacv48630.2021.00032",
+      "http_status": 200,
+      "file": "raw/tan2021trustmae.json",
+      "sha256": "5e897de72b5129513f3324126059bb3bd7ce5f153998014f1036a6f51b21d098",
+      "bytes": 8891
+    },
+    {
+      "key": "bao2023miad",
+      "url": "https://doi.org/10.1109/iccvw60793.2023.00106",
+      "http_status": 200,
+      "file": "raw/bao2023miad.json",
+      "sha256": "6a6a7732047cdbbe9eb85bfd48410b7d38f40e4304a06dc9a7720487e81c97c3",
+      "bytes": 6915
+    },
+    {
+      "key": "posadamoreno2023scale",
+      "url": "https://doi.org/10.1007/s10994-023-06373-2",
+      "http_status": 200,
+      "file": "raw/posadamoreno2023scale.json",
+      "sha256": "386f65b4084d357dfba1aadc5b8119dd0e7894e9b49c191c7d5e904e0ac5128b",
+      "bytes": 17586
+    },
+    {
+      "key": "han2026sparc",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.18585",
+      "http_status": 200,
+      "file": "raw/han2026sparc.xml",
+      "sha256": "063d206c1f03557c47db404b09ef00eb60fa212b52698d0b2e1e06c17b5b6759",
+      "bytes": 3197
+    },
+    {
+      "key": "cao2026nfad",
+      "url": "http://export.arxiv.org/api/query?id_list=2608.29112",
+      "http_status": 200,
+      "file": "raw/cao2026nfad.xml",
+      "sha256": "b25f8617e3fbdc5254c2a42a2fdc0757566961423e8756ad7ff4668da2ca7594",
+      "bytes": 3208
+    },
+    {
+      "key": "zhang2023industrial",
+      "url": "https://doi.org/10.1016/j.compind.2023.103990",
+      "http_status": 200,
+      "file": "raw/zhang2023industrial.json",
+      "sha256": "1789f69244ff9d6ced35431e12412aac20537df36ba71a1370fb0bdcf6b42e42",
+      "bytes": 19101
+    },
+    {
+      "key": "yang2026saferestore",
+      "url": "http://export.arxiv.org/api/query?id_list=2609.03475",
+      "http_status": 200,
+      "file": "raw/yang2026saferestore.xml",
+      "sha256": "fc7d1f2b6e67361089d3d13af0ce6ba2761ea26473c88202433adcf0605c8b51",
+      "bytes": 3318
+    },
+    {
+      "key": "wang2025efficient",
+      "url": "https://doi.org/10.1007/s13349-025-01003-y",
+      "http_status": 200,
+      "file": "raw/wang2025efficient.json",
+      "sha256": "d62e96bf7cc94e65e332b8d85885201567c9e120e79848865e992f5bb9b33bc1",
+      "bytes": 24856
+    },
+    {
+      "key": "zhou2026genau",
+      "url": "http://export.arxiv.org/api/query?id_list=2607.01049",
+      "http_status": 200,
+      "file": "raw/zhou2026genau.xml",
+      "sha256": "301349da391a9e984efd2fd7489983e4f316032e852a1d40f957865a5cc48a5f",
+      "bytes": 3204
+    },
+    {
+      "key": "hasan2026xct",
+      "url": "http://export.arxiv.org/api/query?id_list=2607.14287",
+      "http_status": 200,
+      "file": "raw/hasan2026xct.xml",
+      "sha256": "4212beb2797c780c0a9763f03df01fd4bf69d6ad24ae521f9f90228cc23975f7",
+      "bytes": 3585
+    },
+    {
+      "key": "tricco2018prisma",
+      "url": "https://doi.org/10.7326/m18-0850",
+      "http_status": 200,
+      "file": "raw/tricco2018prisma.json",
+      "sha256": "2b47960f815f0c1f1337b7aaac806efebda80cfaeb497985e0a51725932171e3",
+      "bytes": 10880
+    },
+    {
+      "key": "rethlefsen2021prisma",
+      "url": "https://doi.org/10.1186/s13643-020-01542-z",
+      "http_status": 200,
+      "file": "raw/rethlefsen2021prisma.json",
+      "sha256": "52542dcca77e557567ad7d1cc5600dcdc85a1df082f6309ccd87b78237048ce7",
+      "bytes": 62093
+    },
+    {
+      "key": "peters2020updated",
+      "url": "https://doi.org/10.11124/jbies-20-00167",
+      "http_status": 200,
+      "file": "raw/peters2020updated.json",
+      "sha256": "2919eefdc8f529525b0e3e27dc19082128e3c1165046973c0a69a3855186d98a",
+      "bytes": 10341
+    },
+    {
+      "key": "bergmann2019mvtec",
+      "url": "https://doi.org/10.1109/cvpr.2019.00982",
+      "http_status": 200,
+      "file": "raw/bergmann2019mvtec.json",
+      "sha256": "1183659923d72626d6a4652b2af8a8580268485ef417ce0d32f9e89fba6d549d",
+      "bytes": 6660
+    },
+    {
+      "key": "liu2024deep",
+      "url": "https://doi.org/10.1007/s11633-023-1459-z",
+      "http_status": 200,
+      "file": "raw/liu2024deep.json",
+      "sha256": "51806ab3f52552c17fae07361af91434c749d056df42f1abc1ed875a7eb22699",
+      "bytes": 78105
+    },
+    {
+      "key": "li2025survey",
+      "url": "https://doi.org/10.1007/s10462-025-11287-7",
+      "http_status": 200,
+      "file": "raw/li2025survey.json",
+      "sha256": "ea183fdcb15f5c91e7fb2a27594d98af71e64abdfe1bfff6c578b0559c4b60fa",
+      "bytes": 67817
+    },
+    {
+      "key": "cao2024survey",
+      "url": "http://export.arxiv.org/api/query?id_list=2401.16402",
+      "http_status": 200,
+      "file": "raw/cao2024survey.xml",
+      "sha256": "134a042469476e1dca8e03d544a92c8b6e0a0cf02ae57f2136e72a5b3287d78e",
+      "bytes": 2713
+    },
+    {
+      "key": "alzarooni2025anomaly",
+      "url": "http://export.arxiv.org/api/query?id_list=2501.11310",
+      "http_status": 200,
+      "file": "raw/alzarooni2025anomaly.xml",
+      "sha256": "e95a1ec1141b3375dd0854f54b160e0e4f65d737926fd267a4808a60f993b959",
+      "bytes": 3144
+    },
+    {
+      "key": "lin2025survey",
+      "url": "https://doi.org/10.1016/j.inffus.2025.103139",
+      "http_status": 200,
+      "file": "raw/lin2025survey.json",
+      "sha256": "66f0af069f5f9f90b3ac6e4dcdb8fa135966c5d98f700c001234956cf0a1c7a7",
+      "bytes": 51627
+    },
+    {
+      "key": "diers2023survey",
+      "url": "https://doi.org/10.1007/s11263-023-01822-w",
+      "http_status": 200,
+      "file": "raw/diers2023survey.json",
+      "sha256": "5ebd7c2b73356bb5958942c7b87dab73e368bcbe27f947ad83bab5122d797419",
+      "bytes": 39711
+    },
+    {
+      "key": "tan2026foundation",
+      "url": "https://doi.org/10.21203/rs.3.rs-10598232/v1",
+      "http_status": 200,
+      "file": "raw/tan2026foundation.json",
+      "sha256": "2e8025a2648fc5dea9d66b11d17e5fa1473d0ae12de920fdca838d8c9834ea28",
+      "bytes": 3719
+    },
+    {
+      "key": "zambuk2026bridging",
+      "url": "https://doi.org/10.35940/ijrte.c8393.15030926",
+      "http_status": 200,
+      "file": "raw/zambuk2026bridging.json",
+      "sha256": "1bac202cd2c02d8715673628e27fafd8ed16e4a98cf0d7dcd83e4becb6409d14",
+      "bytes": 26497
+    }
+  ]
+}
