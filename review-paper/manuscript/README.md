@@ -1,6 +1,6 @@
-# IEEE review manuscript - provisional revision, 2 November 2026
+# IEEE review manuscript - provisional revision, 3 November 2026
 
-Start with [main.pdf](main.pdf). It is a compiled, 14-page provisional review draft, not a final submission. The manuscript reflects 155 charted studies in the assessed full-text subset. There are still 701 pending title/abstract records and 66 routed reports awaiting retrieval initiation; the fixed audit sample is confirmed; sample refresh and author declarations remain unresolved.
+Start with [main.pdf](main.pdf). It is a compiled, 15-page provisional review draft, not a final submission. The manuscript reflects 173 charted studies in the assessed full-text subset. All 6,970 reports have recorded title/abstract dispositions and all 985 routed reports have retrieval outcomes. The refreshed human audit, title-only exclusions, SoftPatch linkage and author declarations remain unresolved.
 
 Author details supplied by Daniel are included: Ormedian Research Institute, the corresponding email and no funding. Conflicts of interest remain an author input. Earlier Claude screening/reading and the later OpenAI reconciliation are disclosed separately; neither is a second independent human review.
 
@@ -16,7 +16,7 @@ python review-paper/scripts/validate_scope.py
 python review-paper/scripts/validate_manuscript.py
 ```
 
-Numbers come from current CSV records. The flow distinguishes identified, assessed, pending and not-yet-attempted reports; supplementary background retrievals are separate. The abstract inventory is exploratory screening metadata, not evidence that retrieval bias is absent. The bibliography has 167 entries. DOI/arXiv registration checks and metadata corrections are recorded in citation-check-20261102/; these do not verify scientific claims or citation interpretation. The AI consistency pass is separate from the subsequently confirmed human audit of the fixed sample.
+Numbers come from current CSV records. The flow distinguishes identified, assessed, pending and not-yet-attempted reports; supplementary background retrievals are separate. The abstract inventory is exploratory screening metadata, not evidence that retrieval bias is absent. The bibliography has 185 entries. DOI/arXiv registration checks and metadata corrections are recorded in citation-check-20261103/; these do not verify scientific claims or citation interpretation. The AI consistency pass is separate from the subsequently confirmed human audit of the fixed sample.
 
 ## Overleaf
 

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/TWslJxMJciAlKlLvsRD4pS3omWU</id>
+  <title>arXiv Query: search_query=&amp;id_list=2101.03326&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:23:45Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2101.03326" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2101.03326v1</id>
+    <title>Pushing the Envelope of Thin Crack Detection</title>
+    <updated>2021-01-09T09:42:42Z</updated>
+    <link href="https://arxiv.org/abs/2101.03326v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2101.03326v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this study, we consider the problem of detecting cracks from the image of a concrete surface for automated inspection of infrastructure, such as bridges. Its overall accuracy is determined by how accurately thin cracks with sub-pixel widths can be detected. Our interest is in making it possible to detect cracks close to the limit of thinness if it can be defined. Toward this end, we first propose a method for training a CNN to make it detect cracks more accurately than humans while training them on human-annotated labels. To achieve this seemingly impossible goal, we intentionally lower the spatial resolution of input images while maintaining that of their labels when training a CNN. This makes it possible to annotate cracks that are too thin for humans to detect, which we call super-human labels. We experimentally show that this makes it possible to detect cracks from an image of one-third the resolution of images used for annotation with about the same accuracy. We additionally propose three methods for further improving the detection accuracy of thin cracks: i) P-pooling to maintain small image structures during downsampling operations; ii) Removal of short-segment cracks in a post-processing step utilizing a prior of crack shapes learned using the VAE-GAN framework; iii) Modeling uncertainty of the prediction to better handle hard labels beyond the limit of CNNs' detection ability, which technically work as noisy labels. We experimentally examine the effectiveness of these methods.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-01-09T09:42:42Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Liang Xu</name>
+    </author>
+    <author>
+      <name>Taro Hatsutani</name>
+    </author>
+    <author>
+      <name>Xing Liu</name>
+    </author>
+    <author>
+      <name>Engkarat Techapanurak</name>
+    </author>
+    <author>
+      <name>Han Zou</name>
+    </author>
+    <author>
+      <name>Takayuki Okatani</name>
+    </author>
+  </entry>
+</feed>

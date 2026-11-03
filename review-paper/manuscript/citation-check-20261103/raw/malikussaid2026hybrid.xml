@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/0fLhyKFQzxaEdIZBh6GWCbrSGHc</id>
+  <title>arXiv Query: search_query=&amp;id_list=2605.26533&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:46Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2605.26533" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2605.26533v1</id>
+    <title>A Hybrid Vision-Language Architecture for Automated Defect Reasoning and Report Generation in Industrial Inspection</title>
+    <updated>2026-05-26T04:27:38Z</updated>
+    <link href="https://arxiv.org/abs/2605.26533v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.26533v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automated industrial inspection requires both precise defect localization and structured maintenance report generation; in current practice these tasks are handled separately, with linguistic interpretation left to human experts. This paper describes a decoupled, edge-deployable pipeline for wind turbine blade inspection built from three components that each handle a distinct sub-task. The Eyes a YOLO26-x-obb oriented bounding-box detector localizes defects at dataset-native resolution. The Bridge a deterministic, parameter-free encoding module maps each detected bounding box to grid-referenced spatial tokens embedded in a structured prompt. The Brain a 4-bit quantized Qwen-2.5-1.5B model adapted with Quantized Low-Rank Adaptation (QLoRA) on 947 synthetically generated maintenance reports generates a structured JSON report from that prompt. Retrieval-Augmented Fine-Tuning (RAFT) further grounds each recommendation in indexed maintenance procedures. Five ablation experiments, scored by BLEU-4, ROUGE-L, Hallucination Rate (HR), and an LLM-as-a-Judge rubric, compare the pipeline against a monolithic vision-language model (VLM) baseline and against partial configurations in which one component is removed. The complete system achieves BLEU-4 0.41, HR=4%, and Expert Score = 8.6/10 compared with 0.07, 65%, and 3.3/10 for the zero-shot VLM baseline. The QLoRA-adapted 1.5B model generates higher-quality reports than a 671B-parameter generalist API model given identical detection evidence, at 47 tokens per second on a single T4-class GPU. The results show that purpose-built decoupled architecture with a small domain-specific training corpus outperforms a generalist end-to-end model on this structured generation task.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-26T04:27:38Z</published>
+    <arxiv:comment>23 pages, 6 figures, 9 equations, and 6 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name> Malikussaid</name>
+    </author>
+    <author>
+      <name>Imad Gohar</name>
+    </author>
+  </entry>
+</feed>

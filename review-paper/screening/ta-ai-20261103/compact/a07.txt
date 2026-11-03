@@ -1,0 +1,293 @@
+# a07: 292 pending records with no abstract from OpenAlex, Crossref or Semantic Scholar (ABSTRACT-CAPTURE-20261103-01); screened on title/venue only, 2026-11-03, by Claude (AI-assisted, single reviewer). Rule: X only when the title alone places the record clearly outside a core criterion; U when the record is in scope by context and modality but the title cannot show a reliability dimension (full text sought to resolve); F when the title signals a reliability dimension.
+O5228;X;TA01;(title only) Generic semi-supervised domain generalisation method; no inspection context.
+O5241;X;TA01;(title only) Open-set text recognition; not inspection.
+O5242;X;TA02;(title only) Tabular anomaly detection; non-visual.
+O5253;X;TA01;(title only) Open-set text recognition; not inspection.
+O5255;X;TA01;(title only) Open-set plant-disease detection; agriculture context.
+O5268;X;TA02;(title only) Open-set rolling-bearing fault diagnosis; vibration data, non-visual.
+O5271;X;TA01;(title only) Bayesian neural networks for simulated material-response fields; not inspection.
+O5278;X;TA02;(title only) Reliability quantification for semiconductor big data; non-visual analytics.
+O5283;X;TA01;(title only) Generic continual learning method.
+O5293;X;TA02;(title only) Temporal-feature industrial anomaly detection; non-visual.
+O5301;X;TA02;(title only) Battery thermal-runaway novelty detection from sensor data; non-visual.
+O5308;U;;(title only) Aero-engine blade surface-defect detection; in scope by context and modality, reliability dimension not determinable from title.
+O5313;X;TA02;(title only) Machine anomalous sound detection; acoustic, non-visual.
+O5328;X;TA03;(title only) Review of AI-nanomaterial coating design; no learned inspection model.
+O5331;U;;(title only) Pavement crack segmentation; reliability dimension not determinable from title.
+O5332;X;TA02;(title only) Energy-deception attack detection in CPS; non-visual.
+O5345;F;;(title only) Wafer-map classification of mixed defects from single-defect training; possible compositional shift (R3).
+O5347;U;;(title only) Civil-infrastructure crack segmentation; reliability dimension not determinable from title.
+O5360;U;;(title only) Visual-to-tactile cross-modal micro-defect detection; possible multimodal reliability (R6), not determinable from title.
+O5362;X;TA03;(title only) Manufacturing-paradigm retrospect; no learned inspection model.
+O5365;U;;(title only) Diffusion generation of structural damage images; whether shift or evaluation validity is assessed is unknown.
+O5368;U;;(title only) Data-efficient melt-pool defect classification in L-PBF; reliability dimension not determinable from title.
+O5370;X;TA01;(title only) Navigation aid for visually impaired users; not inspection.
+O5373;X;TA01;(title only) Medical anomaly detection.
+O5374;X;TA01;(title only) Background chapter of an open-set text recognition brief; not inspection.
+O5375;X;TA01;(title only) Generic unknown-class learning method.
+O5379;X;TA02;(title only) Acoustic industrial anomaly detection; non-visual.
+O5383;U;;(title only) Multi-modal multi-class unsupervised anomaly detection; possible R6, not determinable from title.
+O5386;X;TA02;(title only) Explainable time-series forecasting in pulp and paper; non-visual.
+O5388;X;TA01;(title only) Book chapter on future directions of human-AI collaboration; no inspection study.
+O5393;U;;(title only) Instance-aware zero-shot industrial anomaly detection; whether shift is evaluated is unknown (note 2).
+O5398;X;TA03;(title only) Ship corrosion detection by image processing and active contours; no learned model.
+O5416;U;;(title only) Casting surface-defect detection trained on artificial defects; possible synthetic-to-real shift, not determinable from title.
+O5420;U;;(title only) Bearing surface-defect detection; reliability dimension not determinable from title.
+O5424;U;;(title only) Multimodal LLMs for industrial anomaly detection; possible grounding (R7), not determinable from title.
+O5425;U;;(title only) Few-shot augmentation for industrial defects; reliability dimension not determinable from title.
+O5431;U;;(title only) Industrial image anomaly localisation; reliability dimension not determinable from title.
+O5432;U;;(title only) Multisensor quality inspection of wire-harness assembly; possible R6, not determinable from title.
+O5448;U;;(title only) Diffusion-augmented zero-shot industrial anomaly detection with data screening; reliability dimension not determinable from title.
+O5451;X;TA01;(title only) EEG anomaly early warning; medical/physiological.
+O5452;X;TA03;(title only) Coverage planning for robotic inspection; no learned image model.
+O5454;X;TA01;(title only) Surveillance video anomaly detection.
+O5456;U;;(title only) Visual inspection of cardboard-box manufacturing; reliability dimension not determinable from title.
+O5459;X;TA01;(title only) Histopathology image distillation; medical.
+O5467;X;TA01;(title only) Video anomaly detection with VLMs; surveillance context.
+O5471;X;TA01;(title only) Rectal cancer therapy prediction; medical.
+O5474;U;;(title only) Few-shot anomaly detection by registration; context and reliability dimension not determinable from title.
+O5476;X;TA01;(title only) AI-to-human delegation in e-commerce.
+O5480;X;TA01;(title only) Chapter on evaluating explainability; no inspection study.
+O5483;B;;(title only) Review of AI/ML in manufacturing processes; contextual background.
+O5485;U;;(title only) Concrete crack segmentation and classification; reliability dimension not determinable from title.
+O5486;U;;(title only) Corroded-steel mass loss from images; reliability dimension not determinable from title; possible version of O5488.
+O5487;X;TA02;(title only) Network-traffic anomaly detection; non-visual.
+O5488;U;;(title only) Corroded-steel mass loss from images; reliability dimension not determinable from title; possible version of O5486.
+O5491;X;TA03;(title only) Optimisation of camera placement on construction sites; no learned inspection model.
+O5498;U;;(title only) Memory-bank diffusion anomaly detection; context and reliability dimension not determinable from title.
+O5505;U;;(title only) Anomaly detection with simulated abnormal samples; context and reliability dimension not determinable from title.
+O5509;X;TA01;(title only) Class-agnostic object counting; generic vision.
+O5511;U;;(title only) Efficient industrial anomaly detection; reliability dimension not determinable from title.
+O5519;X;TA02;(title only) Anomaly detection in nominal data; non-visual.
+O5523;U;;(title only) Structural crack segmentation with vision Mamba; reliability dimension not determinable from title.
+O5524;U;;(title only) Hyperspectral corrosion detection; reliability dimension not determinable from title.
+O5525;U;;(title only) Steel surface-defect detection; reliability dimension not determinable from title.
+O5532;U;;(title only) Metallic corrosion detection in natural environments; possible field shift, not determinable from title.
+O5539;X;TA01;(title only) X-ray security screening for explosives; security context.
+O5542;U;;(title only) Denoising anomaly localisation network; context and reliability dimension not determinable from title.
+O5547;U;;(title only) Thin-structure state-space segmentation; context (possibly cracks) and reliability not determinable from title.
+O5553;U;;(title only) Class-agnostic anomaly detection; cross-class generalisation may be evaluated (note 2), not determinable from title.
+O5556;U;;(title only) ML corrosion prediction for steel; modality not determinable from title.
+O5559;X;TA01;(title only) Endoscopy anomaly detection; medical.
+O5561;U;;(title only) Defect detection network; context and reliability not determinable from title.
+O5566;U;;(title only) Industrial anomaly localisation; reliability dimension not determinable from title.
+O5575;X;TA02;(title only) Shotcrete mechanical-property prediction; non-visual.
+O5586;U;;(title only) Multi-modal novelty detection; possible R3/R6, context not determinable from title.
+O5587;U;;(title only) Surface-defect segmentation; reliability dimension not determinable from title.
+O5591;X;TA02;(title only) Concrete permeability and corrosion-risk prediction from mix data; non-visual.
+O5594;U;;(title only) VQ-VAE anomaly detection; context and reliability not determinable from title.
+O5599;X;TA01;(title only) Tactile sensor for robotic manipulation.
+O5600;X;TA01;(title only) Generic imbalanced image classification.
+O5603;X;TA01;(title only) Carotid ultrasound anomaly detection; medical.
+O5605;U;;(title only) Image-text fusion for industrial defect detection; possible R6/R7, not determinable from title.
+O5606;U;;(title only) Deep learning for oil and gas pipeline leaks; modality not determinable from title.
+O5611;U;;(title only) Aero-engine blade defect detection in sample-limited settings; reliability dimension not determinable from title.
+O5612;U;;(title only) Multimodal anomaly detection; possible R6, not determinable from title.
+O5616;U;;(title only) Few-shot marble-slab defect detection; reliability dimension not determinable from title.
+O5618;U;;(title only) Multi-view assembly conformance verification; reliability dimension not determinable from title.
+O5622;U;;(title only) Industrial anomaly class discovery; possible open-set (R3), not determinable from title.
+O5626;U;;(title only) Robotic vision-based structural inspection; reliability dimension not determinable from title.
+O5632;F;;(title only) Industrial surface-defect detection with zero real defects and human-AI collaboration; possible R5 and synthetic-to-real shift.
+O5633;X;TA01;(title only) Generic cross-domain generalisation method.
+O5646;X;TA01;(title only) Generic domain generalisation method.
+O5648;X;TA01;(title only) Generic domain generalisation method.
+O5650;X;TA01;(title only) Generic domain generalisation method.
+O5653;X;TA01;(title only) Generic domain generalisation method.
+O5655;X;TA01;(title only) Generic domain generalisation method.
+O5657;B;;(title only) OOD-CV benchmark of nuisance shifts in natural images; R3 benchmark background.
+O5698;X;TA01;(title only) Generic test-time adaptation for segmentation.
+O5701;X;TA01;(title only) Generic deep domain adaptation (Deep CORAL).
+O5724;X;TA01;(title only) Noisy-label segmentation quality evaluation; medical imaging.
+O5733;X;TA01;(title only) Open-set adversarial defence; generic vision.
+O5753;X;TA01;(title only) Classic active-learning theory; no inspection study.
+O5757;X;TA01;(title only) Open-set adversarial defence; generic vision.
+O5761;X;TA01;(title only) Gastric metaplasia diagnosis; medical.
+O5768;X;TA01;(title only) Anomaly segmentation in urban driving.
+O5778;X;TA01;(title only) Classic uncertainty sampling; no inspection study.
+O5780;X;TA01;(title only) Visual tracking; generic vision.
+O5787;U;;(title only) Asphalt crack detection described as reliable; model type and reliability evaluation not determinable from title.
+O5790;X;TA03;(title only) Numerical epistemic uncertainty quantification; no learned image model.
+O5799;X;TA01;(title only) Generic noisy-label learning (SELFIE).
+O5806;X;TA03;(title only) Numerical epistemic uncertainty quantification; no learned image model.
+O5810;U;;(title only) Robust sewer-defect instance segmentation; whether robustness is evaluated is not determinable from title (note 1).
+O5813;X;TA01;(title only) Generic adversarially robust novelty detection.
+O5818;U;;(title only) Crack detection on noisy concrete surfaces (2009); model type not determinable from title.
+O5820;U;;(title only) Transfer learning in laser AM; modality not determinable from title.
+O5822;X;TA01;(title only) Generic robust anomaly-detection model.
+O5830;X;TA01;(title only) Image enhancement; generic vision.
+O5832;X;TA01;(title only) Synthetic indoor-scene rendering; generic vision.
+O5849;X;TA01;(title only) Synthetic data for urban segmentation.
+O5861;X;TA01;(title only) Scene-adaptive video anomaly detection; surveillance.
+O5862;X;TA01;(title only) Video anomalous event detection; surveillance.
+O5874;X;TA01;(title only) Generic domain-adversarial training.
+O5877;X;TA01;(title only) Point-cloud domain generalisation; generic.
+O5878;X;TA01;(title only) Classic multitask learning.
+O5906;X;TA01;(title only) Face anti-spoofing; biometrics.
+O5910;X;TA01;(title only) Financial anomaly detection survey.
+O5911;X;TA01;(title only) Kernel PCA novelty detection; generic method.
+O5917;U;;(title only) Synthetic data for surface-defect detection; possible synthetic-to-real shift, not determinable from title.
+O5919;X;TA01;(title only) Perspective on simulators and synthetic data in deep learning.
+O5920;X;TA01;(title only) Multi-task network masking; generic.
+O5923;X;TA01;(title only) Bilevel learning; generic.
+O5934;X;TA01;(title only) Open/closed set recognition classifier; generic.
+O5940;X;TA01;(title only) Generic unsupervised anomaly detection autoencoder.
+O5942;U;;(title only) Hybrid crack detection; model type and reliability not determinable from title.
+O5944;X;TA01;(title only) Fetal imaging pictorial essay; medical.
+O5945;U;;(title only) Synthetic anomalies for self-supervised anomaly localisation; context and reliability not determinable from title.
+O5946;X;TA01;(title only) Ensemble outlier mining; generic.
+O5949;U;;(title only) Bird-nest detection on rail catenary images; reliability dimension not determinable from title.
+O5964;X;TA01;(title only) Grad-CAM explanations; generic vision.
+O5990;X;TA01;(title only) Digital-twin review; no image-based inspection study.
+O5996;U;;(title only) Defect image classification (2005); model type and reliability not determinable from title.
+O6001;X;TA03;(title only) Ellipse detection in industrial images; geometric method, no learned model.
+O6004;X;TA01;(title only) Geometric image synthesis; generic vision.
+O6006;X;TA01;(title only) Dataset bias in object recognition; generic vision.
+O6008;U;;(title only) CNN sewer CCTV defect classification; reliability dimension not determinable from title.
+O6013;X;TA01;(title only) Loss functions in medical segmentation.
+O6018;X;TA01;(title only) ImageNet challenge; generic vision.
+O6023;X;TA01;(title only) Support vector data description; generic method.
+O6024;U;;(title only) CNN architectures for industrial inspection; reliability dimension not determinable from title.
+O6026;B;;(title only) Survey of knowledge transfer for manufacturing analytics; R3 contextual background.
+O6056;U;;(title only) SLM surface-quality prediction with transfer learning; modality not determinable from title.
+O6064;U;;(title only) CNN sewer defect classification; reliability dimension not determinable from title.
+O6070;X;TA03;(title only) Image processing of concrete cracking in laboratory tests; no learned model.
+O6073;X;TA01;(title only) Multiple-class novelty detection; generic vision.
+O6079;B;;(title only) Survey of automated visual inspection in semiconductors; contextual background.
+O6082;X;TA02;(title only) 3D-printing surface quality from process parameters with GBDT; non-visual.
+O6090;F;;(title only) Bayesian networks for learning from inconsistent labels in surface-defect segmentation (R4, R1).
+O6107;U;;(title only) Transformer sewer defect detection; reliability dimension not determinable from title.
+O6117;X;TA01;(title only) Movie trailer moments.
+O6123;U;;(title only) Sewer defect segmentation and severity quantification; reliability dimension not determinable from title.
+O6129;X;TA01;(title only) Breast cancer profiling; medical.
+O6136;X;TA01;(title only) Fetal brain segmentation from noisy annotations; medical.
+O6137;X;TA01;(title only) Adversarial sample properties; generic.
+O6139;U;;(title only) Planetary gearbox defect classification with histogram features; modality not determinable from title.
+O6142;U;;(title only) Self-supervised steel surface-defect detection; reliability dimension not determinable from title.
+O6145;X;TA01;(title only) Domain generalisation in radiology; medical.
+O6148;X;TA01;(title only) Cross-subject mental fatigue detection; physiological.
+O6150;X;TA01;(title only) Generic multi-source domain adaptation.
+O6151;U;;(title only) Overconfidence mitigation in open-set object detection; possible R1/R3, application context not determinable from title.
+O6153;X;TA01;(title only) ViT attention robustness; generic vision.
+O6160;X;TA01;(title only) Surveillance video anomaly detection.
+O6161;U;;(title only) Diffusion model for pavement defect detection; reliability dimension not determinable from title.
+O6162;X;TA02;(title only) Distributed fibre-optic sensing anomaly detection; non-visual.
+O6167;X;TA02;(title only) Time-series anomaly detection survey; non-visual.
+O6169;X;TA01;(title only) Biomedical segmentation augmentation.
+O6170;X;TA01;(title only) Generic surrogate anomaly detection.
+O6174;X;TA02;(title only) 5G-IoT intrusion detection; non-visual.
+O6182;U;;(title only) Timber-heritage pathology segmentation under data scarcity; reliability dimension not determinable from title.
+O6186;F;;(title only) Domain-adapted super-resolution for low-cost 3D-printing defect detection; possible R3/R6.
+O6188;X;TA01;(title only) Review of latent-space future prediction; generic.
+O6190;X;TA01;(title only) Table question answering survey.
+O6197;X;TA02;(title only) Seismic damage prediction for girder bridges; non-visual.
+O6198;X;TA01;(title only) Model retraining on event streams for decision support.
+O6200;U;;(title only) VLM-based fault-aware 3D-printing monitoring; possible R7, not determinable from title.
+O6202;U;;(title only) Steel-bridge corrosion segmentation; reliability dimension not determinable from title.
+O6203;F;;(title only) Anomaly detection with illumination-conditioned noise on MVTec AD 2; possible acquisition robustness (R3/R6).
+O6204;B;;(title only) Review of AI diagnostics for industrial electrical systems; energy-context background.
+O6207;X;TA02;(title only) LSTM digital twin for renewable generation monitoring; non-visual.
+O6211;X;TA01;(title only) Vision for unmanned surface vehicles review; navigation, not inspection.
+O6218;X;TA03;(title only) Gripper design for infrastructure inspection; no learned model.
+O6220;X;TA02;(title only) Few-shot fault diagnosis; non-visual.
+O6221;U;;(title only) Continual unlearning for private industrial vision anomaly detection; reliability dimension not determinable from title.
+O6223;X;TA02;(title only) ANN corrosion prediction review; non-visual.
+O6231;X;TA01;(title only) Generic noise-robust domain adaptation.
+O6232;X;TA01;(title only) Generic domain generalisation loss.
+O6233;X;TA01;(title only) Open-set object detection (Grounding DINO); generic vision.
+O6242;X;TA01;(title only) Open-set video anomaly detection; surveillance.
+O6245;X;TA01;(title only) Generic semi-supervised domain adaptation.
+O6253;X;TA01;(title only) Generic source-free domain adaptation.
+O6259;B;;(title only) Reliable evaluation of robust segmentation models; R8 methodological background.
+O6261;X;TA01;(title only) Generic unsupervised domain adaptation.
+O6262;F;;(title only) Unsupervised domain adaptation for crack segmentation (R3).
+O6266;U;;(title only) Structural damage detection with adversarial domain adaptation; modality not determinable from title.
+O6270;X;TA02;(title only) Heterogeneous domain adaptation for equipment matching; non-visual.
+O6286;X;TA01;(title only) Adversarial attack for segmentation; generic vision.
+O6288;U;;(title only) Robust surface-defect detection with self-supervision; whether robustness is evaluated is not determinable from title (note 1).
+O6290;X;TA02;(title only) Pencil-lead-break rail damage detection; acoustic signals, non-visual.
+O6303;X;TA01;(title only) Interactive medical image classification.
+O6308;B;;(title only) Shortcut learning in deep networks; R3/R8 conceptual background.
+O6310;X;TA01;(title only) Psychology of priors and trust.
+O6312;U;;(title only) Seismic damage diagnosis with adversarial transfer; modality not determinable from title.
+O6315;X;TA02;(title only) Time-series virtual metrology; non-visual.
+O6319;U;;(title only) Weld-pool image penetration recognition with ViT; reliability dimension not determinable from title.
+O6329;X;TA01;(title only) Review of deep learning for image processing; generic.
+O6334;U;;(title only) Federated learning for collaborative manufacturing; modality not determinable from title.
+O6343;U;;(title only) Pavement distress segmentation; reliability dimension not determinable from title.
+O6344;U;;(title only) PV module fault diagnosis from thermal images; model type and reliability not determinable from title.
+O6345;U;;(title only) Video-based anomaly detection in WAAM; reliability dimension not determinable from title.
+O6349;U;;(title only) Side-scan sonar tracking of submarine cables and pipelines; model type and reliability not determinable from title.
+O6350;X;TA02;(title only) Federated transfer fault diagnosis; non-visual.
+O6358;X;TA01;(title only) Feature construction from explanations; generic.
+O6360;X;TA01;(title only) Visual-tactile road recognition for autonomous vehicles.
+O6364;X;TA02;(title only) Anomaly detection over data streams; non-visual.
+O6365;X;TA01;(title only) Bayes' formula in medical decision-making.
+O6367;B;;(title only) Explanatory interactive learning to correct models; R5 methodological background.
+O6369;U;;(title only) Lightweight CNN crack classification; reliability dimension not determinable from title.
+O6382;X;TA01;(title only) Review of virtual sample generation; generic.
+O6390;X;TA01;(title only) Optimal transport theory.
+O6392;U;;(title only) Pavement crack segmentation; reliability dimension not determinable from title.
+O6395;X;TA01;(title only) Super-resolution of porous-media micro-CT; geoscience imaging.
+O6397;X;TA01;(title only) Dichotomous image segmentation; generic vision.
+O6399;X;TA01;(title only) Encyclopedia entry on empirical risk minimisation.
+O6406;U;;(title only) Multi-visual-modality drone damage detection; possible R6, not determinable from title.
+O6407;X;TA01;(title only) Explaining image classifications; generic.
+O6412;U;;(title only) Synthesis of deep-learning performance in pavement distress detection; possible R8, not determinable from title.
+O6419;X;TA01;(title only) Failure detection for urban semantic segmentation.
+O6421;X;TA02;(title only) Text anomaly detection; non-visual.
+O6425;X;TA01;(title only) Biomedical additive manufacturing review.
+O6427;X;TA01;(title only) Brain MRI anomaly segmentation; medical.
+O6430;U;;(title only) Stereo-vision GMAW penetration recognition; reliability dimension not determinable from title.
+O6431;B;;(title only) Evaluation of unsupervised outlier detection; R8 methodological background.
+O6433;X;TA01;(title only) Generative models review.
+O6452;B;;(title only) Review of in-situ monitoring in laser additive manufacturing; contextual background.
+O6454;U;;(title only) Molten-pool morphology prediction in laser welding; modality not determinable from title.
+O6456;X;TA02;(title only) Latent dynamic VAEs for chemical product quality; non-visual.
+O6459;X;TA01;(title only) Medical anomaly detection review.
+O6461;X;TA01;(title only) Wasserstein distribution theory.
+O6462;X;TA01;(title only) Face recognition.
+O6463;U;;(title only) Power-line detection in UAV images; model type and reliability not determinable from title.
+O6469;U;;(title only) Weld-pool oscillation monitoring from reflected laser patterns; model type not determinable from title.
+O6474;U;;(title only) Melt-pool monitoring and classification in DED; reliability dimension not determinable from title.
+O6482;U;;(title only) Transparency-based diffusion anomaly detection; context and reliability not determinable from title.
+O6484;U;;(title only) Vision-based welding penetration monitoring; reliability dimension not determinable from title.
+O6491;U;;(title only) CNN cable detection; context and reliability not determinable from title.
+O6492;B;;(title only) Benchmark of active learning for outlier detection; R5 methodological background.
+O6496;U;;(title only) Weld-pool synthesis to support human control; possible R5, not determinable from title.
+O6497;U;;(title only) Two-stream CNN robotic welding monitoring; reliability dimension not determinable from title.
+O6501;U;;(title only) Data-fused anomaly detection in WAAM; possible R6, not determinable from title.
+O6502;U;;(title only) Anomaly detection in arc DED; reliability dimension not determinable from title.
+O6503;X;TA02;(title only) IoT structural health monitoring review; non-visual.
+O6505;X;TA02;(title only) Satellite orbit outlier detection; non-visual.
+O6511;B;;(title only) Domain-generalisation benchmark for fault diagnosis; R3 methodological background (non-visual).
+O6512;B;;(title only) Survey of test-time adaptation under distribution shift; R3 methodological background.
+O6523;X;TA01;(title only) Cross-domain recommendation.
+O6526;X;TA02;(title only) Building energy prediction; non-visual.
+O6527;X;TA01;(title only) Multi-view matching pursuit; generic.
+O6528;X;TA03;(title only) Bolted-joint assembly optimisation; no learned image model.
+O6533;X;TA02;(title only) PV fault diagnosis from electrical Lissajous curves; non-visual.
+O6536;X;TA03;(title only) Spot-welding process simulation; no learned model.
+O6538;X;TA02;(title only) Solar irradiance forecasting; non-visual.
+O6541;U;;(title only) Auto-encoder distillation for industrial anomaly detection; reliability dimension not determinable from title.
+O6546;X;TA02;(title only) Weld penetration from electrode displacement signals; non-visual.
+O6548;U;;(title only) Diffusion reconstruction for 3D anomaly detection; context and reliability not determinable from title.
+O6551;U;;(title only) Multi-source fusion for spot-welding quality; possible R6, modality not determinable from title.
+O6558;U;;(title only) Hybrid spot-welding quality evaluation; modality not determinable from title.
+O6559;X;TA02;(title only) Multivariate time-series anomaly detection; non-visual.
+O6566;U;;(title only) Wafer-map defect pattern detection; reliability dimension not determinable from title.
+O6570;X;TA03;(title only) Bolted assembly bearing-limit prediction; no learned image model.
+O6572;X;TA01;(title only) Railway alignment knowledge graph; not inspection.
+O6577;U;;(title only) Spot-welding surface appearance recognition; reliability dimension not determinable from title.
+O6581;B;;(title only) Review of mobile robots for recognition and tracking in civil engineering; contextual background.
+O6582;F;;(title only) Domain-invariant crack segmentation with SAM (R3).
+O6583;U;;(title only) Lightweight real-time crack detection; reliability dimension not determinable from title.
+O6584;X;TA01;(title only) PASCAL VOC retrospective; generic vision.
+O6588;U;;(title only) Asphalt crack detection and quantification; reliability dimension not determinable from title.
+O6593;U;;(title only) RC crack segmentation and quantification; reliability dimension not determinable from title.
+O6596;B;;(title only) Review of ultrasonic testing in civil NDT/E; contextual background.
+O6597;U;;(title only) SAM-based structural damage segmentation; reliability dimension not determinable from title.
+O6599;X;TA03;(title only) Laser surface structuring of bipolar plates; no learned model.
+O6605;X;TA02;(title only) Solar production forecasting; non-visual.
+O6607;X;TA01;(title only) Generic vision transformer backbone.
+O6608;X;TA02;(title only) Spot-welding mechanical property curve monitoring; non-visual.
+O6609;X;TA01;(title only) Pedestrian crossing-time estimation for driver assistance.

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/gtb1yCeLSZCEB3l3gg4IX0va1es</id>
+  <title>arXiv Query: search_query=&amp;id_list=2610.04392&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:08Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2610.04392" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.04392v1</id>
+    <title>Detecting Defects that Matter: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4.0 Challenge)</title>
+    <updated>2026-10-03T09:29:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.04392v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.04392v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Existing Anomaly Detection benchmarks are saturated and often unrealistic. As part of the VAND 4.0 Challenge, we introduce a hidden-test, application-driven benchmark across two deployment-critical domains: industrial manufacturing and retail logistics. In the Industrial Track (MVTec AD 2), the results reveal that unsupervised anomaly segmentation remains challenging: the best regular-setting method achieves only ~57\% pixel-level $SegF_1$, indicating substantial room for improvement. Zero-shot approaches trail by ~15 $SegF_1$ points, confirming that task-specific training on normal data remains essential for precise defect localization. Robustness to distribution shifts remains a key open challenge and DINOv3-backbones clearly dominate this track. In the Retail Track (Kaputt 2), the results reveal that (1) supervised defect detection is approaching saturation for common defect types; (2) the best off-the-shelf VLM approach trails specialized models by ~28 AP, confirming that currently VLMs cannot replace fine-tuned detectors, (3) reference images did not prove helpful for top-performing approaches. Performance collapses on rare defects (spillage ~53 AP, missing units ~27 AP), where the supervised ceiling is bounded by data availability. To drive future progress in this domain, we provide a new low-prevalence retail AD dataset (Kaputt-Rare). Across both tracks, computational efficiency is assessed as a first-class metric combining performance, throughput, memory, and power consumption. We introduce a novel metric for measuring efficiency and reveal that that top-performing methods rely on heavy architectures while efficiency is largely neglected. Overall, we conclude that the community needs (a) more efficiency-aware method development, and (b) true anomaly detection approaches for rare defects and shifting conditions. https://sites.google.com/view/vand4-cvpr2026/challenge</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-03T09:29:22Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Lars Heckler-Kram</name>
+    </author>
+    <author>
+      <name>Dorian Henning</name>
+    </author>
+    <author>
+      <name>Ashwin Vaidya</name>
+    </author>
+    <author>
+      <name>Jan-Hendrik Neudeck</name>
+    </author>
+    <author>
+      <name>Ulla Scheler</name>
+    </author>
+    <author>
+      <name>Anton Milan</name>
+    </author>
+    <author>
+      <name>Samet Akcay</name>
+    </author>
+    <author>
+      <name>Paula Ramos</name>
+    </author>
+    <author>
+      <name>Sebastian Höfer</name>
+    </author>
+  </entry>
+</feed>

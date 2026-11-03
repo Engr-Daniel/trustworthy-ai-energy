@@ -1,0 +1,71 @@
+# Part 5
+O6498;X;TA01;Video editing
+O6499;X;TA05;X-ray robot internal defect detection in ACCC transmission lines; accuracy only
+O6500;X;TA01;Ship detection in satellite images
+O6504;X;TA01;Medical CT super-resolution
+O6506;X;TA05;3D pavement distress detection (Faster R-CNN, YOLO); accuracy only
+O6507;X;TA03;Vision path following for pipeline UAS; no inspection model reliability
+O6508;X;TA01;Medical anatomy segmentation
+O6510;X;TA03;Review of ML-assisted in-situ control in metal AM; not visual-inspection reliability
+O6513;B;;Evaluation of post-hoc OOD detectors when classifiers are trained with label noise; R3/R4 methodological background
+O6514;X;TA01;Generic test-time adaptation
+O6515;X;TA01;Event-camera object recognition test-time adaptation
+O6517;X;TA01;Generic diffusion test-time adaptation
+O6518;X;TA01;Generic calibration method (Bayesian binning)
+O6519;X;TA01;Generic OOD detection method
+O6520;X;TA01;Fine-grained OOD detection (birds, medical)
+O6521;X;TA01;Generic OOD detection method
+O6522;X;TA01;Geological-hazard surface crack segmentation; not asset inspection
+O6524;X;TA01;Recommender systems
+O6529;F;;Low-light railway defect detection evaluated on collected low-light data and low-light-converted NEU, DAGM and Magnetic Tile sets (R3 synthetic illumination shift)
+O6530;X;TA01;Online adaptation for driving-scene segmentation
+O6531;X;TA01;Online adaptation for driving-scene segmentation
+O6532;X;TA01;Generic domain randomisation for object detection
+O6534;X;TA02;PV array fault detection from electrical signals; non-visual
+O6535;X;TA05;Solar panel fault CNN-ViT; accuracy only
+O6537;F;;Continual-MEGA benchmark for generalisable continual anomaly detection under changing categories and defect types (R3, R8; consistent with O4465)
+O6539;X;TA01;Generic continual learning survey
+O6540;B;;Critique of OOD benchmarks and proposal of semantic anomaly benchmarks; R8 methodological background
+O6542;X;TA05;Defect-GAN synthesis for defect inspection; accuracy only
+O6543;B;;Why ReLU networks are overconfident far from training data; R1 methodological background
+O6544;X;TA01;Bird recognition dataset
+O6545;X;TA01;Tiny-images dataset
+O6547;X;TA05;PV panel fault CNN with feature selection; accuracy only
+O6549;X;TA01;Generic synthetic data for instance detection
+O6550;B;;Perspective on lifelong continual learning for anomaly detection; R3 methodological background
+O6552;X;TA01;Species dataset
+O6553;X;TA01;Backdoor attacks on traffic-sign detectors
+O6554;X;TA01;Personality recognition
+O6555;X;TA01;Face detector adaptation
+O6557;X;TA05;Lightweight MLLM one-shot industrial AD; accuracy only
+O6560;X;TA05;MLLM anomaly detection with reasoning rewards; accuracy only
+O6561;X;TA05;2007 texture-exemplar defect detection; no reliability dimension
+O6562;X;TA05;Expert-guided MLLM industrial AD on MMAD; robustness asserted without shift or grounding evaluation (note 1)
+O6563;X;TA01;Image inpainting
+O6564;B;;Quantitative survey of 139 industrial practitioners on attacks against deployed ML; R3 methodological background
+O6565;X;TA05;Universal zero/few-shot visual AD; standard cross-domain protocol only (note 2)
+O6567;F;;Procedural physically based synthetic training data with domain randomisation to bridge the synthetic-to-real gap in industrial surface inspection (R3 to verify; consistent with O3856)
+O6568;X;TA01;Generic long-tailed recognition
+O6573;X;TA05;Wafer defect map classification on field test data; accuracy and speed
+O6574;X;TA02;Wind power forecasting from SCADA; non-visual
+O6575;X;TA01;Medical continual visual AD
+O6576;X;TA05;SAM LoRA crack segmentation; accuracy only
+O6578;X;TA01;Federated poisoning defence; no inspection context
+O6579;X;TA05;2D-3D fusion industrial AD; accuracy only
+O6580;X;TA05;Synthetic split-defect images for stamping; accuracy gain only
+O6586;X;TA05;VLM post-training for industrial AD; accuracy only
+O6587;X;TA05;Procedural defect modelling for virtual inspection; no reliability evaluation
+O6589;B;;Review of adversarial machine learning (Wild Patterns); R3 methodological background (consistent with O6359)
+O6590;X;TA01;Topological deep learning review
+O6591;X;TA05;Hybrid crack segmentation; accuracy only
+O6592;X;TA01;Generic multimodal LM perception
+O6594;X;TA03;Fuzzy control for robotic crack tracking; no learned inspection reliability
+O6595;X;TA05;Edge crack measurement distillation; accuracy and speed
+O6598;X;TA05;Synthetic data toolkit for manufacturing; no reliability evaluation
+O6600;X;TA02;PV power forecasting; non-visual
+O6601;X;TA05;Solar panel contaminant fault CNN; accuracy only
+O6602;X;TA02;PV power forecasting; non-visual
+O6603;X;TA05;Synthetic-plus-real composite layup defect detection; accuracy on production data only
+O6604;X;TA02;Resistance spot welding quality from electrical signals; non-visual
+O6606;X;TA01;Personality recognition
+O6610;B;;Introduction to conformal prediction; R2 methodological background

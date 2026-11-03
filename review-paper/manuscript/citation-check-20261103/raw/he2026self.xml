@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/dyobU3mGcIbWOZkJFgCHGErz5P4</id>
+  <title>arXiv Query: search_query=&amp;id_list=2603.14869&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:06Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2603.14869" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2603.14869v3</id>
+    <title>A Self-Evolving Defect Detection Framework for Industrial Photovoltaic Systems</title>
+    <updated>2026-10-31T01:40:19Z</updated>
+    <link href="https://arxiv.org/abs/2603.14869v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.14869v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Reliable photovoltaic (PV) power generation requires timely detection of module defects that may reduce energy yield, accelerate degradation, and increase lifecycle operation and maintenance costs during field operation. Electroluminescence imaging is therefore widely adopted for PV module inspection; however, automated defect detection in real operational environments remains challenging due to heterogeneous module geometries, low-resolution imaging conditions, subtle defect morphology, long-tailed defect distributions, and persistent data and label-space shifts from evolving inspection and labeling processes. These factors limit the robustness and long-term maintainability of conventional deep-learning inspection pipelines. To address these challenges, this paper proposes SEPDD, a Self-Evolving Photovoltaic Defect Detection framework designed for evolving industrial PV inspection scenarios. SEPDD integrates automated pipeline optimization with a trigger-driven evolution mechanism that re-optimizes the whole training/evaluation pipeline when deployment indicators (retraining failure, label evolution, environmental change, periodic maintenance) fire, enabling deployment-time adaptation to distribution shifts and newly emerging defect patterns. Experiments on a public PV defect benchmark and a private industrial dataset, both exhibiting severe class imbalance and significant domain shift, demonstrate SEPDD's effectiveness: it attains mAP50 of 91.5% on the public dataset and 49.5% on the private dataset, surpassing the autonomous baseline by 14.9% and human experts by 4.8% on the public dataset, and by 4.9% and 2.5%, respectively, on the private dataset; comparisons are limited to the two evaluated datasets and the studied baselines. By improving the robustness and adaptability of automated PV inspection, the proposed framework supports more reliable maintenance of distributed PV systems.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-16T06:15:26Z</published>
+    <arxiv:comment>12 pages, 8 figures, 5 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Haoyu He</name>
+    </author>
+    <author>
+      <name>Yu Duan</name>
+    </author>
+    <author>
+      <name>Wenzhen Liu</name>
+    </author>
+    <author>
+      <name>Hanyuan Hang</name>
+    </author>
+    <author>
+      <name>Boyu Qin</name>
+    </author>
+    <author>
+      <name>Qiantu Tuo</name>
+    </author>
+    <author>
+      <name>Xiaoke Yang</name>
+    </author>
+    <author>
+      <name>Rui Li</name>
+    </author>
+  </entry>
+</feed>

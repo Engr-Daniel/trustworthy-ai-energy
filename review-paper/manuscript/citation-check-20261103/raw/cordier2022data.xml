@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/8ktDfXgN2wdIEw1uSO8uNGZPANw</id>
+  <title>arXiv Query: search_query=&amp;id_list=2202.12759&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:26:55Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2202.12759" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2202.12759v1</id>
+    <title>Data refinement for fully unsupervised visual inspection using pre-trained networks</title>
+    <updated>2022-02-25T15:25:05Z</updated>
+    <link href="https://arxiv.org/abs/2202.12759v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2202.12759v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Anomaly detection has recently seen great progress in the field of visual inspection. More specifically, the use of classical outlier detection techniques on features extracted by deep pre-trained neural networks have been shown to deliver remarkable performances on the MVTec Anomaly Detection (MVTec AD) dataset. However, like most other anomaly detection strategies, these pre-trained methods assume all training data to be normal. As a consequence, they cannot be considered as fully unsupervised. There exists to our knowledge no work studying these pre-trained methods under fully unsupervised setting. In this work, we first assess the robustness of these pre-trained methods to fully unsupervised context, using polluted training sets (i.e. containing defective samples), and show that these methods are more robust to pollution compared to methods such as CutPaste. We then propose SROC, a Simple Refinement strategy for One Class classification. SROC enables to remove most of the polluted images from the training set, and to recover some of the lost AUC. We further show that our simple heuristic competes with, and even outperforms much more complex strategies from the existing literature.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-02-25T15:25:05Z</published>
+    <arxiv:comment>18 pages, 13 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Antoine Cordier</name>
+    </author>
+    <author>
+      <name>Benjamin Missaoui</name>
+    </author>
+    <author>
+      <name>Pierre Gutierrez</name>
+    </author>
+  </entry>
+</feed>

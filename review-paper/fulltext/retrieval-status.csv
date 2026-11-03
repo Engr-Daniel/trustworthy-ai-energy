@@ -801,3 +801,200 @@ R06,S0035,Not retrieved - no open-access location,,,0,2026-10-23T06:26:42.870317
 R10,Not linked,Retrieved - arXiv version (another report of the study),arXiv exact-title search (pdf): https://arxiv.org/pdf/2410.21982,a0d87bc534bc36519eb9655bede88c46dc96e49684e15553f6c08fc302c6b7fa,172329,2026-10-23T06:28:01.597589+00:00
 R11,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://link.springer.com/content/pdf/10.1007/s11263-023-01822-w.pdf,7ccbd30ed27ffa5d02c9fb7470714b3ef50e2e19015db6c3bc1971cbe635ec69,123775,2026-10-23T06:28:12.722506+00:00
 O5204,Not linked,Not retrieved - all locations failed,,,0,2026-11-02T16:05:22.400438+00:00
+O5226,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:37:35.547956+00:00
+O5234,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:37:35.579871+00:00
+O5235,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:37:35.603809+00:00
+O5237,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:37:40.572817+00:00
+O5244,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:37:40.585375+00:00
+O5245,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:37:40.600876+00:00
+O5246,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2506.14255,82f9053894ac16596344b66da7f733731020e64b1b08dea3c9c1ea4cd4c8449b,55930,2026-11-03T21:46:22.517948+00:00
+O5250,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:22.536897+00:00
+O5252,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:22.551857+00:00
+O5257,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:22.563830+00:00
+O5261,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:22.576797+00:00
+O5265,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:22.589283+00:00
+O5267,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:22.599261+00:00
+O5273,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://link.springer.com/content/pdf/10.1007/s10845-025-02778-z.pdf,76c728bc0765f9e0516a1d01f4a7728e49ccf85cef52b3e29c0cfeade12bf9cb,127608,2026-11-03T21:46:50.341579+00:00
+O5276,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:46:50.350533+00:00
+O5280,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://link.springer.com/content/pdf/10.1007/s10845-025-02569-6.pdf,19d8422d7507f104596749053874f0e59df19981f9f34da8ad2748f2489f17fe,80256,2026-11-03T21:47:20.959391+00:00
+O5281,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://repozitorij.uni-lj.si/Dokument.php?id=232744&dn=,57bb4c1aff7a98767b3f38482726af2588944ddfd06eb8ebd21860a13e8fb7cb,54296,2026-11-03T21:47:56.061298+00:00
+O5284,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:47:59.471451+00:00
+O5286,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://link.springer.com/content/pdf/10.1007/s10044-025-01477-y.pdf,2b4547e783e0bb77b5184688552ec654dc2e37d0535bf5dd062156a7a71feb3c,52907,2026-11-03T21:48:05.254216+00:00
+O5287,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:48:09.594180+00:00
+O5291,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:48:09.603630+00:00
+O5292,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:48:09.613590+00:00
+O5303,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:48:11.804850+00:00
+O5306,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:48:13.786631+00:00
+O5308,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:48:13.804583+00:00
+O5312,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:48:16.435407+00:00
+O5314,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:48:16.449949+00:00
+O5323,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2502.13992,56982e9a0d0e442522473550c8f8ef50efec51ef6761af6adb4a5432ae362cbc,70807,2026-11-03T21:50:43.641640+00:00
+O5324,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:50:43.652640+00:00
+O5327,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:50:45.967893+00:00
+O5331,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:50:45.980423+00:00
+O5342,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:50:51.081786+00:00
+O5343,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:50:53.412758+00:00
+O5344,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2407.15795,07d2d55154ddc8df4cc14fc2461ddda5a7124cc92416954bb737cc9f0a4fbe3e,93770,2026-11-03T21:55:49.881496+00:00
+O5345,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:55:53.022352+00:00
+O5347,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:55:53.040268+00:00
+O5348,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2511.00540,f8f9e12c12ac5844495c0fcdc167d371b4230913d5582d54a6508481326bd603,79095,2026-11-03T21:56:13.247155+00:00
+O5356,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:13.262115+00:00
+O5360,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:13.273139+00:00
+O5361,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:56:15.410759+00:00
+O5365,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:15.419835+00:00
+O5368,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2411.10822,dad00934d1ff7614e16e15fdace506269a5c19b2ac6091880b8dbb6b0825111d,63252,2026-11-03T21:56:20.437611+00:00
+O5383,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:20.446587+00:00
+O5389,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:20.456561+00:00
+O5393,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:20.465538+00:00
+O5402,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:20.475485+00:00
+O5407,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:20.484461+00:00
+O5413,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:56:24.262118+00:00
+O5414,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2309.16902,79e93bbb5eaacce72cba8416eff13298885f2ffdcd8ee56239428679a32dd7a2,86954,2026-11-03T21:56:37.033412+00:00
+O5416,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:56:39.705837+00:00
+O5420,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:39.715342+00:00
+O5424,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:39.724260+00:00
+O5425,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:39.733235+00:00
+O5431,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:39.743210+00:00
+O5432,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:39.755206+00:00
+O5438,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2508.07441,1ef8a61adbf42d5d9b790d83a8b48ac68cfcb2f0f1a8a11c1ac21281d7be7ec3,31951,2026-11-03T21:56:44.299279+00:00
+O5444,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:56:50.656805+00:00
+O5448,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:50.666334+00:00
+O5456,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:56:54.857692+00:00
+O5462,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:54.869090+00:00
+O5474,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:54.879061+00:00
+O5477,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:54.892686+00:00
+O5484,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:54.903107+00:00
+O5485,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:56:54.915101+00:00
+O5486,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:56:57.847554+00:00
+O5488,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:57:00.551209+00:00
+O5498,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:57:00.565147+00:00
+O5505,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:57:00.575120+00:00
+O5511,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:57:03.303039+00:00
+O5523,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:57:03.314526+00:00
+O5524,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:57:05.951731+00:00
+O5525,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:57:05.962367+00:00
+O5532,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:57:05.977384+00:00
+O5535,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:57:08.107605+00:00
+O5538,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2505.10996,83a1aa47dc1ab6960347f4e94440418d49f672f470638c3cec105ff2b799c179,57408,2026-11-03T21:57:24.944964+00:00
+O5542,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:57:24.960922+00:00
+O5547,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2603.28503,c53b3d6cba4a0fb3af3ee7d91f03ee4e999b4d4043c293b297e68c7dba9ec44d,48830,2026-11-03T21:58:03.321699+00:00
+O5553,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2509.23741,d1ff9c0883be753df1e099522e56a7f990673bce674ce7e11f38e7b776eeb623,109407,2026-11-03T21:58:11.467548+00:00
+O5556,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:11.478520+00:00
+O5561,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:11.489564+00:00
+O5566,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:11.513501+00:00
+O5584,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:11.577331+00:00
+O5586,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:11.622211+00:00
+O5587,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:11.652322+00:00
+O5588,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:58:15.098292+00:00
+O5594,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:15.118240+00:00
+O5605,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:15.133400+00:00
+O5606,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:15.153288+00:00
+O5610,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2306.03551,5f7f496b9e77dc22f2a2324abeecaf546a82f0039ce0ea1f0c5aebcccdeb119f,64735,2026-11-03T21:58:42.805394+00:00
+O5611,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://www.researchsquare.com/article/rs-6416020/latest.pdf,d7d04ff8e8fd88321002e5542044dfdfa6a5d0031c79c6fc6192b1f78e436746,59480,2026-11-03T21:58:48.222448+00:00
+O5612,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:58:50.927551+00:00
+O5616,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:50.947497+00:00
+O5618,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:50.991378+00:00
+O5622,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:51.058202+00:00
+O5626,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:51.083134+00:00
+O5632,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:58:51.127017+00:00
+O5735,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2111.10101,64d57efe8de748e2c234b35e177a2309e73eddb2e3c9a33fc706ac6e8264512d,66829,2026-11-03T21:59:04.289910+00:00
+O5786,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://www.dora.lib4ri.ch/empa/dload/empa:36962/PDF/view,a2ea57e1596779c57a7b2486b0b2e0b46812a5b09abe1fc1e6dbbee741ae187c,77601,2026-11-03T21:59:23.826419+00:00
+O5787,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:23.836392+00:00
+O5791,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2110.14825,027d5158f333ea6ca6605a63f842796e2927bd32d34930deef3fc74595114aea,22970,2026-11-03T21:59:34.450468+00:00
+O5798,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/1901.06355,f39cb08a42fbae7c66c6e70f69e937755081b7bcb55e0d9a630ca60d9a7d2e9e,45814,2026-11-03T21:59:41.264019+00:00
+O5810,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:41.275340+00:00
+O5816,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:41.289819+00:00
+O5818,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:41.304773+00:00
+O5819,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/1909.08216,94bff25951a984b903c23aec4a108d5f6745858e400de34e12b56f5107fd5b3b,66204,2026-11-03T21:59:46.509873+00:00
+O5820,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:46.520353+00:00
+O5913,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T21:59:49.146397+00:00
+O5917,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:49.166341+00:00
+O5935,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2110.09396,9e7d3f70ae3985e504e85f34474d8359d00ce105e1ded11751bc4be7e659eb9a,29337,2026-11-03T21:59:53.715970+00:00
+O5942,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T21:59:53.728941+00:00
+O5945,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2109.15222,547e815334fa168155cf428c256c7e8717dbb5371679fdcc3061e250ec46c38a,57480,2026-11-03T22:00:04.955979+00:00
+O5949,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:00:07.116384+00:00
+O5988,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/1903.08536,09abd4800d05573a1940adb9f2fff40578b20eaf77c6e36d787d657a005ee544,75997,2026-11-03T22:00:15.926965+00:00
+O5989,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2403.14233,d0702b5e75f410d12d61923f41d6f9fbbe4aaf3c36a9c387a397c268bd11d52f,59290,2026-11-03T22:00:21.576013+00:00
+O5996,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:00:21.589977+00:00
+O6008,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:00:21.602945+00:00
+O6024,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:00:21.618803+00:00
+O6056,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:00:58.196899+00:00
+O6064,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:02:38.430051+00:00
+O6080,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:04:12.604318+00:00
+O6081,Not linked,Retrieved - Located report,OpenAlex location (pdf): https://arxiv.org/pdf/2202.12759,30771ee918c89af30118bf3273812d9ae5c951af23b6eb2decf0a019b2bfefc4,57232,2026-11-03T22:04:16.218498+00:00
+O6086,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:04:22.347622+00:00
+O6088,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:04:22.360524+00:00
+O6090,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:04:22.371495+00:00
+O6094,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:04:33.094855+00:00
+O6095,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:04:38.007386+00:00
+O6096,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:04:38.019350+00:00
+O6097,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:04:40.384027+00:00
+O6107,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:04:40.393544+00:00
+O6123,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:04:40.405538+00:00
+O6133,Not linked,Retrieved - Located report,citation_pdf_url: https://hal.science/hal-03451685/document,f2d56732dee3cd53e6de95b00fed6a6e8eda0f9e5dd2875ac6c90c799a887028,44348,2026-11-03T22:05:20.015146+00:00
+O6139,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:20.025172+00:00
+O6142,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:20.037139+00:00
+O6151,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:05:22.598582+00:00
+O6161,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2507.15346,46ef9cd1e6caa0e829654332df1e563929517a70aa0c1dc198af18ea605e3b56,29425,2026-11-03T22:05:29.581278+00:00
+O6163,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:05:34.352954+00:00
+O6175,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:05:36.939182+00:00
+O6181,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:36.951740+00:00
+O6182,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:36.961738+00:00
+O6186,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:36.976803+00:00
+O6189,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:05:43.993140+00:00
+O6193,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:05:46.448313+00:00
+O6200,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:46.468417+00:00
+O6202,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:46.484369+00:00
+O6203,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:46.502360+00:00
+O6221,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:46.516969+00:00
+O6254,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2310.12790,4271285ce92a76fd76db4e47b3d11b6c16285f49737287951e3dc80c4e552274,83396,2026-11-03T22:05:51.631790+00:00
+O6262,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:05:51.645500+00:00
+O6264,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:02.140893+00:00
+O6266,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:02.156798+00:00
+O6288,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:02.168771+00:00
+O6304,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:04.622582+00:00
+O6312,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2002.09513,860a98281c548d1f009847b307944e256d77ed92a2e967042ab9ff6a82d8959e,121653,2026-11-03T22:06:11.409173+00:00
+O6319,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:11.419659+00:00
+O6326,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:11.432791+00:00
+O6334,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:11.442763+00:00
+O6336,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2405.04953,55f6a09961ffcf92e244c17b611307bfb50e73bc3873c97a848160429ba87d75,51644,2026-11-03T22:06:21.505764+00:00
+O6343,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:21.516699+00:00
+O6344,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:21.529998+00:00
+O6345,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:21.540100+00:00
+O6349,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:24.984532+00:00
+O6353,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:27.422522+00:00
+O6354,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:32.251949+00:00
+O6369,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:32.263159+00:00
+O6373,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:39.455626+00:00
+O6389,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:41.902236+00:00
+O6392,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:41.914490+00:00
+O6406,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2501.08807,8fb05d293063d4167906266a04f036bd649553e377932398f90a6e026a91d096,96842,2026-11-03T22:06:47.825773+00:00
+O6412,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:47.846716+00:00
+O6430,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:47.868659+00:00
+O6449,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:06:52.417741+00:00
+O6454,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:52.431948+00:00
+O6463,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:52.443947+00:00
+O6469,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:52.454887+00:00
+O6474,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:06:52.470964+00:00
+O6482,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2311.09999,c8b6bfea5f98763e92298faa6c01284e1632a858a2d77ed096019e10c53eeb28,57166,2026-11-03T22:07:07.665777+00:00
+O6484,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:07.676743+00:00
+O6491,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:07.690196+00:00
+O6496,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:07:10.162193+00:00
+O6497,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:10.173162+00:00
+O6501,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:07:12.541526+00:00
+O6502,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:12.555488+00:00
+O6525,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:12.571962+00:00
+O6529,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:12.590935+00:00
+O6537,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2506.00956,d5b2e6fc37c7f91c424cf0f262d47fa91664d8cecd467e37800970754d4c3d58,78436,2026-11-03T22:07:17.263704+00:00
+O6541,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:17.273682+00:00
+O6548,Not linked,Retrieved - Located report,OpenAlex DOI lookup (pdf): https://arxiv.org/pdf/2407.10862,c2bc180c51e2ead0533233992426a16a6c0143e54b77e3dfa61e5fc9a2807f71,56097,2026-11-03T22:07:25.644027+00:00
+O6551,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:25.655049+00:00
+O6558,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:07:25.668201+00:00
+O6566,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:07:29.129606+00:00
+O6567,Not linked,Not retrieved - all locations failed,,,0,2026-11-03T22:10:44.231032+00:00
+O6577,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:10:44.241585+00:00
+O6582,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:10:44.252565+00:00
+O6583,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:10:44.263510+00:00
+O6588,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:10:44.273482+00:00
+O6593,Not linked,Not retrieved - no open-access location,,,0,2026-11-03T22:10:44.284034+00:00
+O6597,Not linked,Retrieved - arXiv version (another report of the study),arXiv exact-title search (pdf): https://arxiv.org/pdf/2401.15266,c564456cf64aabce6f89299efd4bf4a6754fcea46d95200d5593f6654a283abc,99826,2026-11-03T22:10:50.051207+00:00

@@ -1,0 +1,108 @@
+{
+  "Corpus": {
+    "source": "corpus.csv",
+    "csv_rows": 6840,
+    "xlsx_rows": 6840,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Screening": {
+    "source": "records-ledger.csv",
+    "csv_rows": 6970,
+    "xlsx_rows": 6970,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [
+      "Decision Integrity"
+    ],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Identification": {
+    "source": "identification-events.csv",
+    "csv_rows": 8626,
+    "xlsx_rows": 8626,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Searches": {
+    "source": "search-runs.csv",
+    "csv_rows": 55,
+    "xlsx_rows": 55,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Evidence matrix": {
+    "source": "evidence-matrix.csv",
+    "csv_rows": 230,
+    "xlsx_rows": 230,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Synthesis": {
+    "source": "synthesis.csv",
+    "csv_rows": 7,
+    "xlsx_rows": 7,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Data audit": {
+    "source": "data-audit.csv",
+    "csv_rows": 6,
+    "xlsx_rows": 6,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  },
+  "Decisions": {
+    "source": "decisions.csv",
+    "csv_rows": 17,
+    "xlsx_rows": 17,
+    "csv_only_keys": [],
+    "xlsx_only_keys": [],
+    "source_fields_absent_from_workbook": [],
+    "derived_or_display_fields": [],
+    "cell_difference_count": 0,
+    "cell_differences": [],
+    "representation_difference_count": 0,
+    "representation_differences": []
+  }
+}

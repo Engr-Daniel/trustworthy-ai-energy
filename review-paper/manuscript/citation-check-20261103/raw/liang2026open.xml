@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/A4Qyg0zOwdknBCySElqKgpTot0E</id>
+  <title>arXiv Query: search_query=&amp;id_list=2604.01171&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:23:58Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2604.01171" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2604.01171v1</id>
+    <title>Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects</title>
+    <updated>2026-04-01T17:23:23Z</updated>
+    <link href="https://arxiv.org/abs/2604.01171v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.01171v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Although self-supervised 3D anomaly detection assumes that acquiring high-precision point clouds is computationally expensive, in real manufacturing scenarios it is often feasible to collect a limited number of anomalous samples. Therefore, we study open-set supervised 3D anomaly detection, where the model is trained with only normal samples and a small number of known anomalous samples, aiming to identify unknown anomalies at test time. We present Open-Industry, a high-quality industrial dataset containing 15 categories, each with five real anomaly types collected from production lines. We first adapt general open-set anomaly detection methods to accommodate 3D point cloud inputs better. Building upon this, we propose Open3D-AD, a point-cloud-oriented approach that leverages normal samples, simulated anomalies, and partially observed real anomalies to model the probability density distributions of normal and anomalous data. Then, we introduce a simple Correspondence Distributions Subsampling to reduce the overlap between normal and non-normal distributions, enabling stronger dual distributions modeling. Based on these contributions, we establish a comprehensive benchmark and evaluate the proposed method extensively on Open-Industry as well as established datasets including Real3D-AD and Anomaly-ShapeNet. Benchmark results and ablation studies demonstrate the effectiveness of Open3D-AD and further reveal the potential of open-set supervised 3D anomaly detection.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-01T17:23:23Z</published>
+    <arxiv:comment>Resources: https://github.com/hzzzzzhappy/open-industry</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Hanzhe Liang</name>
+    </author>
+    <author>
+      <name>Luocheng Zhang</name>
+    </author>
+    <author>
+      <name>Junyang Xia</name>
+    </author>
+    <author>
+      <name>HanLiang Zhou</name>
+    </author>
+    <author>
+      <name>Bingyang Guo</name>
+    </author>
+    <author>
+      <name>Yingxi Xie</name>
+    </author>
+    <author>
+      <name>Can Gao</name>
+    </author>
+    <author>
+      <name>Ruiyun Yu</name>
+    </author>
+    <author>
+      <name>Jinbao Wang</name>
+    </author>
+    <author>
+      <name>Pan Li</name>
+    </author>
+  </entry>
+</feed>

@@ -139,3 +139,16 @@ Human-confirmation verification: 658 current decision audits marked Complete wit
 
 ## Remote update authorised - 3 November 2026
 Daniel explicitly requested pushing the necessary updates. Prepared the current manuscript, DOI/arXiv checks, AI resolution history, human confirmation of 658 sampled decisions, CSV-backed workbooks and synchronisation reports for publication. Local TeX logs, source-paper downloads and compiler files are excluded. Research selection remains incomplete (701 TA pending, 66 retrieval initiations); no live Sheet update. Hosted CI is to be checked for the resulting commit.
+
+## Selection completion - 3 November 2026
+- [x] Title/abstract screening of the 701 pending records, each with a decision and recorded reason (screening/ta-ai-20261103/).
+- [x] Retrieval initiated for the 66 routed reports plus 131 new F/U records (FULLTEXT-LOCATE-20261103-01); 36 retrieved, 161 not retrieved.
+- [x] Full-text eligibility for the 36 retrieved reports; 18 new inclusions charted (173 included).
+- [x] Refreshed audit sample prepared (screening/audit-20261103/).
+- [x] Outputs regenerated: figures, abstract tier, bibliography (citation check 2026-11-03), tables, manuscript (15 pages), workbook Review_Tracker_20261103.xlsx (audited), Overleaf zip; validate_scope and 35 tests pass.
+- [ ] Daniel: verify refreshed audit sample (A2 and B2 required; C2 and D2 recommended).
+- [ ] Daniel: confirm O5989 SoftPatch as FT04 precursor of SoftPatch+ (O4487) or as a separate study.
+- [ ] Author declarations; commit/push only when Daniel asks.
+
+## Publication review - 3 November 2026
+Reviewed the new selection work for the requested push. Validators report 0 pending TA and 0 retrieval initiations; 255 full texts assessed, 173 provisional inclusions. This does not verify substantive eligibility: 168 exclusions rely on title/metadata alone and require scrutiny under AGENTS.md rule 8; the refreshed human audit is pending. O5989 SoftPatch FT04 linkage to O4487 remains unresolved. Updated current status pages, corrected workbook snapshot dating and added the refreshed audit tab. Preserved all earlier workbooks and dated decisions. No source-paper PDFs or local compiler files are included.

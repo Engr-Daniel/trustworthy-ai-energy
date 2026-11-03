@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/ZWpXrUBviuC8f8musQML5v27bU0</id>
+  <title>arXiv Query: search_query=ti:"FDM-ESRGAN a domain-adapted and efficient super-resolution framework for low-cost 3D printing defect detection"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T21:34:23Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22FDM-ESRGAN+a+domain-adapted+and+efficient+super-resolution+framework+for+low-cost+3D+printing+defect+detection%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>0</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+</feed>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/8lp1Xsdc+q0mzuoo1B/B3CN21CQ</id>
+  <title>arXiv Query: search_query=&amp;id_list=2608.07770&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:56Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2608.07770" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2608.07770v1</id>
+    <title>From Benchmark Performance to Tool Deployment: Human-in-the-Loop Anomaly Detection</title>
+    <updated>2026-08-07T21:31:20Z</updated>
+    <link href="https://arxiv.org/abs/2608.07770v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2608.07770v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automated anomaly detection methods often report strong performance on curated academic benchmarks, but their behavior under real-world industrial conditions is less clear. In this work, we evaluate 19 unsupervised anomaly detection models on the BowTie dataset, a challenging manufacturing dataset with reflective surfaces, subtle defects, and profile-specific variation. In contrast to benchmark results, we observe that model performance is less stable than typically reported on standard benchmarks such as MVTec AD, highly sensitive to preprocessing, and inconsistent across conditions, with no single approach emerging as uniformly robust; a consensus audit further indicates that nominal-data quality affects deployment.
+  Motivated by these findings, we developed and initially deployed a unified human-in-the-loop framework for manufactured-part inspection that combines image annotation, AI-assisted defect detection, and an integrated validation engine, replacing a prior manual visual inspection and documentation workflow. The system supports heatmap-guided defect review, SAM-refined candidate regions for inspector acceptance, rejection, or boundary adjustment, mask evaluation where annotations exist, and review history for inspector consistency and onboarding. Together, the results highlight the gap between benchmark performance and deployment reality, and provide a practical framework for addressing it.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-08-07T21:31:20Z</published>
+    <arxiv:comment>8 pages, 8 figures, 6 tables. Accepted as a regular paper at the 25th International Conference on Machine Learning and Applications (ICMLA 2026)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Mike Szklarzewski</name>
+    </author>
+    <author>
+      <name>CJ George</name>
+    </author>
+    <author>
+      <name>Gavin Smithson</name>
+    </author>
+    <author>
+      <name>Christopher Stokes</name>
+    </author>
+    <author>
+      <name>Dakota Fulp</name>
+    </author>
+    <author>
+      <name>William M. Jones</name>
+    </author>
+    <author>
+      <name>Benjamin Wynn</name>
+    </author>
+    <author>
+      <name>Alexander Ur</name>
+    </author>
+    <author>
+      <name>Agit Yesiloz</name>
+    </author>
+    <author>
+      <name>Clint Kallenbach</name>
+    </author>
+    <author>
+      <name>Mark Swartz</name>
+    </author>
+    <author>
+      <name>Nathan DeBardeleben</name>
+    </author>
+    <author>
+      <name>Sharmistha Chakrabarti</name>
+    </author>
+  </entry>
+</feed>

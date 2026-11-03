@@ -2,6 +2,7 @@
 """Create a new dated review workbook from current CSVs; never edit the archived pilot or live Sheet."""
 import argparse
 import csv
+import datetime
 import json
 import pathlib
 from openpyxl import Workbook, load_workbook
@@ -23,11 +24,15 @@ SOURCES = {
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", required=True, type=pathlib.Path)
+    parser.add_argument("--snapshot-date", type=datetime.date.fromisoformat, default=datetime.date.today())
     args = parser.parse_args()
+    sources = dict(SOURCES)
+    refresh = "screening/audit-20261103/audit-sample-20261103.csv"
+    if (RP / refresh).exists(): sources["Human audit refresh"] = refresh
     if args.output.exists(): parser.error("Choose a new output filename; preserve existing snapshots")
     workbook = Workbook(); overview = workbook.active; overview.title = "Overview"
     counts = json.loads((RP / "corpus/scope-counts.json").read_text(encoding="utf-8"))
-    overview.append(["Provisional review snapshot", "2026-11-02"])
+    overview.append(["Provisional review snapshot", args.snapshot_date.isoformat()])
     overview.append(["Unique reports", counts["unique_reports"]])
     overview.append(["Title/abstract dispositions", counts["formal_screened"]])
     overview.append(["Pending title/abstract", counts["unique_reports"] - counts["formal_screened"]])
@@ -37,12 +42,12 @@ def main():
     overview.append(["Authority", "CSV/JSON and dated provenance are authoritative; this workbook is a presentation snapshot."])
     overview.append(["Sources", "See each sheet row 2; header row 7, data row 8. Paper/report and study units remain separate."])
     expected = {}
-    for number, (title, source) in enumerate(SOURCES.items(), 1):
+    for number, (title, source) in enumerate(sources.items(), 1):
         path = RP / source
         with path.open(encoding="utf-8", newline="") as stream:
             reader = csv.DictReader(stream); fields = reader.fieldnames; rows = list(reader)
         sheet = workbook.create_sheet(title); sheet.cell(1, 1, title); sheet.cell(2, 1, source)
-        sheet.cell(3, 1, "Provisional snapshot, 2 November 2026; no decisions were created by workbook generation.")
+        sheet.cell(3, 1, f"Provisional snapshot, {args.snapshot_date.isoformat()}; no decisions were created by workbook generation.")
         for col, field in enumerate(fields, 1):
             cell = sheet.cell(7, col, field); cell.fill = PatternFill("solid", fgColor="183B56")
             cell.font = Font(color="FFFFFF", bold=True); cell.alignment = Alignment(wrap_text=True, vertical="center")

@@ -1,0 +1,71 @@
+# Part 3
+O6306;X;TA01;Driving-scene segmentation uncertainty benchmark
+O6307;X;TA01;Generic domain-adversarial training
+O6309;X;TA02;Debonding quantification in composites from guided-wave data; non-visual
+O6311;X;TA03;Multi-robot coverage path planning; no learned inspection model evaluated
+O6313;X;TA05;Transmission-tower corrosion segmentation from UAV photogrammetry; accuracy only
+O6314;X;TA05;Asphalt raveling CNN classification; accuracy only
+O6316;X;TA01;Text-driven image translation
+O6317;X;TA01;Driving-scene unexpected-object detection
+O6318;X;TA02;Autoencoder AD on non-image 2D semiconductor data; non-visual by the authors' framing
+O6320;X;TA05;GC10-DET metallic surface defect dataset and detector; accuracy only
+O6321;X;TA01;Medical image classification
+O6322;X;TA01;Generic deep transfer across domains
+O6323;X;TA01;Generic deep adaptation network
+O6324;X;TA01;Trojan attacks on diffusion models
+O6325;X;TA01;Generic spurious-correlation mitigation
+O6326;F;;Pavement distress detection that degrades on road images unlike the training data, improved with a human in the loop labelling previous inspections (R3, R5)
+O6327;B;;Review of XAI-based model improvement incl. shortcut correction; R8 methodological background
+O6328;X;TA01;Generic expert-feedback active anomaly discovery; no visual inspection evaluation
+O6330;X;TA01;Neural tangent kernel theory
+O6331;X;TA01;Huber loss interpretation
+O6332;X;TA02;Multivariate time-series AD; non-visual
+O6333;X;TA03;Image processing library
+O6335;X;TA02;3D printer fault diagnosis from attitude signals; non-visual
+O6336;F;;Valeo Anomaly Dataset of real industrial defects where traditional AD methods struggle, with segmentation-based detector (R8 dataset realism to verify)
+O6337;X;TA03;Computer graphics image synthesis
+O6338;X;TA03;Real-time pavement image thresholding; no learned model
+O6339;B;;Survey of annotator performance models and cost in active learning; R4/R5 methodological background
+O6340;X;TA05;Vision-language assistant for transmission-line inspection; generalisation asserted without reliability evaluation (note 1)
+O6341;X;TA03;3D pavement data filtering; no learned model
+O6342;X;TA01;Generic GAN anomaly detection (Skip-GANomaly)
+O6346;X;TA01;Generic few-shot segmentation
+O6347;X;TA01;Road-surface condition recognition for automated driving
+O6348;X;TA01;Generic overfitting overview
+O6351;X;TA01;Pathology foundation model
+O6352;X;TA03;Offshore UAV cable-transfer vision and sensor fusion; not inspection
+O6353;F;;Cross-scene pavement distress detection transferring across camera types and installation positions (R3)
+O6354;F;;Deep-learning X-ray microscopy resolution recovery evaluated across increasing degradation, incl. a semiconductor device (R3/R8 to verify)
+O6355;X;TA01;Driving privacy dataset
+O6356;X;TA01;Generic dense correspondence
+O6357;X;TA01;Medical COVID classification
+O6359;B;;Survey of adversarial attacks on deep vision; R3 methodological background
+O6361;X;TA01;Language models
+O6362;X;TA01;Medical CT super-resolution
+O6363;X;TA05;YOLO pavement distress system on an inspection car; accuracy only
+O6366;X;TA01;Generic imbalanced-data oversampling
+O6368;X;TA01;Greenhouse environmental mapping
+O6370;X;TA01;Privacy data synthesis
+O6371;X;TA03;Statistical learning theory overview
+O6372;X;TA01;Generic XAI perspective
+O6373;F;;Federated multimodal WAAM anomaly detection incl. weld-bead images, with robust aggregation under non-IID, noisy and adversarial clients (R3; verify image role)
+O6374;X;TA01;Graph-level anomaly detection
+O6375;X;TA05;CutPaste self-supervised industrial AD; accuracy only
+O6376;X;TA01;GAN evaluation metrics
+O6377;X;TA05;Limited-data tomographic reconstruction with CNNs; image quality only, no reliability evaluation
+O6378;X;TA05;Pavement segmentation RCNN; accuracy only
+O6379;X;TA01;Flood inundation mapping
+O6380;X;TA01;Generic explainable deep anomaly detection
+O6381;X;TA01;Medical CT super-resolution
+O6383;X;TA05;Concrete pavement slab condition CNN; accuracy only
+O6384;X;TA05;Self-supervised tomography denoising; no reliability evaluation
+O6385;B;;Evaluation method for unsupervised anomaly detection algorithms; R8 methodological background
+O6387;X;TA01;Interactive object selection
+O6388;X;TA05;Synchrotron tomography denoising without reference data; no reliability evaluation
+O6389;F;;Evidential (Dempster-Shafer) transformer for pavement distress segmentation addressing poor calibration (R1)
+O6391;X;TA01;Generic few-shot segmentation
+O6393;X;TA01;Generic transformer explanation method
+O6394;B;;XAI shows radiographic COVID-19 models select shortcuts and fail in new hospitals; R8 methodological background
+O6396;X;TA01;Medical CT super-resolution
+O6398;B;;Review and case studies of drone-based non-destructive inspection of industrial sites; broad review in core context
+O6400;X;TA03;Tethered robot exploration

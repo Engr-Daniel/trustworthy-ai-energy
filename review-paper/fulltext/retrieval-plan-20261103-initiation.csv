@@ -1,0 +1,198 @@
+Paper ID,Study ID,TA Decision,Full Title,Year,Record Type,DOI,arXiv ID,OpenAlex ID,OA Status,Candidate PDF URLs,Candidate Landing Pages,Plan Date
+O5226,Not linked,Retrieve full text,MDGAD: Meta domain generalization for distribution drift in anomaly detection,2023,article,10.1016/j.neucom.2023.126483,,,unknown,,,2026-11-03
+O5234,Not linked,Retrieve full text,Evidential feature differentiated learning for trustworthy recognition of mixed-type defects in wafer maps,2026,article,10.1080/00207543.2026.2623534,,,unknown,,,2026-11-03
+O5235,Not linked,Retrieve full text,Adversarial Domain Adaptation for Improved Part-to-Part Generalization of Deep Learning Segmentation Models in Aerosol Jet Printing,2025,article,10.1115/1.4070262,,,unknown,,,2026-11-03
+O5237,Not linked,Retrieve full text,Reliability-Aware Selective Fusion of Visual and Class-Associated Acoustic Data for Concrete-Surface Classification Under Simulated Sensor Degradation,2026,article,10.3390/buildings16173518,,,unknown,,,2026-11-03
+O5244,Not linked,Retrieve full text,A continuous learning framework for reliable defect segmentation with pixel-level uncertainty quantification,2025,article,10.1007/s00158-025-04173-x,,,unknown,,,2026-11-03
+O5245,Not linked,Retrieve full text,Hierarchical Consistency Fusion for Cross-Domain Anomaly Detection,2025,conference-paper,10.23919/ccc64809.2025.11179758,,,unknown,,,2026-11-03
+O5246,Not linked,Retrieve full text,synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?,2026,conference-paper,10.1007/978-3-032-12840-9_25,,,unknown,,,2026-11-03
+O5250,Not linked,Retrieve full text,Simultaneous classification and out-of-distribution detection for wafer bin maps,2023,article,10.1080/08982112.2023.2286497,,,unknown,,,2026-11-03
+O5252,Not linked,Retrieve full text,Defect-Aware Multi-View Adaptive Alignment for defect inspection in target-scarce domain adaptation,2026,article,10.1016/j.aei.2026.105071,,,unknown,,,2026-11-03
+O5257,Not linked,Retrieve full text,CDADCLIP: Learning Prompts with Hybrid Semantic Fusion for Few-Shot Anomaly Detection under Domain Shift,2025,conference-paper,10.1109/iceiom65271.2025.11239984,,,unknown,,,2026-11-03
+O5261,Not linked,Retrieve full text,Cross Domain Anomaly Detection in Semiconductor Manufacturing via Projection Comparison and Reconstruction in Latent Space,2026,article,10.1109/tsm.2026.3665531,,,unknown,,,2026-11-03
+O5265,Not linked,Retrieve full text,Normal Invariant Representation Learning via Weight-guided Distribution Alignment for Open-set Anomaly Detection,2026,conference-paper,10.1007/978-981-92-0372-7_39,,,unknown,,,2026-11-03
+O5267,Not linked,Retrieve full text,Open-Set Recognition of Screen Defects With Negative-Guided Augmented Prototype Generator and Open Feature Generation,2024,article,10.1109/tim.2024.3394484,,,unknown,,,2026-11-03
+O5273,Not linked,Retrieve full text,ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects,2026,article,10.1007/s10845-025-02778-z,,,unknown,,,2026-11-03
+O5276,Not linked,Retrieve full text,Structural displacement measurement using deep optical flow and uncertainty analysis,2024,article,10.1016/j.optlaseng.2024.108364,,,unknown,,,2026-11-03
+O5280,Not linked,Retrieve full text,Handling data drift in deep learning-based quality monitoring: evaluating calibration methods using the example of friction stir welding,2025,article,10.1007/s10845-025-02569-6,,,unknown,,,2026-11-03
+O5281,Not linked,Retrieve full text,Unsupervised pose-agnostic visual anomaly detection in realistic industrial scenes,2026,article,10.1177/10692509261425164,,,unknown,,,2026-11-03
+O5284,Not linked,Retrieve full text,Attentive neural processes based on reliable inferences for industrial equipment anomaly detection,2025,article,10.1016/j.compind.2025.104331,,,unknown,,,2026-11-03
+O5286,Not linked,Retrieve full text,Robustness of unsupervised methods for image surface-anomaly detection,2025,article,10.1007/s10044-025-01477-y,,,unknown,,,2026-11-03
+O5287,Not linked,Retrieve full text,Cross-Modal Disagreement-Guided Reliability-Aware Scoring for RGB-3D Industrial Anomaly Detection,2026,article,10.3390/app16115483,,,unknown,,,2026-11-03
+O5291,Not linked,Retrieve full text,Weather-Robust Spatial-Frequency Decoupling Transformer for Crack Segmentation,2025,article,10.1109/jsen.2025.3554650,,,unknown,,,2026-11-03
+O5292,Not linked,Retrieve full text,Robust PCB Anomaly Detection Using Aligned Design Information,2025,article,10.1109/jsen.2025.3554823,,,unknown,,,2026-11-03
+O5303,Not linked,Retrieve full text,ReDyprompt: Residual-Guided Dynamic Prompts for Robust Anomaly Detection in Fuel Rod Cladding Surface Inspection,2026,conference-paper,10.1109/icip61757.2026.11630542,,,unknown,,,2026-11-03
+O5306,Not linked,Retrieve full text,Data Expansion and Defect Classification Method for Small Aero‐Engine Blade Samples: Low‐Rank Adaptation and Edge Information Enhancement,2026,article,10.1111/nyas.70331,,,unknown,,,2026-11-03
+O5308,Not linked,Unclear,MSFF-YOLO: A Multi-Scale Feature Fusion Network for Aero-Engine Blades Surface Defects Detection,2026,article,10.1007/s10921-025-01321-7,,,unknown,,,2026-11-03
+O5312,Not linked,Retrieve full text,Cross-Environment Transfer-Learning Method for Industrial-Robot State Perception: Anomaly-Detection Research from Laboratory to Factory Settings,2026,preprint,10.2139/ssrn.6993291,,,unknown,,,2026-11-03
+O5314,Not linked,Retrieve full text,Focus to generalize (F2G): physics-guided attention for sample efficient and generalizable deep learning defect detection,2025,article,10.1007/s10845-025-02623-3,,,unknown,,,2026-11-03
+O5323,Not linked,Retrieve full text,A synergy scoring filter for unsupervised anomaly detection with noisy data,2026,article,10.1016/j.neucom.2026.133614,,,unknown,,,2026-11-03
+O5324,Not linked,Retrieve full text,Dynamic patch bank with a defect filter for cold start in online engineering inspection,2026,article,10.1016/j.engappai.2026.116388,,,unknown,,,2026-11-03
+O5327,Not linked,Retrieve full text,"Beyond Benchmark Scores: An Analysis of Resolution, Spatial Structure, Illumination, and Seed Sensitivity in Training-Free Industrial Anomaly Localization on MVTec AD 2",2026,article,10.1109/access.2026.3735579,,,unknown,,,2026-11-03
+O5331,Not linked,Unclear,TSFANet: Two-Stage Feature Aggregation Network for pavement crack segmentation,2026,article,10.1016/j.conbuildmat.2026.147862,,,unknown,,,2026-11-03
+O5342,Not linked,Retrieve full text,QueCo: Query-conditioned consensus over unverified evidence for training-free zero-shot anomaly detection,2026,article,10.1016/j.knosys.2026.116771,,,unknown,,,2026-11-03
+O5343,Not linked,Retrieve full text,On the reusability of machine learning-based process monitoring systems for manufacturing digital twins,2025,article,10.1016/j.jmsy.2025.12.006,,,unknown,,,2026-11-03
+O5344,Not linked,Retrieve full text,AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection,2024,conference-paper,10.1007/978-3-031-72761-0_4,,,unknown,,,2026-11-03
+O5345,Not linked,Retrieve full text,Classifying mixed-defect from single-defect training in imbalanced wafer maps via diffusion and attention,2025,article,10.1016/j.eswa.2025.130127,,,unknown,,,2026-11-03
+O5347,Not linked,Unclear,Crack segmentation in civil infrastructure using conditional modulation and hierarchical dual-path networks,2025,article,10.1016/j.engstruct.2025.121162,,,unknown,,,2026-11-03
+O5348,Not linked,Retrieve full text,Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era,2026,article,10.1016/j.patcog.2026.113354,,,unknown,,,2026-11-03
+O5356,Not linked,Retrieve full text,Influence of Manual Inter-Observer Variability for the Performance of Deep Learning Models in Semantic Segmentation,2023,conference-paper,10.1109/synasc61333.2023.00046,,,unknown,,,2026-11-03
+O5360,Not linked,Unclear,Vis2Tac: Residual feature–mediated cross-modal mapping learning framework for surface micro-defect detection,2026,article,10.1016/j.patcog.2026.113728,,,unknown,,,2026-11-03
+O5361,Not linked,Retrieve full text,SAND: Semantic-Aware Anomaly Detection with Region-Consistent Memory for Noisy Training,2026,conference-paper,10.1145/3805622.3810738,,,unknown,,,2026-11-03
+O5365,Not linked,Unclear,Multi-control stable diffusion model for automated generation of structural surface damage images in complex civil infrastructure,2026,article,10.1016/j.aei.2026.104546,,,unknown,,,2026-11-03
+O5368,Not linked,Unclear,A data-efficient sequential learning framework for melt pool defect classification in Laser Powder Bed Fusion,2025,article,10.1016/j.jmapro.2025.03.118,,,unknown,,,2026-11-03
+O5383,Not linked,Unclear,MMUAD: A unified framework for multi-modal and multi-class Unsupervised Anomaly Detection,2026,article,10.1016/j.knosys.2026.116840,,,unknown,,,2026-11-03
+O5389,Not linked,Retrieve full text,Transfer Learning-Based Defect Detection System on Wafer Surfaces,2025,article,10.1109/tsm.2025.3532897,,,unknown,,,2026-11-03
+O5393,Not linked,Unclear,H2SP-AD: hierarchical hybrid softened prompt learning for instance-aware zero-shot industrial anomaly detection,2026,article,10.1007/s10845-026-02806-6,,,unknown,,,2026-11-03
+O5402,Not linked,Retrieve full text,An unsupervised micro-anomaly detection method using U-KAN with physical residual decoupling for industrial robots,2026,article,10.1088/1361-6501/aeac78,,,unknown,,,2026-11-03
+O5407,Not linked,Retrieve full text,Achieving the Defect Transfer Detection of Semiconductor Wafer by a Novel Prototype Learning-Based Semantic Segmentation Network,2023,article,10.1109/tim.2023.3334368,,,unknown,,,2026-11-03
+O5413,Not linked,Retrieve full text,Non-destructive detection and quantification of corrosion damage in coated steel components with different illumination conditions,2025,article,10.1016/j.eswa.2025.127854,,,unknown,,,2026-11-03
+O5414,Not linked,Retrieve full text,Investigating Shift Equivalence of Convolutional Neural Networks in Industrial Defect Segmentation,2023,article,10.1109/tim.2023.3325514,,,unknown,,,2026-11-03
+O5416,Not linked,Unclear,Surface Defect Detection of Casting with Machined Surfaces Based on Natural Artificial Defects,2023,preprint,10.2139/ssrn.4352006,,,unknown,,,2026-11-03
+O5420,Not linked,Unclear,GeoFusionNet: A geometry-aware fusion network for bearing surface defect detection,2026,article,10.1016/j.aei.2026.105178,,,unknown,,,2026-11-03
+O5424,Not linked,Unclear,A multi-expert framework for enhancing multimodal large language models in industrial anomaly detection,2025,article,10.1016/j.patcog.2025.112752,,,unknown,,,2026-11-03
+O5425,Not linked,Unclear,Adaptive few-shot image augmentation for fine-grained industrial defects based on region-level modeling,2025,article,10.1016/j.engappai.2025.110695,,,unknown,,,2026-11-03
+O5431,Not linked,Unclear,Anomaly localization of industrial images based on coordinate dual memory banks and difference subsection evolution,2026,article,10.1016/j.engappai.2026.114834,,,unknown,,,2026-11-03
+O5432,Not linked,Unclear,AI-Driven Multisensor Quality Inspection: A Focus on Robotic Wire Harness Assembly,2025,conference-paper,10.1007/978-3-032-03538-7_25,,,unknown,,,2026-11-03
+O5438,Not linked,Retrieve full text,Leveraging Learning Bias for Noisy Anomaly Detection*,2025,conference-paper,10.1109/smc58881.2025.11343582,,,unknown,,,2026-11-03
+O5444,Not linked,Retrieve full text,Improving visual corrosion measurement accuracy via spectral-structural distribution alignment in deep neural networks,2026,article,10.1088/1361-6501/ae6a0b,,,unknown,,,2026-11-03
+O5448,Not linked,Unclear,Diffusion-Augmented Zero-Shot Industrial Anomaly Detection with Similarity-Based Data Screening,2026,article,10.1007/s12204-026-2941-x,,,unknown,,,2026-11-03
+O5456,Not linked,Unclear,DIE-VIS: An Automated Visual Inspection System for Cardboard Box Manufacturing,2025,conference-paper,10.1007/978-3-031-92805-5_17,,,unknown,,,2026-11-03
+O5462,Not linked,Retrieve full text,FabThink: A Wafer Analysis Multimodal LLM via Chain-of-Thought-Driven Retrieval Augmentation,2025,conference-paper,10.1109/iccad66269.2025.11240663,,,unknown,,,2026-11-03
+O5474,Not linked,Unclear,Registration generation amalgamation network for few-shot anomaly detection,2026,article,10.1016/j.neucom.2026.133347,,,unknown,,,2026-11-03
+O5477,Not linked,Retrieve full text,Unsupervised Anomaly Localization In the Wild via Token Optimization and Test-Time Score Correction,2026,conference-paper,10.1007/978-3-032-10185-3_50,,,unknown,,,2026-11-03
+O5484,Not linked,Retrieve full text,An Electrified Railway Catenary Component Anomaly Detection Frame Based on Invariant Normal Region Prototype With Segment Anything Model,2025,article,10.1109/tte.2025.3628607,,,unknown,,,2026-11-03
+O5485,Not linked,Unclear,Improved Parallel Convolutional Neural Network with Proposed Semantic Segmentation for Concrete Surface Crack Segmentation and Classification,2026,article,10.1007/s40996-026-02186-0,,,unknown,,,2026-11-03
+O5486,Not linked,Unclear,Quantifying mass loss in corroded steel from visual imagery only: a machine learning approach,2025,preprint,10.2139/ssrn.5758905,,,unknown,,,2026-11-03
+O5488,Not linked,Unclear,Quantifying mass loss in corroded steel from visual imagery only: a machine learning approach,2025,preprint,10.2139/ssrn.5758911,,,unknown,,,2026-11-03
+O5498,Not linked,Unclear,Memory bank-guided diffusion model for lightweight anomaly detection,2025,article,10.1016/j.asoc.2025.114215,,,unknown,,,2026-11-03
+O5505,Not linked,Unclear,MMFNet: A multi-scale memory fusion network based on simulated abnormal samples for anomaly detection,2025,article,10.1016/j.patcog.2025.112581,,,unknown,,,2026-11-03
+O5511,Not linked,Unclear,"S3AD: Efficient industrial anomaly detection via selection, space, and scale",2026,article,10.1016/j.patcog.2026.113868,,,unknown,,,2026-11-03
+O5523,Not linked,Unclear,Crissmamba: a lightweight vision Mamba framework with cross-dimensional interaction for structural crack segmentation,2026,article,10.1007/s11554-026-01918-9,,,unknown,,,2026-11-03
+O5524,Not linked,Unclear,Surface and subsurface corrosion detection based on hyperspectral imaging in the visible and infrared range,2025,preprint,10.2139/ssrn.5598847,,,unknown,,,2026-11-03
+O5525,Not linked,Unclear,LWMS-Net: A novel defect detection network based on multi-wavelet multi-scale for steel surface defects,2025,article,10.1016/j.measurement.2025.117393,,,unknown,,,2026-11-03
+O5532,Not linked,Unclear,A dual attention network for automatic metallic corrosion detection in natural environment,2023,article,10.1016/j.jobe.2023.107014,,,unknown,,,2026-11-03
+O5535,Not linked,Retrieve full text,DefectCoT: Evaluation and Analysis of Interpretability Reasoning Capability for Multimodal Large Language Models in Power Equipment Defect Detection,2026,article,10.1109/access.2026.3725201,,,unknown,,,2026-11-03
+O5538,Not linked,Retrieve full text,Visual anomaly detection under complex view-illumination interplay: A large-scale benchmark,2026,article,10.1016/j.patcog.2026.113666,,,unknown,,,2026-11-03
+O5542,Not linked,Unclear,Agm-Net: Attention-guided masking denoising anomaly location network,2025,article,10.1016/j.neunet.2025.108347,,,unknown,,,2026-11-03
+O5547,Not linked,Unclear,Bridging the Geometry Mismatch: Frequency-Aware Anisotropic Serialization for Thin-Structure SSMs,2026,conference-paper,10.1007/978-3-032-37369-4_28,,,unknown,,,2026-11-03
+O5553,Not linked,Unclear,ResAD++: Towards Class Agnostic Anomaly Detection via Residual Feature Learning,2026,article,10.1007/s11263-026-02885-1,,,unknown,,,2026-11-03
+O5556,Not linked,Unclear,Machine Learning-Based Corrosion Prediction Model for Steel Structures,2024,conference-paper,10.1007/978-3-031-61287-9_30,,,unknown,,,2026-11-03
+O5561,Not linked,Unclear,A Low-Complexity and High-Accuracy Defect Detection Network,2025,article,10.1007/s11424-025-4425-8,,,unknown,,,2026-11-03
+O5566,Not linked,Unclear,Frequency domain nuances guided parallel transformer model for industrial anomaly localization,2024,article,10.1016/j.engappai.2024.109852,,,unknown,,,2026-11-03
+O5584,Not linked,Retrieve full text,XEvalAD: An Explainable Evaluation Framework for Anomaly Detection via Item Response Theory,2026,conference-paper,10.1007/978-981-95-6196-4_12,,,unknown,,,2026-11-03
+O5586,Not linked,Unclear,Multi-modal data novelty detection with modal diversity-unity-complementarity representation,2025,article,10.1016/j.aei.2025.103496,,,unknown,,,2026-11-03
+O5587,Not linked,Unclear,X-Enhanced ULite: Improving semantic segmentation for surface defects,2025,article,10.1016/j.dsp.2025.105635,,,unknown,,,2026-11-03
+O5588,Not linked,Retrieve full text,When Does Masking Help? A Controlled Equivalence Study of Defect-Derived Data in PatchCore-Based Anomaly Detection,2026,preprint,10.2139/ssrn.6835335,,,unknown,,,2026-11-03
+O5594,Not linked,Unclear,Attention-based vector quantized variational autoencoder for anomaly detection by using orthogonal subspace constraints,2025,article,10.1016/j.patcog.2025.111500,,,unknown,,,2026-11-03
+O5605,Not linked,Unclear,CMAC-Net: a cross-modal alignment and semantic consistency optimization framework for image-text fusion in industrial defect detection,2026,article,10.1007/s10489-026-07479-5,,,unknown,,,2026-11-03
+O5606,Not linked,Unclear,Deep Learning for Prediction of Leaks in Oil and Gas Pipelines,2025,conference-paper,10.1007/978-3-031-90758-6_8,,,unknown,,,2026-11-03
+O5610,Not linked,Retrieve full text,Scalable Concept Extraction in Industry 4.0,2023,conference-paper,10.1007/978-3-031-44070-0_26,,,unknown,,,2026-11-03
+O5611,Not linked,Unclear,AWBN-YOLO: a surface defect detection method for aero-engine blades in sample-limited scenarios,2025,article,10.1007/s00530-025-01967-3,,,unknown,,,2026-11-03
+O5612,Not linked,Unclear,MaskCL: Mask-driven Cross-Modal Collaborative Learning for multimodal anomaly detection,2026,article,10.1016/j.patcog.2026.115106,,,unknown,,,2026-11-03
+O5616,Not linked,Unclear,Enhancing Few-Shot marble slab surface defect detection: A diffusion framework with knowledge distillation and semantic guidance,2026,article,10.1016/j.engappai.2026.114334,,,unknown,,,2026-11-03
+O5618,Not linked,Unclear,Intelligent assembly conformance verification for complex products: A rotationally invariant multi-view visual framework,2026,article,10.1016/j.rcim.2026.103247,,,unknown,,,2026-11-03
+O5622,Not linked,Unclear,Rethinking the prior guided vision transformer for industrial anomaly class discovery,2026,article,10.1016/j.asoc.2026.116078,,,unknown,,,2026-11-03
+O5626,Not linked,Unclear,Deep spatiotemporal fusion network for vision-based robotic inspection of structures,2024,article,10.1016/j.engappai.2024.108297,,,unknown,,,2026-11-03
+O5632,Not linked,Retrieve full text,A surface defect detection and semantic reasoning framework with a cloud-edge-terminal system for industrial scenarios with zero real defect samples via large–small model and Human-AI collaboration,2026,article,10.1016/j.eswa.2026.134682,,,unknown,,,2026-11-03
+O5735,Not linked,Retrieve full text,Deep Domain Adaptation for Pavement Crack Detection,2022,article,10.1109/tits.2022.3225212,,,unknown,,,2026-11-03
+O5786,Not linked,Retrieve full text,Monitoring of Laser Powder Bed Fusion process by bridging dissimilar process maps using deep learning-based domain adaptation on acoustic emissions,2024,article,10.1016/j.addma.2024.103974,,,unknown,,,2026-11-03
+O5787,Not linked,Unclear,An efficient and reliable coarse-to-fine approach for asphalt pavement crack detection,2016,article,10.1016/j.imavis.2016.11.018,,,unknown,,,2026-11-03
+O5791,Not linked,Retrieve full text,Normality-calibrated autoencoder for unsupervised anomaly detection on data contamination,2025,article,10.1016/j.neucom.2025.132249,,,unknown,,,2026-11-03
+O5798,Not linked,Retrieve full text,Robust Anomaly Detection in Images Using Adversarial Autoencoders,2020,conference-paper,10.1007/978-3-030-46150-8_13,,,unknown,,,2026-11-03
+O5810,Not linked,Unclear,A robust instance segmentation framework for underground sewer defect detection,2022,article,10.1016/j.measurement.2022.110727,,,unknown,,,2026-11-03
+O5816,Not linked,Retrieve full text,A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects,2013,article,10.1016/j.apsusc.2013.09.002,,,unknown,,,2026-11-03
+O5818,Not linked,Unclear,A Robust Method for Automatically Detecting Cracks on Noisy Concrete Surfaces,2009,conference-paper,10.1007/978-3-642-02568-6_8,,,unknown,,,2026-11-03
+O5819,Not linked,Retrieve full text,CrackGAN: Pavement Crack Detection Using Partially Accurate Ground Truths Based on Generative Adversarial Learning,2020,article,10.1109/tits.2020.2990703,,,unknown,,,2026-11-03
+O5820,Not linked,Unclear,"Transfer learning in laser-based additive manufacturing: Fusion, calibration, and compensation",2020,dissertation,,,,unknown,,,2026-11-03
+O5913,Not linked,Retrieve full text,A texture‐Based Video Processing Methodology Using Bayesian Data Fusion for Autonomous Crack Detection on Metallic Surfaces,2017,article,10.1111/mice.12256,,,unknown,,,2026-11-03
+O5917,Not linked,Unclear,Synthetic data augmentation for surface defect detection and classification using deep learning,2020,article,10.1007/s10845-020-01710-x,,,unknown,,,2026-11-03
+O5935,Not linked,Retrieve full text,Streaming Machine Learning and Online Active Learning for Automated Visual Inspection.,2022,article,10.1016/j.ifacol.2022.04.206,,,unknown,,,2026-11-03
+O5942,Not linked,Unclear,A novel hybrid approach for crack detection,2020,article,10.1016/j.patcog.2020.107474,,,unknown,,,2026-11-03
+O5945,Not linked,Unclear,Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization,2022,conference-paper,10.1007/978-3-031-19821-2_27,,,unknown,,,2026-11-03
+O5949,Not linked,Unclear,Detection of bird nests in overhead catenary system images for high-speed rail,2015,article,10.1016/j.patcog.2015.09.010,,,unknown,,,2026-11-03
+O5988,Not linked,Retrieve full text,Segmentation-based deep-learning approach for surface-defect detection,2019,article,10.1007/s10845-019-01476-x,,,unknown,,,2026-11-03
+O5989,Not linked,Retrieve full text,SoftPatch: Unsupervised Anomaly Detection with Noisy Data,2022,conference-paper,10.52202/068431-1123,,,unknown,,,2026-11-03
+O5996,Not linked,Unclear,Successive pattern classification based on test feature classifier and its application to defect image classification,2005,article,10.1016/j.patcog.2005.04.013,,,unknown,,,2026-11-03
+O6008,Not linked,Unclear,Automated defect classification in sewer closed circuit television inspections using deep convolutional neural networks,2018,article,10.1016/j.autcon.2018.03.028,,,unknown,,,2026-11-03
+O6024,Not linked,Unclear,Design of deep convolutional neural network architectures for automated feature extraction in industrial inspection,2016,article,10.1016/j.cirp.2016.04.072,,,unknown,,,2026-11-03
+O6056,Not linked,Unclear,Process parameter effects estimation and surface quality prediction for selective laser melting empowered by Bayes optimized soft attention mechanism-enhanced transfer learning,2024,article,10.1016/j.compind.2023.104066,,,unknown,,,2026-11-03
+O6064,Not linked,Unclear,A defect classification methodology for sewer image sets with convolutional neural networks,2019,article,10.1016/j.autcon.2019.04.013,,,unknown,,,2026-11-03
+O6080,Not linked,Retrieve full text,Automatic Defect Detection of Fasteners on the Catenary Support Device Using Deep Convolutional Neural Network,2017,article,10.1109/tim.2017.2775345,,,unknown,,,2026-11-03
+O6081,Not linked,Retrieve full text,Data refinement for fully unsupervised visual inspection using pre-trained networks,2022,preprint,,2202.12759,,unknown,https://arxiv.org/pdf/2202.12759,,2026-11-03
+O6086,Not linked,Retrieve full text,Regularization-based Continual Learning for Anomaly Detection in Discrete Manufacturing,2021,article,10.1016/j.procir.2021.11.076,,,unknown,,,2026-11-03
+O6088,Not linked,Retrieve full text,Detection of cracks in nuclear power plant using spatial-temporal grouping of local patches,2016,conference-paper,10.1109/wacv.2016.7477601,,,unknown,,,2026-11-03
+O6090,Not linked,Retrieve full text,Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation,2023,article,10.1016/j.measurement.2023.113998,,,unknown,,,2026-11-03
+O6094,Not linked,Retrieve full text,Automated Vision-Based Detection of Cracks on Concrete Surfaces Using a Deep Learning Technique,2018,article,10.3390/s18103452,,,unknown,,,2026-11-03
+O6095,Not linked,Retrieve full text,Automatic Metallic Surface Defect Detection and Recognition with Convolutional Neural Networks,2018,article,10.3390/app8091575,,,unknown,,,2026-11-03
+O6096,Not linked,Retrieve full text,NB-CNN: Deep Learning-Based Crack Detection Using Convolutional Neural Network and Naïve Bayes Data Fusion,2017,article,10.1109/tie.2017.2764844,,,unknown,,,2026-11-03
+O6097,Not linked,Retrieve full text,Autonomous Structural Visual Inspection Using Region‐Based Deep Learning for Detecting Multiple Damage Types,2017,article,10.1111/mice.12334,,,unknown,,,2026-11-03
+O6107,Not linked,Unclear,DefectTR: End-to-end defect detection for sewage networks using a transformer,2022,article,10.1016/j.conbuildmat.2022.126584,,,unknown,,,2026-11-03
+O6123,Not linked,Unclear,Automatic sewer defect detection and severity quantification based on pixel-level semantic segmentation,2022,article,10.1016/j.tust.2022.104403,,,unknown,,,2026-11-03
+O6133,Not linked,Retrieve full text,Syncrack: Improving Pavement and Concrete Crack Detection through Synthetic Data Generation,2022,conference-paper,10.5220/0010837300003124,,,unknown,,,2026-11-03
+O6139,Not linked,Unclear,Comparative analysis of fuzzy classifier and ANN with histogram features for defect detection and classification in planetary gearbox,2021,article,10.1016/j.asoc.2021.107306,,,unknown,,,2026-11-03
+O6142,Not linked,Unclear,Steel surface defect detection based on self-supervised contrastive representation learning with matching metric,2023,article,10.1016/j.asoc.2023.110578,,,unknown,,,2026-11-03
+O6151,Not linked,Unclear,DT-ProtoYOLO: Mitigating Overconfidence in Open-Set Object Detection via Dual-Linear Thresholding and Prototype Regularization,2026,conference-paper,10.1109/yac71005.2026.11615451,,,unknown,,,2026-11-03
+O6161,Not linked,Unclear,RoadFusion: Latent Diffusion Model for Pavement Defect Detection,2026,conference-paper,10.1007/978-3-032-10185-3_26,,,unknown,,,2026-11-03
+O6163,Not linked,Retrieve full text,Channel-separated validation of the human-review layer in automated rail inspection under acquisition shift,2026,preprint,10.2139/ssrn.7661621,,,unknown,,,2026-11-03
+O6175,Not linked,Retrieve full text,Cross-Context Synthetic Data for Road Defect Detection: An Interpretability Analysis,2026,preprint,10.2139/ssrn.6499578,,,unknown,,,2026-11-03
+O6181,Not linked,Retrieve full text,Embodied Intelligence-Driven Active Perception and Detection Strategy Learning for Display Defects in Electric Metering Devices,2026,article,10.1142/s0218001426510158,,,unknown,,,2026-11-03
+O6182,Not linked,Unclear,Generative-enhanced semantic segmentation for timber heritage pathologies: Overcoming data scarcity via Deformable Context-Aware networks,2026,article,10.1016/j.jobe.2026.117081,,,unknown,,,2026-11-03
+O6186,Not linked,Retrieve full text,FDM-ESRGAN: a domain-adapted and efficient super-resolution framework for low-cost 3D printing defect detection,2026,article,10.1007/s00170-026-19350-5,,,unknown,,,2026-11-03
+O6189,Not linked,Retrieve full text,RGB Ensemble Strategies for Unsupervised Industrial Anomaly Detection on the AutoVI Dataset,2026,article,10.3390/electronics15102077,,,unknown,,,2026-11-03
+O6193,Not linked,Retrieve full text,A Deep Learning Approach for Aluminum Corrosion Recognition in Semiconductor Manufacturing,2025,article,10.1016/j.ifacol.2025.12.103,,,unknown,,,2026-11-03
+O6200,Not linked,Unclear,FA3D: a fault-aware monitoring framework for 3D printing using vision-language models (VLMs),2026,article,10.1007/s10845-026-02935-y,,,unknown,,,2026-11-03
+O6202,Not linked,Unclear,Synergistic context edge-enhanced HRNet for steel bridge corrosion segmentation,2026,article,10.1016/j.istruc.2026.111599,,,unknown,,,2026-11-03
+O6203,Not linked,Retrieve full text,Q-Fidelity: Hybrid Quantum–Classical Anomaly Detection with Illumination-Conditioned Noise on MVTec AD 2,2026,conference-paper,10.1007/978-981-92-2888-1_8,,,unknown,,,2026-11-03
+O6221,Not linked,Unclear,Causal continual unlearning with disentangled anomaly representations for private industrial vision,2026,article,10.1016/j.ipm.2026.104731,,,unknown,,,2026-11-03
+O6254,Not linked,Retrieve full text,Anomaly Heterogeneity Learning for Open-Set Supervised Anomaly Detection,2024,conference-paper,10.1109/cvpr52733.2024.01668,,,unknown,,,2026-11-03
+O6262,Not linked,Retrieve full text,Unsupervised domain adaptation-based crack segmentation using transformer network,2023,article,10.1016/j.jobe.2023.107889,,,unknown,,,2026-11-03
+O6264,Not linked,Retrieve full text,Generative adversarial network based on domain adaptation for crack segmentation in shadow environments,2025,article,10.1111/mice.13451,,,unknown,,,2026-11-03
+O6266,Not linked,Unclear,Knowledge transfer for structural damage detection through re-weighted adversarial domain adaptation,2022,article,10.1016/j.ymssp.2022.108991,,,unknown,,,2026-11-03
+O6288,Not linked,Unclear,Self-supervised Learning for Robust Surface Defect Detection,2024,conference-paper,10.1007/978-3-031-66705-3_11,,,unknown,,,2026-11-03
+O6304,Not linked,Retrieve full text,Iterative learning for efficient additive mass production,2024,article,10.1016/j.addma.2024.104271,,,unknown,,,2026-11-03
+O6312,Not linked,Unclear,PhyMDAN: Physics-informed knowledge transfer between buildings for seismic damage diagnosis through adversarial learning,2020,article,10.1016/j.ymssp.2020.107374,,,unknown,,,2026-11-03
+O6319,Not linked,Unclear,Recognition of penetration state in GTAW based on vision transformer using weld pool image,2022,article,10.1007/s00170-021-08538-6,,,unknown,,,2026-11-03
+O6326,Not linked,Retrieve full text,How to Improve Deep Learning based Pavement Distress Detection while Minimizing Human Effort,2018,conference-paper,10.1109/coase.2018.8560372,,,unknown,,,2026-11-03
+O6334,Not linked,Unclear,Federated learning-based collaborative manufacturing for complex parts,2022,article,10.1007/s10845-022-01968-3,,,unknown,,,2026-11-03
+O6336,Not linked,Retrieve full text,Supervised Anomaly Detection for Complex Industrial Images,2024,conference-paper,10.1109/cvpr52733.2024.01681,,,unknown,,,2026-11-03
+O6343,Not linked,Unclear,Multi-scale feature fusion network for pixel-level pavement distress detection,2022,article,10.1016/j.autcon.2022.104436,,,unknown,,,2026-11-03
+O6344,Not linked,Unclear,Scheme for predictive fault diagnosis in photo-voltaic modules using thermal imaging,2017,article,10.1016/j.infrared.2017.04.015,,,unknown,,,2026-11-03
+O6345,Not linked,Unclear,Application of unsupervised learning methods based on video data for real-time anomaly detection in wire arc additive manufacturing,2025,article,10.1016/j.jmapro.2025.03.113,,,unknown,,,2026-11-03
+O6349,Not linked,Unclear,Automatic tracking method for submarine cables and pipelines of AUV based on side scan sonar,2023,article,10.1016/j.oceaneng.2023.114689,,,unknown,,,2026-11-03
+O6353,Not linked,Retrieve full text,Cross‐scene pavement distress detection by a novel transfer learning framework,2021,article,10.1111/mice.12674,,,unknown,,,2026-11-03
+O6354,Not linked,Retrieve full text,Assessment of deep-learning-based resolution recovery algorithm relative to imaging system resolution and feature size,2025,article,10.1515/mim-2024-0017,,,unknown,,,2026-11-03
+O6369,Not linked,Unclear,The classification and localization of crack using lightweight convolutional neural network with CBAM,2022,article,10.1016/j.engstruct.2022.115291,,,unknown,,,2026-11-03
+O6373,Not linked,Retrieve full text,Federated Learning-Enabled Secure Multi-Modal Anomaly Detection for Wire Arc Additive Manufacturing,2025,article,10.3390/machines13111063,,,unknown,,,2026-11-03
+O6389,Not linked,Retrieve full text,Evidential transformer for pavement distress segmentation,2023,article,10.1111/mice.13018,,,unknown,,,2026-11-03
+O6392,Not linked,Unclear,Pixel-level pavement crack segmentation with encoder-decoder network,2021,article,10.1016/j.measurement.2021.109914,,,unknown,,,2026-11-03
+O6406,Not linked,Unclear,Multi-visual modality micro drone-based structural damage detection,2024,article,10.1016/j.engappai.2024.108460,,,unknown,,,2026-11-03
+O6412,Not linked,Unclear,Synthesizing the performance of deep learning in vision-based pavement distress detection,2023,article,10.1007/s41062-023-01250-2,,,unknown,,,2026-11-03
+O6430,Not linked,Unclear,Penetration state recognition based on stereo vision in GMAW process by deep learning,2023,article,10.1016/j.jmapro.2023.01.058,,,unknown,,,2026-11-03
+O6449,Not linked,Retrieve full text,ISTD-PDS7: A Benchmark Dataset for Multi-Type Pavement Distress Segmentation from CCD Images in Complex Scenarios,2023,article,10.3390/rs15071750,,,unknown,,,2026-11-03
+O6454,Not linked,Unclear,A data-driven framework for molten pool morphology prediction in laser welding with dimensionless numbers discovery,2025,article,10.1016/j.jmapro.2025.07.057,,,unknown,,,2026-11-03
+O6463,Not linked,Unclear,Detection of the power lines in UAV remote sensed images using spectral-spatial methods,2017,article,10.1016/j.jenvman.2017.09.036,,,unknown,,,2026-11-03
+O6469,Not linked,Unclear,Monitoring weld pool oscillation using reflected laser pattern in gas tungsten arc welding,2018,article,10.1016/j.jmatprotec.2018.01.037,,,unknown,,,2026-11-03
+O6474,Not linked,Unclear,Process performance evaluation and classification via in-situ melt pool monitoring in directed energy deposition,2021,article,10.1016/j.cirpj.2021.06.015,,,unknown,,,2026-11-03
+O6482,Not linked,Unclear,TransFusion – A Transparency-Based Diffusion Model for Anomaly Detection,2024,conference-paper,10.1007/978-3-031-72761-0_6,,,unknown,,,2026-11-03
+O6484,Not linked,Unclear,Vision-based penetration monitoring method for climbing helium arc welding using deep learning with multivariate time series forecasting,2025,article,10.1016/j.jmapro.2025.03.050,,,unknown,,,2026-11-03
+O6491,Not linked,Unclear,Fast and accurate cable detection using CNN,2020,article,10.1007/s10489-020-01746-9,,,unknown,,,2026-11-03
+O6496,Not linked,Unclear,Synthesizing weld pool dynamics via VAE-GAN to enhance human control performance,2025,article,10.1016/j.jmapro.2025.09.087,,,unknown,,,2026-11-03
+O6497,Not linked,Unclear,AF-FTTSnet: An end-to-end two-stream convolutional neural network for online quality monitoring of robotic welding,2024,article,10.1016/j.jmsy.2024.04.006,,,unknown,,,2026-11-03
+O6501,Not linked,Unclear,Data-fused and concatenated-ensemble learning for in-situ anomaly detection in wire and arc-based direct energy deposition,2024,article,10.1016/j.jmapro.2024.01.041,,,unknown,,,2026-11-03
+O6502,Not linked,Unclear,Towards automatic anomaly detection and diagnosis in positional arc-directed energy deposition based on deep learning,2025,article,10.1016/j.jmsy.2024.12.015,,,unknown,,,2026-11-03
+O6525,Not linked,Retrieve full text,Epistemic and aleatoric uncertainty quantification for crack detection using a Bayesian Boundary Aware Convolutional Network,2023,article,10.1016/j.ress.2023.109547,,,unknown,,,2026-11-03
+O6529,Not linked,Retrieve full text,LLRailDet: Task-Specific Asymmetrical Decoupling for Robust Low-Light Railway Defect Detection,2026,article,10.1109/tim.2026.3659629,,,unknown,,,2026-11-03
+O6537,Not linked,Retrieve full text,Continual-MEGA: A large-scale benchmark for generalizable continual anomaly detection,2026,article,10.1016/j.neucom.2026.134460,,,unknown,,,2026-11-03
+O6541,Not linked,Unclear,AEKD: Unsupervised auto-encoder knowledge distillation for industrial anomaly detection,2024,article,10.1016/j.jmsy.2024.02.001,,,unknown,,,2026-11-03
+O6548,Not linked,Unclear,R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection,2024,conference-paper,10.1007/978-3-031-72764-1_6,,,unknown,,,2026-11-03
+O6551,Not linked,Unclear,A multi-source heterogeneous information fusion network for comprehensive assessment of spot welding quality,2025,article,10.1016/j.jmapro.2025.01.033,,,unknown,,,2026-11-03
+O6558,Not linked,Unclear,Welding quality evaluation of resistance spot welding based on a hybrid approach,2020,article,10.1007/s10845-020-01627-5,,,unknown,,,2026-11-03
+O6566,Not linked,Unclear,Wafer map defect pattern detection method based on improved attention mechanism,2023,article,10.1016/j.eswa.2023.120544,,,unknown,,,2026-11-03
+O6567,Not linked,Retrieve full text,Procedural synthetic training data generation for AI-based defect detection in industrial surface inspection,2022,article,10.1016/j.procir.2022.05.115,,,unknown,,,2026-11-03
+O6577,Not linked,Unclear,A feature fusion enhanced multiscale CNN with attention mechanism for spot-welding surface appearance recognition,2021,article,10.1016/j.compind.2021.103583,,,unknown,,,2026-11-03
+O6582,Not linked,Retrieve full text,A topology-aware segment anything model for domain-invariant crack segmentation,2026,article,10.1016/j.engappai.2025.113688,,,unknown,,,2026-11-03
+O6583,Not linked,Unclear,Automatic real-time crack detection using lightweight deep learning models,2024,article,10.1016/j.engappai.2024.109340,,,unknown,,,2026-11-03
+O6588,Not linked,Unclear,An integrated approach to automatic pixel-level crack detection and quantification of asphalt pavement,2020,article,10.1016/j.autcon.2020.103176,,,unknown,,,2026-11-03
+O6593,Not linked,Unclear,Multi-task deep learning for crack segmentation and quantification in RC structures,2024,article,10.1016/j.autcon.2024.105599,,,unknown,,,2026-11-03
+O6597,Not linked,Unclear,Sam-based instance segmentation models for the automation of structural damage detection,2024,article,10.1016/j.aei.2024.102826,,,unknown,,,2026-11-03

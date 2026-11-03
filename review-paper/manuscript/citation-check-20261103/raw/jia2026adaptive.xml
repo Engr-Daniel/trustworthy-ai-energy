@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/VNqiyr+poZdrW684MyS3nuxda2w</id>
+  <title>arXiv Query: search_query=&amp;id_list=2601.08885&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:25Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2601.08885" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2601.08885v1</id>
+    <title>Adaptive few-shot learning for robust part quality classification in two-photon lithography</title>
+    <updated>2026-01-13T04:32:49Z</updated>
+    <link href="https://arxiv.org/abs/2601.08885v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.08885v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Two-photon lithography (TPL) is an advanced additive manufacturing (AM) technique for fabricating high-precision micro-structures. While computer vision (CV) is proofed for automated quality control, existing models are often static, rendering them ineffective in dynamic manufacturing environments. These models typically cannot detect new, unseen defect classes, be efficiently updated from scarce data, or adapt to new part geometries. To address this gap, this paper presents an adaptive CV framework for the entire life-cycle of quality model maintenance. The proposed framework is built upon a same, scale-robust backbone model and integrates three key methodologies: (1) a statistical hypothesis testing framework based on Linear Discriminant Analysis (LDA) for novelty detection, (2) a two-stage, rehearsal-based strategy for few-shot incremental learning, and (3) a few-shot Domain-Adversarial Neural Network (DANN) for few-shot domain adaptation. The framework was evaluated on a TPL dataset featuring hemisphere as source domain and cube as target domain structures, with each domain categorized into good, minor damaged, and damaged quality classes. The hypothesis testing method successfully identified new class batches with 99-100% accuracy. The incremental learning method integrated a new class to 92% accuracy using only K=20 samples. The domain adaptation model bridged the severe domain gap, achieving 96.19% accuracy on the target domain using only K=5 shots. These results demonstrate a robust and data-efficient solution for deploying and maintaining CV models in evolving production scenarios.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-13T04:32:49Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Sixian Jia</name>
+    </author>
+    <author>
+      <name>Ruo-Syuan Mei</name>
+    </author>
+    <author>
+      <name>Chenhui Shao</name>
+    </author>
+  </entry>
+</feed>

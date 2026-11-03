@@ -1,0 +1,71 @@
+# Part 2
+O6213;X;TA01;Medical-only histology bias mitigation
+O6214;X;TA03;Analytical density model for plastic freeforming; no AI inspection
+O6215;B;;Review of LiDAR pavement distress detection incl. robustness to lighting; broad review in adjacent context
+O6216;B;;Review of UAV inspection and predictive maintenance for utility-scale solar farms; broad review in core energy context
+O6217;X;TA02;Vibration signal decomposition; non-visual
+O6219;X;TA05;Weakly supervised insulator localisation; annotation cost, not a reliability dimension
+O6222;X;TA05;Reverse-distillation fabric defect detection; accuracy only
+O6224;X;TA01;Medical-only histopathology explanation evaluation
+O6225;X;TA01;Medical glaucoma detection
+O6226;X;TA01;Subsurface-flow surrogate construction
+O6227;B;;Probability-of-detection evaluation of XCT resolution and sizing errors; R8 methodological background for imaging NDT (learned model not stated)
+O6228;X;TA01;Geophysical model interpretability
+O6229;X;TA01;Single-cell RNA batch correction
+O6230;X;TA03;PV shading detection with Otsu-Canny; no learned inspection model
+O6234;X;TA01;Generic noisy-label loss
+O6235;X;TA01;Generic adversarial domain adaptation
+O6236;X;TA01;Generic adversarial domain adaptation
+O6237;X;TA01;Generic domain adaptation
+O6238;X;TA01;Generic label-noise modelling
+O6239;X;TA01;Generic adversarial domain adaptation
+O6240;X;TA02;Domain adaptation for vibration-based SHM; non-visual
+O6241;B;;State-of-the-art review of human-in-the-loop machine learning; R5 methodological background
+O6243;X;TA01;Generic visual domain adaptation
+O6244;X;TA01;Driving-scene sim-to-real segmentation
+O6246;X;TA01;Urban-scene segmentation domain adaptation
+O6247;X;TA02;Statistic alignment for SHM domain adaptation; non-visual
+O6248;B;;Review of domain adaptation in computer and robotic vision; R3 methodological background
+O6249;X;TA01;Video anomaly benchmark (surveillance-type events)
+O6252;X;TA01;Driving-scene segmentation domain adaptation
+O6254;F;;Open-set supervised anomaly detection generalising to unseen anomaly classes; likely evaluated on industrial benchmarks (R3, consistent with O4301)
+O6255;X;TA01;Interactive ML for health informatics
+O6256;X;TA01;Aerial land-cover segmentation domain adaptation
+O6257;X;TA02;Dynamics-based cross-domain structural damage detection; non-visual
+O6258;X;TA01;Generic adversarial domain adaptation
+O6260;X;TA01;Face recognition
+O6263;X;TA01;Generic zero-shot OOD detection with CLIP
+O6264;F;;Two-stage GAN domain adaptation for crack segmentation in shadowed industrial NDT environments (R3)
+O6265;X;TA02;Drive-by vibration bridge damage domain adaptation; non-visual
+O6267;X;TA03;Robust regression theory
+O6268;X;TA02;Acoustic-emission cross-domain AM monitoring; non-visual
+O6269;X;TA01;Generic source-free domain adaptation
+O6271;B;;Adaptive trust calibration for human-AI collaboration; R5 methodological background
+O6272;X;TA01;Generic confident-learning label-error method
+O6273;X;TA03;Robust statistics theory
+O6274;X;TA02;Label-noise-tolerant fault diagnosis from monitoring signals; non-visual
+O6275;X;TA01;Rock micro-CT super-resolution; geoscience, not asset inspection
+O6276;X;TA02;Train wheel condition from onboard monitoring data; non-visual
+O6277;X;TA01;Medical multimodal segmentation
+O6278;X;TA01;Medical retinal OCT anomaly detection
+O6279;X;TA01;Text-guided image manipulation
+O6280;X;TA01;Search-and-rescue Bayesian network
+O6281;X;TA01;Road surface condition for vehicle control; driving context
+O6282;X;TA01;Generic adversarial robustness evaluation
+O6283;B;;Review of porosity uncertainty estimation in CT; R1 methodological background for imaging NDT
+O6284;B;;Review of non-adversarial robustness of deep vision models; R3 methodological background
+O6285;X;TA01;Generic robust density-estimation anomaly detection
+O6287;X;TA01;NLP model selection
+O6289;X;TA01;Generic imaging inverse-problem robustness
+O6291;X;TA02;3D ground-penetrating radar pavement distress classification; radar imaging without reliability method (note 12)
+O6293;X;TA01;Generic label-corruption robustness
+O6294;B;;Book on machine learning under covariate shift; R3 methodological background
+O6295;X;TA01;Face recognition
+O6296;X;TA01;Generic segmentation domain adaptation
+O6297;X;TA05;UAV image-based SHM evaluation; accuracy only
+O6298;X;TA01;Generic data-scarcity survey
+O6299;X;TA01;Generic incomplete multimodal learning
+O6300;X;TA02;Vibration-based digital-twin damage quantification; non-visual
+O6301;X;TA01;Decision thresholds for imbalanced chemistry data
+O6302;X;TA01;Agricultural trap monitoring
+O6304;F;;Vision-based control for material-extrusion mass production coupling active learning and uncertainty awareness with a foundation model (R1, R5)

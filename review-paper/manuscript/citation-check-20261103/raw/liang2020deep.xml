@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/86PlIzr50j/+/LqcFuaxiQ/8tto</id>
+  <title>arXiv Query: search_query=&amp;id_list=2009.11460&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:23:46Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2009.11460" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2009.11460v1</id>
+    <title>Deep Bayesian U-Nets for Efficient, Robust and Reliable Post-Disaster Damage Localization</title>
+    <updated>2020-09-24T03:12:33Z</updated>
+    <link href="https://arxiv.org/abs/2009.11460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2009.11460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Post-disaster inspections are critical to emergency management after earthquakes. The availability of data on the condition of civil infrastructure immediately after an earthquake is of great importance for emergency management. Stakeholders require this information to take effective actions and to better recover from the disaster. The data-driven SHM has shown great promises to achieve this goal in near real-time. There have been several proposals to automate the inspection process from different sources of input using deep learning. The existing models in the literature only provide a final prediction output, while the risks of utilizing such models for safety-critical assessments should not be ignored. This paper is dedicated to developing deep Bayesian U-Nets where the uncertainty of predictions is a second output of the model, which is made possible through Monte Carlo dropout sampling in test time. Based on a grid-like data structure, the concept of semantic damage segmentation (SDS) is revisited. Compared to image segmentation, it is shown that a much higher level of precision is necessary for damage diagnosis. To validate and test the proposed framework, a benchmark dataset, 10,800 nonlinear response history analyses on a 10-story-10-bay 2D reinforced concrete moment frame, is utilized. Compared to the benchmark SDS model, Bayesian models exhibit superior robustness with enhanced global and mean class accuracies. Finally, the model's uncertainty output is studied by monitoring the softmax class variance of different predictions. It is shown that class variance correlates well with locations where the model makes mistakes. This output can be used in combination with the prediction results to increase the reliability of this data-driven framework in structural inspections.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-09-24T03:12:33Z</published>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Xiao Liang</name>
+    </author>
+    <author>
+      <name>Seyed Omid Sajedi</name>
+    </author>
+  </entry>
+</feed>

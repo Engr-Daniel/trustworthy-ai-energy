@@ -1,0 +1,1100 @@
+{
+  "run_id": "FULLTEXT-LOCATE-20261103-01",
+  "purpose": "Open-access full-text location for reports sent to full text",
+  "started_utc": "2026-11-03T21:25:47.888856+00:00",
+  "requests": [
+    {
+      "file": "openalex-001.json",
+      "query": "doi filter (50 DOIs)",
+      "time_utc": "2026-11-03T21:25:49.958785+00:00",
+      "status": 200,
+      "sha256": "2a2385bca91cf83963ac974fabaa5f377319ede41ff933376c4c163586c488e5"
+    },
+    {
+      "file": "openalex-002.json",
+      "query": "doi filter (50 DOIs)",
+      "time_utc": "2026-11-03T21:25:51.895570+00:00",
+      "status": 200,
+      "sha256": "8829373e7618aed2b48a8a8c77558b4453e8a80cbcff8733af6c1778473e9111"
+    },
+    {
+      "file": "openalex-003.json",
+      "query": "doi filter (50 DOIs)",
+      "time_utc": "2026-11-03T21:25:54.011541+00:00",
+      "status": 200,
+      "sha256": "c06a1714463a10e552dd31448f7a45e1e33db296f3377ceeca7d21f9e8a52ff0"
+    },
+    {
+      "file": "openalex-004.json",
+      "query": "doi filter (45 DOIs)",
+      "time_utc": "2026-11-03T21:25:56.185766+00:00",
+      "status": 200,
+      "sha256": "449374c465b9da4b9dc9d9a8a34c4f2a463ea9687a18050d55a5f5fa7c56a80f"
+    },
+    {
+      "file": "arxiv-O5226.xml",
+      "query": "ti:\"MDGAD Meta domain generalization for distribution drift in anomaly detection\"",
+      "time_utc": "2026-11-03T21:25:59.998070+00:00",
+      "status": 200,
+      "sha256": "fadef93a79b8f4189ce6fe97ba2413544a67043385522872525653e3385a124b"
+    },
+    {
+      "file": "arxiv-O5234.xml",
+      "query": "ti:\"Evidential feature differentiated learning for trustworthy recognition of mixed-type defects in wafer maps\"",
+      "time_utc": "2026-11-03T21:26:03.837875+00:00",
+      "status": 200,
+      "sha256": "e989ca8b5b877de5b32c1b87a9acf354f5de2240fdefcd7c5beb60795d5e22f0"
+    },
+    {
+      "file": "arxiv-O5235.xml",
+      "query": "ti:\"Adversarial Domain Adaptation for Improved Part-to-Part Generalization of Deep Learning Segmentation Models in Aerosol Jet Printing\"",
+      "time_utc": "2026-11-03T21:26:07.650099+00:00",
+      "status": 200,
+      "sha256": "2dc105f8fa2808740bcfb0054bbaf47b2aff4cf0062a903d2bac0e27892b596a"
+    },
+    {
+      "file": "arxiv-O5237.xml",
+      "query": "ti:\"Reliability-Aware Selective Fusion of Visual and Class-Associated Acoustic Data for Concrete-Surface Classification Under Simulated Sensor Degradation\"",
+      "time_utc": "2026-11-03T21:26:11.397025+00:00",
+      "status": 200,
+      "sha256": "433e2f1f13bd06084449a69a4fa7b15b88012c9c50705b4ff417f999b66e1afc"
+    },
+    {
+      "file": "arxiv-O5244.xml",
+      "query": "ti:\"A continuous learning framework for reliable defect segmentation with pixel-level uncertainty quantification\"",
+      "time_utc": "2026-11-03T21:26:18.095981+00:00",
+      "status": 200,
+      "sha256": "0e8f8efb9e38ed1d5d442ceac2b20a854208d3c9acefb4a11441542e56e3faf2"
+    },
+    {
+      "file": "arxiv-O5245.xml",
+      "query": "ti:\"Hierarchical Consistency Fusion for Cross-Domain Anomaly Detection\"",
+      "time_utc": "2026-11-03T21:26:22.878524+00:00",
+      "status": 200,
+      "sha256": "9a32f52b373e0c875326bb49efdfca07372f42585bf33e06239aaa115cbb655c"
+    },
+    {
+      "file": "arxiv-O5250.xml",
+      "query": "ti:\"Simultaneous classification and out-of-distribution detection for wafer bin maps\"",
+      "time_utc": "2026-11-03T21:26:27.022224+00:00",
+      "status": 200,
+      "sha256": "861de9d0abb2cd5138b524a436dfeab339c5ce882217f712fa4707b4d18a3623"
+    },
+    {
+      "file": "arxiv-O5252.xml",
+      "query": "ti:\"Defect-Aware Multi-View Adaptive Alignment for defect inspection in target-scarce domain adaptation\"",
+      "time_utc": "2026-11-03T21:26:35.588054+00:00",
+      "status": 200,
+      "sha256": "9adf11868a153d0e472a24134885515f0a1fee8bbb2a224fb5500b7d769fb2ff"
+    },
+    {
+      "file": "arxiv-O5257.xml",
+      "query": "ti:\"CDADCLIP Learning Prompts with Hybrid Semantic Fusion for Few-Shot Anomaly Detection under Domain Shift\"",
+      "time_utc": "2026-11-03T21:26:39.354400+00:00",
+      "status": 200,
+      "sha256": "382cbe93143180f5bf62e107ac42ac7866119e73f6e128b76cb5097a4bccf3ca"
+    },
+    {
+      "file": "arxiv-O5261.xml",
+      "query": "ti:\"Cross Domain Anomaly Detection in Semiconductor Manufacturing via Projection Comparison and Reconstruction in Latent Space\"",
+      "time_utc": "2026-11-03T21:26:45.646023+00:00",
+      "status": 200,
+      "sha256": "6982d66983aa5ee22e22a36b74aec1d22dc9264284f04e0ef3fe2dd89e5114cf"
+    },
+    {
+      "file": "arxiv-O5265.xml",
+      "query": "ti:\"Normal Invariant Representation Learning via Weight-guided Distribution Alignment for Open-set Anomaly Detection\"",
+      "time_utc": "2026-11-03T21:26:51.085365+00:00",
+      "status": 200,
+      "sha256": "39f792bb17d36eb0a5cab1d512c68f2ddad1d18f531fb05fd89ed0a00575f9aa"
+    },
+    {
+      "file": "arxiv-O5267.xml",
+      "query": "ti:\"Open-Set Recognition of Screen Defects With Negative-Guided Augmented Prototype Generator and Open Feature Generation\"",
+      "time_utc": "2026-11-03T21:27:09.908063+00:00",
+      "status": 200,
+      "sha256": "a5f384ec9ee444b54a0b0c3ea6f9a0f0e38e453d33a9fba21363d16ba6ddf832"
+    },
+    {
+      "file": "arxiv-O5276.xml",
+      "query": "ti:\"Structural displacement measurement using deep optical flow and uncertainty analysis\"",
+      "time_utc": "2026-11-03T21:27:14.336731+00:00",
+      "status": 200,
+      "sha256": "fc09b96acc5b0433b02c3642e5921ee7e06a1fee1ad3cb096132d0eee3f18962"
+    },
+    {
+      "file": "arxiv-O5284.xml",
+      "query": "ti:\"Attentive neural processes based on reliable inferences for industrial equipment anomaly detection\"",
+      "time_utc": "2026-11-03T21:27:18.753703+00:00",
+      "status": 200,
+      "sha256": "5c96a3fa0a714e01681f8d1c10129fecb80d56db78a353efbb557464dc4491c0"
+    },
+    {
+      "file": "arxiv-O5287.xml",
+      "query": "ti:\"Cross-Modal Disagreement-Guided Reliability-Aware Scoring for RGB-3D Industrial Anomaly Detection\"",
+      "time_utc": "2026-11-03T21:27:23.776025+00:00",
+      "status": 200,
+      "sha256": "62a626c2715fabfca62ecf611bdbc4b05dcdcdd0a8cf56d8d3adc89814255e3f"
+    },
+    {
+      "file": "arxiv-O5291.xml",
+      "query": "ti:\"Weather-Robust Spatial-Frequency Decoupling Transformer for Crack Segmentation\"",
+      "time_utc": "2026-11-03T21:27:31.827603+00:00",
+      "status": 200,
+      "sha256": "3a386d5827e92b3864b628a6d5c39c8e9afc63f00cf5975b3399c4ade886a609"
+    },
+    {
+      "file": "arxiv-O5292.xml",
+      "query": "ti:\"Robust PCB Anomaly Detection Using Aligned Design Information\"",
+      "time_utc": "2026-11-03T21:27:38.403244+00:00",
+      "status": 200,
+      "sha256": "73df2458aded9db3d788019858b6903186f48ce1089f92bf864e0ec340c4c988"
+    },
+    {
+      "file": "arxiv-O5303.xml",
+      "query": "ti:\"ReDyprompt Residual-Guided Dynamic Prompts for Robust Anomaly Detection in Fuel Rod Cladding Surface Inspection\"",
+      "time_utc": "2026-11-03T21:27:42.533573+00:00",
+      "status": 200,
+      "sha256": "318f58d7ee89c9ce796ae99ed8cf42a0e835a081ae29f6b93f48099144a7b760"
+    },
+    {
+      "file": "arxiv-O5306.xml",
+      "query": "ti:\"Data Expansion and Defect Classification Method for Small Aero\u2010Engine Blade Samples Low\u2010Rank Adaptation and Edge Information Enhancement\"",
+      "time_utc": "2026-11-03T21:27:47.059697+00:00",
+      "status": 200,
+      "sha256": "df30e8da4239f7cd10e4054f37dd59f36dd918e588ca707b9bcad672d32836fb"
+    },
+    {
+      "file": "arxiv-O5308.xml",
+      "query": "ti:\"MSFF-YOLO A Multi-Scale Feature Fusion Network for Aero-Engine Blades Surface Defects Detection\"",
+      "time_utc": "2026-11-03T21:27:53.186716+00:00",
+      "status": 200,
+      "sha256": "e761cac1e570d945bfd53d45a5f8daf7381ce8d8cc3e1ea59478ba22ef4eef6d"
+    },
+    {
+      "file": "arxiv-O5312.xml",
+      "query": "ti:\"Cross-Environment Transfer-Learning Method for Industrial-Robot State Perception Anomaly-Detection Research from Laboratory to Factory Settings\"",
+      "time_utc": "2026-11-03T21:28:01.966788+00:00",
+      "status": 200,
+      "sha256": "fa66942715096bbd82bfc076197299a547df875e6e29f3cdf0881335af86bd02"
+    },
+    {
+      "file": "arxiv-O5314.xml",
+      "query": "ti:\"Focus to generalize F2G physics-guided attention for sample efficient and generalizable deep learning defect detection\"",
+      "time_utc": "2026-11-03T21:28:06.098431+00:00",
+      "status": 200,
+      "sha256": "270112608a370c7ad1e6bc7e58238aee9f7e1f06cc0aa44622f7e0bdfcc8ef30"
+    },
+    {
+      "file": "arxiv-O5324.xml",
+      "query": "ti:\"Dynamic patch bank with a defect filter for cold start in online engineering inspection\"",
+      "time_utc": "2026-11-03T21:28:10.004983+00:00",
+      "status": 200,
+      "sha256": "aa6353333a9faa328fcdcccf908d61c6837f5fe37270d9d21f55dc12c5365770"
+    },
+    {
+      "file": "arxiv-O5327.xml",
+      "query": "ti:\"Beyond Benchmark Scores An Analysis of Resolution, Spatial Structure, Illumination, and Seed Sensitivity in Training-Free Industrial Anomaly Localization on MVTec AD 2\"",
+      "time_utc": "2026-11-03T21:28:14.108729+00:00",
+      "status": 200,
+      "sha256": "95154b788d91811b74256aed918871de0e8cdef4fd95518f83da8c21bda039d2"
+    },
+    {
+      "file": "arxiv-O5331.xml",
+      "query": "ti:\"TSFANet Two-Stage Feature Aggregation Network for pavement crack segmentation\"",
+      "time_utc": "2026-11-03T21:28:19.374893+00:00",
+      "status": 200,
+      "sha256": "027631e555fbc7a997001cade3406d8b9d7bc66cbe5d5a72ab5861e2875cb90e"
+    },
+    {
+      "file": "arxiv-O5343.xml",
+      "query": "ti:\"On the reusability of machine learning-based process monitoring systems for manufacturing digital twins\"",
+      "time_utc": "2026-11-03T21:28:23.448946+00:00",
+      "status": 200,
+      "sha256": "d0df56416fd5de6ecde3a959366322924e2534579476aa434882e5e39ebc27ed"
+    },
+    {
+      "file": "arxiv-O5345.xml",
+      "query": "ti:\"Classifying mixed-defect from single-defect training in imbalanced wafer maps via diffusion and attention\"",
+      "time_utc": "2026-11-03T21:28:27.754104+00:00",
+      "status": 200,
+      "sha256": "ec7b1ec5bc6e9c26299f1ba17f3ca37c45ebdffdfd6285e5cc65692c1eb7e1df"
+    },
+    {
+      "file": "arxiv-O5347.xml",
+      "query": "ti:\"Crack segmentation in civil infrastructure using conditional modulation and hierarchical dual-path networks\"",
+      "time_utc": "2026-11-03T21:28:33.193832+00:00",
+      "status": 200,
+      "sha256": "977720dfdf244760ed71a2e9d99f3a51b260f3196b82fdd4d5aecf69865cb67b"
+    },
+    {
+      "file": "arxiv-O5356.xml",
+      "query": "ti:\"Influence of Manual Inter-Observer Variability for the Performance of Deep Learning Models in Semantic Segmentation\"",
+      "time_utc": "2026-11-03T21:28:36.901688+00:00",
+      "status": 200,
+      "sha256": "35417e29d3df8c8d2f3c647ad29bc16c2d349a10ac3f94c096fe38b71fbf1300"
+    },
+    {
+      "file": "arxiv-O5360.xml",
+      "query": "ti:\"Vis2Tac Residual feature\u2013mediated cross-modal mapping learning framework for surface micro-defect detection\"",
+      "time_utc": "2026-11-03T21:28:40.593009+00:00",
+      "status": 200,
+      "sha256": "e3e6eba79c29408642abf7cdfc1429f0811c04177d3c9f3896d03b095cb69353"
+    },
+    {
+      "file": "arxiv-O5361.xml",
+      "query": "ti:\"SAND Semantic-Aware Anomaly Detection with Region-Consistent Memory for Noisy Training\"",
+      "time_utc": "2026-11-03T21:28:44.280514+00:00",
+      "status": 200,
+      "sha256": "2a610fe0fd5f6f690dd7c3bf1ef00a883f7252df868e3c8235f82dfc99191286"
+    },
+    {
+      "file": "arxiv-O5365.xml",
+      "query": "ti:\"Multi-control stable diffusion model for automated generation of structural surface damage images in complex civil infrastructure\"",
+      "time_utc": "2026-11-03T21:28:47.941401+00:00",
+      "status": 200,
+      "sha256": "446b9214e2ba84fb0f14c9fda7752d71105fbc6dafd201a4f2bf3fdd4c4cc032"
+    },
+    {
+      "file": "arxiv-O5383.xml",
+      "query": "ti:\"MMUAD A unified framework for multi-modal and multi-class Unsupervised Anomaly Detection\"",
+      "time_utc": "2026-11-03T21:28:51.700162+00:00",
+      "status": 200,
+      "sha256": "16a91d9bde543d1595247e96a3d1660282baeea8697ff3433cc860b9268a15f8"
+    },
+    {
+      "file": "arxiv-O5389.xml",
+      "query": "ti:\"Transfer Learning-Based Defect Detection System on Wafer Surfaces\"",
+      "time_utc": "2026-11-03T21:28:55.385562+00:00",
+      "status": 200,
+      "sha256": "483aac6415d7fd66e2c18c07214b9426497506bcd7f6c881abbb03bfac31ec2f"
+    },
+    {
+      "file": "arxiv-O5393.xml",
+      "query": "ti:\"H2SP-AD hierarchical hybrid softened prompt learning for instance-aware zero-shot industrial anomaly detection\"",
+      "time_utc": "2026-11-03T21:28:59.069710+00:00",
+      "status": 200,
+      "sha256": "a151d7daceea09e19a86d271439a46db360b32edaf40566eb440a7d41f9926c7"
+    },
+    {
+      "file": "arxiv-O5402.xml",
+      "query": "ti:\"An unsupervised micro-anomaly detection method using U-KAN with physical residual decoupling for industrial robots\"",
+      "time_utc": "2026-11-03T21:29:03.036313+00:00",
+      "status": 200,
+      "sha256": "191f4f126a27b70e50513a9a47c8ccef239ac4d558a949ed1a6d89a6d149fb0e"
+    },
+    {
+      "file": "arxiv-O5407.xml",
+      "query": "ti:\"Achieving the Defect Transfer Detection of Semiconductor Wafer by a Novel Prototype Learning-Based Semantic Segmentation Network\"",
+      "time_utc": "2026-11-03T21:29:06.717426+00:00",
+      "status": 200,
+      "sha256": "e86edd6da55fbef7c3412de23e33099aa8b5480a720f1399f71721d2aa80b179"
+    },
+    {
+      "file": "arxiv-O5413.xml",
+      "query": "ti:\"Non-destructive detection and quantification of corrosion damage in coated steel components with different illumination conditions\"",
+      "time_utc": "2026-11-03T21:29:10.375242+00:00",
+      "status": 200,
+      "sha256": "43e9c742e1d051ac78ea77443269bc9170627dbfa460d8e1ca952281c7916c71"
+    },
+    {
+      "file": "arxiv-O5416.xml",
+      "query": "ti:\"Surface Defect Detection of Casting with Machined Surfaces Based on Natural Artificial Defects\"",
+      "time_utc": "2026-11-03T21:29:14.076775+00:00",
+      "status": 200,
+      "sha256": "48f8a09e9f2773420cd059a0117928cd265b1e33f376d3355a6c2a43cde1fab1"
+    },
+    {
+      "file": "arxiv-O5420.xml",
+      "query": "ti:\"GeoFusionNet A geometry-aware fusion network for bearing surface defect detection\"",
+      "time_utc": "2026-11-03T21:29:18.106717+00:00",
+      "status": 200,
+      "sha256": "928debff2300448463931a36b4f86cec27ccd2d258e92549ad90759eac60fa11"
+    },
+    {
+      "file": "arxiv-O5424.xml",
+      "query": "ti:\"A multi-expert framework for enhancing multimodal large language models in industrial anomaly detection\"",
+      "time_utc": "2026-11-03T21:29:21.883041+00:00",
+      "status": 200,
+      "sha256": "3ada47ae77559c8d627a5858faf7c03a297882580b278d89d448eff0c32e1bae"
+    },
+    {
+      "file": "arxiv-O5425.xml",
+      "query": "ti:\"Adaptive few-shot image augmentation for fine-grained industrial defects based on region-level modeling\"",
+      "time_utc": "2026-11-03T21:29:25.622134+00:00",
+      "status": 200,
+      "sha256": "3a50012600b140225b981eb979e76938f728f437bbd23480dfddbc712e177926"
+    },
+    {
+      "file": "arxiv-O5431.xml",
+      "query": "ti:\"Anomaly localization of industrial images based on coordinate dual memory banks and difference subsection evolution\"",
+      "time_utc": "2026-11-03T21:29:29.336662+00:00",
+      "status": 200,
+      "sha256": "ebf7adb245f4390a0956fc81e32bdf16e50cfba8b9265b99155f134a6cc88d49"
+    },
+    {
+      "file": "arxiv-O5432.xml",
+      "query": "ti:\"AI-Driven Multisensor Quality Inspection A Focus on Robotic Wire Harness Assembly\"",
+      "time_utc": "2026-11-03T21:29:33.044086+00:00",
+      "status": 200,
+      "sha256": "ccbb561821c8094e95d7eb9aa0c44b34c1085c77e13649e08ad170b0763f4970"
+    },
+    {
+      "file": "arxiv-O5444.xml",
+      "query": "ti:\"Improving visual corrosion measurement accuracy via spectral-structural distribution alignment in deep neural networks\"",
+      "time_utc": "2026-11-03T21:29:36.736689+00:00",
+      "status": 200,
+      "sha256": "3f85bda0b1ad69986d4d5ea06997dff2ea636d89cabf2726ffa415f274746f87"
+    },
+    {
+      "file": "arxiv-O5448.xml",
+      "query": "ti:\"Diffusion-Augmented Zero-Shot Industrial Anomaly Detection with Similarity-Based Data Screening\"",
+      "time_utc": "2026-11-03T21:29:40.444201+00:00",
+      "status": 200,
+      "sha256": "463537e6f3cff643f10017df892e1c51ed543880e9f6778fdd1bf8800fa36c54"
+    },
+    {
+      "file": "arxiv-O5456.xml",
+      "query": "ti:\"DIE-VIS An Automated Visual Inspection System for Cardboard Box Manufacturing\"",
+      "time_utc": "2026-11-03T21:29:44.105927+00:00",
+      "status": 200,
+      "sha256": "151c43a979ff15d0340361d76d744bbe492c0f70f35b26418a966a1575bc1177"
+    },
+    {
+      "file": "arxiv-O5462.xml",
+      "query": "ti:\"FabThink A Wafer Analysis Multimodal LLM via Chain-of-Thought-Driven Retrieval Augmentation\"",
+      "time_utc": "2026-11-03T21:29:47.868086+00:00",
+      "status": 200,
+      "sha256": "4449b04f14a73be4be6c4fb9fe6d811c8b0d5d21eb20c5b77073060ca9959925"
+    },
+    {
+      "file": "arxiv-O5474.xml",
+      "query": "ti:\"Registration generation amalgamation network for few-shot anomaly detection\"",
+      "time_utc": "2026-11-03T21:29:51.720196+00:00",
+      "status": 200,
+      "sha256": "d0ad383cfe1757ea47d213a19cae709e40998851e83a0d0062b71525a4bf6451"
+    },
+    {
+      "file": "arxiv-O5477.xml",
+      "query": "ti:\"Unsupervised Anomaly Localization In the Wild via Token Optimization and Test-Time Score Correction\"",
+      "time_utc": "2026-11-03T21:29:55.434148+00:00",
+      "status": 200,
+      "sha256": "c2429f4430b91a6c34c195c0a23fd8f09180356f10073b1b9ad2469700610c59"
+    },
+    {
+      "file": "arxiv-O5484.xml",
+      "query": "ti:\"An Electrified Railway Catenary Component Anomaly Detection Frame Based on Invariant Normal Region Prototype With Segment Anything Model\"",
+      "time_utc": "2026-11-03T21:29:59.105689+00:00",
+      "status": 200,
+      "sha256": "fa1987ccdb122845416a1793391475e54a54eb4687d661ab2dce954c90bf42c4"
+    },
+    {
+      "file": "arxiv-O5485.xml",
+      "query": "ti:\"Improved Parallel Convolutional Neural Network with Proposed Semantic Segmentation for Concrete Surface Crack Segmentation and Classification\"",
+      "time_utc": "2026-11-03T21:30:02.948082+00:00",
+      "status": 200,
+      "sha256": "3bf3a088ce96dfedf5582bd68831e1ec873ed5f0594867cba3afceeb82b3cf27"
+    },
+    {
+      "file": "arxiv-O5486.xml",
+      "query": "ti:\"Quantifying mass loss in corroded steel from visual imagery only a machine learning approach\"",
+      "time_utc": "2026-11-03T21:30:06.716990+00:00",
+      "status": 200,
+      "sha256": "8c905a53fd936267f58f88ff3ee178a352d33b3d4ddf9682767cba944d6f3ae6"
+    },
+    {
+      "file": "arxiv-O5488.xml",
+      "query": "ti:\"Quantifying mass loss in corroded steel from visual imagery only a machine learning approach\"",
+      "time_utc": "2026-11-03T21:30:10.207751+00:00",
+      "status": 200,
+      "sha256": "8c905a53fd936267f58f88ff3ee178a352d33b3d4ddf9682767cba944d6f3ae6"
+    },
+    {
+      "file": "arxiv-O5498.xml",
+      "query": "ti:\"Memory bank-guided diffusion model for lightweight anomaly detection\"",
+      "time_utc": "2026-11-03T21:30:14.174709+00:00",
+      "status": 200,
+      "sha256": "aeefab64fef76d1bc33312d0cae0345fac5a6c35fc056fc288d6310e92f8ab5a"
+    },
+    {
+      "file": "arxiv-O5505.xml",
+      "query": "ti:\"MMFNet A multi-scale memory fusion network based on simulated abnormal samples for anomaly detection\"",
+      "time_utc": "2026-11-03T21:30:18.104124+00:00",
+      "status": 200,
+      "sha256": "9d00c03f3e1c0242671e7c102ec6835358dc05e0e52d2193209aa05cc7ae91af"
+    },
+    {
+      "file": "arxiv-O5511.xml",
+      "query": "ti:\"S3AD Efficient industrial anomaly detection via selection, space, and scale\"",
+      "time_utc": "2026-11-03T21:30:21.809875+00:00",
+      "status": 200,
+      "sha256": "8684cea41b4689f43d4efb1fa1c1ca7a00da1b67a0745829ab37d825a02692e2"
+    },
+    {
+      "file": "arxiv-O5523.xml",
+      "query": "ti:\"Crissmamba a lightweight vision Mamba framework with cross-dimensional interaction for structural crack segmentation\"",
+      "time_utc": "2026-11-03T21:30:25.572110+00:00",
+      "status": 200,
+      "sha256": "b10ca9bc4a7807f99be93b65997e6593615c6dce51a43400cfd28b1f4ec90c2e"
+    },
+    {
+      "file": "arxiv-O5524.xml",
+      "query": "ti:\"Surface and subsurface corrosion detection based on hyperspectral imaging in the visible and infrared range\"",
+      "time_utc": "2026-11-03T21:30:29.307199+00:00",
+      "status": 200,
+      "sha256": "f9e8e6cdc59ebb586de3cf1c451db2a04e62d3e5f6d79bb4b17ba5b91d548d4e"
+    },
+    {
+      "file": "arxiv-O5525.xml",
+      "query": "ti:\"LWMS-Net A novel defect detection network based on multi-wavelet multi-scale for steel surface defects\"",
+      "time_utc": "2026-11-03T21:30:33.628703+00:00",
+      "status": 200,
+      "sha256": "934f7879e35b32459f21390c46f652b13061d3f240ec0535ec6a70d7623f5479"
+    },
+    {
+      "file": "arxiv-O5532.xml",
+      "query": "ti:\"A dual attention network for automatic metallic corrosion detection in natural environment\"",
+      "time_utc": "2026-11-03T21:30:37.385757+00:00",
+      "status": 200,
+      "sha256": "f619f615ce7621b69612ad424a04c5aac7638719dda9c563bd30a2899f48580e"
+    },
+    {
+      "file": "arxiv-O5535.xml",
+      "query": "ti:\"DefectCoT Evaluation and Analysis of Interpretability Reasoning Capability for Multimodal Large Language Models in Power Equipment Defect Detection\"",
+      "time_utc": "2026-11-03T21:30:41.107648+00:00",
+      "status": 200,
+      "sha256": "d3ddfd6d4c5a952bf6058619935d82dd0cbb789a0ce90131ac8d3413d5d7f04b"
+    },
+    {
+      "file": "arxiv-O5542.xml",
+      "query": "ti:\"Agm-Net Attention-guided masking denoising anomaly location network\"",
+      "time_utc": "2026-11-03T21:30:44.883081+00:00",
+      "status": 200,
+      "sha256": "ca0f04492a932770e888f87aab1998fbc35e2fdec8eed045a37581a35fec5dd1"
+    },
+    {
+      "file": "arxiv-O5556.xml",
+      "query": "ti:\"Machine Learning-Based Corrosion Prediction Model for Steel Structures\"",
+      "time_utc": "2026-11-03T21:30:48.614802+00:00",
+      "status": 200,
+      "sha256": "e75af43b747a913bb436a75d20e64a9e62e8a555e2d9f8d31c2088b73162409b"
+    },
+    {
+      "file": "arxiv-O5561.xml",
+      "query": "ti:\"A Low-Complexity and High-Accuracy Defect Detection Network\"",
+      "time_utc": "2026-11-03T21:30:52.376301+00:00",
+      "status": 200,
+      "sha256": "0e971ad7083e249842e7e7e5f0ef91f7e33f7f05345fa12b045995e3dc3514a0"
+    },
+    {
+      "file": "arxiv-O5566.xml",
+      "query": "ti:\"Frequency domain nuances guided parallel transformer model for industrial anomaly localization\"",
+      "time_utc": "2026-11-03T21:30:56.048930+00:00",
+      "status": 200,
+      "sha256": "5c79cdc6a99fbf43c77f0eb2c48ed510ffce3836752a113885e6ac16f8e18d8b"
+    },
+    {
+      "file": "arxiv-O5584.xml",
+      "query": "ti:\"XEvalAD An Explainable Evaluation Framework for Anomaly Detection via Item Response Theory\"",
+      "time_utc": "2026-11-03T21:30:59.802911+00:00",
+      "status": 200,
+      "sha256": "a48200ecd6b33f0ac59eecd8a7b088622641d25551e0210976ea7b6d04b58bdb"
+    },
+    {
+      "file": "arxiv-O5586.xml",
+      "query": "ti:\"Multi-modal data novelty detection with modal diversity-unity-complementarity representation\"",
+      "time_utc": "2026-11-03T21:31:03.511182+00:00",
+      "status": 200,
+      "sha256": "fe8c08db1678fe26236bbd907b7c6a21237d78a8f81b541b81ff1d7471053679"
+    },
+    {
+      "file": "arxiv-O5587.xml",
+      "query": "ti:\"X-Enhanced ULite Improving semantic segmentation for surface defects\"",
+      "time_utc": "2026-11-03T21:31:07.330996+00:00",
+      "status": 200,
+      "sha256": "500c7db1dee51f9ffefa28fef14d42d3ccb3bd19f357c957f882bdf339845ba2"
+    },
+    {
+      "file": "arxiv-O5588.xml",
+      "query": "ti:\"When Does Masking Help? A Controlled Equivalence Study of Defect-Derived Data in PatchCore-Based Anomaly Detection\"",
+      "time_utc": "2026-11-03T21:31:11.334016+00:00",
+      "status": 200,
+      "sha256": "c7558b9a287b596573111fc810674a5a6aa5dbf4dbf85a77877320b1bda5c36f"
+    },
+    {
+      "file": "arxiv-O5594.xml",
+      "query": "ti:\"Attention-based vector quantized variational autoencoder for anomaly detection by using orthogonal subspace constraints\"",
+      "time_utc": "2026-11-03T21:31:15.368198+00:00",
+      "status": 200,
+      "sha256": "9efe0b02e4a6d50873d53bf8a896bb51a69374cae86c9ad0ad5a1d257a8a0767"
+    },
+    {
+      "file": "arxiv-O5605.xml",
+      "query": "ti:\"CMAC-Net a cross-modal alignment and semantic consistency optimization framework for image-text fusion in industrial defect detection\"",
+      "time_utc": "2026-11-03T21:31:24.534167+00:00",
+      "status": 200,
+      "sha256": "23267d6966ec3e614c53da38154c4da203b99ebf86fd6581beb969a413e3e60b"
+    },
+    {
+      "file": "arxiv-O5606.xml",
+      "query": "ti:\"Deep Learning for Prediction of Leaks in Oil and Gas Pipelines\"",
+      "time_utc": "2026-11-03T21:31:28.371578+00:00",
+      "status": 200,
+      "sha256": "43868172a73f80640242ebb3f5d3320fa9ce1318b414c3eabfe21e20248bfdf9"
+    },
+    {
+      "file": "arxiv-O5612.xml",
+      "query": "ti:\"MaskCL Mask-driven Cross-Modal Collaborative Learning for multimodal anomaly detection\"",
+      "time_utc": "2026-11-03T21:31:32.763212+00:00",
+      "status": 200,
+      "sha256": "e41a1f011b03a567c1ae02f467a8e88c51bd8453856dfc612b335b7072df25cd"
+    },
+    {
+      "file": "arxiv-O5616.xml",
+      "query": "ti:\"Enhancing Few-Shot marble slab surface defect detection A diffusion framework with knowledge distillation and semantic guidance\"",
+      "time_utc": "2026-11-03T21:31:37.607394+00:00",
+      "status": 200,
+      "sha256": "0b470743a1fb6e179e7dfd4a98b1ff020ac00d20409f679ce5b070acaaa633d2"
+    },
+    {
+      "file": "arxiv-O5618.xml",
+      "query": "ti:\"Intelligent assembly conformance verification for complex products A rotationally invariant multi-view visual framework\"",
+      "time_utc": "2026-11-03T21:31:44.890027+00:00",
+      "status": 200,
+      "sha256": "a0e4e61494b8c104bd709d9cdbb7caed370fd6ab293292f855ae8205e1c0ed5d"
+    },
+    {
+      "file": "arxiv-O5622.xml",
+      "query": "ti:\"Rethinking the prior guided vision transformer for industrial anomaly class discovery\"",
+      "time_utc": "2026-11-03T21:31:49.935840+00:00",
+      "status": 200,
+      "sha256": "db73e935ac3d6332e2f38bc3e8d2115d9e7c2c49cc11e2bc1c1fa620ec1c12ba"
+    },
+    {
+      "file": "arxiv-O5626.xml",
+      "query": "ti:\"Deep spatiotemporal fusion network for vision-based robotic inspection of structures\"",
+      "time_utc": "2026-11-03T21:31:53.939262+00:00",
+      "status": 200,
+      "sha256": "408f210bbde4530126736303332d8a07a988a233d20ebb8170a3e63554197214"
+    },
+    {
+      "file": "arxiv-O5632.xml",
+      "query": "ti:\"A surface defect detection and semantic reasoning framework with a cloud-edge-terminal system for industrial scenarios with zero real defect samples via large\u2013small model and Human-AI collaboration\"",
+      "time_utc": "2026-11-03T21:31:57.830517+00:00",
+      "status": 200,
+      "sha256": "273a62e8486be69184ef702df02e29cb49001697936ee2a17db32b3518fdff52"
+    },
+    {
+      "file": "arxiv-O5787.xml",
+      "query": "ti:\"An efficient and reliable coarse-to-fine approach for asphalt pavement crack detection\"",
+      "time_utc": "2026-11-03T21:32:06.230504+00:00",
+      "status": 200,
+      "sha256": "e8ec7a29848231c51ba8413612ff2b204056b297213765021493a24aad1c4eda"
+    },
+    {
+      "file": "arxiv-O5810.xml",
+      "query": "ti:\"A robust instance segmentation framework for underground sewer defect detection\"",
+      "time_utc": "2026-11-03T21:32:10.446907+00:00",
+      "status": 200,
+      "sha256": "78cd399bc14d2381e87bc65087f1b209fe77a698c166a19ea677bb2e248b1817"
+    },
+    {
+      "file": "arxiv-O5816.xml",
+      "query": "ti:\"A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects\"",
+      "time_utc": "2026-11-03T21:32:15.490954+00:00",
+      "status": 200,
+      "sha256": "94ba2ea338ea3b6a2367beff3b96e9d497e27eee2c9171b5cee7c0df2b6d1a40"
+    },
+    {
+      "file": "arxiv-O5818.xml",
+      "query": "ti:\"A Robust Method for Automatically Detecting Cracks on Noisy Concrete Surfaces\"",
+      "time_utc": "2026-11-03T21:32:19.986491+00:00",
+      "status": 200,
+      "sha256": "8b08b516488fec13e03ad0e4f591168d5cee2633c0d91024ad0b295f1ad0dbc1"
+    },
+    {
+      "file": "arxiv-O5820.xml",
+      "query": "ti:\"Transfer learning in laser-based additive manufacturing Fusion, calibration, and compensation\"",
+      "time_utc": "2026-11-03T21:32:29.680054+00:00",
+      "status": 200,
+      "sha256": "27da67760db0e7d2fd76f939045f57a4c385a64612558bb271ac97e7fe456fdd"
+    },
+    {
+      "file": "arxiv-O5913.xml",
+      "query": "ti:\"A texture\u2010Based Video Processing Methodology Using Bayesian Data Fusion for Autonomous Crack Detection on Metallic Surfaces\"",
+      "time_utc": "2026-11-03T21:32:50.030036+00:00",
+      "status": 200,
+      "sha256": "426f2650bfd018293d7cee3f84ccc8253ee5fb11a4cbd9b3a68aee7bb61145a8"
+    },
+    {
+      "file": "arxiv-O5917.xml",
+      "query": "ti:\"Synthetic data augmentation for surface defect detection and classification using deep learning\"",
+      "time_utc": "2026-11-03T21:32:54.190000+00:00",
+      "status": 200,
+      "sha256": "f30cbc643c70738aae6ce684caf6e58b7f990d4ba75e8e2c3723bfa6758b6dad"
+    },
+    {
+      "file": "arxiv-O5942.xml",
+      "query": "ti:\"A novel hybrid approach for crack detection\"",
+      "time_utc": "2026-11-03T21:32:58.405617+00:00",
+      "status": 200,
+      "sha256": "0d44cd3ce0a2fc74e1e07c698517d2a0fdab6da83ea91f3119d53ef3c73a3643"
+    },
+    {
+      "file": "arxiv-O5949.xml",
+      "query": "ti:\"Detection of bird nests in overhead catenary system images for high-speed rail\"",
+      "time_utc": "2026-11-03T21:33:03.855280+00:00",
+      "status": 200,
+      "sha256": "0ac5bbe2c77799e839901a0c8c3c93d301b7bdc09e25b00be07f16fa5bd6cdc3"
+    },
+    {
+      "file": "arxiv-O5996.xml",
+      "query": "ti:\"Successive pattern classification based on test feature classifier and its application to defect image classification\"",
+      "time_utc": "2026-11-03T21:33:11.090543+00:00",
+      "status": 200,
+      "sha256": "2fc6b01709167909b5130a48753d0ff4a637038c63d1cca861b6faccdee6107a"
+    },
+    {
+      "file": "arxiv-O6008.xml",
+      "query": "ti:\"Automated defect classification in sewer closed circuit television inspections using deep convolutional neural networks\"",
+      "time_utc": "2026-11-03T21:33:15.332034+00:00",
+      "status": 200,
+      "sha256": "e9533c149fef57b6077e293446c60d81df635dcc1f9e6823531e15e3f51b99d1"
+    },
+    {
+      "file": "arxiv-O6024.xml",
+      "query": "ti:\"Design of deep convolutional neural network architectures for automated feature extraction in industrial inspection\"",
+      "time_utc": "2026-11-03T21:33:19.391452+00:00",
+      "status": 200,
+      "sha256": "abe8381bf04ac71a1093bdfb9789428d63604faff771f8da432597969deec979"
+    },
+    {
+      "file": "arxiv-O6056.xml",
+      "query": "ti:\"Process parameter effects estimation and surface quality prediction for selective laser melting empowered by Bayes optimized soft attention mechanism-enhanced transfer learning\"",
+      "time_utc": "2026-11-03T21:33:25.342052+00:00",
+      "status": 200,
+      "sha256": "3853e2d316b8ede7e7c50ea8f4d042b1f0a5743b02d4223b9647fa3675243c3c"
+    },
+    {
+      "file": "arxiv-O6088.xml",
+      "query": "ti:\"Detection of cracks in nuclear power plant using spatial-temporal grouping of local patches\"",
+      "time_utc": "2026-11-03T21:33:30.312244+00:00",
+      "status": 200,
+      "sha256": "a56f1bbad86110411ebee56f71f67dc1e67e49359f03eaa17d33b3a6bb5aac6a"
+    },
+    {
+      "file": "arxiv-O6090.xml",
+      "query": "ti:\"Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation\"",
+      "time_utc": "2026-11-03T21:33:34.178539+00:00",
+      "status": 200,
+      "sha256": "cb0437353309c18aec7f8fc4736d47ea3e92439e41563313bd578df7c6cff66c"
+    },
+    {
+      "file": "arxiv-O6096.xml",
+      "query": "ti:\"NB-CNN Deep Learning-Based Crack Detection Using Convolutional Neural Network and Na\u00efve Bayes Data Fusion\"",
+      "time_utc": "2026-11-03T21:33:37.986937+00:00",
+      "status": 200,
+      "sha256": "2297cd1b5e75e5784e65677a82303113b73f923a43026031012d94322d184cbd"
+    },
+    {
+      "file": "arxiv-O6097.xml",
+      "query": "ti:\"Autonomous Structural Visual Inspection Using Region\u2010Based Deep Learning for Detecting Multiple Damage Types\"",
+      "time_utc": "2026-11-03T21:33:41.742230+00:00",
+      "status": 200,
+      "sha256": "5627dd75429785e9517b5203b68ce007373a7598675e46805698f3cfe19425f1"
+    },
+    {
+      "file": "arxiv-O6107.xml",
+      "query": "ti:\"DefectTR End-to-end defect detection for sewage networks using a transformer\"",
+      "time_utc": "2026-11-03T21:33:45.516486+00:00",
+      "status": 200,
+      "sha256": "b03e01b9bc6276233f0802297336a06a8b378e6a5d96f34b7aed6416c8778223"
+    },
+    {
+      "file": "arxiv-O6123.xml",
+      "query": "ti:\"Automatic sewer defect detection and severity quantification based on pixel-level semantic segmentation\"",
+      "time_utc": "2026-11-03T21:33:49.315714+00:00",
+      "status": 200,
+      "sha256": "539e2140ddcf47732f3192c54a04adf4cd52af92a30f678e25d820d4db9422f9"
+    },
+    {
+      "file": "arxiv-O6133.xml",
+      "query": "ti:\"Syncrack Improving Pavement and Concrete Crack Detection through Synthetic Data Generation\"",
+      "time_utc": "2026-11-03T21:33:53.124815+00:00",
+      "status": 200,
+      "sha256": "66d660f4d22419950fe70fbb50788b95d388161b4353b7e49b854df277a9ef0d"
+    },
+    {
+      "file": "arxiv-O6139.xml",
+      "query": "ti:\"Comparative analysis of fuzzy classifier and ANN with histogram features for defect detection and classification in planetary gearbox\"",
+      "time_utc": "2026-11-03T21:33:57.326344+00:00",
+      "status": 200,
+      "sha256": "e8899c60cb9dc32ff743db64492c8a45141555167b2fa9327177c63beabccd23"
+    },
+    {
+      "file": "arxiv-O6142.xml",
+      "query": "ti:\"Steel surface defect detection based on self-supervised contrastive representation learning with matching metric\"",
+      "time_utc": "2026-11-03T21:34:01.256403+00:00",
+      "status": 200,
+      "sha256": "b60e76d8e4777e9575eaddf90cab2897c4b7a2fc41146723e4853234b7bbc570"
+    },
+    {
+      "file": "arxiv-O6151.xml",
+      "query": "ti:\"DT-ProtoYOLO Mitigating Overconfidence in Open-Set Object Detection via Dual-Linear Thresholding and Prototype Regularization\"",
+      "time_utc": "2026-11-03T21:34:05.031630+00:00",
+      "status": 200,
+      "sha256": "9c89b57e57a3bafd2d8d03baf755e3a3668d87c2486436a7d54a7fdce9723ca2"
+    },
+    {
+      "file": "arxiv-O6175.xml",
+      "query": "ti:\"Cross-Context Synthetic Data for Road Defect Detection An Interpretability Analysis\"",
+      "time_utc": "2026-11-03T21:34:08.800787+00:00",
+      "status": 200,
+      "sha256": "4fbb09cf4afec96afc4e65807a22c51f3e7ab48c5798ec921b6089cb2f666128"
+    },
+    {
+      "file": "arxiv-O6181.xml",
+      "query": "ti:\"Embodied Intelligence-Driven Active Perception and Detection Strategy Learning for Display Defects in Electric Metering Devices\"",
+      "time_utc": "2026-11-03T21:34:12.656984+00:00",
+      "status": 200,
+      "sha256": "cb5677551719f41a7ed6b6e8d254ef38774b05bc110a0dd9df933e97e515d0d1"
+    },
+    {
+      "file": "arxiv-O6182.xml",
+      "query": "ti:\"Generative-enhanced semantic segmentation for timber heritage pathologies Overcoming data scarcity via Deformable Context-Aware networks\"",
+      "time_utc": "2026-11-03T21:34:16.587206+00:00",
+      "status": 200,
+      "sha256": "4d5b11cd500376acdab9a1c40035a05b9d67002a3fcf9fb4cbe1310db93a5c19"
+    },
+    {
+      "file": "arxiv-O6186.xml",
+      "query": "ti:\"FDM-ESRGAN a domain-adapted and efficient super-resolution framework for low-cost 3D printing defect detection\"",
+      "time_utc": "2026-11-03T21:34:20.794704+00:00",
+      "status": 200,
+      "sha256": "751ed3d29153b26de43192a4fb029f10b1db3e22e9fdd179a5d62e6f86a3054c"
+    },
+    {
+      "file": "arxiv-O6189.xml",
+      "query": "ti:\"RGB Ensemble Strategies for Unsupervised Industrial Anomaly Detection on the AutoVI Dataset\"",
+      "time_utc": "2026-11-03T21:34:25.356291+00:00",
+      "status": 200,
+      "sha256": "65d1991b832986b06edffb23f71969bc6f87bc376f58d398620a9c41c2f205f6"
+    },
+    {
+      "file": "arxiv-O6193.xml",
+      "query": "ti:\"A Deep Learning Approach for Aluminum Corrosion Recognition in Semiconductor Manufacturing\"",
+      "time_utc": "2026-11-03T21:34:29.359608+00:00",
+      "status": 200,
+      "sha256": "625fbdd17740d7a990f41888732afc5ee8117ca421651282827f7de60c89836f"
+    },
+    {
+      "file": "arxiv-O6200.xml",
+      "query": "ti:\"FA3D a fault-aware monitoring framework for 3D printing using vision-language models VLMs\"",
+      "time_utc": "2026-11-03T21:34:33.425997+00:00",
+      "status": 200,
+      "sha256": "a4b6f9362f8deaf7c7653a77231bf7068478dbd0b51c303fef01c7a72c2bfad9"
+    },
+    {
+      "file": "arxiv-O6202.xml",
+      "query": "ti:\"Synergistic context edge-enhanced HRNet for steel bridge corrosion segmentation\"",
+      "time_utc": "2026-11-03T21:34:37.860243+00:00",
+      "status": 200,
+      "sha256": "d52b9732a1cf8f3dc7f24cf32e66a07127e90fcb047e4128c870e5934a26085b"
+    },
+    {
+      "file": "arxiv-O6203.xml",
+      "query": "ti:\"Q-Fidelity Hybrid Quantum\u2013Classical Anomaly Detection with Illumination-Conditioned Noise on MVTec AD 2\"",
+      "time_utc": "2026-11-03T21:34:41.805114+00:00",
+      "status": 200,
+      "sha256": "d4ea94ee45d94f5516f712c508727400d062a7779848ad92f4519de290b773fc"
+    },
+    {
+      "file": "arxiv-O6221.xml",
+      "query": "ti:\"Causal continual unlearning with disentangled anomaly representations for private industrial vision\"",
+      "time_utc": "2026-11-03T21:34:45.619221+00:00",
+      "status": 200,
+      "sha256": "733855c6176992a98edc17d55490e7c49a5091c13030252de82ee01b1d967d5f"
+    },
+    {
+      "file": "arxiv-O6262.xml",
+      "query": "ti:\"Unsupervised domain adaptation-based crack segmentation using transformer network\"",
+      "time_utc": "2026-11-03T21:34:49.466041+00:00",
+      "status": 200,
+      "sha256": "5373f2ef50d4fd05d0cefa8c146ca090324818ae2afce4a794c37528edea46d0"
+    },
+    {
+      "file": "arxiv-O6264.xml",
+      "query": "ti:\"Generative adversarial network based on domain adaptation for crack segmentation in shadow environments\"",
+      "time_utc": "2026-11-03T21:34:53.371160+00:00",
+      "status": 200,
+      "sha256": "e2d45fb05571fa1304128423448442dc40344413e69ba446ac981a3740100a4e"
+    },
+    {
+      "file": "arxiv-O6266.xml",
+      "query": "ti:\"Knowledge transfer for structural damage detection through re-weighted adversarial domain adaptation\"",
+      "time_utc": "2026-11-03T21:34:57.309341+00:00",
+      "status": 200,
+      "sha256": "6f3f0f87356764673cead614be99850a01cc836116bd6e4828363d404527383b"
+    },
+    {
+      "file": "arxiv-O6288.xml",
+      "query": "ti:\"Self-supervised Learning for Robust Surface Defect Detection\"",
+      "time_utc": "2026-11-03T21:35:02.276834+00:00",
+      "status": 200,
+      "sha256": "4d62455c904094a9b2fec4a6b68cf3536d8aae84af46c1b80b7e2e99a9620ab4"
+    },
+    {
+      "file": "arxiv-O6304.xml",
+      "query": "ti:\"Iterative learning for efficient additive mass production\"",
+      "time_utc": "2026-11-03T21:35:06.007093+00:00",
+      "status": 200,
+      "sha256": "8fd9349f0f742ba42e70b525d4b93d34d01011d61a2e84978b84e0d50da64b12"
+    },
+    {
+      "file": "arxiv-O6319.xml",
+      "query": "ti:\"Recognition of penetration state in GTAW based on vision transformer using weld pool image\"",
+      "time_utc": "2026-11-03T21:35:09.857809+00:00",
+      "status": 200,
+      "sha256": "60ab9927029b48e20e2c18a145add9e9613b5ac53a2149c184eef9e84e9d2143"
+    },
+    {
+      "file": "arxiv-O6326.xml",
+      "query": "ti:\"How to Improve Deep Learning based Pavement Distress Detection while Minimizing Human Effort\"",
+      "time_utc": "2026-11-03T21:35:13.667698+00:00",
+      "status": 200,
+      "sha256": "6f3bc7074ede70c3cb59fe819f4981ce4e487a66d380fe4d598b3f182fdcf736"
+    },
+    {
+      "file": "arxiv-O6334.xml",
+      "query": "ti:\"Federated learning-based collaborative manufacturing for complex parts\"",
+      "time_utc": "2026-11-03T21:35:17.407789+00:00",
+      "status": 200,
+      "sha256": "99d31d06e04fdb3a95912bce553fec11b0f7e7a3dd5b8a9d89c6d029675b7c48"
+    },
+    {
+      "file": "arxiv-O6343.xml",
+      "query": "ti:\"Multi-scale feature fusion network for pixel-level pavement distress detection\"",
+      "time_utc": "2026-11-03T21:35:21.372025+00:00",
+      "status": 200,
+      "sha256": "8d06eaee40ede2d1ea705a12469e77eb4a3dcba66ab133cb9aa6f82a0d23a67f"
+    },
+    {
+      "file": "arxiv-O6344.xml",
+      "query": "ti:\"Scheme for predictive fault diagnosis in photo-voltaic modules using thermal imaging\"",
+      "time_utc": "2026-11-03T21:35:26.653094+00:00",
+      "status": 200,
+      "sha256": "b6172860b4e69c87d81fe7f713dc33c50d0744e29103d0f216af472f981a85a9"
+    },
+    {
+      "file": "arxiv-O6345.xml",
+      "query": "ti:\"Application of unsupervised learning methods based on video data for real-time anomaly detection in wire arc additive manufacturing\"",
+      "time_utc": "2026-11-03T21:35:30.631004+00:00",
+      "status": 200,
+      "sha256": "bb374021c0517f5c41849069ae5c574b1abbad6963047bd7099199d159a08d82"
+    },
+    {
+      "file": "arxiv-O6349.xml",
+      "query": "ti:\"Automatic tracking method for submarine cables and pipelines of AUV based on side scan sonar\"",
+      "time_utc": "2026-11-03T21:35:34.434773+00:00",
+      "status": 200,
+      "sha256": "552d5d9d8436e00f66969690019db086751a81a23710f657386bc56b5b4f7481"
+    },
+    {
+      "file": "arxiv-O6353.xml",
+      "query": "ti:\"Cross\u2010scene pavement distress detection by a novel transfer learning framework\"",
+      "time_utc": "2026-11-03T21:35:40.911258+00:00",
+      "status": 200,
+      "sha256": "5a09e12366ca091353c27040df72e7254543131ea2fc8ce4e0bb09d49cb08976"
+    },
+    {
+      "file": "arxiv-O6369.xml",
+      "query": "ti:\"The classification and localization of crack using lightweight convolutional neural network with CBAM\"",
+      "time_utc": "2026-11-03T21:35:44.707626+00:00",
+      "status": 200,
+      "sha256": "e98f384098941d3a9e53c0b1aa73054e6c1094fa53acd8e244d47858b16585c7"
+    },
+    {
+      "file": "arxiv-O6389.xml",
+      "query": "ti:\"Evidential transformer for pavement distress segmentation\"",
+      "time_utc": "2026-11-03T21:35:49.999140+00:00",
+      "status": 200,
+      "sha256": "0c309a6833c37949fdcbf2f55672b35c6543230e215a640bc74eb137c9b8a027"
+    },
+    {
+      "file": "arxiv-O6392.xml",
+      "query": "ti:\"Pixel-level pavement crack segmentation with encoder-decoder network\"",
+      "time_utc": "2026-11-03T21:35:53.819060+00:00",
+      "status": 200,
+      "sha256": "b8def1e3abe672333a6cd7a837b149fc26c5dabbaa02b5c60d1566f56a2eb6e0"
+    },
+    {
+      "file": "arxiv-O6412.xml",
+      "query": "ti:\"Synthesizing the performance of deep learning in vision-based pavement distress detection\"",
+      "time_utc": "2026-11-03T21:35:57.799044+00:00",
+      "status": 200,
+      "sha256": "4aa2608f30d359d6b42f0c65362681fbd906945439ba019a5d46dbd80f4dd941"
+    },
+    {
+      "file": "arxiv-O6430.xml",
+      "query": "ti:\"Penetration state recognition based on stereo vision in GMAW process by deep learning\"",
+      "time_utc": "2026-11-03T21:36:02.869543+00:00",
+      "status": 200,
+      "sha256": "4af8ac6ca5cdb25ffbc40f0a52df3208186e8e4189eadcc7c67220a971ac31c0"
+    },
+    {
+      "file": "arxiv-O6454.xml",
+      "query": "ti:\"A data-driven framework for molten pool morphology prediction in laser welding with dimensionless numbers discovery\"",
+      "time_utc": "2026-11-03T21:36:06.664116+00:00",
+      "status": 200,
+      "sha256": "b1eb77fa8c6dde0673a15a84862a4403af82c8fdc7ab54f9d5405b53b038caee"
+    },
+    {
+      "file": "arxiv-O6463.xml",
+      "query": "ti:\"Detection of the power lines in UAV remote sensed images using spectral-spatial methods\"",
+      "time_utc": "2026-11-03T21:36:10.511007+00:00",
+      "status": 200,
+      "sha256": "76c5c383cb3da9580472ad00ed442c41dd239999184a1ce37c6c274b7014730a"
+    },
+    {
+      "file": "arxiv-O6469.xml",
+      "query": "ti:\"Monitoring weld pool oscillation using reflected laser pattern in gas tungsten arc welding\"",
+      "time_utc": "2026-11-03T21:36:14.626475+00:00",
+      "status": 200,
+      "sha256": "f4e158b5ed0db0dcd52bc55b622e986f667e43f61da2b1c360bd4bfa567f474b"
+    },
+    {
+      "file": "arxiv-O6474.xml",
+      "query": "ti:\"Process performance evaluation and classification via in-situ melt pool monitoring in directed energy deposition\"",
+      "time_utc": "2026-11-03T21:36:18.352584+00:00",
+      "status": 200,
+      "sha256": "29297aaad1b238944ca221fa870f043c7ed15673456eb6fef044c22370e31cce"
+    },
+    {
+      "file": "arxiv-O6484.xml",
+      "query": "ti:\"Vision-based penetration monitoring method for climbing helium arc welding using deep learning with multivariate time series forecasting\"",
+      "time_utc": "2026-11-03T21:36:22.114078+00:00",
+      "status": 200,
+      "sha256": "5f345a75e87e4228916f97f7924877e9ef132a8cf7eba8df82286aa73eb12435"
+    },
+    {
+      "file": "arxiv-O6491.xml",
+      "query": "ti:\"Fast and accurate cable detection using CNN\"",
+      "time_utc": "2026-11-03T21:36:25.913746+00:00",
+      "status": 200,
+      "sha256": "085d9ed7b1f52cec8e62aa164af47d22c06c7f5e898a3ccc85fe2342355feb9e"
+    },
+    {
+      "file": "arxiv-O6496.xml",
+      "query": "ti:\"Synthesizing weld pool dynamics via VAE-GAN to enhance human control performance\"",
+      "time_utc": "2026-11-03T21:36:30.105299+00:00",
+      "status": 200,
+      "sha256": "0404846d32e8ff0722417ea70b25615e9f91a5f4369b1992d8fe548507cce906"
+    },
+    {
+      "file": "arxiv-O6497.xml",
+      "query": "ti:\"AF-FTTSnet An end-to-end two-stream convolutional neural network for online quality monitoring of robotic welding\"",
+      "time_utc": "2026-11-03T21:36:34.310401+00:00",
+      "status": 200,
+      "sha256": "535d6b4f8f9d5bb689ddfeebcdc59b26016cdd6df1b029eb7693adc754f0a921"
+    },
+    {
+      "file": "arxiv-O6501.xml",
+      "query": "ti:\"Data-fused and concatenated-ensemble learning for in-situ anomaly detection in wire and arc-based direct energy deposition\"",
+      "time_utc": "2026-11-03T21:36:38.012746+00:00",
+      "status": 200,
+      "sha256": "ce6b42b606207b6aa234a36dbb43d4e965890c06347b0f71f26da1b0701cefa1"
+    },
+    {
+      "file": "arxiv-O6502.xml",
+      "query": "ti:\"Towards automatic anomaly detection and diagnosis in positional arc-directed energy deposition based on deep learning\"",
+      "time_utc": "2026-11-03T21:36:41.750488+00:00",
+      "status": 200,
+      "sha256": "325f3820a4ad803a5bb8b307beb806c08ffce3e67e160dddf15579f3e10842e6"
+    },
+    {
+      "file": "arxiv-O6525.xml",
+      "query": "ti:\"Epistemic and aleatoric uncertainty quantification for crack detection using a Bayesian Boundary Aware Convolutional Network\"",
+      "time_utc": "2026-11-03T21:36:45.451861+00:00",
+      "status": 200,
+      "sha256": "361cecc8b16894198ba2a6d8859eabe85f3357722e1819ce7567835b8b069748"
+    },
+    {
+      "file": "arxiv-O6529.xml",
+      "query": "ti:\"LLRailDet Task-Specific Asymmetrical Decoupling for Robust Low-Light Railway Defect Detection\"",
+      "time_utc": "2026-11-03T21:36:52.878630+00:00",
+      "status": 200,
+      "sha256": "a03f16150013ee3003ea6ff5e8aa619a1f1f37b80d534959e72d43ce04304403"
+    },
+    {
+      "file": "arxiv-O6541.xml",
+      "query": "ti:\"AEKD Unsupervised auto-encoder knowledge distillation for industrial anomaly detection\"",
+      "time_utc": "2026-11-03T21:36:56.722290+00:00",
+      "status": 200,
+      "sha256": "9427893eb4fa009c2047ab3aa1ef2560a939ef7eee1bfcdab835894fe135702d"
+    },
+    {
+      "file": "arxiv-O6551.xml",
+      "query": "ti:\"A multi-source heterogeneous information fusion network for comprehensive assessment of spot welding quality\"",
+      "time_utc": "2026-11-03T21:37:00.436830+00:00",
+      "status": 200,
+      "sha256": "074539e7d99cc6700e227b4e5f5e9774815077bbe78c28508c3de10c0276014d"
+    },
+    {
+      "file": "arxiv-O6558.xml",
+      "query": "ti:\"Welding quality evaluation of resistance spot welding based on a hybrid approach\"",
+      "time_utc": "2026-11-03T21:37:04.155652+00:00",
+      "status": 200,
+      "sha256": "49573914e74f33f4101531034450ef3bf41f31f9aff949349ded616d09e3768a"
+    },
+    {
+      "file": "arxiv-O6566.xml",
+      "query": "ti:\"Wafer map defect pattern detection method based on improved attention mechanism\"",
+      "time_utc": "2026-11-03T21:37:09.585157+00:00",
+      "status": 200,
+      "sha256": "5b01761c79fd485bbd2a0b7a24bfe685a22ede30c92b5a119ac272911b2da66e"
+    },
+    {
+      "file": "arxiv-O6577.xml",
+      "query": "ti:\"A feature fusion enhanced multiscale CNN with attention mechanism for spot-welding surface appearance recognition\"",
+      "time_utc": "2026-11-03T21:37:13.314815+00:00",
+      "status": 200,
+      "sha256": "cffccc1fd1c94656b3b43d285c32f2e9d19f1dfeaa1fe9cb702d29ba335be053"
+    },
+    {
+      "file": "arxiv-O6582.xml",
+      "query": "ti:\"A topology-aware segment anything model for domain-invariant crack segmentation\"",
+      "time_utc": "2026-11-03T21:37:16.997052+00:00",
+      "status": 200,
+      "sha256": "78d27502ec0c6b2a8a9a597be9632e3bb17726ae277eb407ec0b0bd5451dd514"
+    },
+    {
+      "file": "arxiv-O6583.xml",
+      "query": "ti:\"Automatic real-time crack detection using lightweight deep learning models\"",
+      "time_utc": "2026-11-03T21:37:20.741418+00:00",
+      "status": 200,
+      "sha256": "8c4a5e1fa51bfb11ae4542b3d5bb0f203640389c6e7f2f3b0e4151b20ec5bd25"
+    },
+    {
+      "file": "arxiv-O6588.xml",
+      "query": "ti:\"An integrated approach to automatic pixel-level crack detection and quantification of asphalt pavement\"",
+      "time_utc": "2026-11-03T21:37:24.475778+00:00",
+      "status": 200,
+      "sha256": "61cb6201f66ec8706dece0a5e60434c5622fdf62c934b14194e9a78a942c8d2a"
+    },
+    {
+      "file": "arxiv-O6593.xml",
+      "query": "ti:\"Multi-task deep learning for crack segmentation and quantification in RC structures\"",
+      "time_utc": "2026-11-03T21:37:28.209527+00:00",
+      "status": 200,
+      "sha256": "0bf6f1fe8c9a9543ea4ec19bb0846a6e8a713898407161f6790f9852b10825d0"
+    },
+    {
+      "file": "arxiv-O6597.xml",
+      "query": "ti:\"Sam-based instance segmentation models for the automation of structural damage detection\"",
+      "time_utc": "2026-11-03T21:37:31.905616+00:00",
+      "status": 200,
+      "sha256": "8ddde2e60720a92a0d6b88132b62ab81f09427ec12b3b0e21c4f5599d014744b"
+    }
+  ],
+  "finished_utc": "2026-11-03T21:37:34.917257+00:00"
+}

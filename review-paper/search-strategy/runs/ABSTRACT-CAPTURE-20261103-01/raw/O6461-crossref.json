@@ -1,0 +1,1 @@
+ConnectionError(MaxRetryError("HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/10.1007/s40305-018-00238-5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025237A6E590>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))

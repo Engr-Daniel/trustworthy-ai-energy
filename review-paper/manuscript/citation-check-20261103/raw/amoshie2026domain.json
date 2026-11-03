@@ -1,0 +1,37 @@
+{
+  "type": "thesis",
+  "id": "https://doi.org/10.82308/56061",
+  "categories": [
+    "Mechanical Engineering"
+  ],
+  "language": "en",
+  "author": [
+    {
+      "literal": "Amoshie, Daniel"
+    }
+  ],
+  "contributor": [
+    {
+      "literal": "McGill University"
+    },
+    {
+      "literal": "McGill University"
+    },
+    {
+      "literal": "Zhao, Yaoyao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "abstract": "Yaoyao Zhao (Supervisor)",
+  "DOI": "10.82308/56061",
+  "publisher": "McGill University",
+  "title": "Domain Adaptation Model Deployment and a Scalable Model for Anomaly Detection in Powder Spreading for Laser Powder Bed Fusion",
+  "URL": "https://mcgill.scholaris.ca/handle/20.500.14905/141246",
+  "copyright": "All items in eScholarship@McGill are protected by copyright with all rights reserved unless otherwise indicated."
+}

@@ -17,11 +17,12 @@ HEADERS = ["Paper ID", "Stage", "Decision", "Reviewer", "Review Basis", "Decisio
 
 def locators():
     found = {}
-    for p in sorted(S.glob("openalex-*/abstracts.csv")):
+    for p in sorted(S.glob("openalex-*/abstracts.csv")) + sorted(S.glob("abstract-capture-*/abstracts.csv")):
         with p.open(encoding="utf-8", newline="") as f:
             for r in csv.DictReader(f):
                 if r.get("Abstract") and r["Paper ID"] not in found:
-                    found[r["Paper ID"]] = p.relative_to(ROOT).as_posix() + " " + r.get("OpenAlex ID", "") + " (abstract)"
+                    src = r.get("OpenAlex ID") or r.get("Source", "")
+                    found[r["Paper ID"]] = p.relative_to(ROOT).as_posix() + " " + src + " (abstract)"
     return found
 
 def main():

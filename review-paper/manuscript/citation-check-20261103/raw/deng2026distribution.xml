@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/+zDz+TqZ4j6r/PmC0ISHfaXD4a4</id>
+  <title>arXiv Query: search_query=&amp;id_list=2608.15090&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:25:16Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2608.15090" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2608.15090v1</id>
+    <title>Distribution-free false-alarm calibration and chance-corrected spatial evaluation for industrial anomaly detection</title>
+    <updated>2026-08-15T07:21:05Z</updated>
+    <link href="https://arxiv.org/abs/2608.15090v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2608.15090v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Studies of industrial visual inspection commonly report the area under the receiver operating characteristic curve (AUROC) and the overlap between anomaly maps and defect masks. Neither measure specifies the false-alarm rate at a selected threshold, while recurrent defect locations and mask geometry can inflate overlap. We combine a distribution-free upper tolerance threshold with a paired-minus-crossed spatial test. This test compares each detector's score-contributing locations with the matched defect mask and with masks from other images; the difference in rates defines spatial-evidence lift relative to the empirical chance-overlap rate. We evaluate three detectors on 120 point-defect images from three ISP-AD modalities and three fixed data splits. Of 378 alarms, 230 overlap the matched mask. Paired and crossed rates are nevertheless similar in eight of nine detector--modality cells; only DINOv2--ASM has a positive 95\% bootstrap lower bound (lift 0.259, 95\% interval 0.159--0.347). On the independent Magnetic Tile Defect dataset, the same analysis gives lifts of 0.203 (0.169--0.236) for Wide ResNet-50 (WRN50) patch memory and 0.231 (0.202--0.262) for Vision Transformer B/16 (ViT-B/16) patch memory, with one-sided permutation $p=10^{-5}$ for both. When crossed masks are restricted to the same defect class, the lifts remain 0.185 and 0.210. Exact sample planning shows that, with 150 calibration normals, a 95\%-confidence distribution-free claim is supported only for target false-positive rates of 1.98\% or higher; a 1\% target requires at least 299 normals. The results support reporting operating-point performance and chance-corrected spatial evidence alongside AUROC and raw mask overlap.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-08-15T07:21:05Z</published>
+    <arxiv:comment>15 pages, 3 figures, 9 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Jie Deng</name>
+    </author>
+  </entry>
+</feed>

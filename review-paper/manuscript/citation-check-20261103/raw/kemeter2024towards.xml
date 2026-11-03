@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/UhafQE5HSAxsu/iPiEmvvbxr3Fg</id>
+  <title>arXiv Query: search_query=&amp;id_list=2406.19175&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:30Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2406.19175" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2406.19175v1</id>
+    <title>Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data</title>
+    <updated>2024-06-27T13:51:53Z</updated>
+    <link href="https://arxiv.org/abs/2406.19175v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2406.19175v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In many manufacturing settings, annotating data for machine learning and computer vision is costly, but synthetic data can be generated at significantly lower cost. Substituting the real-world data with synthetic data is therefore appealing for many machine learning applications that require large amounts of training data. However, relying solely on synthetic data is frequently inadequate for effectively training models that perform well on real-world data, primarily due to domain shifts between the synthetic and real-world data. We discuss approaches for dealing with such a domain shift when detecting defects in X-ray scans of aluminium wheels. Using both simulated and real-world X-ray images, we train an object detection model with different strategies to identify the training approach that generates the best detection results while minimising the demand for annotated real-world training samples. Our preliminary findings suggest that the sim-2-real domain adaptation approach is more cost-efficient than a fully supervised oracle - if the total number of available annotated samples is fixed. Given a certain number of labeled real-world samples, training on a mix of synthetic and unlabeled real-world data achieved comparable or even better detection results at significantly lower cost. We argue that future research into the cost-efficiency of different training strategies is important for a better understanding of how to allocate budget in applied machine learning projects.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-06-27T13:51:53Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Lukas Malte Kemeter</name>
+    </author>
+    <author>
+      <name>Rasmus Hvingelby</name>
+    </author>
+    <author>
+      <name>Paulina Sierak</name>
+    </author>
+    <author>
+      <name>Tobias Schön</name>
+    </author>
+    <author>
+      <name>Bishwajit Gosswam</name>
+    </author>
+  </entry>
+</feed>

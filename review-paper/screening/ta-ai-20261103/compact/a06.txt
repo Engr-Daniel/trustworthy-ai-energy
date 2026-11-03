@@ -1,0 +1,60 @@
+# a06: 59 pending records whose abstracts were captured by ABSTRACT-CAPTURE-20261103-01 (Crossref/Semantic Scholar, title similarity >= 0.85); screened 2026-11-03 by Claude (AI-assisted, single reviewer)
+O5317;X;TA01;Service-operations intervention analytics on tabular case data; no visual inspection context.
+O5344;F;;Zero-shot industrial/medical anomaly detection evaluated across categories and domains; check whether cross-domain shift is evaluated as such (note 2, note 4), consistent with O3733/O3775.
+O5355;X;TA01;Philosophy of LLM-mediated collective knowledge; no inspection context.
+O5363;X;TA02;Contamination-resilient semi-supervised anomaly detection (R4-type method) on non-image data; generic method outside visual inspection.
+O5381;B;;Nonparametric variance of multi-class AUC; evaluation-methodology background for R8, no inspection study.
+O5397;X;TA05;Wafer image anomaly detection via reconstruction; resolution flexibility is a generic robustness claim with no evaluated reliability dimension (note 1).
+O5421;X;TA02;Drone anomaly detection on acoustic data; non-visual.
+O5437;X;TA01;Psychology of work and GenAI; no inspection context.
+O5450;X;TA05;Industrial anomaly detection method; pretraining domain gap addressed for accuracy only, no deployment shift or reliability evaluation (note 8).
+O5526;X;TA05;Corrosion segmentation; 'calibration' is loss weighting for a precision-recall operating point, not probability calibration or risk control; single dataset.
+O5541;X;TA01;Retinal anomaly detection benchmark; medical context.
+O5546;X;TA05;Generic image anomaly detection augmentation (CutSwap); no reliability dimension.
+O5550;X;TA01;Pathology image classification review; medical context.
+O5602;X;TA05;Crack segmentation architecture; accuracy/topology only, no reliability dimension.
+O5627;X;TA01;Survey study of students' AI-assisted decisions; no inspection context.
+O5683;X;TA01;Uncertainty-aware UDA for urban-scene segmentation; generic vision method outside inspection context.
+O5730;X;TA01;Face anti-spoofing domain adaptation; biometrics context.
+O5763;X;TA01;Open-set face identification; biometrics context.
+O5775;X;TA01;Generalised zero-shot/open-set recognition on generic benchmarks.
+O5779;X;TA01;Synthetic game-engine labels for urban semantic segmentation; generic vision.
+O5815;X;TA01;Robust semi-supervised learning under class-distribution mismatch on generic benchmarks.
+O5823;X;TA03;Seismic ground-motion selection for bridge analysis; no learned image model.
+O5838;X;TA01;Visuomotor domain adaptation for robot control; not inspection.
+O5886;X;TA01;Incremental learning metrics on MNIST/CIFAR-100.
+O5904;X;TA01;Face super-resolution; biometrics context.
+O5926;B;;Classic analysis of AUC as an evaluation measure; methodological background for R8.
+O5987;X;TA01;Bayesian CNN MRI brain extraction; medical context.
+O5988;F;;Surface-crack segmentation on industrial images; abstract reports experiments on required annotation precision, possible R4 (note 4).
+O6015;X;TA05;Sewer CCTV defect classification; accuracy only, no reliability dimension.
+O6043;X;TA02;Acoustic-emission source localisation; non-visual.
+O6046;X;TA01;Style transfer and super-resolution; generic vision.
+O6051;X;TA05;SVM microstructure classification from morphological parameters; no reliability dimension.
+O6071;X;TA05;Masonry damage detection with Faster R-CNN; accuracy and feasibility only.
+O6084;X;TA01;Multi-label recognition on COCO/VOC; generic vision.
+O6118;X;TA01;Semi-supervised few-shot classification on generic benchmarks.
+O6119;X;TA05;Weakly supervised surface-defect detection; reduces annotation cost, no label-noise or other reliability evaluation.
+O6122;X;TA03;Fabric defect detection by Elo rating of image partitions; no learned model.
+O6144;B;;Systematic review of full-spectrum OOD detection (semantic and covariate shift); R3 methodological background.
+O6154;X;TA01;Diffusion transformer inference acceleration; generative modelling.
+O6163;F;;Rail surface-defect inspection; validation of the human-review evidence layer under sensor-noise acquisition shift (R5, R3, R6).
+O6175;F;;Road defect detection evaluated within and beyond training context with synthetic data; shift evaluated (R3).
+O6176;X;TA01;AI in vascular-ageing research review; medical context.
+O6191;X;TA01;Foundation-model shortcut behaviour and calibration in mammography; medical context.
+O6196;X;TA05;Surface-defect detection with diffusion synthesis on KSDD2; accuracy only.
+O6199;X;TA01;Explaining temporal graph neural networks; no visual inspection context.
+O6250;X;TA01;Unsupervised domain adaptation on generic cross-dataset recognition.
+O6251;X;TA01;OOD detection with outlier mining on CIFAR; generic method.
+O6292;X;TA03;Pavement crack segmentation with steerable filters; no learned model.
+O6305;X;TA01;CLIP dense labels for open-vocabulary segmentation; generic vision.
+O6386;X;TA05;Road-surface condition classification for driving; generalisation is a generic claim (note 1).
+O6417;B;;PHM position paper on open problems in deployment; reliability background, no image-based study.
+O6472;X;TA05;CNN laser-welding penetration monitoring; accuracy and latency only.
+O6509;X;TA05;Melt-pool bead-width regression with interpolated labels; no reliability evaluation.
+O6516;X;TA01;OOD detection by sparsification on generic benchmarks.
+O6525;F;;Bayesian crack-boundary detection quantifying epistemic and aleatoric uncertainty (R1).
+O6556;X;TA05;U-Net concrete crack detection; robustness is a generic claim (note 1).
+O6569;X;TA02;Welding quality from dynamic resistance signals; non-visual.
+O6571;X;TA05;Mamba crack segmentation; cross-dataset accuracy only, no shift evaluated as reliability.
+O6585;X;TA03;PV soiling energy-economic modelling; no learned image model.

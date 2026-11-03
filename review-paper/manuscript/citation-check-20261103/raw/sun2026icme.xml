@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/R/P7hMzmC748Vyf1lG0QqDBI5DA</id>
+  <title>arXiv Query: search_query=&amp;id_list=2607.04675&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:23:40Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2607.04675" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2607.04675v1</id>
+    <title>ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing</title>
+    <updated>2026-07-06T05:01:54Z</updated>
+    <link href="https://arxiv.org/abs/2607.04675v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.04675v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents the IEEE International Conference on Multimedia and Expo (ICME) 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing. The challenge is motivated by two key limitations of existing industrial defect inspection systems: (1) current deep learning-based methods often suffer significant performance degradation when deployed in unseen production scenarios, and (2) most benchmarks neglect severity-aware assessment, which is critical for risk control and yield optimization. To address these limitations, we design two complementary tracks: Track 1 (Cross-Scenario Defect Detection) targets accurate defect detection, localization, and classification across diverse unseen production environments; Track 2 (Fine-Grained Severity Grading) requires assigning each detected defect an industry-standard severity level, including Acceptable, Marginal NG, NG, and Gross NG. We construct a large-scale industrial dataset of high-resolution microscopic images spanning seven representative defect categories, comprising over 3,800 images with pixel-level instance annotations for Track 1 and over 2,600 images with severity-grade labels for Track 2. The challenge attracted 86 registered participants with 130 submissions; during the final testing phase, 21 teams submitted results and 12 teams provided models with technical reports. The resulting benchmark, together with the diverse and effective solutions contributed by participating teams, sets a new standard for industrial defect analysis research.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-06T05:01:54Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Wei Sun</name>
+    </author>
+    <author>
+      <name>Weixia Zhang</name>
+    </author>
+    <author>
+      <name>Linhan Cao</name>
+    </author>
+    <author>
+      <name>Mingkai Lu</name>
+    </author>
+    <author>
+      <name>Xiongkuo Min</name>
+    </author>
+    <author>
+      <name>Xiaoping Zhang</name>
+    </author>
+    <author>
+      <name>Patrick Le Callet</name>
+    </author>
+    <author>
+      <name>Guangtao Zhai</name>
+    </author>
+    <author>
+      <name>Hongxing Chen</name>
+    </author>
+    <author>
+      <name>Wenqi Wu</name>
+    </author>
+    <author>
+      <name>Zhenhao Hu</name>
+    </author>
+    <author>
+      <name>Shanshan Lin</name>
+    </author>
+    <author>
+      <name>Guanjie Huang</name>
+    </author>
+    <author>
+      <name>Kai Xie</name>
+    </author>
+    <author>
+      <name>Rui Xin</name>
+    </author>
+    <author>
+      <name>Zilong Zhao</name>
+    </author>
+    <author>
+      <name>Runmin Cong</name>
+    </author>
+    <author>
+      <name>Ningjing Li</name>
+    </author>
+    <author>
+      <name>Siqi Ma</name>
+    </author>
+    <author>
+      <name>Yi Jin Ong</name>
+    </author>
+    <author>
+      <name>Tianfei Zhou</name>
+    </author>
+    <author>
+      <name>Shunzhou Wang</name>
+    </author>
+    <author>
+      <name>Zhiyang Chen</name>
+    </author>
+    <author>
+      <name>Hao Fang</name>
+    </author>
+    <author>
+      <name>Chen Zhang</name>
+    </author>
+    <author>
+      <name>Tze-Hsiang Tang</name>
+    </author>
+    <author>
+      <name>Dikai Li</name>
+    </author>
+    <author>
+      <name>Xianjin Wu</name>
+    </author>
+    <author>
+      <name>Avinash Kumar Sharma</name>
+    </author>
+    <author>
+      <name>Zhaoyang Wang</name>
+    </author>
+    <author>
+      <name>Haiyong Chen</name>
+    </author>
+    <author>
+      <name>Binyi Su</name>
+    </author>
+    <author>
+      <name>Atik Shahariar</name>
+    </author>
+  </entry>
+</feed>

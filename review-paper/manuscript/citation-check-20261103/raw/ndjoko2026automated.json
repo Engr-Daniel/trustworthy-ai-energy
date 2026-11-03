@@ -1,0 +1,31 @@
+{
+  "type": "article-journal",
+  "id": "https://doi.org/10.5281/zenodo.22019079",
+  "categories": [
+    "deep learning; crack detection; domain shift; SDNET2018; ResNet50; IQOA; field validation"
+  ],
+  "language": "en",
+  "author": [
+    {
+      "family": "NDJOKO",
+      "given": "PAUL BERLIN"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        20
+      ]
+    ]
+  },
+  "abstract": "This paper presents a systematic comparison of three deep learning strategies for automated crackdetection in concrete structures, validated against real-world inspection images collected in France.Three models were evaluated on the SDNET2018 dataset: (1) a custom CNN trained from scratch(90.6% validation accuracy); (2) a ResNet50 using off-the-shelf transfer learning (89.2%); and (3)a ResNet50 with layers 3 and 4 fine-tuned, which achieved validation accuracies of 92.7% onbridge decks and 94.1% across the full dataset (D+W+P). Counter-intuitively, pure transfer learningunderperformed the CNN trained from scratch. This is attributed to a domain mismatch: ImageNetderivedfeature representations fail to capture the high-frequency linear texture patterns specific toconcrete cracks. Field validation using 476 images from the Île-de-France region (Essonne, July 2026)revealed a critical domain shift: the v0.4 model’s accuracy plunged from 94.1% on SDNET2018 to just14.3% on field images. This 79.8 percentage-point drop starkly quantifies the gap between laboratorybenchmarks and real-world European operational conditions. Remarkably, domain adaptation viafine-tuning on just 380 field images (model v0.5) fully bridged this gap, achieving 100% validationaccuracy on 96 test images after a single training epoch. This demonstrates that highly compactfield datasets are sufficient for operational deployment. Crucially, all experiments were conductedon standard commodity hardware (CPU) without GPU acceleration. These results establish thetechnical foundation for Metricéa Lab, a platform that integrates AI-driven crack detection intoprofessional structural inspection workflows for bridges, retaining walls, and buildings. The systemaligns directly with the French national framework for structural condition assessment, known asthe IQOA methodology (Image de la Qualité des Ouvrages d’Art — Quality Assessment of CivilEngineering Structures).",
+  "container-title": "Zenodo",
+  "DOI": "10.5281/ZENODO.22019079",
+  "publisher": "Zenodo",
+  "title": "Automated crack detection in concrete civil infrastructure using deep learning: from benchmark to field deployment with domain adaptation.",
+  "URL": "https://zenodo.org/doi/10.5281/zenodo.22019079",
+  "copyright": "Creative Commons Attribution 4.0 International",
+  "version": "1"
+}

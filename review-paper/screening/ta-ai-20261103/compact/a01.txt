@@ -1,0 +1,71 @@
+# Title/abstract decisions, 3 November 2026, pending citation-tracing records with captured abstracts (part 1)
+O6100;X;TA01;Generic multi-task network reuse; no inspection context
+O6101;X;TA05;UAS coating-breakdown detection for marine structures; reliability claimed without evaluation (note 1)
+O6102;X;TA05;Steel microstructure segmentation; accuracy and network visualisation only
+O6103;X;TA05;Sewer CCTV defect segmentation; accuracy only
+O6104;X;TA01;Generic autoencoder anomaly detection; no inspection evaluation stated
+O6105;X;TA01;Generic semi-supervised object detection
+O6106;X;TA05;Wafer-map pattern classification with Hough features; accuracy only
+O6108;X;TA05;CNN insulator defect detection in aerial images; accuracy only
+O6109;X;TA05;Analog instrument reading with an inspection robot; accuracy and efficiency
+O6110;X;TA01;Generic semantic segmentation (DeepLab)
+O6111;X;TA03;Training-free multi-scale pavement crack detection; no learned model
+O6112;X;TA05;Robotic concrete crack detection; generic robustness to clutter claimed (note 1)
+O6113;X;TA05;FCN crack detection and measurement; accuracy only
+O6114;X;TA05;Nuclear plant crack detection with linelets; accuracy on 42 images
+O6115;X;TA01;Medical-only anomaly detection
+O6116;X;TA01;Generic adversarial one-class classifier
+O6120;X;TA01;Driving-scene semi-supervised 3D detection
+O6121;X;TA05;DAGM 2007 synthetic textured-surface benchmark; no reliability dimension
+O6124;X;TA02;Process-variable anomaly detection; non-visual
+O6125;B;;Review of wind turbine blade damage and detection methods; broad review in core energy context
+O6126;X;TA01;Adversarial attacks on video recognition; no inspection context
+O6127;X;TA03;Statistical goodness-of-fit theory; no AI inspection task
+O6128;X;TA01;Generic multi-task learning
+O6130;X;TA01;Generic continual anomaly detection method; no inspection evaluation stated
+O6131;X;TA05;Pavement distress detection and severity; accuracy only
+O6132;X;TA05;Memory-augmented autoencoder surface defects with statistical threshold; robustness asserted without shift evaluation (note 1)
+O6133;F;;Syncrack synthetic crack data with controlled annotation noise; robustness study of training with inaccurate labels (R4); adjacent pavement/concrete context
+O6134;X;TA05;Few-shot industrial AD with rotation-invariant features; no shift evaluation (note 2)
+O6135;X;TA02;Fibre-optic strain SHM; non-visual
+O6138;X;TA02;Sensor-based building damage diagnosis; non-visual
+O6140;X;TA01;Fully unsupervised AD with contaminated data evaluated on CIFAR-10 and Thyroid; no industrial data (consistent with O5049)
+O6141;X;TA01;Generic continual learning
+O6143;B;;Review and evaluation of internal model-selection strategies for unsupervised outlier detection; R8 methodological background (consistent with O4773)
+O6146;X;TA01;Medical and educational AI ethics
+O6147;X;TA01;Generic XAI for automated decision making review
+O6149;X;TA01;Remote-sensing building segmentation
+O6152;X;TA01;Seagrass mapping
+O6155;X;TA01;Clinical decision support
+O6156;X;TA01;Traffic sign recognition
+O6157;B;;Review of Clever Hans effects and shortcut learning; R8 methodological background
+O6158;X;TA01;Military vehicle detection
+O6159;X;TA03;RL coating-parameter optimisation; process control, not inspection
+O6164;X;TA01;Medical-only CNN explanation study
+O6165;X;TA01;Cardiac arrhythmia detection
+O6166;X;TA01;LLM safety perspective
+O6168;X;TA03;Building energy model environment; no AI inspection task
+O6171;X;TA03;Responsible AI framework for structural engineering using fictional cases; no empirical inspection evidence
+O6172;X;TA01;Generic OCSVM data selection; standard benchmarks only
+O6173;X;TA01;Transportation generative AI review
+O6177;X;TA01;Autonomous vehicle data selection
+O6178;X;TA03;RL toolpath planning; not inspection
+O6179;X;TA01;Healthcare agentic AI survey
+O6180;X;TA03;PV under-panel robot motion control; no learned inspection model
+O6181;F;;Uncertainty-guided active perception for electric-meter display defects under reflection, blur and occlusion (R1, R3); core energy equipment context
+O6183;X;TA01;Homecare activity monitoring
+O6184;X;TA01;Camera forensics
+O6185;X;TA02;PV power forecasting; non-visual
+O6187;X;TA03;Floating PV materials review; no AI inspection
+O6189;F;;Unsupervised AD ensembles on real automotive AutoVI data with operating-point metrics and pseudo-depth reliability analysis across seeds (R8, R6)
+O6192;X;TA01;Coastal SAR hotspot detection
+O6193;F;;Semiconductor aluminium-corrosion recognition with data bias analysed via explainability, showing why classification fails (R8 to verify)
+O6194;X;TA01;Online game behaviour
+O6195;X;TA01;Medical CT reconstruction
+O6201;X;TA05;Bayesian NAS for weld-seam feature detection; architecture search, not uncertainty evaluation
+O6205;X;TA03;Classical HSV carton counting; no learned model
+O6206;B;;Narrative review of AI for concrete bridge SHM; broad review in adjacent context
+O6208;X;TA02;Vibration spectrogram AD; non-visual
+O6209;X;TA03;Ambient sensing for factory inspection; no visual inspection model
+O6210;X;TA02;Cloud metrics AD; non-visual
+O6212;X;TA01;STEM education

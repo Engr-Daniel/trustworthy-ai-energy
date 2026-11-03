@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/zzueHwGDCwvXNSH/H5mzQsetfqQ</id>
+  <title>arXiv Query: search_query=&amp;id_list=2607.11170&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:25:18Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2607.11170" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2607.11170v1</id>
+    <title>TC-MAF: Train-Calibrated Bounded Multi-Evidence Fusion for Multimodal Industrial Anomaly Detection</title>
+    <updated>2026-07-13T07:07:54Z</updated>
+    <link href="https://arxiv.org/abs/2607.11170v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.11170v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Multimodal anomaly detection benefits from complementary RGB and 3D evidence, yet auxiliary RGB reconstruction is not equally reliable across product categories and class-wise test-time policy selection is usually unavailable. We propose TC-MAF, a base-anchored multi-evidence fusion design that combines a multimodal detector, complementary Dinomaly evidence, and a small cross-modal consistency cue under one fixed pixel-level fusion formula. A lightweight training-dispersion confidence (TDC) term scales auxiliary participation using only normal training statistics. On MVTec-3D, TC-MAF reaches 0.979 image-level AUROC and 0.990 pixel-level AUPRO, achieving the best mean results on both detection and localization among the compared multimodal methods. Systematic ablations show that the fusion structure itself is the dominant factor, while TDC provides a smaller but reproducible calibration gain over no calibration or arbitrary calibration. Additional experiments show that the same design remains effective under a pooled-statistics variant, auxiliary-branch and backbone substitutions, few-shot settings, a missing-3D setting, and cross-dataset evaluation on Eyecandies. Code is available at https://anonymous.4open.science/r/TC_MAF-C3BB.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-13T07:07:54Z</published>
+    <arxiv:comment>accepted by ACM MM 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Ming Deng</name>
+    </author>
+    <author>
+      <name>Sijin Sun</name>
+    </author>
+    <author>
+      <name>Xiaochuan Hu</name>
+    </author>
+    <author>
+      <name>Xing Wu</name>
+    </author>
+  </entry>
+</feed>

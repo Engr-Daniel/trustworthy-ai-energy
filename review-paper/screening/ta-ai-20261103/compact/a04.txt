@@ -1,0 +1,71 @@
+# Part 4
+O6401;X;TA03;RL closed-loop control of direct ink writing; process control, not inspection
+O6402;X;TA01;Generic policy optimisation
+O6403;X;TA01;NLP spurious cues
+O6404;X;TA02;Industrial alarm forecasting; non-visual
+O6405;X;TA05;Image-processing pavement distress prioritisation with AHP; no reliability dimension
+O6408;X;TA03;Maintenance optimisation review; no visual inspection AI
+O6409;X;TA01;Inner-product search
+O6410;X;TA03;Material extrusion troubleshooting review; no AI inspection
+O6411;X;TA01;Generic concept-activation explanations
+O6413;B;;Explanation-based unmasking of Clever Hans predictors and limits of standard metrics; R8 methodological background
+O6414;X;TA01;Generative image quality (StyleGAN)
+O6415;X;TA01;Generic PR versus ROC evaluation for imbalanced bioinformatics data
+O6416;X;TA01;Generic F-score thresholding theory
+O6418;X;TA01;Video anomaly detection
+O6420;X;TA01;Video anomaly detection
+O6422;X;TA01;Interactive image segmentation (GrabCut)
+O6423;X;TA01;Construction dust detection; not asset inspection
+O6424;X;TA03;Hough-based visual control of a power-line UAV; no learned model
+O6426;X;TA03;Quantum computing for corrosion-resistant materials
+O6428;X;TA01;Language-model training curriculum
+O6429;B;;Pruning Clever-Hans strategies that explanations fail to reveal; R8 methodological background
+O6432;B;;Review of deep-learning SHM incl. vision, UAV and sensor-fault methods; broad review in adjacent context
+O6434;X;TA01;Federated aggregation survey
+O6435;X;TA01;Generic classification assessment metrics
+O6436;X;TA05;Pavement defect detection from parking-camera video; accuracy only
+O6437;X;TA03;Grinding-disk balance correction; no inspection AI
+O6438;X;TA01;Medical MRI super-resolution
+O6439;X;TA02;Time-series anomaly detection; non-visual
+O6440;X;TA01;Generic contrastive representation learning
+O6441;X;TA01;Drone racing pilots
+O6442;X;TA01;Medical self-supervised learning review
+O6443;X;TA03;3D printing of electroluminescent devices; no AI inspection
+O6444;X;TA01;Diffusion image editing
+O6445;X;TA05;Unsupervised AD comparison on a car-manufacturer inspection case; accuracy competitiveness only
+O6446;X;TA02;Industrial control system traffic AD; non-visual
+O6447;X;TA01;Generic segmentation transformer
+O6448;X;TA05;Small-object defect detection feature fusion; accuracy only
+O6449;F;;ISTD-PDS7 multi-scene pavement distress benchmark with cross-dataset evaluation and negative samples against false positives in complex scenes (R3, R8)
+O6450;X;TA05;Multitask bridge element and defect segmentation; accuracy only
+O6451;X;TA05;Bioprinting layer-image anomaly classification; accuracy only
+O6453;B;;Systematic review of robots for inspection of buildings and infrastructure; broad review in adjacent context
+O6455;X;TA02;PV cable fault analysis; non-visual
+O6457;B;;Review of AI failure detection and diagnosis for solar PV; broad review in core energy context
+O6458;X;TA01;Smart-farming monitoring
+O6460;X;TA03;2009 assessment of pavement segmentation algorithms; no learned model
+O6464;X;TA03;SHM implementation factors review; no AI inspection reliability
+O6465;X;TA05;Paved versus unpaved road classification; accuracy only
+O6466;X;TA01;Driving privacy anonymisation
+O6467;X;TA01;Generic similarity-model explanation
+O6468;X;TA01;Generic adversarial attack search
+O6470;B;;PRISMA systematic review of image-based SHM; broad review in adjacent context
+O6471;X;TA01;Medical segmentation
+O6473;X;TA03;Tunnel drainage inspection rover; no learned inspection model reported
+O6475;X;TA01;Glioma transcriptomics
+O6476;X;TA05;Sparse-view X-ray 3D reconstruction tool; no reliability evaluation
+O6477;X;TA01;Soft-robot state estimation
+O6478;X;TA05;Dashboard-camera pavement condition rating; accuracy only
+O6479;X;TA03;Robot localisation accuracy; no inspection AI
+O6480;X;TA05;Semi-supervised pavement crack segmentation; labelling cost only
+O6481;X;TA05;Weld penetration from weld-pool images (CNN-LSTM); accuracy only
+O6483;X;TA01;Diffusion model backdoors
+O6485;X;TA01;Generic few-shot segmentation
+O6486;X;TA04;Editorial (AI in earthquake and structural engineering)
+O6487;X;TA01;Generic zero-shot model diagnosis
+O6488;X;TA03;Image analysis software
+O6489;X;TA05;Pavement multi-distress segmentation; accuracy only
+O6490;X;TA05;Multi-class unsupervised AD architecture; accuracy only
+O6493;X;TA05;Melt-pool thermal-image porosity prediction; accuracy only
+O6494;X;TA03;Hybrid inspection robot mechatronics
+O6495;X;TA02;Smartphone accelerometer pavement recognition; non-visual

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/pWdroZ582ayp6EdQewR2oXncY+Q</id>
+  <title>arXiv Query: search_query=&amp;id_list=2604.17949&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:49Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2604.17949" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2604.17949v1</id>
+    <title>ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection</title>
+    <updated>2026-04-20T08:30:09Z</updated>
+    <link href="https://arxiv.org/abs/2604.17949v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.17949v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deep learning-based industrial anomaly detectors often behave as black boxes, making it hard to justify decisions with physically meaningful defect evidence. We propose ZSG-IAD, a multimodal vision-language framework for zero-shot grounded industrial anomaly detection. Given RGB images, sensor images, and 3D point clouds, ZSG-IAD generates structured anomaly reports and pixel-level anomaly masks. ZSG-IAD introduces a language-guided two-hop grounding module: (1) anomaly-related sentences select evidence-like latent slots distilled from multimodal features, yielding coarse spatial support; (2) selected slots modulate feature maps via channel-spatial gating and a lightweight decoder to produce fine-grained masks. To improve reliability, we further apply Executable-Rule GRPO with verifiable rewards to promote structured outputs, anomaly-region consistency, and reasoning-conclusion coherence. Experiments across multiple industrial anomaly benchmarks show strong zero-shot performance and more transparent, physically grounded explanations than prior methods. We will release code and annotations to support future research on trustworthy industrial anomaly detection systems.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-20T08:30:09Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Qiuhui Chen</name>
+    </author>
+    <author>
+      <name>Jiaxiang Song</name>
+    </author>
+    <author>
+      <name>Shuai Tan</name>
+    </author>
+    <author>
+      <name>Weimin Zhong</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,1 @@
+ConnectionError(MaxRetryError("HTTPSConnectionPool(host='api.semanticscholar.org', port=443): Max retries exceeded with url: /graph/v1/paper/DOI:10.1007/978-981-97-2550-2_23?fields=title,abstract (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025237A6DCC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))

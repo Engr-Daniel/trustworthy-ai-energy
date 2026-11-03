@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/3WAml6OgT8Dx15Q6ZG8s2Kwanug</id>
+  <title>arXiv Query: search_query=&amp;id_list=2601.03637&amp;start=0&amp;max_results=10</title>
+  <updated>2026-11-03T22:24:23Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=10&amp;id_list=2601.03637" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2601.03637v3</id>
+    <title>CrackSegFlow: Controllable Flow Matching Synthesis for Generalizable Crack Segmentation with a 50K Image-Mask Benchmark</title>
+    <updated>2026-01-11T17:32:40Z</updated>
+    <link href="https://arxiv.org/abs/2601.03637v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.03637v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Defect segmentation is central to computer vision based inspection of infrastructure assets during both construction and operation. However, deployment remains limited due to scarce pixel-level labels and domain shift across environments. We introduce CrackSegFlow, a controllable Flow Matching synthesis method that renders synthetic images of cracks from masks with pixel-level alignment. Our renderer combines topology-preserving mask injection with edge gating to maintain thin-structure continuity. Class-conditional FM samples masks for topology diversity, and CrackSegFlow renders aligned ground truth images from them. We further inject cracks onto crack-free backgrounds to diversify confounders and reduce false positives. Across five datasets and using a CNN-Transformer backbone, our results demonstrate that adding synthesized pairs improves in-domain performance by +5.37 mIoU and +5.13 F1, while target-guided cross-domain synthesis driven by target mask statistics adds +13.12 mIoU and +14.82 F1. We also release CSF-50K, a benchmark dataset comprising 50,000 image-mask pairs.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-07T06:28:16Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Babak Asadi</name>
+    </author>
+    <author>
+      <name>Peiyang Wu</name>
+    </author>
+    <author>
+      <name>Mani Golparvar-Fard</name>
+    </author>
+    <author>
+      <name>Ramez Hajj</name>
+    </author>
+  </entry>
+</feed>

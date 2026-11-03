@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "engine": "Tectonic 0.17.0 (XeTeX/BibTeX)",
   "compiler_exit_code": 0,
-  "pages": 14,
+  "pages": 15,
   "overfull_warnings": 0,
   "missing_glyph_warnings": 0,
   "unresolved_citation_markers": 0,
-  "scope": "Compiled provisional draft with Daniel Oyewale human confirmation of the fixed 658-record sample; selection and refreshed sampling remain open",
+  "scope": "Compiled provisional selection-complete draft with explicit title-only exclusion, refreshed human-audit and linkage limits; publication review 3 November 2026",
   "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory",
-  "main_pdf_sha256": "32d341a32821e38980ce55570cd37f4cd408a8ba40b085ff2bd743fac072a01f"
+  "main_pdf_sha256": "ba3707d9d4e428376dfc62c8b4c9ea62654d18ef909367e3ebe707e74d9ff77a"
 }
