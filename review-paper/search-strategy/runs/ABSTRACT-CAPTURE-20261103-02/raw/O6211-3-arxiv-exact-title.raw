@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/TDzrB6fOP7EYPxd6DJUaIkkRtcQ</id>
+  <title>arXiv Query: search_query=ti:"A comprehensive review of datasets and deep learning techniques for vision in unmanned surface vehicles"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:29:55Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22A+comprehensive+review+of+datasets+and+deep+learning+techniques+for+vision+in+unmanned+surface+vehicles%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2412.01461v1</id>
+    <title>A comprehensive review of datasets and deep learning techniques for vision in Unmanned Surface Vehicles</title>
+    <updated>2024-12-02T12:54:18Z</updated>
+    <link href="https://arxiv.org/abs/2412.01461v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2412.01461v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Unmanned Surface Vehicles (USVs) have emerged as a major platform in maritime operations, capable of supporting a wide range of applications. USVs can help reduce labor costs, increase safety, save energy, and allow for difficult unmanned tasks in harsh maritime environments. With the rapid development of USVs, many vision tasks such as detection and segmentation become increasingly important. Datasets play an important role in encouraging and improving the research and development of reliable vision algorithms for USVs. In this regard, a large number of recent studies have focused on the release of vision datasets for USVs. Along with the development of datasets, a variety of deep learning techniques have also been studied, with a focus on USVs. However, there is a lack of a systematic review of recent studies in both datasets and vision techniques to provide a comprehensive picture of the current development of vision on USVs, including limitations and trends. In this study, we provide a comprehensive review of both USV datasets and deep learning techniques for vision tasks. Our review was conducted using a large number of vision datasets from USVs. We elaborate several challenges and potential opportunities for research and development in USV vision based on a thorough analysis of current datasets and deep learning techniques.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-12-02T12:54:18Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Linh Trinh</name>
+    </author>
+    <author>
+      <name>Siegfried Mercelis</name>
+    </author>
+    <author>
+      <name>Ali Anwar</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://api.figshare.com/v2/articles/16624663",
+    "file": "virginia-tech-metadata.json",
+    "time_utc": "2026-11-04T02:53:38.049887+00:00",
+    "status": 200,
+    "sha256": "e5c7cc9165b0074b30c3ca34cfaa3d3224c568f23e0682f4aefc1743a529b193"
+  },
+  {
+    "url": "https://huggingface.co/datasets/Voxel51/dacl10k/raw/main/README.md",
+    "file": "voxel51-dacl10k-card.md",
+    "time_utc": "2026-11-04T02:53:38.790128+00:00",
+    "status": 200,
+    "sha256": "7d29abfcc435430d56cf5b095e2a07c94d96191e1f857deb256ac283bf1b90ef"
+  }
+]

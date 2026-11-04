@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-04",
+  "status": "Provisional; title-only exclusions re-screened; refreshed human audit unresolved",
+  "base_commit": "a2aa352a73cfda83c55550019c3ab8d8027cb823",
+  "source_state": "Uncommitted working files; artifact hashes identify this snapshot.",
+  "previous_manifest": "release-manifest-20261104_verified.json",
+  "live_sheet_written": false,
+  "verification": {
+    "tests_passed": 36,
+    "csv_backed_tabs_verified": 14,
+    "provisional_included_studies": 173,
+    "title_only_rescreened": 168,
+    "abstracts_captured": 54,
+    "reopened_unclear": 4,
+    "pdf_pages": 15
+  },
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "6d8d57502531e26fa108684858358272ec287c8242853194f5a13330372e7b71",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "task.md",
+      "sha256": "c1c71d0b0adf103a9b9a3a296d9276efe082b8eab72102a2199c4172118b5799",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/amendments.csv",
+      "sha256": "4b772d3756fbbfcf93ce2ed6fc28ffc7d22126f79320ca8b9b4d382bf9268ad6",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/reporting-status.md",
+      "sha256": "a397acaecb5e927baf7e7423dfc4bbe714548fdfbc348c114ae1f9cf83b10e55",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/records-ledger.csv",
+      "sha256": "77680baf90db8da31c101e5baa77578516892432240d230d2538d46c8a9ab99a",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/scope-counts.json",
+      "sha256": "3d9c8c07a608c3086246790fa05c01187354a5d4ebf91c534a6fd97b97da22f4",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/confirmed-decisions.csv",
+      "sha256": "ba70c350ba7684b623cf6d261453dcd20738ed6af01532ef5552cb154cace0ba",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261103/compact/a08.txt",
+      "sha256": "342cd926af2103069373edee30369e2193e0a4570cabb8fa4bfc431821ba953c",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/ta-ai-20261103/revision-20261104.csv",
+      "sha256": "954c653d3221cf69233dd43023e91172875f9e878de8caff9edaa22e41160b15",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/abstract-capture-ABSTRACT-CAPTURE-20261103-02/abstracts.csv",
+      "sha256": "520583674d009016dd5d1474fc04be73a73d96e274d7ca9516ecc898c0f02cc1",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/search-strategy/runs/ABSTRACT-CAPTURE-20261103-02/manifest.json",
+      "sha256": "5064d543eeefe062c823f6dcdc0b2b5de44079e3c904f71d6ab9e2ab552eaef5",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/fulltext/retrieval-status.csv",
+      "sha256": "d337b15771a86459c659071fc71c5b978b30b422b00da13775405d7c3b25cb01",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/fulltext/retrieval-plan-20261104-unclear.csv",
+      "sha256": "dcd344d45d47127ac08bf66c82790bfaadb1d1bde43e64a8017d27ae0bfc1ca9",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/charting/abstract-tier.csv",
+      "sha256": "b67cb5a9fb621c3ae660566843a90178918c203477e389e35e008c974eb76862",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/charting/charting.csv",
+      "sha256": "f76e38fd010a4b91dccbb1e76c78a3cffb891a613dc601d72f41f9f1e4a9902b",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/audit-20261103/README.md",
+      "sha256": "ee6bb25820d22387ae887d6707d9da72aac33f4bb92c18abe39e95338d56d8d5",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.tex",
+      "sha256": "373f66df04b91f486293ea573b30889a77865e6e88d854e87ea9201047683d19",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.pdf",
+      "sha256": "e8fd342fd8b15f137e4ca4ab554c195449608f6de43dc94d5e23263405360757",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/manuscript/build-verification.json",
+      "sha256": "988263b9c6039f36e05debdfdbba9eab144b15814b5d0ea0a64658af5b6e25a3",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/generated/counts.tex",
+      "sha256": "30e796acd7de7e52d494a2d3c08b3b825da697af5b96a1ba8813f9a627d91271",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/prisma-scr-crosswalk-20261104.csv",
+      "sha256": "0391efe5e02b29ddbd34b252047e13b0ce9a37747e6fcdacf89b1be9434b9db4",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript-overleaf.zip",
+      "sha256": "927bd13a19d3fe01832c80bb9d29da7eed62c8382e15b83ead4f96c54fbcc010",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/corpus/Review_Tracker_20261104_rescreen.xlsx",
+      "sha256": "6e375c531d8ec604d7179ad5e9714c15e12dd0688e175854d7a926e4a1123224",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/synchronisation/workbook-audit-20261104_rescreen.json",
+      "sha256": "c8741cde2949fbdce90058b33459f5bf42002256773f702e5cc9ad615ea8d066",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/synchronisation/workbook-all-tables-20261104_rescreen.json",
+      "sha256": "ae8d02cb4285c30a84985e2cfb35eadb93a3ad48445ae25fda7bb53fecf6c5ae",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    }
+  ]
+}

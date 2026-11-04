@@ -1,0 +1,23 @@
+Item,Reporting area (paraphrased),Draft locator,Status / remaining gate,Draft pages (4 Nov. 2026 build)
+1,Review identification,Title,Draft identifies a scoping review,1
+2,Abstract,Abstract,Counts current; states that the refreshed human audit is outstanding,1
+3,Motivation,Introduction (I-A to I-C),Introduction and prior-review comparison table not re-checked against sources in the 3 Nov. claim check,1
+4,Objectives,Introduction: review objectives and questions (I-D),Question wording unchanged since protocol v0.5,1
+5,Protocol,Methods: protocol and amendments (III-B),No preregistration claimed; amendments.csv dated through 4 Nov.,3
+6,Eligibility,Methods: eligibility (III-C),Dated refinements and screening notes retained,3
+7,Sources,Methods: information sources (III-D),Initial and citation-tracing runs distinguished; no Scopus/WoS/IEEE exports,3
+8,Search reproducibility,"Methods III-D, Appendix A, search manifests",Final search-update cutoff decision outstanding,"3, 11"
+9,Selection procedure,"Methods: record management and selection (III-E, III-F)",AI delegation disclosed; 658-record human audit confirmed; refreshed audit (18 inclusions + 52 exclusions) awaits human verification,"3-4"
+10,Charting procedure,Methods: data charting (III-G),Form v0.2; page locators recorded for 173 studies,4
+11,Charted variables,"Background (II), Methods III-G, Appendix B",Definitions and missingness conventions available,"2, 4, 11"
+12,"Appraisal, if used",Methods: assessment of evaluation limitations (III-H),Qualitative assessment; no universal quality score,4
+13,Synthesis approach,Methods: evidence mapping (III-I),Descriptive and attributed narrative,4
+14,Selection outcome,"Results IV-A, flow figure, ledgers",Complete: 6970 TA dispositions; 989 reports sought; 734 not retrieved (not excluded); 4 reopened unclear records lack open-access full text,5
+15,Evidence characteristics,"Results IV-B to IV-D, generated tables, charting.csv",173 provisionally included studies (187 reports),5
+16,"Appraisal findings, if used",Results: evaluation validity and maturity (V-G),Provisional pending refreshed audit,8
+17,Individual source evidence,Results V-A to V-G; charting records,Cited result statements checked against source passages on 3 Nov. (claim-check-20261103.md),"5-8"
+18,Synthesis outputs,Evidence map (V) and Discussion (VI),Provisional; recalculate if the refreshed audit changes decisions,"5-9"
+19,Interpretation,Discussion VI-A to VI-D,Claims bound to the assessed subset,9
+20,Limitations,Discussion VI-E and VI-F,"Access, single-index, title-only and audit limits explicit",9
+21,Conclusions,Conclusion (VII),Provisional qualification retained,10
+22,Support and interests,Acknowledgment and Declarations,No funding and no conflicts of interest confirmed by Daniel on 4 Nov. 2026,10

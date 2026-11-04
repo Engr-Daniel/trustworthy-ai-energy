@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/11AkwZnWv80WjFmqeZjwBV7UsOk</id>
+  <title>arXiv Query: search_query=ti:"Pixel-Wise Energy-Biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:41:22Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Pixel-Wise+Energy-Biased+Abstention+Learning+for+Anomaly+Segmentation+on+Complex+Urban+Driving+Scenes%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2111.12264v6</id>
+    <title>Pixel-wise Energy-biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes</title>
+    <updated>2022-09-05T23:43:01Z</updated>
+    <link href="https://arxiv.org/abs/2111.12264v6" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2111.12264v6" rel="related" type="application/pdf" title="pdf"/>
+    <summary>State-of-the-art (SOTA) anomaly segmentation approaches on complex urban driving scenes explore pixel-wise classification uncertainty learned from outlier exposure, or external reconstruction models. However, previous uncertainty approaches that directly associate high uncertainty to anomaly may sometimes lead to incorrect anomaly predictions, and external reconstruction models tend to be too inefficient for real-time self-driving embedded systems. In this paper, we propose a new anomaly segmentation method, named pixel-wise energy-biased abstention learning (PEBAL), that explores pixel-wise abstention learning (AL) with a model that learns an adaptive pixel-level anomaly class, and an energy-based model (EBM) that learns inlier pixel distribution. More specifically, PEBAL is based on a non-trivial joint training of EBM and AL, where EBM is trained to output high-energy for anomaly pixels (from outlier exposure) and AL is trained such that these high-energy pixels receive adaptive low penalty for being included to the anomaly class. We extensively evaluate PEBAL against the SOTA and show that it achieves the best performance across four benchmarks. Code is available at https://github.com/tianyu0207/PEBAL.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-11-24T04:39:10Z</published>
+    <arxiv:comment>ECCV 2022 Oral</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yu Tian</name>
+    </author>
+    <author>
+      <name>Yuyuan Liu</name>
+    </author>
+    <author>
+      <name>Guansong Pang</name>
+    </author>
+    <author>
+      <name>Fengbei Liu</name>
+    </author>
+    <author>
+      <name>Yuanhong Chen</name>
+    </author>
+    <author>
+      <name>Gustavo Carneiro</name>
+    </author>
+  </entry>
+</feed>

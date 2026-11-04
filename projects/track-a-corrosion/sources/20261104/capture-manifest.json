@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/phiyodr/dacl10k-toolkit/master/README.md",
+    "file": "dacl10k-toolkit-README.md",
+    "time_utc": "2026-11-04T02:39:50.687827+00:00",
+    "purpose": "Primary data/code availability record; no screening decisions",
+    "status": "Failed",
+    "error": "ProxyError",
+    "sha256": "2685c6aacc8d94d929d3187c0552efdacfdef4ae9ea3b6cb3d956ce72552f437"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/StuvX/SpotRust/master/README.md",
+    "file": "SpotRust-README.md",
+    "time_utc": "2026-11-04T02:39:52.743905+00:00",
+    "purpose": "Primary data/code availability record; no screening decisions",
+    "status": "Failed",
+    "error": "ProxyError",
+    "sha256": "3096ea18d456387645c958e4cfc73799a28113f8f8e33618e452430a33ab58da"
+  }
+]

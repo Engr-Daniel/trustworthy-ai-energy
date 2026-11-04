@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-04",
+  "user_confirmed_compute": [
+    "Local CPU",
+    "Free Colab GPU access"
+  ],
+  "local_pytorch_installed": false,
+  "local_gpu_verified": false,
+  "colab_session_executed": false,
+  "paid_compute_authorised": false,
+  "roles": {
+    "local_cpu": "Metadata, split checks, evaluator and tests",
+    "colab_gpu": "Bounded feasibility baseline after dataset and endpoint checks"
+  },
+  "proposed_pilot_limits": {
+    "seeds": 1,
+    "max_epochs": 5,
+    "max_minutes": 30,
+    "input_size": 256
+  },
+  "limits_status": "Proposed ceiling; architecture/data mapping and pilot gate not yet frozen"
+}

@@ -6,7 +6,7 @@
   "overfull_warnings": 0,
   "missing_glyph_warnings": 0,
   "unresolved_citation_markers": 0,
-  "scope": "Compiled reviewed provisional draft with confirmed author declarations and documented SoftPatch report linkage; refreshed human audit and title-only evidence gates remain open.",
+  "scope": "Compiled reviewed provisional draft after the 4 November re-screen of the 168 title-only exclusions; confirmed author declarations and SoftPatch report linkage; refreshed human audit remains open.",
   "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory",
-  "main_pdf_sha256": "9ecd0af830a08f6829230586178a6fc99be6bd1a7de74c3485fad7f3b988ad27"
+  "main_pdf_sha256": "e8fd342fd8b15f137e4ca4ab554c195449608f6de43dc94d5e23263405360757"
 }

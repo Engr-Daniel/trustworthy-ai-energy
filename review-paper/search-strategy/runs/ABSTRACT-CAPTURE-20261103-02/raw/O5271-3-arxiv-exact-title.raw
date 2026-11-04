@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/JrMsVz5fDgv4aeztfFc4AKIOjws</id>
+  <title>arXiv Query: search_query=ti:"Bayesian neural networks for predicting uncertainty in full-field material response"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:00:28Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Bayesian+neural+networks+for+predicting+uncertainty+in+full-field+material+response%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2406.14838v1</id>
+    <title>Bayesian neural networks for predicting uncertainty in full-field material response</title>
+    <updated>2024-06-21T02:43:25Z</updated>
+    <link href="https://arxiv.org/abs/2406.14838v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2406.14838v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Stress and material deformation field predictions are among the most important tasks in computational mechanics. These predictions are typically made by solving the governing equations of continuum mechanics using finite element analysis, which can become computationally prohibitive considering complex microstructures and material behaviors. Machine learning (ML) methods offer potentially cost effective surrogates for these applications. However, existing ML surrogates are either limited to low-dimensional problems and/or do not provide uncertainty estimates in the predictions. This work proposes an ML surrogate framework for stress field prediction and uncertainty quantification for diverse materials microstructures. A modified Bayesian U-net architecture is employed to provide a data-driven image-to-image mapping from initial microstructure to stress field with prediction (epistemic) uncertainty estimates. The Bayesian posterior distributions for the U-net parameters are estimated using three state-of-the-art inference algorithms: the posterior sampling-based Hamiltonian Monte Carlo method and two variational approaches, the Monte-Carlo Dropout method and the Bayes by Backprop algorithm. A systematic comparison of the predictive accuracy and uncertainty estimates for these methods is performed for a fiber reinforced composite material and polycrystalline microstructure application. It is shown that the proposed methods yield predictions of high accuracy compared to the FEA solution, while uncertainty estimates depend on the inference approach. Generally, the Hamiltonian Monte Carlo and Bayes by Backprop methods provide consistent uncertainty estimates. Uncertainty estimates from Monte Carlo Dropout, on the other hand, are more difficult to interpret and depend strongly on the method's design.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-06-21T02:43:25Z</published>
+    <arxiv:primary_category term="stat.ML"/>
+    <author>
+      <name>George D. Pasparakis</name>
+    </author>
+    <author>
+      <name>Lori Graham-Brady</name>
+    </author>
+    <author>
+      <name>Michael D. Shields</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-04",
+  "notebook_code_cells_syntax_checked": true,
+  "colab_executed": false,
+  "model_training_started": false,
+  "dataset_downloaded": false,
+  "artifacts": [
+    {
+      "path": "projects/track-a-corrosion/track-a-colab-preflight.ipynb",
+      "sha256": "8278948c21eb29f1465120a776956e5c7531257cd66932799a15ad6074242207"
+    },
+    {
+      "path": "projects/track-a-corrosion/compute-plan-20261104.json",
+      "sha256": "c6b21ecc00b91bd0e29f5da0d6d835c01cd5d765e8e8f9f10329d5140399cc17"
+    },
+    {
+      "path": "projects/track-a-corrosion/protocol.json",
+      "sha256": "6ad1494a8a1353ac7ab1827ad098b67cfa845684fe483f06c162f70e26ab3aeb"
+    },
+    {
+      "path": "projects/track-a-corrosion/README.md",
+      "sha256": "7050342ef7980cb52fa0f3a6136122d7718091bbf04761c6e19d261366bb7cdb"
+    },
+    {
+      "path": "projects/track-a-corrosion/gate-20261104.md",
+      "sha256": "e03abd0d7cb3da6da703134eb4434515c88d760b9b404c1b45bbe57fd05ff081"
+    }
+  ]
+}

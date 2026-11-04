@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/6hmyblqhOAJ6kWI0Axx18ZDV0XI</id>
+  <title>arXiv Query: search_query=ti:"Grounding DINO Marrying DINO with Grounded Pre-training for Open-Set Object Detection"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:36:26Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Grounding+DINO+Marrying+DINO+with+Grounded+Pre-training+for+Open-Set+Object+Detection%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2303.05499v5</id>
+    <title>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection</title>
+    <updated>2024-07-19T06:00:41Z</updated>
+    <link href="https://arxiv.org/abs/2303.05499v5" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2303.05499v5" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this paper, we present an open-set object detector, called Grounding DINO, by marrying Transformer-based detector DINO with grounded pre-training, which can detect arbitrary objects with human inputs such as category names or referring expressions. The key solution of open-set object detection is introducing language to a closed-set detector for open-set concept generalization. To effectively fuse language and vision modalities, we conceptually divide a closed-set detector into three phases and propose a tight fusion solution, which includes a feature enhancer, a language-guided query selection, and a cross-modality decoder for cross-modality fusion. While previous works mainly evaluate open-set object detection on novel categories, we propose to also perform evaluations on referring expression comprehension for objects specified with attributes. Grounding DINO performs remarkably well on all three settings, including benchmarks on COCO, LVIS, ODinW, and RefCOCO/+/g. Grounding DINO achieves a $52.5$ AP on the COCO detection zero-shot transfer benchmark, i.e., without any training data from COCO. It sets a new record on the ODinW zero-shot benchmark with a mean $26.1$ AP. Code will be available at \url{https://github.com/IDEA-Research/GroundingDINO}.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-03-09T18:52:16Z</published>
+    <arxiv:comment>Code will be available at https://github.com/IDEA-Research/GroundingDINO</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Shilong Liu</name>
+    </author>
+    <author>
+      <name>Zhaoyang Zeng</name>
+    </author>
+    <author>
+      <name>Tianhe Ren</name>
+    </author>
+    <author>
+      <name>Feng Li</name>
+    </author>
+    <author>
+      <name>Hao Zhang</name>
+    </author>
+    <author>
+      <name>Jie Yang</name>
+    </author>
+    <author>
+      <name>Qing Jiang</name>
+    </author>
+    <author>
+      <name>Chunyuan Li</name>
+    </author>
+    <author>
+      <name>Jianwei Yang</name>
+    </author>
+    <author>
+      <name>Hang Su</name>
+    </author>
+    <author>
+      <name>Jun Zhu</name>
+    </author>
+    <author>
+      <name>Lei Zhang</name>
+    </author>
+  </entry>
+</feed>

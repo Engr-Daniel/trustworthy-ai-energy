@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/p3A5UQcJvq6QRegZR3SdVG4aQMQ</id>
+  <title>arXiv Query: search_query=ti:"Background"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:09:21Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Background%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>11074</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2203.05193v2</id>
+    <title>Adaptive Background Matting Using Background Matching</title>
+    <updated>2022-03-14T07:15:14Z</updated>
+    <link href="https://arxiv.org/abs/2203.05193v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2203.05193v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Due to the difficulty of solving the matting problem, lots of methods use some kinds of assistance to acquire high quality alpha matte. Green screen matting methods rely on physical equipment. Trimap-based methods take manual interactions as external input. Background-based methods require a pre-captured, static background. The methods are not flexible and convenient enough to use widely. Trimap-free methods are flexible but not stable in complicated video applications. To be stable and flexible in real applications, we propose an adaptive background matting method. The user first captures their videos freely, moving the cameras. Then the user captures the background video afterwards, roughly covering the previous captured regions. We use dynamic background video instead of static background for accurate matting. The proposed method is convenient to use in any scenes as the static camera and background is no more the limitation. To achieve this goal, we use background matching network to find the best-matched background frame by frame from dynamic backgrounds. Then, robust semantic estimation network is used to estimate the coarse alpha matte. Finally, we crop and zoom the target region according to the coarse alpha matte, and estimate the final accurate alpha matte. In experiments, the proposed method is able to perform comparably against the state-of-the-art matting methods.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-03-10T07:07:10Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Jinlin Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.05043v3</id>
+    <title>A Theory of Backgrounds and Background Independence</title>
+    <updated>2026-01-14T17:28:31Z</updated>
+    <link href="https://arxiv.org/abs/2512.05043v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.05043v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this note, we describe how the study of backgrounds for general quantum systems can be formulated in terms of the representation theory of abstract $C^*$ algebras. We illustrate our general framework through two example systems: superconductivity and perturbative quantum gravity. In both cases, spontaneously broken symmetries imply the existence of unitarily inequivalent Hilbert spaces that play the role of distinct backgrounds relative to which observables are measured. Background independence can be realized by gauging the broken symmetry; extending the algebra of observables for the theory to include new physical processes that intertwine between these disjoint representations. From the point of view of the background independent theory, different backgrounds have an interpretation as different vacuum expectation values of these intertwining operators. In superconductivity, the intertwiners are intimately related to the Josephson effect. In gravity, they are related to geometric fluctuations. We explain how this framework is connected to recent work on generalized symmetries and algebraic extensions. To this end, we close with some remarks about how the operator algebra of a closed universe may arise from a generalized symmetry associated with an algebraic extension of the causal wedge by appealing to subregion-subalgebra duality.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-04T17:59:07Z</published>
+    <arxiv:comment>V1: 21 pages + references, 3 figures. V2: Expanded discussion in section 4. V3: Revised section 3 and added citations</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>Marc Klinger</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1603.04772v1</id>
+    <title>Background independence in a background dependent renormalization group</title>
+    <updated>2016-03-15T17:37:16Z</updated>
+    <link href="https://arxiv.org/abs/1603.04772v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1603.04772v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Within the derivative expansion of conformally reduced gravity, the modified split Ward identities are shown to be compatible with the flow equations if and only if either the anomalous dimension vanishes or the cutoff profile is chosen to be power law. No solutions exist if the Ward identities are incompatible. In the compatible case, a clear reason is found for why Ward identities can still forbid the existence of fixed points; however, for any cutoff profile, a background independent (and parametrisation independent) flow equation is uncovered. Finally, expanding in vertices, the combined equations are shown generically to become either over-constrained or highly redundant beyond the six-point level.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-03-15T17:37:16Z</published>
+    <arxiv:comment>31 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <arxiv:journal_ref>Phys. Rev. D 94, 024007 (2016)</arxiv:journal_ref>
+    <author>
+      <name>Peter Labus</name>
+    </author>
+    <author>
+      <name>Tim R. Morris</name>
+    </author>
+    <author>
+      <name>Zoë H. Slade</name>
+    </author>
+    <arxiv:doi>10.1103/PhysRevD.94.024007</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/PhysRevD.94.024007" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/astro-ph/9302004v1</id>
+    <title>Background Radiation</title>
+    <updated>1993-02-04T16:55:00Z</updated>
+    <link href="https://arxiv.org/abs/astro-ph/9302004v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/astro-ph/9302004v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We present a short overview on the extragalactic background radiation from radio to X-rays, with an eye to the relation to galaxy formation and emphasizing on astrophysical backgrounds (as opposed to cosmological). As the radio background, the wealth of data on source counts make possible reliable estimations of the contribution from extragalactic sources. At 178 MHz we obtain an antenna temperature of about 22 K, with the 60% of the flux contributed by radiogalaxies and quasars and the remaining part from sub-mJy radio sources. At high frequencies the compact sources, generally QSOs, dominate. An intense far-IR/sub-mm background is predicted if a large fraction of the hard X-ray Background (XRB) comes from starburst galaxies but this might face problems with the upper limits on the far-IR isotropic flux. To clarify the problem spectral measurements should be complemented with the analysis of small scale anisotropies. The flattening of the QSO counts at B=19.5 suggests that their contribution to the optical/near-IR background is small in comparison to that of galaxies. As for the XRB, a consisting picture obtains considering two AGN populations: a "soft X-ray spectrum" population and a "hard X-ray spectrum" one, mainly contributing to the soft and to the hard XRB respectively. A third population of extremely absorbed or of reflection dominated AGN could either be the dominant contributor of the XRB above 3 keV.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>1993-02-04T16:55:00Z</published>
+    <arxiv:comment>Invited review presented at the Workshop: "The epoch of galaxy formation", Rome, September 2-4; LateX, 7 pages, ASTRPD-93-2-02</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>G. De Zotti</name>
+    </author>
+    <author>
+      <name>A. Franceschini</name>
+    </author>
+    <author>
+      <name>L. Toffolatti</name>
+    </author>
+    <author>
+      <name>P. Mazzei</name>
+    </author>
+    <author>
+      <name>L. Danese</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2002.04433v1</id>
+    <title>Background Matting</title>
+    <updated>2020-02-11T14:46:57Z</updated>
+    <link href="https://arxiv.org/abs/2002.04433v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2002.04433v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The current state of the art alpha matting methods mainly rely on the trimap as the secondary and only guidance to estimate alpha. This paper investigates the effects of utilising the background information as well as trimap in the process of alpha calculation. To achieve this goal, a state of the art method, AlphaGan is adopted and modified to process the background information as an extra input channel. Extensive experiments are performed to analyse the effect of the background information in image and video matting such as training with mildly and heavily distorted backgrounds. Based on the quantitative evaluations performed on Adobe Composition-1k dataset, the proposed pipeline significantly outperforms the state of the art methods using AlphaMatting benchmark metrics.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-02-11T14:46:57Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Hossein Javidnia</name>
+    </author>
+    <author>
+      <name>François Pitié</name>
+    </author>
+  </entry>
+</feed>

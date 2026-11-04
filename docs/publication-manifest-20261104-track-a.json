@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-04",
+  "base_commit": "a2aa352a73cfda83c55550019c3ab8d8027cb823",
+  "status": "Provisional review and Track A preparation; no human audit completion or model-training claim",
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "523f6100ebc8d3dc4b5d23d2653653d335509b322c6a3fabaa8042fb874ab006",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "projects/track-a-corrosion/README.md",
+      "sha256": "c6e58ba0d0bd3794ed72f964e148dcba1f54e23ef2b84ff0f06c1c2d10070417",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "projects/track-a-corrosion/protocol.json",
+      "sha256": "517aa770080a7c205333911a079457d0bb2d214e7d6b3e35341b77e704e2a796",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "projects/track-a-corrosion/compute-plan-20261104.json",
+      "sha256": "63f4475d5510356f50e4f7bccc3373c7af67b863de3dde425b39c67fb80980a8",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "projects/track-a-corrosion/track-a-colab-preflight.ipynb",
+      "sha256": "ead321e5273959bc855514d5b716313516e3e95f6de0b1188dc2cb3d61be8826",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "projects/track-a-corrosion/scripts/evaluate_referral.py",
+      "sha256": "f5b773eeef9ac496d93ef9834c21540fe7bca47a8525d7bff3e8db282915e65a",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "projects/track-a-corrosion/tests/test_evaluate_referral.py",
+      "sha256": "7a1cbb676f4c9fe8e3f6eab5b2b7e020c005b027c4d70874554bfd2785cca088",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/records-ledger.csv",
+      "sha256": "77680baf90db8da31c101e5baa77578516892432240d230d2538d46c8a9ab99a",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/confirmed-decisions.csv",
+      "sha256": "ba70c350ba7684b623cf6d261453dcd20738ed6af01532ef5552cb154cace0ba",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/audit-review-20261104/evidence-review.csv",
+      "sha256": "021a378d621626bb73d05fc8c536fb282745033c1ccc3a81f026cdc52a0b2643",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/audit-review-20261104/summary.json",
+      "sha256": "27b5078face98bb7b9e4c3b503c9b18d0eb21f4f47880b608e9385fae448cb7d",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/search-strategy/runs/ABSTRACT-CAPTURE-20261103-02/manifest.json",
+      "sha256": "5064d543eeefe062c823f6dcdc0b2b5de44079e3c904f71d6ab9e2ab552eaef5",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.tex",
+      "sha256": "373f66df04b91f486293ea573b30889a77865e6e88d854e87ea9201047683d19",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.pdf",
+      "sha256": "e8fd342fd8b15f137e4ca4ab554c195449608f6de43dc94d5e23263405360757",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/manuscript/build-verification.json",
+      "sha256": "988263b9c6039f36e05debdfdbba9eab144b15814b5d0ea0a64658af5b6e25a3",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/Review_Tracker_20261104_rescreen.xlsx",
+      "sha256": "6e375c531d8ec604d7179ad5e9714c15e12dd0688e175854d7a926e4a1123224",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": ".github/workflows/validate-scope.yml",
+      "sha256": "d1349f34cc1c3b2bc995f4747115b23ce9d40c71819eac111b21434f1ec73940",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    }
+  ],
+  "scope": "Current publication snapshot; previous dated manifests preserved",
+  "publisher_html_published": false,
+  "dataset_payload_published": false,
+  "live_sheet_written": false,
+  "colab_executed": false
+}

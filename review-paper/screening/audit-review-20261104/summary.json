@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-04",
+  "scope": "18 A2 inclusions and 52 B2 sampled decisions; current post-rescreen state",
+  "rows": 70,
+  "outcomes": {
+    "Supported": 44,
+    "Needs clarification": 1,
+    "Insufficient evidence": 25
+  },
+  "seven_flags": {
+    "O5414": "Supported",
+    "O5547": "Needs clarification",
+    "O5988": "Supported",
+    "O6336": "Supported",
+    "O6281": "Supported",
+    "O6535": "Supported",
+    "O6579": "Supported"
+  },
+  "human_audit": "Pending; AI review is not independent human verification",
+  "sample_sha256": "9b9cd11c2246879cf275f75950366867e654b568e701e3002f3dd0d7b3d1798b",
+  "decisions_sha256": "695be123fadf907c817c89b473ae6454bb94083aafb280681e847f73a1b133ec",
+  "ledger_changed": false
+}

@@ -1,0 +1,56 @@
+{
+  "project": "Track A: corrosion visual inspection",
+  "date": "2026-11-04",
+  "status": "Feasibility and evaluation tooling; model training not started",
+  "dataset_candidate": "dacl10k, label Rust; version and label-completeness verification pending",
+  "review_budgets": [
+    0,
+    0.05,
+    0.1,
+    0.2,
+    0.4,
+    1.0
+  ],
+  "policy": "Set uncertainty thresholds using source tuning scores only; freeze before held-out evaluation",
+  "primary_endpoint": "Accepted image-level classification error versus achieved review workload",
+  "secondary_endpoints": [
+    "Accepted false negatives / all positive images",
+    "False-negative rate among accepted positives (report denominator)",
+    "Image coverage",
+    "Per-acquisition-group outcomes",
+    "Segmentation IoU/Dice once prediction masks exist"
+  ],
+  "baselines": [
+    "All automatic decisions",
+    "Deterministic random referral ranking",
+    "Maximum predicted-class uncertainty",
+    "MC-dropout uncertainty only if the same trained model/compute budget permits"
+  ],
+  "split_roles": [
+    "train",
+    "tune",
+    "test_id",
+    "test_shift"
+  ],
+  "splits": "No group overlaps across roles; source images and all crops/augmentations share one group",
+  "guarantees": "None asserted for this pilot; group-aware uncertainty analysis required for research claims",
+  "human_review": "Referral workload only; no measured post-human performance or perfect-human assumption",
+  "prohibited_inferences": [
+    "wall thickness",
+    "fitness for service",
+    "internal corrosion",
+    "industrial deployment safety"
+  ],
+  "compute_plan": "compute-plan-20261104.json",
+  "dataset_alternatives": [
+    {
+      "name": "Virginia Tech Corrosion Condition State Semantic Segmentation Dataset",
+      "version": 2,
+      "doi": "10.7294/16624663.v2",
+      "metadata_access": "Verified HTTP 200",
+      "archive_access": "Local HEAD followed normal redirect to HTTP 403; Colab access untested",
+      "semantics": "Four corrosion condition-state classes; do not assume a binary Rust mapping",
+      "selection": "Candidate only; label/split audit required"
+    }
+  ]
+}

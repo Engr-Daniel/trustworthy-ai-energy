@@ -1,0 +1,13 @@
+{
+  "url": "https://ndownloader.figshare.com/files/31729733",
+  "date": "2026-11-04",
+  "purpose": "Bounded ZIP metadata/annotation feasibility; no image download or model training",
+  "requests": [],
+  "head": {
+    "status": 302,
+    "size": 0,
+    "etag": null
+  },
+  "status": "Incomplete feasibility capture",
+  "error": "Archive length unavailable"
+}

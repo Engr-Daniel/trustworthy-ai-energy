@@ -19,3 +19,4 @@ jobs:
       - run: python review-paper/scripts/validate_scope.py
       - run: python review-paper/scripts/validate_manuscript.py
       - run: python -m unittest discover -s review-paper/scripts/tests -v
+      - run: python -m unittest discover -s projects/track-a-corrosion/tests -v

@@ -12,8 +12,8 @@ The IEEE review manuscript is a **provisional draft**, not a completed or submis
 | Deduplicated report records | 6,970 |
 | Reports with title/abstract dispositions | 6,970 |
 | Pending title/abstract records | 0 |
-| Reports routed to full text or unclear | 985 |
-| Retrieval initiated | 985 |
+| Reports routed to full text or unclear | 989 |
+| Retrieval initiated | 989 |
 | Awaiting retrieval initiation | 0 |
 | Core reports retrieved and assessed | 255 |
 | Provisional included studies / primary reports | 173 / 173 |
@@ -31,13 +31,13 @@ These are different counting units. The evidence map describes the assessed 173-
 - [Dated research story](docs/research-story.md) and [active task ledger](task.md).
 - [Charted full-text evidence](review-paper/charting/charting.csv).
 - [Occurrence/report counts](review-paper/corpus/scope-counts.json), [screening evidence](review-paper/screening/confirmed-decisions.csv) and [version linkage](review-paper/corpus/study-linkage.csv).
-- [Current dated workbook](review-paper/corpus/Review_Tracker_20261104_verified.xlsx); the original XLSX remains the historical pilot snapshot.
+- [Current dated workbook](review-paper/corpus/Review_Tracker_20261104_rescreen.xlsx); the original XLSX remains the historical pilot snapshot.
 
 ## Remaining completion gates
 
-The recorded title/abstract selection and retrieval initiation stages are complete. The 36 newly retrieved full texts were assessed, adding 18 provisional inclusions. The O5989 SoftPatch/O4487 SoftPatch+ relationship is now documented from the journal report's explicit preliminary-version statement; refreshed human verification remains pending. The 658-row AI consistency pass and its resolutions are recorded separately; Daniel confirmed human review of all 658 sampled current decisions, with 658 agreements; the dated confirmation and original sample are preserved. Daniel confirmed no funding and no conflicts of interest on 4 November 2026; acknowledgments and AI assistance are disclosed in the draft. The refreshed audit in review-paper/screening/audit-20261103/ is pending: 18 inclusions and 52 sampled exclusions require verification; the 168 title/metadata-only exclusions need particular scrutiny. These are recorded AI dispositions, not confirmation that title-only exclusions satisfy the repository evidence rules. Complete the reporting checklist and submission checks after resolving these limits.
+The recorded title/abstract selection and retrieval initiation stages are complete. The 36 newly retrieved full texts were assessed, adding 18 provisional inclusions. The O5989 SoftPatch/O4487 SoftPatch+ relationship is now documented from the journal report's explicit preliminary-version statement; refreshed human verification remains pending. The 658-row AI consistency pass and its resolutions are recorded separately; Daniel confirmed human review of all 658 sampled current decisions, with 658 agreements; the dated confirmation and original sample are preserved. Daniel confirmed no funding and no conflicts of interest on 4 November 2026; acknowledgments and AI assistance are disclosed in the draft. The refreshed audit in review-paper/screening/audit-20261103/ is pending: 18 inclusions and 52 sampled exclusions require verification; On 4 November the 168 title/metadata-only exclusions were re-screened after a second abstract capture: 54 now rest on abstracts, 110 title-only exclusions were kept where the title clearly fails a criterion, and 4 were reopened as unclear (no open-access full text). These are recorded AI dispositions awaiting the refreshed human audit. Complete the reporting checklist and submission checks after resolving these limits.
 
-The 730 unsuccessfully retrieved core reports remain non-retrieved, not excluded. The abstract inventory is an exploratory summary of screening rationales, not independent full-text charting or proof that retrieval bias is absent. Reuse licensing and journal selection still require confirmation.
+The 734 unsuccessfully retrieved core reports remain non-retrieved, not excluded. The abstract inventory is an exploratory summary of screening rationales, not independent full-text charting or proof that retrieval bias is absent. Reuse licensing and journal selection still require confirmation.
 
 ## Reproduce and validate
 
@@ -70,3 +70,9 @@ Read AGENTS.md, memory.md, task.md and the protocol before work. Preserve stable
 [Google Sheet](https://docs.google.com/spreadsheets/d/14NW5z6UziqVTzN2ZsmPbhT8Nmjo-ZQzQo0YaLDvNHTw/edit) and [Drive folder](https://drive.google.com/drive/folders/15KlOofeUQ7soHwr26TbkoSw-7ppkw9eD) remain the shared locations. The live Sheet was not updated in this session; read and reconcile fresh collaborator edits before any write. The dated workbook reflects repository CSVs only.
 
 Original technical projects remain candidates: [branch briefs](research/candidate-branches/) and [novelty/feasibility gate](docs/novelty-gate.md). No model experiment is approved by this review draft.
+
+## Track A and refreshed audit - 4 November 2026
+
+[Track A corrosion inspection](projects/track-a-corrosion/README.md) is active in data/evaluation preparation, independent of publication formatting. The [70-record AI evidence review](review-paper/screening/audit-review-20261104/README.md) found 44 supported decisions and 26 evidence issues requiring resolution; it does not substitute for the human audit. See task.md for the single active plan.
+
+[Open Track A preflight in Colab](https://colab.research.google.com/github/Engr-Daniel/trustworthy-ai-energy/blob/master/projects/track-a-corrosion/track-a-colab-preflight.ipynb). Local CPU and free Colab GPU access are the confirmed compute route; dataset and split validation precede training.

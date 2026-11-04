@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/4e0emvatHSvYAKGIFIweOEV2vFc</id>
+  <title>arXiv Query: search_query=ti:"ImageNet Large Scale Visual Recognition Challenge"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:08:36Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22ImageNet+Large+Scale+Visual+Recognition+Challenge%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1409.0575v3</id>
+    <title>ImageNet Large Scale Visual Recognition Challenge</title>
+    <updated>2015-01-30T01:23:59Z</updated>
+    <link href="https://arxiv.org/abs/1409.0575v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1409.0575v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The ImageNet Large Scale Visual Recognition Challenge is a benchmark in object category classification and detection on hundreds of object categories and millions of images. The challenge has been run annually from 2010 to present, attracting participation from more than fifty institutions.
+  This paper describes the creation of this benchmark dataset and the advances in object recognition that have been possible as a result. We discuss the challenges of collecting large-scale ground truth annotation, highlight key breakthroughs in categorical object recognition, provide a detailed analysis of the current state of the field of large-scale image classification and object detection, and compare the state-of-the-art computer vision accuracy with human accuracy. We conclude with lessons learned in the five years of the challenge, and propose future directions and improvements.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-09-01T22:29:38Z</published>
+    <arxiv:comment>43 pages, 16 figures. v3 includes additional comparisons with PASCAL VOC (per-category comparisons in Table 3, distribution of localization difficulty in Fig 16), a list of queries used for obtaining object detection images (Appendix C), and some additional references</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Olga Russakovsky</name>
+    </author>
+    <author>
+      <name>Jia Deng</name>
+    </author>
+    <author>
+      <name>Hao Su</name>
+    </author>
+    <author>
+      <name>Jonathan Krause</name>
+    </author>
+    <author>
+      <name>Sanjeev Satheesh</name>
+    </author>
+    <author>
+      <name>Sean Ma</name>
+    </author>
+    <author>
+      <name>Zhiheng Huang</name>
+    </author>
+    <author>
+      <name>Andrej Karpathy</name>
+    </author>
+    <author>
+      <name>Aditya Khosla</name>
+    </author>
+    <author>
+      <name>Michael Bernstein</name>
+    </author>
+    <author>
+      <name>Alexander C. Berg</name>
+    </author>
+    <author>
+      <name>Li Fei-Fei</name>
+    </author>
+  </entry>
+</feed>

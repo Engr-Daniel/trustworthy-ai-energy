@@ -1,0 +1,169 @@
+# a08: 4 November 2026 re-screen of the 168 title/metadata-only exclusions of 3 November, by Claude (AI-assisted, single reviewer). 54 abstracts from ABSTRACT-CAPTURE-20261103-02 are decided from the abstract; 114 remain title-only. A title-only exclusion is kept only where the title (or Crossref container title) clearly fails a criterion; otherwise U and full text is sought. Supersedes the a07 rows.
+O5228;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic semi-supervised domain generalisation method; no inspection context.
+O5241;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Open-set text recognition; not inspection.
+O5242;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Tabular anomaly detection; non-visual.
+O5253;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Open-set text recognition; not inspection.
+O5255;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Open-set plant-disease detection; agriculture context.
+O5268;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Open-set rolling-bearing fault diagnosis; vibration data, non-visual.
+O5271;X;TA01;Bayesian U-net surrogate for stress-field prediction from material microstructure with epistemic UQ; computational mechanics, not inspection
+O5278;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Reliability quantification for semiconductor big data; non-visual analytics.
+O5283;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic continual learning method.
+O5293;U;;(title only) Noise-robust industrial anomaly detection; 'temporal features' may be video or sensor data, so modality is unknown. Full text sought
+O5301;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Battery thermal-runaway novelty detection from sensor data; non-visual.
+O5313;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Machine anomalous sound detection; acoustic, non-visual.
+O5328;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Review of AI-nanomaterial coating design; no learned inspection model.
+O5332;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Energy-deception attack detection in CPS; non-visual.
+O5362;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Manufacturing-paradigm retrospect; no learned inspection model.
+O5370;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Navigation aid for visually impaired users; not inspection.
+O5373;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Medical anomaly detection.
+O5374;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Background chapter of an open-set text recognition brief; not inspection.
+O5375;X;TA01;Generic open-set recognition method (synthetic unknowns); no inspection context
+O5379;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Acoustic industrial anomaly detection; non-visual.
+O5386;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Explainable time-series forecasting in pulp and paper; non-visual.
+O5388;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; Crossref container title 'Explainable Large Language Models in Healthcare Applications'; healthcare book chapter) Book chapter on future directions of human-AI collaboration; no inspection study.
+O5398;U;;(title only) Ship-structure corrosion detection by image processing; the title does not show whether a learned model or a reliability dimension is involved. Full text sought
+O5451;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) EEG anomaly early warning; medical/physiological.
+O5452;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Coverage planning for robotic inspection; no learned image model.
+O5454;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Surveillance video anomaly detection.
+O5459;X;TA01;Dataset distillation for histopathology; medical
+O5467;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Video anomaly detection with VLMs; surveillance context.
+O5471;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Rectal cancer therapy prediction; medical.
+O5476;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) AI-to-human delegation in e-commerce.
+O5480;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; Crossref container title 'Explainable Large Language Models in Healthcare Applications'; healthcare book chapter) Chapter on evaluating explainability; no inspection study.
+O5487;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Network-traffic anomaly detection; non-visual.
+O5491;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Optimisation of camera placement on construction sites; no learned inspection model.
+O5509;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Class-agnostic object counting; generic vision.
+O5519;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Anomaly detection in nominal data; non-visual.
+O5539;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) X-ray security screening for explosives; security context.
+O5559;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Endoscopy anomaly detection; medical.
+O5575;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Shotcrete mechanical-property prediction; non-visual.
+O5591;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Concrete permeability and corrosion-risk prediction from mix data; non-visual.
+O5599;X;TA01;Optical tactile sensor for robotic manipulation; not inspection
+O5600;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic imbalanced image classification.
+O5603;X;TA01;Carotid plaque anomaly detection in ultrasound; medical
+O5633;X;TA01;Generic cross-domain generalisation heuristic (RSC); no inspection context
+O5646;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic domain generalisation method.
+O5648;X;TA01;Generic probabilistic domain generalisation (MetaVIB); no inspection context
+O5650;X;TA01;Generic domain generalisation framework; no inspection context
+O5653;X;TA01;Generic sequential-learning domain generalisation; no inspection context
+O5655;X;TA01;Generic domain generalisation with domain-specific masks; no inspection context
+O5698;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic test-time adaptation for segmentation.
+O5701;X;TA01;Generic unsupervised domain adaptation (Deep CORAL) on standard benchmarks; no inspection context
+O5724;X;TA01;Noisy-label medical image segmentation; medical
+O5733;X;TA01;Generic open-set adversarial defence; no inspection context
+O5753;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Classic active-learning theory; no inspection study.
+O5757;X;TA01;Generic open-set adversarial defence (OSDN-CAML); no inspection context
+O5761;X;TA01;Gastric intestinal metaplasia segmentation in endoscopy; medical
+O5768;X;TA01;Pixel-wise anomaly segmentation for urban driving scenes; driving context
+O5778;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Classic uncertainty sampling; no inspection study.
+O5780;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Visual tracking; generic vision.
+O5790;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Numerical epistemic uncertainty quantification; no learned image model.
+O5799;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic noisy-label learning (SELFIE).
+O5806;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Numerical epistemic uncertainty quantification; no learned image model.
+O5813;X;TA01;Generic adversarially robust autoencoder for novelty detection; no inspection context
+O5822;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic robust anomaly-detection model.
+O5830;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Image enhancement; generic vision.
+O5832;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Synthetic indoor-scene rendering; generic vision.
+O5849;X;TA01;Synthetic-to-real urban scene segmentation; driving context
+O5861;X;TA01;Few-shot scene-adaptive video anomaly detection; surveillance context
+O5862;X;TA01;Weakly supervised anomalous event detection (UCF-Crime, ShanghaiTech); surveillance context
+O5874;X;TA01;Generic domain-adversarial training (DANN); no inspection context
+O5877;X;TA01;Domain-generalised point-cloud understanding on generic benchmarks; no inspection context
+O5878;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Classic multitask learning.
+O5906;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Face anti-spoofing; biometrics.
+O5910;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Financial anomaly detection survey.
+O5911;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Kernel PCA novelty detection; generic method.
+O5919;X;TA01;Perspective on simulators and synthetic data for deep learning; generic, no inspection study
+O5920;X;TA01;Generic multi-task weight masking (Piggyback); no inspection context
+O5923;X;TA01;Generic bilevel regularisation for generalisation; no inspection context
+O5934;X;TA01;Generic polyhedral conic classifier for open-set recognition; no inspection context
+O5940;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic unsupervised anomaly detection autoencoder.
+O5944;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Fetal imaging pictorial essay; medical.
+O5946;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Ensemble outlier mining; generic.
+O5964;X;TA01;Generic visual explanation method (Grad-CAM); no inspection context
+O5990;X;TA01;Cross-disciplinary digital-twin review (modelling and twinning technologies); not AI visual inspection
+O6001;U;;(title only) Hybrid ellipse detection in industrial images; the title does not show whether the hybrid includes a learned model. Full text sought
+O6004;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Geometric image synthesis; generic vision.
+O6006;X;TA01;Generic dataset-bias correction for object recognition; no inspection context
+O6013;X;TA01;Benchmark of segmentation losses on 3D medical tasks; medical
+O6018;X;TA01;ImageNet challenge benchmark description; generic vision
+O6023;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Support vector data description; generic method.
+O6070;U;;(title only) Image-based characterisation of concrete cracking; the title does not show whether a learned model is used. Full text sought
+O6073;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Multiple-class novelty detection; generic vision.
+O6082;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) 3D-printing surface quality from process parameters with GBDT; non-visual.
+O6117;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Movie trailer moments.
+O6129;X;TA01;Explainable ML for breast-cancer histology profiling; medical
+O6136;X;TA01;Fetal brain segmentation from noisy annotations; medical
+O6137;X;TA01;Principal-component analysis of adversarial samples on ImageNet; generic vision
+O6145;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Domain generalisation in radiology; medical.
+O6148;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Cross-subject mental fatigue detection; physiological.
+O6150;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic multi-source domain adaptation.
+O6153;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) ViT attention robustness; generic vision.
+O6160;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Surveillance video anomaly detection.
+O6162;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Distributed fibre-optic sensing anomaly detection; non-visual.
+O6167;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Time-series anomaly detection survey; non-visual.
+O6169;X;TA01;Text-guided synthetic augmentation for polyp segmentation; medical
+O6170;X;TA01;Generic deep-ensemble anomaly detection on benchmark datasets; no inspection context
+O6174;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) 5G-IoT intrusion detection; non-visual.
+O6188;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Review of latent-space future prediction; generic.
+O6190;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Table question answering survey.
+O6197;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Seismic damage prediction for girder bridges; non-visual.
+O6198;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Model retraining on event streams for decision support.
+O6207;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) LSTM digital twin for renewable generation monitoring; non-visual.
+O6211;X;TA01;Review of vision datasets and methods for unmanned surface vehicles; maritime navigation, not inspection
+O6218;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Gripper design for infrastructure inspection; no learned model.
+O6220;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Few-shot fault diagnosis; non-visual.
+O6223;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) ANN corrosion prediction review; non-visual.
+O6231;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic noise-robust domain adaptation.
+O6232;X;TA01;Generic domain-aware triplet loss for domain generalisation; no inspection context
+O6233;X;TA01;Generic open-set object detector (Grounding DINO); no inspection context
+O6242;X;TA01;Open-set video anomaly detection with evidential learning; surveillance context
+O6245;X;TA01;Generic semi-supervised domain adaptation; no inspection context
+O6253;X;TA01;Generic source-free domain adaptation with label refinery; no inspection context
+O6261;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic unsupervised domain adaptation.
+O6270;X;TA02;Heterogeneous-data domain adaptation for process monitoring and equipment matching; process data, non-visual
+O6286;X;TA01;Generic adversarial attack for segmentation robustness; no inspection context
+O6290;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Pencil-lead-break rail damage detection; acoustic signals, non-visual.
+O6303;X;TA01;Explainable interactive medical image classification; medical
+O6310;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Psychology of priors and trust.
+O6315;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Time-series virtual metrology; non-visual.
+O6329;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Review of deep learning for image processing; generic.
+O6350;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Federated transfer fault diagnosis; non-visual.
+O6358;X;TA01;Explanation-guided feature construction on tabular data; no inspection context
+O6360;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Visual-tactile road recognition for autonomous vehicles.
+O6364;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Anomaly detection over data streams; non-visual.
+O6365;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Bayes' formula in medical decision-making.
+O6382;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Review of virtual sample generation; generic.
+O6390;X;TA01;Theory of optimal transport and Schroedinger bridges; no inspection context
+O6395;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Super-resolution of porous-media micro-CT; geoscience imaging.
+O6397;X;TA01;Dichotomous image segmentation of natural images; generic vision
+O6399;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Encyclopedia entry on empirical risk minimisation.
+O6407;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Explaining image classifications; generic.
+O6419;X;TA01;Failure and anomaly detection for segmentation in driving and medical imaging; not industrial inspection
+O6421;X;TA02;Few-shot anomaly detection in text; non-visual
+O6425;X;TA01;Review of additive manufacturing for biomedical applications; no AI inspection study
+O6427;X;TA01;Unsupervised anomaly segmentation in brain MRI; medical
+O6433;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generative models review.
+O6456;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Latent dynamic VAEs for chemical product quality; non-visual.
+O6459;X;TA01;Mini review of anomaly detection in medical imaging; medical
+O6461;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Wasserstein distribution theory.
+O6462;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Face recognition.
+O6503;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) IoT structural health monitoring review; non-visual.
+O6505;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Satellite orbit outlier detection; non-visual.
+O6523;X;TA01;Cross-domain sequential recommendation with multimodal fusion; e-commerce
+O6526;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Building energy prediction; non-visual.
+O6527;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Multi-view matching pursuit; generic.
+O6528;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Bolted-joint assembly optimisation; no learned image model.
+O6533;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) PV fault diagnosis from electrical Lissajous curves; non-visual.
+O6536;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Spot-welding process simulation; no learned model.
+O6538;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Solar irradiance forecasting; non-visual.
+O6546;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Weld penetration from electrode displacement signals; non-visual.
+O6559;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Multivariate time-series anomaly detection; non-visual.
+O6570;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Bolted assembly bearing-limit prediction; no learned image model.
+O6572;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Railway alignment knowledge graph; not inspection.
+O6584;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) PASCAL VOC retrospective; generic vision.
+O6599;X;TA03;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Laser surface structuring of bipolar plates; no learned model.
+O6605;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Solar production forecasting; non-visual.
+O6607;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Generic vision transformer backbone.
+O6608;X;TA02;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Spot-welding mechanical property curve monitoring; non-visual.
+O6609;X;TA01;(title only, rechecked 2026-11-04; no abstract in five sources; title clearly outside criterion) Pedestrian crossing-time estimation for driver assistance.

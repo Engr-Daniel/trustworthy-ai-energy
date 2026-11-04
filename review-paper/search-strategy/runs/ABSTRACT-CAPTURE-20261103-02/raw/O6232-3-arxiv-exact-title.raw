@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/e6C5/ZuhSIo2BiX63EnE/5JrXzo</id>
+  <title>arXiv Query: search_query=ti:"Domain-aware triplet loss in domain generalization"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:35:45Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Domain-aware+triplet+loss+in+domain+generalization%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2303.01233v1</id>
+    <title>Domain-aware Triplet loss in Domain Generalization</title>
+    <updated>2023-03-01T14:02:01Z</updated>
+    <link href="https://arxiv.org/abs/2303.01233v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2303.01233v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Despite much progress being made in the field of object recognition with the advances of deep learning, there are still several factors negatively affecting the performance of deep learning models. Domain shift is one of these factors and is caused by discrepancies in the distributions of the testing and training data. In this paper, we focus on the problem of compact feature clustering in domain generalization to help optimize the embedding space from multi-domain data. We design a domainaware triplet loss for domain generalization to help the model to not only cluster similar semantic features, but also to disperse features arising from the domain. Unlike previous methods focusing on distribution alignment, our algorithm is designed to disperse domain information in the embedding space. The basic idea is motivated based on the assumption that embedding features can be clustered based on domain information, which is mathematically and empirically supported in this paper. In addition, during our exploration of feature clustering in domain generalization, we note that factors affecting the convergence of metric learning loss in domain generalization are more important than the pre-defined domains. To solve this issue, we utilize two methods to normalize the embedding space, reducing the internal covariate shift of the embedding features. The ablation study demonstrates the effectiveness of our algorithm. Moreover, the experiments on the benchmark datasets, including PACS, VLCS and Office-Home, show that our method outperforms related methods focusing on domain discrepancy. In particular, our results on RegnetY-16 are significantly better than state-of-the-art methods on the benchmark datasets. Our code will be released at https://github.com/workerbcd/DCT</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-03-01T14:02:01Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Kaiyu Guo</name>
+    </author>
+    <author>
+      <name>Brian Lovell</name>
+    </author>
+  </entry>
+</feed>

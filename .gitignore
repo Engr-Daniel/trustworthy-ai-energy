@@ -29,3 +29,6 @@ review-paper/fulltext/manual/
 # Local TeX compiler diagnostics
 review-paper/manuscript/*.log
 review-paper/manuscript/*.blg
+
+# Publisher landing-page HTML is local evidence; publish its manifest/hash and accepted abstract.
+review-paper/search-strategy/runs/ABSTRACT-CAPTURE-20261103-02/raw/*doi-landing-page.raw

@@ -11,3 +11,6 @@ Before implementation record:
 
 Outcome: continue, redefine or stop. Record evidence and dated rationale.
 A paper title, model combination or new dataset alone does not establish novelty.
+
+## Track A decision - 4 November 2026
+See ../projects/track-a-corrosion/gate-20261104.md. Continue feasibility and evaluation-tooling work; redefine the contribution against close prior work. Main model experiments are not yet cleared. Publication formatting and journal acceptance do not gate feasibility progress.

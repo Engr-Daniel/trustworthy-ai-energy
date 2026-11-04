@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/YrqocWJr7/AFZeBlV6mdCpDKzJI</id>
+  <title>arXiv Query: search_query=ti:"Self-challenging Improves Cross-Domain Generalization"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:31:10Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Self-challenging+Improves+Cross-Domain+Generalization%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2007.02454v1</id>
+    <title>Self-Challenging Improves Cross-Domain Generalization</title>
+    <updated>2020-07-05T21:42:26Z</updated>
+    <link href="https://arxiv.org/abs/2007.02454v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2007.02454v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Convolutional Neural Networks (CNN) conduct image classification by activating dominant features that correlated with labels. When the training and testing data are under similar distributions, their dominant features are similar, which usually facilitates decent performance on the testing data. The performance is nonetheless unmet when tested on samples from different distributions, leading to the challenges in cross-domain image classification. We introduce a simple training heuristic, Representation Self-Challenging (RSC), that significantly improves the generalization of CNN to the out-of-domain data. RSC iteratively challenges (discards) the dominant features activated on the training data, and forces the network to activate remaining features that correlates with labels. This process appears to activate feature representations applicable to out-of-domain data without prior knowledge of new domain and without learning extra network parameters. We present theoretical properties and conditions of RSC for improving cross-domain generalization. The experiments endorse the simple, effective and architecture-agnostic nature of our RSC method.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-07-05T21:42:26Z</published>
+    <arxiv:comment>to appear at ECCV2020 as an oral paper</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Zeyi Huang</name>
+    </author>
+    <author>
+      <name>Haohan Wang</name>
+    </author>
+    <author>
+      <name>Eric P. Xing</name>
+    </author>
+    <author>
+      <name>Dong Huang</name>
+    </author>
+  </entry>
+</feed>

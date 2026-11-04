@@ -6,3 +6,6 @@ review-paper/search-strategy/runs/** -text
 
 # DOI/arXiv reference-check captures retain exact checksum bytes.
 review-paper/manuscript/citation-check-*/raw/** -text
+
+# Track A feasibility source captures retain exact response bytes.
+projects/track-a-corrosion/sources/** -text

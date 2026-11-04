@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/vPWbKQ3D+QYjAYi2FPtwigR54HI</id>
+  <title>arXiv Query: search_query=ti:"Synthetic unknown class learning for learning unknowns"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:10:04Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Synthetic+unknown+class+learning+for+learning+unknowns%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2111.08062v1</id>
+    <title>Synthetic Unknown Class Learning for Learning Unknowns</title>
+    <updated>2021-11-15T19:46:41Z</updated>
+    <link href="https://arxiv.org/abs/2111.08062v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2111.08062v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper addresses the open set recognition (OSR) problem, where the goal is to correctly classify samples of known classes while detecting unknown samples to reject. In the OSR problem, "unknown" is assumed to have infinite possibilities because we have no knowledge about unknowns until they emerge. Intuitively, the more an OSR system explores the possibilities of unknowns, the more likely it is to detect unknowns. Thus, this paper proposes a novel synthetic unknown class learning method that generates unknown-like samples while maintaining diversity between the generated samples and learns these samples. In addition to this unknown sample generation process, knowledge distillation is introduced to provide room for learning synthetic unknowns. By learning the unknown-like samples and known samples in an alternating manner, the proposed method can not only experience diverse synthetic unknowns but also reduce overgeneralization with respect to known classes. Experiments on several benchmark datasets show that the proposed method significantly outperforms other state-of-the-art approaches. It is also shown that realistic unknown digits can be generated and learned via the proposed method after training on the MNIST dataset.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-11-15T19:46:41Z</published>
+    <arxiv:comment>11 pages, 7 figures, 4 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Jaeyeon Jang</name>
+    </author>
+  </entry>
+</feed>

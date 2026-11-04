@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/SXRE+7YZ3ypzYzJTycVWH+LB2HQ</id>
+  <title>arXiv Query: search_query=ti:"Principal Component Properties of Adversarial Samples"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:14:12Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Principal+Component+Properties+of+Adversarial+Samples%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1912.03406v1</id>
+    <title>Principal Component Properties of Adversarial Samples</title>
+    <updated>2019-12-07T01:15:40Z</updated>
+    <link href="https://arxiv.org/abs/1912.03406v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1912.03406v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deep Neural Networks for image classification have been found to be vulnerable to adversarial samples, which consist of sub-perceptual noise added to a benign image that can easily fool trained neural networks, posing a significant risk to their commercial deployment. In this work, we analyze adversarial samples through the lens of their contributions to the principal components of each image, which is different than prior works in which authors performed PCA on the entire dataset. We investigate a number of state-of-the-art deep neural networks trained on ImageNet as well as several attacks for each of the networks. Our results demonstrate empirically that adversarial samples across several attacks have similar properties in their contributions to the principal components of neural network inputs. We propose a new metric for neural networks to measure their robustness to adversarial samples, termed the (k,p) point. We utilize this metric to achieve 93.36% accuracy in detecting adversarial samples independent of architecture and attack type for models trained on ImageNet.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-12-07T01:15:40Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Malhar Jere</name>
+    </author>
+    <author>
+      <name>Sandro Herbig</name>
+    </author>
+    <author>
+      <name>Christine Lind</name>
+    </author>
+    <author>
+      <name>Farinaz Koushanfar</name>
+    </author>
+  </entry>
+</feed>

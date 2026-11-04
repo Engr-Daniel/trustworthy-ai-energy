@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/hZgx4X/5CHxWnY/GjF1wAe+8iBM</id>
+  <title>arXiv Query: search_query=ti:"Anomaly Detection in Medical Imaging - A Mini Review"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T01:04:05Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Anomaly+Detection+in+Medical+Imaging+-+A+Mini+Review%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2108.11986v2</id>
+    <title>Anomaly Detection in Medical Imaging -- A Mini Review</title>
+    <updated>2024-12-02T14:25:58Z</updated>
+    <link href="https://arxiv.org/abs/2108.11986v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2108.11986v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The increasing digitization of medical imaging enables machine learning based improvements in detecting, visualizing and segmenting lesions, easing the workload for medical experts. However, supervised machine learning requires reliable labelled data, which is is often difficult or impossible to collect or at least time consuming and thereby costly. Therefore methods requiring only partly labeled data (semi-supervised) or no labeling at all (unsupervised methods) have been applied more regularly. Anomaly detection is one possible methodology that is able to leverage semi-supervised and unsupervised methods to handle medical imaging tasks like classification and segmentation. This paper uses a semi-exhaustive literature review of relevant anomaly detection papers in medical imaging to cluster into applications, highlight important results, establish lessons learned and give further advice on how to approach anomaly detection in medical imaging. The qualitative analysis is based on google scholar and 4 different search terms, resulting in 120 different analysed papers. The main results showed that the current research is mostly motivated by reducing the need for labelled data. Also, the successful and substantial amount of research in the brain MRI domain shows the potential for applications in further domains like OCT and chest X-ray.</summary>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-08-25T11:45:40Z</published>
+    <arxiv:comment>Accepted and presented at iDSC2021 edit: During work on this publication Maximilian Ernst Tschuchnig was affiliated with Salzburg University of Applied Sciences and University of Salzburg</arxiv:comment>
+    <arxiv:primary_category term="eess.IV"/>
+    <arxiv:journal_ref>international Data Science Conference 2021</arxiv:journal_ref>
+    <author>
+      <name>Maximilian E. Tschuchnig</name>
+    </author>
+    <author>
+      <name>Michael Gadermayr</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-658-36295-9_5</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-658-36295-9_5" title="doi"/>
+  </entry>
+</feed>

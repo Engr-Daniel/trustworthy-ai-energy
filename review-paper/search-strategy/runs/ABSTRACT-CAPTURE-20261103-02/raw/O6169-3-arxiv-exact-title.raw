@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/al8ejML84kuZbMQbGEb3lesTfmM</id>
+  <title>arXiv Query: search_query=ti:"Latent Space Synergy Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:22:57Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Latent+Space+Synergy+Text-Guided+Data+Augmentation+for+Direct+Diffusion+Biomedical+Segmentation%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2507.15361v1</id>
+    <title>Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation</title>
+    <updated>2025-07-21T08:15:17Z</updated>
+    <link href="https://arxiv.org/abs/2507.15361v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2507.15361v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Medical image segmentation suffers from data scarcity, particularly in polyp detection where annotation requires specialized expertise. We present SynDiff, a framework combining text-guided synthetic data generation with efficient diffusion-based segmentation. Our approach employs latent diffusion models to generate clinically realistic synthetic polyps through text-conditioned inpainting, augmenting limited training data with semantically diverse samples. Unlike traditional diffusion methods requiring iterative denoising, we introduce direct latent estimation enabling single-step inference with T x computational speedup. On CVC-ClinicDB, SynDiff achieves 96.0% Dice and 92.9% IoU while maintaining real-time capability suitable for clinical deployment. The framework demonstrates that controlled synthetic augmentation improves segmentation robustness without distribution shift. SynDiff bridges the gap between data-hungry deep learning models and clinical constraints, offering an efficient solution for deployment in resourcelimited medical settings.</summary>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-07-21T08:15:17Z</published>
+    <arxiv:comment>Accepted to CVGMMI Workshop at ICIAP 2025</arxiv:comment>
+    <arxiv:primary_category term="eess.IV"/>
+    <author>
+      <name>Muhammad Aqeel</name>
+    </author>
+    <author>
+      <name>Maham Nazir</name>
+    </author>
+    <author>
+      <name>Zanxi Ruan</name>
+    </author>
+    <author>
+      <name>Francesco Setti</name>
+    </author>
+  </entry>
+</feed>

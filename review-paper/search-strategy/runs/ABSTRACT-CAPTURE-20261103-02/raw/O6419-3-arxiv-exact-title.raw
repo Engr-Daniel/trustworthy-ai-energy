@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/X2KPVqENF7+kNK2F58rugzVB9fE</id>
+  <title>arXiv Query: search_query=ti:"Synthesize Then Compare Detecting Failures and Anomalies for Semantic Segmentation"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:57:23Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Synthesize+Then+Compare+Detecting+Failures+and+Anomalies+for+Semantic+Segmentation%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2003.08440v2</id>
+    <title>Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation</title>
+    <updated>2020-09-08T02:42:54Z</updated>
+    <link href="https://arxiv.org/abs/2003.08440v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2003.08440v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The ability to detect failures and anomalies are fundamental requirements for building reliable systems for computer vision applications, especially safety-critical applications of semantic segmentation, such as autonomous driving and medical image analysis. In this paper, we systematically study failure and anomaly detection for semantic segmentation and propose a unified framework, consisting of two modules, to address these two related problems. The first module is an image synthesis module, which generates a synthesized image from a segmentation layout map, and the second is a comparison module, which computes the difference between the synthesized image and the input image. We validate our framework on three challenging datasets and improve the state-of-the-arts by large margins, \emph{i.e.}, 6% AUPR-Error on Cityscapes, 7% Pearson correlation on pancreatic tumor segmentation in MSD and 20% AUPR on StreetHazards anomaly segmentation.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-03-18T19:02:57Z</published>
+    <arxiv:comment>ECCV 2020 Oral. The first two authors contributed equally to this work. Code available at https://github.com/YingdaXia/SynthCP</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yingda Xia</name>
+    </author>
+    <author>
+      <name>Yi Zhang</name>
+    </author>
+    <author>
+      <name>Fengze Liu</name>
+    </author>
+    <author>
+      <name>Wei Shen</name>
+    </author>
+    <author>
+      <name>Alan Yuille</name>
+    </author>
+  </entry>
+</feed>

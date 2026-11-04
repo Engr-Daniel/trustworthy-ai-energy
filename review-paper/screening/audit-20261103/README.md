@@ -39,3 +39,17 @@ Disagreements are resolved in a dated packet that keeps the earlier decision. Th
 **Retrieved as arXiv copies:** 13 of the 18 inclusions were read from arXiv copies listed by OpenAlex as open-access locations of the same DOI. Of the rest, one is itself an arXiv preprint, three are publisher PDFs and one is a HAL author copy. Each chart row records the version that was read.
 
 No ledger row is changed by this folder.
+
+## Amendment, 4 November 2026
+
+The 168 title-only exclusions were re-screened after a second abstract capture (`../ta-ai-20261103/revision-20261104.csv`, compact file `a08.txt`). The sample rows above are unchanged and still show the 3 November decision; check each one against the current decision in `../confirmed-decisions.csv`.
+
+- **54 now rest on an abstract.** All 54 abstracts supported exclusion. The new rationale cites the captured abstract.
+- **4 were reopened as Unclear:** O6070 (in B2), and O5293, O5398 and O6001 (in D2). None had an open-access full text (`../../fulltext/retrieval-status.csv`, 4 November). They are not exclusions, and they stay Unclear until a full text is read. For O6070, audit the Unclear decision, not the superseded exclusion.
+- **110 still rest on titles alone.** Each was re-checked, and the exclusion is kept only where the title clearly fails a criterion. O5388 and O5480 rely on their Crossref book title (*Explainable Large Language Models in Healthcare Applications*).
+
+**SoftPatch is resolved.** The O4487 full text (p.2) names SoftPatch (O5989, NeurIPS 2022) as its preliminary version. The link is recorded in `../../corpus/fulltext-linkage.csv`, and both reports are Study S0105. O5989 is a secondary report (FT04) of an included study, so the point above about the two being unlinked no longer applies.
+
+## Evidence review update - 4 November 2026
+
+OpenAI-assisted review of all 18 A2 and 52 B2 current decisions is saved in ../audit-review-20261104/: 44 supported, one inclusion needs clarification (O5547), and 25 exclusions have insufficient source evidence. This supersedes a blanket AI pre-check agreement claim, not the historical decisions. Six of the seven priority flags were supported. current-audit-70-20261104.csv presents the current decisions and these checks for human verification; signatures remain blank. The original sample is preserved. No confirmed decision or formal human audit status was changed by this pass.

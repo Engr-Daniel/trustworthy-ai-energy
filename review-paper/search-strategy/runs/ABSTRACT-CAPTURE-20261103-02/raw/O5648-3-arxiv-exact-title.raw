@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/lwD/9akR8dkO2Ofsuve1QODfCUg</id>
+  <title>arXiv Query: search_query=ti:"Learning to Learn with Variational Information Bottleneck for Domain Generalization"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:32:41Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Learning+to+Learn+with+Variational+Information+Bottleneck+for+Domain+Generalization%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2007.07645v1</id>
+    <title>Learning to Learn with Variational Information Bottleneck for Domain Generalization</title>
+    <updated>2020-07-15T12:05:52Z</updated>
+    <link href="https://arxiv.org/abs/2007.07645v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2007.07645v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Domain generalization models learn to generalize to previously unseen domains, but suffer from prediction uncertainty and domain shift. In this paper, we address both problems. We introduce a probabilistic meta-learning model for domain generalization, in which classifier parameters shared across domains are modeled as distributions. This enables better handling of prediction uncertainty on unseen domains. To deal with domain shift, we learn domain-invariant representations by the proposed principle of meta variational information bottleneck, we call MetaVIB. MetaVIB is derived from novel variational bounds of mutual information, by leveraging the meta-learning setting of domain generalization. Through episodic training, MetaVIB learns to gradually narrow domain gaps to establish domain-invariant representations, while simultaneously maximizing prediction accuracy. We conduct experiments on three benchmarks for cross-domain visual recognition. Comprehensive ablation studies validate the benefits of MetaVIB for domain generalization. The comparison results demonstrate our method outperforms previous approaches consistently.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-07-15T12:05:52Z</published>
+    <arxiv:comment>15 pages, 4 figures, ECCV2020</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yingjun Du</name>
+    </author>
+    <author>
+      <name>Jun Xu</name>
+    </author>
+    <author>
+      <name>Huan Xiong</name>
+    </author>
+    <author>
+      <name>Qiang Qiu</name>
+    </author>
+    <author>
+      <name>Xiantong Zhen</name>
+    </author>
+    <author>
+      <name>Cees G. M. Snoek</name>
+    </author>
+    <author>
+      <name>Ling Shao</name>
+    </author>
+  </entry>
+</feed>

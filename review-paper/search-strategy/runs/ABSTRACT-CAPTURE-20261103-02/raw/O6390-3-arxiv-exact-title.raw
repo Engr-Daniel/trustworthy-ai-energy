@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/YSvZqwv/QsHUd4RSpuprZP1N6L4</id>
+  <title>arXiv Query: search_query=ti:"On the Relation Between Optimal Transport and Schrödinger Bridges A Stochastic Control Viewpoint"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:51:55Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22On+the+Relation+Between+Optimal+Transport+and+Schr%C3%B6dinger+Bridges+A+Stochastic+Control+Viewpoint%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1412.4430v1</id>
+    <title>On the relation between optimal transport and Schrödinger bridges: A stochastic control viewpoint</title>
+    <updated>2014-12-15T00:44:37Z</updated>
+    <link href="https://arxiv.org/abs/1412.4430v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1412.4430v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We take a new look at the relation between the optimal transport problem and the Schrödinger bridge problem from the stochastic control perspective. We show that the connections are richer and deeper than described in existing literature. In particular: a) We give an elementary derivation of the Benamou-Brenier fluid dynamics version of the optimal transport problem; b) We provide a new fluid dynamics version of the Schrödinger bridge problem; c) We observe that the latter provides an important connection with optimal transport without zero noise limits; d) We propose and solve a fluid dynamic version of optimal transport with prior; e) We can then view optimal transport with prior as the zero noise limit of Schrödinger bridges when the prior is any Markovian evolution. In particular, we work out the Gaussian case. A numerical example of the latter convergence involving Brownian particles is also provided.</summary>
+    <category term="eess.SY" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.OC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-12-15T00:44:37Z</published>
+    <arxiv:comment>28 pages</arxiv:comment>
+    <arxiv:primary_category term="eess.SY"/>
+    <author>
+      <name>Yongxin Chen</name>
+    </author>
+    <author>
+      <name>Tryphon Georgiou</name>
+    </author>
+    <author>
+      <name>Michele Pavon</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/LGYmmiJHj2GGgSArCHiTjEkQKFs</id>
+  <title>arXiv Query: search_query=ti:"LLM-enhanced multimodal fusion for cross-domain sequential recommendation"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T01:11:46Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22LLM-enhanced+multimodal+fusion+for+cross-domain+sequential+recommendation%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2506.17966v3</id>
+    <title>LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation</title>
+    <updated>2026-02-27T02:42:35Z</updated>
+    <link href="https://arxiv.org/abs/2506.17966v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.17966v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Cross-Domain Sequential Recommendation (CDSR) predicts user behavior by leveraging historical interactions across multiple domains, focusing on modeling cross-domain preferences and capturing both intra- and inter-sequence item relationships. We propose LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation (LLM-EMF), a novel and advanced approach that enhances textual information with Large Language Models (LLM) knowledge and significantly improves recommendation performance through the fusion of visual and textual data. Using the frozen CLIP model, we generate image and text embeddings, thereby enriching item representations with multimodal data. A multiple attention mechanism jointly learns both single-domain and cross-domain preferences, effectively capturing and understanding complex user interests across diverse domains. Evaluations conducted on four e-commerce datasets demonstrate that LLM-EMF consistently outperforms existing methods in modeling cross-domain user preferences, thereby highlighting the effectiveness of multimodal data integration and its advantages in enhancing sequential recommendation systems. Our source code will be released.</summary>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-22T09:53:21Z</published>
+    <arxiv:comment>arXiv admin note: substantial text overlap with arXiv:2504.15085</arxiv:comment>
+    <arxiv:primary_category term="cs.IR"/>
+    <author>
+      <name>Wangyu Wu</name>
+    </author>
+    <author>
+      <name>Zhenhong Chen</name>
+    </author>
+    <author>
+      <name>Wenqiao Zhang</name>
+    </author>
+    <author>
+      <name>Xianglin Qiu</name>
+    </author>
+    <author>
+      <name>Siqi Song</name>
+    </author>
+    <author>
+      <name>Xiaowei Huang</name>
+    </author>
+    <author>
+      <name>Fei Ma</name>
+    </author>
+    <author>
+      <name>Jimin Xiao</name>
+    </author>
+  </entry>
+</feed>

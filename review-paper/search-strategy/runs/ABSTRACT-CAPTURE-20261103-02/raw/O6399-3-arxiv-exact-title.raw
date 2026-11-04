@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/vB+YKvs9Kf25FR7IqyiwafMSP7E</id>
+  <title>arXiv Query: search_query=ti:"Empirical Risk Minimization"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:55:10Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Empirical+Risk+Minimization%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>166</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2009.01492v3</id>
+    <title>Explainable Empirical Risk Minimization</title>
+    <updated>2022-07-01T16:38:54Z</updated>
+    <link href="https://arxiv.org/abs/2009.01492v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2009.01492v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The successful application of machine learning (ML) methods becomes increasingly dependent on their interpretability or explainability. Designing explainable ML systems is instrumental to ensuring transparency of automated decision-making that targets humans. The explainability of ML methods is also an essential ingredient for trustworthy artificial intelligence. A key challenge in ensuring explainability is its dependence on the specific human user ("explainee"). The users of machine learning methods might have vastly different background knowledge about machine learning principles. One user might have a university degree in machine learning or related fields, while another user might have never received formal training in high-school mathematics. This paper applies information-theoretic concepts to develop a novel measure for the subjective explainability of the predictions delivered by a ML method. We construct this measure via the conditional entropy of predictions, given a user feedback. The user feedback might be obtained from user surveys or biophysical measurements. Our main contribution is the explainable empirical risk minimization (EERM) principle of learning a hypothesis that optimally balances between the subjective explainability and risk. The EERM principle is flexible and can be combined with arbitrary machine learning models. We present several practical implementations of EERM for linear models and decision trees. Numerical experiments demonstrate the application of EERM to detecting the use of inappropriate language on social media.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-09-03T07:16:34Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>L. Zhang</name>
+    </author>
+    <author>
+      <name>G. Karakasidis</name>
+    </author>
+    <author>
+      <name>A. Odnoblyudova</name>
+    </author>
+    <author>
+      <name>L. Dogruel</name>
+    </author>
+    <author>
+      <name>A. Jung</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2007.01162v2</id>
+    <title>Tilted Empirical Risk Minimization</title>
+    <updated>2021-03-17T16:34:26Z</updated>
+    <link href="https://arxiv.org/abs/2007.01162v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2007.01162v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Empirical risk minimization (ERM) is typically designed to perform well on the average loss, which can result in estimators that are sensitive to outliers, generalize poorly, or treat subgroups unfairly. While many methods aim to address these problems individually, in this work, we explore them through a unified framework -- tilted empirical risk minimization (TERM). In particular, we show that it is possible to flexibly tune the impact of individual losses through a straightforward extension to ERM using a hyperparameter called the tilt. We provide several interpretations of the resulting framework: We show that TERM can increase or decrease the influence of outliers, respectively, to enable fairness or robustness; has variance-reduction properties that can benefit generalization; and can be viewed as a smooth approximation to a superquantile method. We develop batch and stochastic first-order optimization methods for solving TERM, and show that the problem can be efficiently solved relative to common alternatives. Finally, we demonstrate that TERM can be used for a multitude of applications, such as enforcing fairness between subgroups, mitigating the effect of outliers, and handling class imbalance. TERM is not only competitive with existing solutions tailored to these individual problems, but can also enable entirely new applications, such as simultaneously addressing outliers and promoting fairness.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-07-02T14:49:48Z</published>
+    <arxiv:comment>Accepted by ICLR 2021</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Tian Li</name>
+    </author>
+    <author>
+      <name>Ahmad Beirami</name>
+    </author>
+    <author>
+      <name>Maziar Sanjabi</name>
+    </author>
+    <author>
+      <name>Virginia Smith</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2202.08832v3</id>
+    <title>Universality of empirical risk minimization</title>
+    <updated>2026-06-29T17:04:48Z</updated>
+    <link href="https://arxiv.org/abs/2202.08832v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2202.08832v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study a general class of optimization problems with decision variable $\boldsymbolΘ \in \mathbb{R}^{p \times k}$ and cost function which is the sum of $n$ terms, each dependent on $\boldsymbolΘ$ through the $k$-dimensional projection $\boldsymbolΘ^\top \boldsymbol{x}_i$, where $\boldsymbol{x}_i$, $i \leq n$ are i.i.d. random vectors.
+  This setting is general enough to include examples of current interest in statistical physics, high-dimensional statistics, and statistical learning theory.
+  We consider the proportional asymptotics $n, p \to \infty$, with $n/p = Θ(1)$, and prove that, whenever there exists a minimizer satisfying a suitable generalization of a "delocalization" condition, the minimum value is universal. Namely, (for subgaussian $\boldsymbol{x}_i$) it depends on the distribution of $\boldsymbol{x}_i$ only through its asymptotic mean and covariance. This delocalization condition is essentially necessary. Earlier universality results for such problems were limited to strongly convex loss functions.
+  We derive applications of our theory to statistical learning and prove general universality results both for train and (under additional conditions) test error. In particular, we establish universality for vectors $\boldsymbol{x}_i$ generated by random 1-layer neural networks (random features models) and first-order Taylor approximations of 2-layer networks (neural tangent models). Finally, we establish that the delocalization property holds for a class of statistical learning problems under a condition that is easy to verify.</summary>
+    <category term="math.ST" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-02-17T18:53:45Z</published>
+    <arxiv:comment>90 pages</arxiv:comment>
+    <arxiv:primary_category term="math.ST"/>
+    <author>
+      <name>Andrea Montanari</name>
+    </author>
+    <author>
+      <name>Basil Saeed</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1901.10080v3</id>
+    <title>General Fair Empirical Risk Minimization</title>
+    <updated>2019-12-27T16:00:37Z</updated>
+    <link href="https://arxiv.org/abs/1901.10080v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1901.10080v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We tackle the problem of algorithmic fairness, where the goal is to avoid the unfairly influence of sensitive information, in the general context of regression with possible continuous sensitive attributes. We extend the framework of fair empirical risk minimization to this general scenario, covering in this way the whole standard supervised learning setting. Our generalized fairness measure reduces to well known notions of fairness available in literature. We derive learning guarantees for our method, that imply in particular its statistical consistency, both in terms of the risk and the fairness measure. We then specialize our approach to kernel methods and propose a convex fair estimator in that setting. We test the estimator on a commonly used benchmark dataset (Communities and Crime) and on a new dataset collected at the University of Genova, containing the information of the academic career of five thousand students. The latter dataset provides a challenging real case scenario of unfair behaviour of standard regression methods that benefits from our methodology. The experimental results show that our estimator is effective at mitigating the trade-off between accuracy and fairness requirements.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-01-29T02:57:36Z</published>
+    <arxiv:primary_category term="stat.ML"/>
+    <author>
+      <name>Luca Oneto</name>
+    </author>
+    <author>
+      <name>Michele Donini</name>
+    </author>
+    <author>
+      <name>Massimiliano Pontil</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.17761v1</id>
+    <title>Distributed Personalized Empirical Risk Minimization</title>
+    <updated>2023-10-26T20:07:33Z</updated>
+    <link href="https://arxiv.org/abs/2310.17761v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.17761v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper advocates a new paradigm Personalized Empirical Risk Minimization (PERM) to facilitate learning from heterogeneous data sources without imposing stringent constraints on computational resources shared by participating devices. In PERM, we aim to learn a distinct model for each client by learning who to learn with and personalizing the aggregation of local empirical losses by effectively estimating the statistical discrepancy among data distributions, which entails optimal statistical accuracy for all local distributions and overcomes the data heterogeneity issue. To learn personalized models at scale, we propose a distributed algorithm that replaces the standard model averaging with model shuffling to simultaneously optimize PERM objectives for all devices. This also allows us to learn distinct model architectures (e.g., neural networks with different numbers of parameters) for different clients, thus confining underlying memory and compute resources of individual clients. We rigorously analyze the convergence of the proposed algorithm and conduct experiments that corroborate the effectiveness of the proposed paradigm.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-26T20:07:33Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Yuyang Deng</name>
+    </author>
+    <author>
+      <name>Mohammad Mahdi Kamani</name>
+    </author>
+    <author>
+      <name>Pouria Mahdavinia</name>
+    </author>
+    <author>
+      <name>Mehrdad Mahdavi</name>
+    </author>
+  </entry>
+</feed>

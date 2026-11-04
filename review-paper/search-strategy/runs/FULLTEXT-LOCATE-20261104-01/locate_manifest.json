@@ -1,0 +1,43 @@
+{
+  "run_id": "FULLTEXT-LOCATE-20261104-01",
+  "purpose": "Open-access full-text location for reports sent to full text",
+  "started_utc": "2026-11-04T01:30:46.830977+00:00",
+  "requests": [
+    {
+      "file": "openalex-001.json",
+      "query": "doi filter (4 DOIs)",
+      "time_utc": "2026-11-04T01:30:47.658873+00:00",
+      "status": 200,
+      "sha256": "a07b76e874b4c1801e8dcc0d4c7590b95e6bf3350a0493524bea3deab8d95923"
+    },
+    {
+      "file": "arxiv-O5293.xml",
+      "query": "ti:\"Noise-robust anomaly detection framework using temporal features for industrial applications\"",
+      "time_utc": "2026-11-04T01:30:50.575945+00:00",
+      "status": 200,
+      "sha256": "1728a69b6e91a1c22fc13fb1db7a22140a3a059d9b2fc0b7e2afc45e4822452f"
+    },
+    {
+      "file": "arxiv-O5398.xml",
+      "query": "ti:\"Ship structure corrosion detection using advanced image processing, active contour algorithm, and parallel processing\"",
+      "time_utc": "2026-11-04T01:30:59.603518+00:00",
+      "status": 200,
+      "sha256": "a4df4258dc1419486a28fb6285e4dad9ab59038c3b461cbbf6bb77079bf096d0"
+    },
+    {
+      "file": "arxiv-O6001.xml",
+      "query": "ti:\"A hybrid method for ellipse detection in industrial images\"",
+      "time_utc": "2026-11-04T01:31:09.452693+00:00",
+      "status": 200,
+      "sha256": "b1268bcbe317844f9a759e64374775908222d3cae49627e1aff4f4c55c997859"
+    },
+    {
+      "file": "arxiv-O6070.xml",
+      "query": "ti:\"Characterisation of concrete cracking during laboratorial tests using image processing\"",
+      "time_utc": "2026-11-04T01:31:13.194210+00:00",
+      "status": 200,
+      "sha256": "e5c6d8ac254371337fc26fa509ddb15c6633c276ad7958b92c3702be4a849e2b"
+    }
+  ],
+  "finished_utc": "2026-11-04T01:31:16.206431+00:00"
+}

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/LTLxsIJgJ8+2OcQEdP1Z/I+YjRc</id>
+  <title>arXiv Query: search_query=ti:"Learning to segment fetal brain tissue from noisy annotations"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:13:49Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Learning+to+segment+fetal+brain+tissue+from+noisy+annotations%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2203.14962v2</id>
+    <title>Learning to segment fetal brain tissue from noisy annotations</title>
+    <updated>2023-01-03T22:43:03Z</updated>
+    <link href="https://arxiv.org/abs/2203.14962v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2203.14962v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automatic fetal brain tissue segmentation can enhance the quantitative assessment of brain development at this critical stage. Deep learning methods represent the state of the art in medical image segmentation and have also achieved impressive results in brain segmentation. However, effective training of a deep learning model to perform this task requires a large number of training images to represent the rapid development of the transient fetal brain structures. On the other hand, manual multi-label segmentation of a large number of 3D images is prohibitive. To address this challenge, we segmented 272 training images, covering 19-39 gestational weeks, using an automatic multi-atlas segmentation strategy based on deformable registration and probabilistic atlas fusion, and manually corrected large errors in those segmentations. Since this process generated a large training dataset with noisy segmentations, we developed a novel label smoothing procedure and a loss function to train a deep learning model with smoothed noisy segmentations. Our proposed methods properly account for the uncertainty in tissue boundaries. We evaluated our method on 23 manually-segmented test images of a separate set of fetuses. Results show that our method achieves an average Dice similarity coefficient of 0.893 and 0.916 for the transient structures of younger and older fetuses, respectively. Our method generated results that were significantly more accurate than several state-of-the-art methods including nnU-Net that achieved the closest results to our method. Our trained model can serve as a valuable tool to enhance the accuracy and reproducibility of fetal brain analysis in MRI.</summary>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-03-25T21:22:24Z</published>
+    <arxiv:primary_category term="eess.IV"/>
+    <author>
+      <name>Davood Karimi</name>
+    </author>
+    <author>
+      <name>Caitlin K. Rollins</name>
+    </author>
+    <author>
+      <name>Clemente Velasco-Annis</name>
+    </author>
+    <author>
+      <name>Abdelhakim Ouaalam</name>
+    </author>
+    <author>
+      <name>Ali Gholipour</name>
+    </author>
+  </entry>
+</feed>

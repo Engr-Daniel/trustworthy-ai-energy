@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/BjHrm/6N+qmpdRNCeyr4Uke76Q0</id>
+  <title>arXiv Query: search_query=ti:"HOMDA High-Order Moment-Based Domain Alignment for unsupervised domain adaptation"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-04T00:40:00Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22HOMDA+High-Order+Moment-Based+Domain+Alignment+for+unsupervised+domain+adaptation%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>0</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+</feed>

@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-04",
+  "platform": "web search tool",
+  "queries": [
+    "dacl10k dataset official corrosion bridge split license",
+    "SpotRust StuvX corrosion detection confidence dataset",
+    "risk controlled prediction corrosion inspection uncertainty selective prediction bridge inspection",
+    "corrosion segmentation selective prediction review budget uncertainty dacl10k",
+    "industrial visual inspection selective risk coverage uncertainty calibration human review budget corrosion"
+  ],
+  "purpose": "Track A novelty/data feasibility; separate from review discovery counts",
+  "limits": "Search discovery only; no completeness or novel contribution claim. Official pages inspected in chat; downloadable source captures logged separately."
+}

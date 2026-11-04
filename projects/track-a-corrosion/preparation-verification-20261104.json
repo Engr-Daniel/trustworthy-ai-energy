@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-04",
+  "preparation_tests_passed": 5,
+  "test_data": "Synthetic unit fixtures only; no dataset/model performance result",
+  "model_training_started": false,
+  "dataset_payload_downloaded": false,
+  "audit_evidence_rows": 70,
+  "human_audit_completed": false,
+  "source_and_code_artifacts": [
+    {
+      "path": "projects/track-a-corrosion/closest-work-20261104.csv",
+      "sha256": "8ab9be1ad2feeced6eb7975c5d2d080be3c32dfbc218a4135502e77702870ec4"
+    },
+    {
+      "path": "projects/track-a-corrosion/compute-inventory-20261104.json",
+      "sha256": "8270a3ce17aaba4ff010f7531795f795f41e82773353a4f48d0c6fbd126703d7"
+    },
+    {
+      "path": "projects/track-a-corrosion/data-manifest-template.csv",
+      "sha256": "bd4ccf27ed424373e7cd47e84d80a924cdf0768b8beb0bab71903d7862d779c2"
+    },
+    {
+      "path": "projects/track-a-corrosion/gate-20261104.md",
+      "sha256": "05170475d06bedb0d2a65baf4c5c897d2bac3dad9b0f51c043994d46fa560212"
+    },
+    {
+      "path": "projects/track-a-corrosion/protocol.json",
+      "sha256": "b2872a402c42635b50823451b78852f5bad337483d74a63c1b110b619c95d485"
+    },
+    {
+      "path": "projects/track-a-corrosion/README.md",
+      "sha256": "af3d5060037ab5134a6d7d97fe9b620b013bb3c241661f60e97f7454acf46bab"
+    },
+    {
+      "path": "projects/track-a-corrosion/scripts/evaluate_referral.py",
+      "sha256": "f5b773eeef9ac496d93ef9834c21540fe7bca47a8525d7bff3e8db282915e65a"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/archive-sample-manifest.json",
+      "sha256": "5c139362782e2f392da80afab818c36f0756fb41dc3c220bfafc28f36d15ea3a"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/capture-manifest.json",
+      "sha256": "b6874046311d70c73d7610d3a4cd7a235028d6a3deb0f072a45a6aa0cda9d596"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/dacl10k-toolkit-README.md",
+      "sha256": "2685c6aacc8d94d929d3187c0552efdacfdef4ae9ea3b6cb3d956ce72552f437"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/retry-01/capture-manifest.json",
+      "sha256": "920a8035f0067c74a34b6b45760ad70149d06075f0a11c74930cb1dec84187b4"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/retry-01/dacl10k-toolkit-README.md",
+      "sha256": "706b97a2368d715184355d0ffe98f098ebffc9c9b48e2aa9238f79c4e5952387"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/retry-01/SpotRust-README.md",
+      "sha256": "de984652192ea1dad85e036d23cc54b7c5ee5fefbeefe3b885925e6ebbbbfb64"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/search-log.json",
+      "sha256": "fcc18402859999d3530e17f0584bfad782a5095b68daa81e0951a38c1afca82d"
+    },
+    {
+      "path": "projects/track-a-corrosion/sources/20261104/SpotRust-README.md",
+      "sha256": "3096ea18d456387645c958e4cfc73799a28113f8f8e33618e452430a33ab58da"
+    },
+    {
+      "path": "projects/track-a-corrosion/tests/test_evaluate_referral.py",
+      "sha256": "7a1cbb676f4c9fe8e3f6eab5b2b7e020c005b027c4d70874554bfd2785cca088"
+    }
+  ]
+}

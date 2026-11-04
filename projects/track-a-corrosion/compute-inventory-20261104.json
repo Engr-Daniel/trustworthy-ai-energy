@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-04",
+  "python": "3.10.0",
+  "pytorch_installed": false,
+  "nvidia_smi_available": false,
+  "training_compute": "Unverified; no training run authorised by this inventory",
+  "public_cloud_spend_authorised": false
+}

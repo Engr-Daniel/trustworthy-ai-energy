@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/DmUU5NB9A6O2eF/ZL0ARFSCOhnk</id>
+  <title>arXiv Query: search_query=ti:"Open-Set Adversarial Defense with Clean-Adversarial Mutual Learning"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:40:04Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Open-Set+Adversarial+Defense+with+Clean-Adversarial+Mutual+Learning%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2202.05953v1</id>
+    <title>Open-set Adversarial Defense with Clean-Adversarial Mutual Learning</title>
+    <updated>2022-02-12T02:13:55Z</updated>
+    <link href="https://arxiv.org/abs/2202.05953v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2202.05953v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Open-set recognition and adversarial defense study two key aspects of deep learning that are vital for real-world deployment. The objective of open-set recognition is to identify samples from open-set classes during testing, while adversarial defense aims to robustify the network against images perturbed by imperceptible adversarial noise. This paper demonstrates that open-set recognition systems are vulnerable to adversarial samples. Furthermore, this paper shows that adversarial defense mechanisms trained on known classes are unable to generalize well to open-set samples. Motivated by these observations, we emphasize the necessity of an Open-Set Adversarial Defense (OSAD) mechanism. This paper proposes an Open-Set Defense Network with Clean-Adversarial Mutual Learning (OSDN-CAML) as a solution to the OSAD problem. The proposed network designs an encoder with dual-attentive feature-denoising layers coupled with a classifier to learn a noise-free latent feature representation, which adaptively removes adversarial noise guided by channel and spatial-wise attentive filters. Several techniques are exploited to learn a noise-free and informative latent feature space with the aim of improving the performance of adversarial defense and open-set recognition. First, we incorporate a decoder to ensure that clean images can be well reconstructed from the obtained latent features. Then, self-supervision is used to ensure that the latent features are informative enough to carry out an auxiliary task. Finally, to exploit more complementary knowledge from clean image classification to facilitate feature denoising and search for a more generalized local minimum for open-set recognition, we further propose clean-adversarial mutual learning, where a peer network (classifying clean images) is further introduced to mutually learn with the classifier (classifying adversarial images).</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-02-12T02:13:55Z</published>
+    <arxiv:comment>Accepted by International Journal of Computer Vision (IJCV) 2022. Code will be available at https://github.com/rshaojimmy/ECCV2020-OSAD. arXiv admin note: text overlap with arXiv:2009.00814</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Rui Shao</name>
+    </author>
+    <author>
+      <name>Pramuditha Perera</name>
+    </author>
+    <author>
+      <name>Pong C. Yuen</name>
+    </author>
+    <author>
+      <name>Vishal M. Patel</name>
+    </author>
+  </entry>
+</feed>

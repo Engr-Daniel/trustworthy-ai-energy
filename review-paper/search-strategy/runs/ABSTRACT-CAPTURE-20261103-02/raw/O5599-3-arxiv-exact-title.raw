@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api//7C+9Ngmyok3Uoq8o4NxIZxA+Aw</id>
+  <title>arXiv Query: search_query=ti:"GelTip tactile sensor for dexterous manipulation in clutter"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:29:18Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22GelTip+tactile+sensor+for+dexterous+manipulation+in+clutter%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2112.01834v1</id>
+    <title>GelTip Tactile Sensor for Dexterous Manipulation in Clutter</title>
+    <updated>2021-12-03T10:45:08Z</updated>
+    <link href="https://arxiv.org/abs/2112.01834v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2112.01834v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tactile sensing is an essential capability for robots that carry out dexterous manipulation tasks. While cameras, Lidars and other remote sensors can assess a scene globally and instantly, tactile sensors can reduce their measurement uncertainties and gain information about the local physical interactions between the in-contact objects and the robot, that are often not accessible via remote sensing. Tactile sensors can be grouped into two main categories: electronic tactile skins and camera based optical tactile sensors. The former are slim and can be fitted to different body parts, whereas the latter assume a more prismatic shape and have much higher sensing resolutions, offering a good advantage for being used as robotic fingers or fingertips. One of such optical tactile sensors is our GelTip sensor that is shaped as a finger and can sense contacts on any location of its surface. As such, the GelTip sensor is able to detect contacts from all the directions, like a human finger. To capture these contacts, it uses a camera installed at its base to track the deformations of the opaque elastomer that covers its hollow, rigid and transparent body. Thanks to this design, a gripper equipped with GelTip sensors is capable of simultaneously monitoring contacts happening inside and outside its grasp closure. Experiments carried out using this sensor demonstrate how contacts can be localised, and more importantly, the advantages, and even possibly a necessity, of leveraging all-around touch sensing in dexterous manipulation tasks in clutter where contacts may happen at any location of the finger. All the materials for the fabrication of the GelTip sensor can be found at https://danfergo.github.io/geltip/</summary>
+    <category term="cs.RO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-12-03T10:45:08Z</published>
+    <arxiv:comment>20 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.RO"/>
+    <author>
+      <name>Daniel Fernandes Gomes</name>
+    </author>
+    <author>
+      <name>Shan Luo</name>
+    </author>
+  </entry>
+</feed>

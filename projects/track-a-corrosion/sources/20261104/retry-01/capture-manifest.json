@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/phiyodr/dacl10k-toolkit/master/README.md",
+    "file": "dacl10k-toolkit-README.md",
+    "time_utc": "2026-11-04T02:40:12.629947+00:00",
+    "retry_of": "../capture-manifest.json",
+    "status": 200,
+    "sha256": "706b97a2368d715184355d0ffe98f098ebffc9c9b48e2aa9238f79c4e5952387"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/StuvX/SpotRust/master/README.md",
+    "file": "SpotRust-README.md",
+    "time_utc": "2026-11-04T02:40:13.391896+00:00",
+    "retry_of": "../capture-manifest.json",
+    "status": 200,
+    "sha256": "de984652192ea1dad85e036d23cc54b7c5ee5fefbeefe3b885925e6ebbbbfb64"
+  }
+]

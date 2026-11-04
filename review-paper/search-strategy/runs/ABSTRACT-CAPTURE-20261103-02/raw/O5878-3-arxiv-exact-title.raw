@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/137u/ClAP6c041h+U+wZ3VfnPUs</id>
+  <title>arXiv Query: search_query=ti:"Multitask Learning"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:52:07Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Multitask+Learning%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>278</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1510.00633v1</id>
+    <title>Distributed Multitask Learning</title>
+    <updated>2015-10-02T16:15:30Z</updated>
+    <link href="https://arxiv.org/abs/1510.00633v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1510.00633v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We consider the problem of distributed multi-task learning, where each machine learns a separate, but related, task. Specifically, each machine learns a linear predictor in high-dimensional space,where all tasks share the same small support. We present a communication-efficient estimator based on the debiased lasso and show that it is comparable with the optimal centralized method.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-10-02T16:15:30Z</published>
+    <arxiv:primary_category term="stat.ML"/>
+    <author>
+      <name>Jialei Wang</name>
+    </author>
+    <author>
+      <name>Mladen Kolar</name>
+    </author>
+    <author>
+      <name>Nathan Srebro</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.02523v1</id>
+    <title>Partly Supervised Multitask Learning</title>
+    <updated>2020-05-05T22:42:12Z</updated>
+    <link href="https://arxiv.org/abs/2005.02523v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.02523v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Semi-supervised learning has recently been attracting attention as an alternative to fully supervised models that require large pools of labeled data. Moreover, optimizing a model for multiple tasks can provide better generalizability than single-task learning. Leveraging self-supervision and adversarial training, we propose a novel general purpose semi-supervised, multiple-task model---namely, self-supervised, semi-supervised, multitask learning (S$^4$MTL)---for accomplishing two important tasks in medical imaging, segmentation and diagnostic classification. Experimental results on chest and spine X-ray datasets suggest that our S$^4$MTL model significantly outperforms semi-supervised single task, semi/fully-supervised multitask, and fully-supervised single task models, even with a 50\% reduction of class and segmentation labels. We hypothesize that our proposed model can be effective in tackling limited annotation problems for joint training, not only in medical imaging domains, but also for general-purpose vision tasks.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-05T22:42:12Z</published>
+    <arxiv:comment>10 pages, 8 figures, 3 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Abdullah-Al-Zubaer Imran</name>
+    </author>
+    <author>
+      <name>Chao Huang</name>
+    </author>
+    <author>
+      <name>Hui Tang</name>
+    </author>
+    <author>
+      <name>Wei Fan</name>
+    </author>
+    <author>
+      <name>Yuan Xiao</name>
+    </author>
+    <author>
+      <name>Dingjun Hao</name>
+    </author>
+    <author>
+      <name>Zhen Qian</name>
+    </author>
+    <author>
+      <name>Demetri Terzopoulos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1902.01385v1</id>
+    <title>Embodied Multimodal Multitask Learning</title>
+    <updated>2019-02-04T18:53:14Z</updated>
+    <link href="https://arxiv.org/abs/1902.01385v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1902.01385v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent efforts on training visual navigation agents conditioned on language using deep reinforcement learning have been successful in learning policies for different multimodal tasks, such as semantic goal navigation and embodied question answering. In this paper, we propose a multitask model capable of jointly learning these multimodal tasks, and transferring knowledge of words and their grounding in visual objects across the tasks. The proposed model uses a novel Dual-Attention unit to disentangle the knowledge of words in the textual representations and visual concepts in the visual representations, and align them with each other. This disentangled task-invariant alignment of representations facilitates grounding and knowledge transfer across both tasks. We show that the proposed model outperforms a range of baselines on both tasks in simulated 3D environments. We also show that this disentanglement of representations makes our model modular, interpretable, and allows for transfer to instructions containing new words by leveraging object detectors.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.RO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-02-04T18:53:14Z</published>
+    <arxiv:comment>See https://devendrachaplot.github.io/projects/EMML for demo videos</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Devendra Singh Chaplot</name>
+    </author>
+    <author>
+      <name>Lisa Lee</name>
+    </author>
+    <author>
+      <name>Ruslan Salakhutdinov</name>
+    </author>
+    <author>
+      <name>Devi Parikh</name>
+    </author>
+    <author>
+      <name>Dhruv Batra</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1703.00994v1</id>
+    <title>Co-Clustering for Multitask Learning</title>
+    <updated>2017-03-03T00:03:14Z</updated>
+    <link href="https://arxiv.org/abs/1703.00994v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1703.00994v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a new multitask learning framework that learns a shared representation among the tasks, incorporating both task and feature clusters. The jointly-induced clusters yield a shared latent subspace where task relationships are learned more effectively and more generally than in state-of-the-art multitask learning methods. The proposed general framework enables the derivation of more specific or restricted state-of-the-art multitask methods. The paper also proposes a highly-scalable multitask learning algorithm, based on the new framework, using conjugate gradient descent and generalized \textit{Sylvester equations}. Experimental results on synthetic and benchmark datasets show that the proposed method systematically outperforms several state-of-the-art multitask learning methods.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-03-03T00:03:14Z</published>
+    <arxiv:primary_category term="stat.ML"/>
+    <author>
+      <name>Keerthiram Murugesan</name>
+    </author>
+    <author>
+      <name>Jaime Carbonell</name>
+    </author>
+    <author>
+      <name>Yiming Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2410.17878v3</id>
+    <title>Relaxed Equivariance via Multitask Learning</title>
+    <updated>2026-01-04T21:53:36Z</updated>
+    <link href="https://arxiv.org/abs/2410.17878v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2410.17878v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Incorporating equivariance as an inductive bias into deep learning architectures to take advantage of the data symmetry has been successful in multiple applications, such as chemistry and dynamical systems. In particular, roto-translations are crucial for effectively modeling geometric graphs and molecules, where understanding the 3D structures enhances generalization. However, strictly equivariant models often pose challenges due to their higher computational complexity. In this paper, we introduce REMUL, a training procedure that learns \emph{approximate} equivariance for unconstrained networks via multitask learning. By formulating equivariance as a tunable objective alongside the primary task loss, REMUL offers a principled way to control the degree of approximate symmetry, relaxing the rigid constraints of traditional equivariant architectures. We show that unconstrained models (which do not build equivariance into the architecture) can learn approximate symmetries by minimizing an additional simple equivariance loss. This enables quantitative control over the trade-off between enforcing equivariance constraints and optimizing for task-specific performance. Our method achieves competitive performance compared to equivariant baselines while being significantly faster (up to 10$\times$ at inference and 2.5$\times$ at training), offering a practical and adaptable approach to leveraging symmetry in unconstrained architectures.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-10-23T13:50:27Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Ahmed A. Elhag</name>
+    </author>
+    <author>
+      <name>T. Konstantin Rusch</name>
+    </author>
+    <author>
+      <name>Francesco Di Giovanni</name>
+    </author>
+    <author>
+      <name>Michael Bronstein</name>
+    </author>
+  </entry>
+</feed>

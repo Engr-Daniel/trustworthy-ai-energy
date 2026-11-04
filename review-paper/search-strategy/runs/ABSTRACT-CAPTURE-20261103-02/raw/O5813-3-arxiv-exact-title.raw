@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/H8OBlB4QVhFT1l6VrHfAiqXlT0s</id>
+  <title>arXiv Query: search_query=ti:"ARAE Adversarially robust training of autoencoders improves novelty detection"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:45:28Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22ARAE+Adversarially+robust+training+of+autoencoders+improves+novelty+detection%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2003.05669v2</id>
+    <title>ARAE: Adversarially Robust Training of Autoencoders Improves Novelty Detection</title>
+    <updated>2020-10-24T19:42:01Z</updated>
+    <link href="https://arxiv.org/abs/2003.05669v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2003.05669v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Autoencoders (AE) have recently been widely employed to approach the novelty detection problem. Trained only on the normal data, the AE is expected to reconstruct the normal data effectively while fail to regenerate the anomalous data, which could be utilized for novelty detection. However, in this paper, it is demonstrated that this does not always hold. AE often generalizes so perfectly that it can also reconstruct the anomalous data well. To address this problem, we propose a novel AE that can learn more semantically meaningful features. Specifically, we exploit the fact that adversarial robustness promotes learning of meaningful features. Therefore, we force the AE to learn such features by penalizing networks with a bottleneck layer that is unstable against adversarial perturbations. We show that despite using a much simpler architecture in comparison to the prior methods, the proposed AE outperforms or is competitive to state-of-the-art on three benchmark datasets.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-03-12T09:06:41Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Mohammadreza Salehi</name>
+    </author>
+    <author>
+      <name>Atrin Arya</name>
+    </author>
+    <author>
+      <name>Barbod Pajoum</name>
+    </author>
+    <author>
+      <name>Mohammad Otoofi</name>
+    </author>
+    <author>
+      <name>Amirreza Shaeiri</name>
+    </author>
+    <author>
+      <name>Mohammad Hossein Rohban</name>
+    </author>
+    <author>
+      <name>Hamid R. Rabiee</name>
+    </author>
+  </entry>
+</feed>

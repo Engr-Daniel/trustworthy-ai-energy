@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-04",
+  "workbook": "corpus/Review_Tracker_20261104_rescreen.xlsx",
+  "tables": {
+    "Corpus": {
+      "rows": 6840,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Screening": {
+      "rows": 6970,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Identification": {
+      "rows": 8626,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Searches": {
+      "rows": 55,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Evidence matrix": {
+      "rows": 230,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Synthesis": {
+      "rows": 7,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Data audit": {
+      "rows": 6,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Decisions": {
+      "rows": 17,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Study charting": {
+      "rows": 173,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Study linkage": {
+      "rows": 229,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Full-text status": {
+      "rows": 1003,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Abstract inventory": {
+      "rows": 734,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Human audit": {
+      "rows": 658,
+      "all_cells_equal": true,
+      "differences": 0
+    },
+    "Human audit refresh": {
+      "rows": 236,
+      "all_cells_equal": true,
+      "differences": 0
+    }
+  }
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/R/FtOPI2AX3H4EVP4Wc3MpmL1AA</id>
+  <title>arXiv Query: search_query=ti:"Piggyback Adapting a Single Network to Multiple Tasks by Learning to Mask Weights"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-11-03T23:55:40Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Piggyback+Adapting+a+Single+Network+to+Multiple+Tasks+by+Learning+to+Mask+Weights%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1801.06519v2</id>
+    <title>Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights</title>
+    <updated>2018-03-16T21:29:28Z</updated>
+    <link href="https://arxiv.org/abs/1801.06519v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1801.06519v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This work presents a method for adapting a single, fixed deep neural network to multiple tasks without affecting performance on already learned tasks. By building upon ideas from network quantization and pruning, we learn binary masks that piggyback on an existing network, or are applied to unmodified weights of that network to provide good performance on a new task. These masks are learned in an end-to-end differentiable fashion, and incur a low overhead of 1 bit per network parameter, per task. Even though the underlying network is fixed, the ability to mask individual weights allows for the learning of a large number of filters. We show performance comparable to dedicated fine-tuned networks for a variety of classification tasks, including those with large domain shifts from the initial task (ImageNet), and a variety of network architectures. Unlike prior work, we do not suffer from catastrophic forgetting or competition between tasks, and our performance is agnostic to task ordering. Code available at https://github.com/arunmallya/piggyback.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2018-01-19T18:25:59Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Arun Mallya</name>
+    </author>
+    <author>
+      <name>Dillon Davis</name>
+    </author>
+    <author>
+      <name>Svetlana Lazebnik</name>
+    </author>
+  </entry>
+</feed>

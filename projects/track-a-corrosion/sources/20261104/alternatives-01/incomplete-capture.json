@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-04",
+  "url": "https://api.figshare.com/v2/articles/16624663",
+  "status": "HTTP 200; local parse failed because streamed response was compressed",
+  "file": "virginia-tech-metadata.json",
+  "sha256": "280bf4d5381149b48a48cdeff5c80e687d0ffaf5fdb7ceefe0666e67385ab980",
+  "note": "Preserved response bytes; retry uses decoded response content."
+}
