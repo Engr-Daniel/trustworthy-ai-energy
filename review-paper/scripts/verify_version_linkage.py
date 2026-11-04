@@ -110,6 +110,44 @@ def main():
                                "Record Type": meta[p]["Record Type"], "TA Decision": dec.get(p, "none"),
                                "Decision conflict": "yes - resolve at full text" if len(decisions) > 1 else "no",
                                "Linkage basis": "version-linkage-verification.csv", "Linkage Date": args.date})
+    # Links established from full-text statements (e.g. a journal extension naming its conference version) cannot
+    # be found by same-title matching. They are appended as new studies after the same-title groups, so existing
+    # Study IDs keep their numbers; a member already in a same-title group is an error to resolve by hand.
+    ftl = args.corpus_dir / "fulltext-linkage.csv"
+    linked = {p for p in parent}
+    for r in read(ftl) if ftl.exists() else []:
+        members = sorted({r["Paper ID"], r["Linked Paper ID"]})
+        if linked & set(members):
+            raise ValueError("Full-text link overlaps a same-title study: " + ", ".join(members))
+        linked |= set(members); n += 1
+        for p in members:
+            study_rows.append({"Study ID": f"S{n:04d}", "Paper ID": p, "Primary report": "yes" if p == r["Primary Paper ID"] else "no",
+                               "Record Type": meta[p]["Record Type"], "TA Decision": dec.get(p, "none"), "Decision conflict": "no",
+                               "Linkage basis": "fulltext-linkage.csv", "Linkage Date": r["Verification Date"]})
+    # Preserve established identities when later discovery changes sorted component order.
+    existing_path = args.corpus_dir / "study-linkage.csv"
+    existing = read(existing_path) if existing_path.exists() else []
+    previous = {r["Paper ID"]: r for r in existing}
+    next_id = max((int(r["Study ID"][1:]) for r in existing), default=0)
+    components = collections.defaultdict(list)
+    for row in study_rows: components[row["Study ID"]].append(row)
+    used = set()
+    for members in components.values():
+        known = {previous[r["Paper ID"]]["Study ID"] for r in members if r["Paper ID"] in previous}
+        if len(known) > 1:
+            raise ValueError("Proposed component merges established Study IDs; resolve explicitly: " + str(sorted(known)))
+        if known:
+            identity = next(iter(known))
+        else:
+            next_id += 1
+            identity = f"S{next_id:04d}"
+        if identity in used:
+            raise ValueError("Proposed components split an established Study ID: " + identity)
+        used.add(identity)
+        for row in members:
+            row["Study ID"] = identity
+            if row["Paper ID"] in previous:
+                row["Linkage Date"] = previous[row["Paper ID"]]["Linkage Date"]
     write(args.corpus_dir / "version-linkage-verification.csv", out, list(out[0]))
     write(args.corpus_dir / "study-linkage.csv", study_rows, list(study_rows[0]) if study_rows else ["Study ID", "Paper ID"])
     tally = collections.Counter(r["Outcome"] for r in out)

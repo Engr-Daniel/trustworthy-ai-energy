@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-04",
+  "status": "Provisional; refreshed human audit and title-only exclusion evidence unresolved",
+  "base_commit": "d57ce6dfb450c5b7fcb23a72679e357198ad62b1",
+  "source_state": "Uncommitted working files; base commit does not identify current research data. Artifact hashes identify this snapshot.",
+  "previous_manifest": "release-manifest-20261103_reviewed.json",
+  "live_sheet_written": false,
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "e999924425952818606b47bfe5a4bba18cfbb1a790feb7aaa2ce91cf0536e26a",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/reporting-status.md",
+      "sha256": "8aa414e7edbe0544d0c22c5bd9dad16036143692acaef1cb92453faad8ee411d",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/records-ledger.csv",
+      "sha256": "2468858bfb762c90e172d071333ff5411abfb713b2dd65402c585950cd64a337",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/scope-counts.json",
+      "sha256": "3d9c8c07a608c3086246790fa05c01187354a5d4ebf91c534a6fd97b97da22f4",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/screening/confirmed-decisions.csv",
+      "sha256": "c3f31f1f663f8ba79f934595cd08784f450703c1495fc8d017eb8544d22e5d6f",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/charting/charting.csv",
+      "sha256": "f76e38fd010a4b91dccbb1e76c78a3cffb891a613dc601d72f41f9f1e4a9902b",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.tex",
+      "sha256": "de1456e3d1ff28b56b57e9c909d540e1db4743eed2cde21e1070fb89f49d0fc5",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/refrence.bib",
+      "sha256": "ce83e7cbf20e60d87e93a56200d5a6fd251e13203f44e5c88843fc9c35cdfcf2",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.pdf",
+      "sha256": "9ecd0af830a08f6829230586178a6fc99be6bd1a7de74c3485fad7f3b988ad27",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/manuscript/build-verification.json",
+      "sha256": "ad7c66ba1d9197bbce7736b183b8fa2d7073e833085ec23cf725760d081733a0",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/Review_Tracker_20261104_verified.xlsx",
+      "sha256": "097391e1c2d056b65d3d600d26d8619d84e90203c81adf411fd66185e0d5e7bd",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/manuscript-overleaf.zip",
+      "sha256": "226a14c7c32230eae0f541d619ed7236377ded935e533be47afc4c7f9c476e52",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/synchronisation/workbook-audit-20261104_verified.json",
+      "sha256": "c8741cde2949fbdce90058b33459f5bf42002256773f702e5cc9ad615ea8d066",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/synchronisation/workbook-all-tables-20261104_verified.json",
+      "sha256": "bc1091d77177fc175e168fd84fe0c9ad3b6dde357b19209cd6857e3e02e446af",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/corpus/study-linkage.csv",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF",
+      "sha256": "43560ed88b7d9890b20d9feea9f7c9d248710354ace85e96d61d80e074f44830"
+    },
+    {
+      "path": "review-paper/corpus/fulltext-linkage.csv",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF",
+      "sha256": "b983b1e639975276c4cd9bcc25036b55251008b91e361360f4fd6c6d4b3ac10e"
+    },
+    {
+      "path": "review-paper/scripts/verify_version_linkage.py",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF",
+      "sha256": "793cb0b9932db23335bea4ac9f4e85336e8899bd2524626d5d5af0fae1279956"
+    },
+    {
+      "path": "review-paper/scripts/tests/test_linkage_identity.py",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF",
+      "sha256": "00d56abeb98e8652876c6e3f76890a0fdf160f78b284be13a25677751b5468a9"
+    },
+    {
+      "path": "review-paper/manuscript/README.md",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF",
+      "sha256": "77513b09b194e38a8d6a501acec1d4f444f34eb383b2cd046e81314391a897e7"
+    }
+  ],
+  "verification": {
+    "existing_tests_passed": 35,
+    "new_linkage_regression_passed": 1,
+    "csv_backed_tabs_verified": 14,
+    "stable_report_memberships_verified": 229,
+    "provisional_included_studies": 173,
+    "associated_secondary_reports": 14,
+    "incomplete_capture_run_excluded": "ABSTRACT-CAPTURE-20261103-02"
+  }
+}

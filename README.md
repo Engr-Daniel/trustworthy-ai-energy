@@ -17,7 +17,7 @@ The IEEE review manuscript is a **provisional draft**, not a completed or submis
 | Awaiting retrieval initiation | 0 |
 | Core reports retrieved and assessed | 255 |
 | Provisional included studies / primary reports | 173 / 173 |
-| Associated secondary reports | 13 |
+| Associated secondary reports | 14 |
 
 These are different counting units. The evidence map describes the assessed 173-study subset, not a completed selection outcome of the expanded search. Fourteen supplementary background-review retrievals are separate from the core full-text flow.
 
@@ -31,11 +31,11 @@ These are different counting units. The evidence map describes the assessed 173-
 - [Dated research story](docs/research-story.md) and [active task ledger](task.md).
 - [Charted full-text evidence](review-paper/charting/charting.csv).
 - [Occurrence/report counts](review-paper/corpus/scope-counts.json), [screening evidence](review-paper/screening/confirmed-decisions.csv) and [version linkage](review-paper/corpus/study-linkage.csv).
-- [Current dated workbook](review-paper/corpus/Review_Tracker_20261103_reviewed.xlsx); the original XLSX remains the historical pilot snapshot.
+- [Current dated workbook](review-paper/corpus/Review_Tracker_20261104_verified.xlsx); the original XLSX remains the historical pilot snapshot.
 
 ## Remaining completion gates
 
-The recorded title/abstract selection and retrieval initiation stages are complete. The 36 newly retrieved full texts were assessed, adding 18 provisional inclusions. Resolve the O5989 SoftPatch/O4487 SoftPatch+ version relationship before finalising study counts. The 658-row AI consistency pass and its resolutions are recorded separately; Daniel confirmed human review of all 658 sampled current decisions, with 658 agreements; the dated confirmation and original sample are preserved. Confirm conflicts of interest, acknowledgments and any co-authors; the supplied affiliation, corresponding email and no-funding statement are in the draft. The refreshed audit in review-paper/screening/audit-20261103/ is pending: 18 inclusions and 52 sampled exclusions require verification; the 168 title/metadata-only exclusions need particular scrutiny. These are recorded AI dispositions, not confirmation that title-only exclusions satisfy the repository evidence rules. Complete the reporting checklist and submission checks after resolving these limits.
+The recorded title/abstract selection and retrieval initiation stages are complete. The 36 newly retrieved full texts were assessed, adding 18 provisional inclusions. The O5989 SoftPatch/O4487 SoftPatch+ relationship is now documented from the journal report's explicit preliminary-version statement; refreshed human verification remains pending. The 658-row AI consistency pass and its resolutions are recorded separately; Daniel confirmed human review of all 658 sampled current decisions, with 658 agreements; the dated confirmation and original sample are preserved. Daniel confirmed no funding and no conflicts of interest on 4 November 2026; acknowledgments and AI assistance are disclosed in the draft. The refreshed audit in review-paper/screening/audit-20261103/ is pending: 18 inclusions and 52 sampled exclusions require verification; the 168 title/metadata-only exclusions need particular scrutiny. These are recorded AI dispositions, not confirmation that title-only exclusions satisfy the repository evidence rules. Complete the reporting checklist and submission checks after resolving these limits.
 
 The 730 unsuccessfully retrieved core reports remain non-retrieved, not excluded. The abstract inventory is an exploratory summary of screening rationales, not independent full-text charting or proof that retrieval bias is absent. Reuse licensing and journal selection still require confirmation.
 

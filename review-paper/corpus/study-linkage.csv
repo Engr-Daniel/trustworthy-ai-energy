@@ -226,3 +226,5 @@ S0103,O4662,yes,article,Exclude,no,version-linkage-verification.csv,2026-10-22
 S0103,O4711,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
 S0104,O4730,yes,conference-paper,Exclude,no,version-linkage-verification.csv,2026-10-22
 S0104,O4821,no,preprint,Exclude,no,version-linkage-verification.csv,2026-10-22
+S0105,O4487,yes,article,Retrieve full text,no,fulltext-linkage.csv,2026-11-03
+S0105,O5989,no,conference-paper,Retrieve full text,no,fulltext-linkage.csv,2026-11-03

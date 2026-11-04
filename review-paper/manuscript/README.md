@@ -1,6 +1,6 @@
 # IEEE review manuscript - provisional revision, 3 November 2026
 
-Start with [main.pdf](main.pdf). It is a compiled, 15-page provisional review draft, not a final submission. The manuscript reflects 173 charted studies in the assessed full-text subset. All 6,970 reports have recorded title/abstract dispositions and all 985 routed reports have retrieval outcomes. The refreshed human audit, title-only exclusions, SoftPatch linkage and author declarations remain unresolved.
+Start with [main.pdf](main.pdf). It is a compiled, 15-page provisional review draft, not a final submission. The manuscript reflects 173 charted studies in the assessed full-text subset. All 6,970 reports have recorded title/abstract dispositions and all 985 routed reports have retrieval outcomes. The refreshed human audit, title-only exclusions, refreshed human verification and final reporting checks remain unresolved.
 
 Author details supplied by Daniel are included: Ormedian Research Institute, the corresponding email and no funding. Conflicts of interest remain an author input. Earlier Claude screening/reading and the later OpenAI reconciliation are disclosed separately; neither is a second independent human review.
 

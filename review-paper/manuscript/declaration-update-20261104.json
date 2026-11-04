@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-04",
+  "status": "Local provisional declaration update; pre-existing research edits preserved",
+  "author_confirmation": "Daniel Oyewale confirmed no funding and no conflict of interest in chat on 4 November 2026",
+  "base_commit": "d57ce6dfb450c5b7fcb23a72679e357198ad62b1",
+  "previous_manifest": "release-manifest-20261103_reviewed.json",
+  "scope": "Manuscript artifacts only; not a full workbook/Sheet release",
+  "live_sheet_written": false,
+  "artifacts": [
+    {
+      "path": "review-paper/manuscript/main.tex",
+      "sha256": "ae40bc6363f21f79f2b585935c3cdc11eaf065ce3ec0fdf720b3ccd0dcc576b1",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/main.pdf",
+      "sha256": "c5e217344f0b14a5f6b61ba9301ec92970162f8b401e17c305bcf5f1f0eb2b18",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/manuscript/build-verification.json",
+      "sha256": "74858856d052f88ac4968a7986ab344d439ba571849a104a77cb3ce28e30d1b7",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript-overleaf.zip",
+      "sha256": "0fc102f1fb0d15eaa6c8ee6eb8c78b89cc5130c10cbae1deeaf71e4ed089460c",
+      "hash_basis": "Exact file bytes"
+    },
+    {
+      "path": "review-paper/manuscript/generated/cites.tex",
+      "sha256": "d140c80e6210f0d9ccfad4f1b5deff0d3731d22862e943664b9596a82379c761",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/generated/counts.tex",
+      "sha256": "889dee1d3514d76f5169494a6967ba2f0df4b2aad803d458d0e5dbe41757106e",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/generated/tab_decision.tex",
+      "sha256": "25000ffff42a075fa4a042bcdc5e9f393ccf353ff36708c55a128a9b2cec9a82",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    },
+    {
+      "path": "review-paper/manuscript/generated/tab_energy.tex",
+      "sha256": "9c7c6a7a66fbed1b9326d6234402df7f5a77945213b06f4e1df121f46d5fda19",
+      "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
+    }
+  ]
+}

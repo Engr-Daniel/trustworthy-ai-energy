@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "engine": "Tectonic 0.17.0 (XeTeX/BibTeX)",
   "compiler_exit_code": 0,
   "pages": 15,
   "overfull_warnings": 0,
   "missing_glyph_warnings": 0,
   "unresolved_citation_markers": 0,
-  "scope": "Compiled provisional selection-complete draft with explicit title-only exclusion, refreshed human-audit and linkage limits; publication review 3 November 2026",
+  "scope": "Compiled reviewed provisional draft with confirmed author declarations and documented SoftPatch report linkage; refreshed human audit and title-only evidence gates remain open.",
   "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory",
-  "main_pdf_sha256": "ba3707d9d4e428376dfc62c8b4c9ea62654d18ef909367e3ebe707e74d9ff77a"
+  "main_pdf_sha256": "9ecd0af830a08f6829230586178a6fc99be6bd1a7de74c3485fad7f3b988ad27"
 }
