@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "status": "Provisional; title-only exclusions re-screened; refreshed human audit unresolved",
-  "base_commit": "a2aa352a73cfda83c55550019c3ab8d8027cb823",
+  "base_commit": "c410016d05c23511b5caf7729dfc05579ad00e26",
   "source_state": "Uncommitted working files; artifact hashes identify this snapshot.",
   "previous_manifest": "release-manifest-20261104_verified.json",
   "live_sheet_written": false,
@@ -17,12 +17,12 @@
   "artifacts": [
     {
       "path": "README.md",
-      "sha256": "6d8d57502531e26fa108684858358272ec287c8242853194f5a13330372e7b71",
+      "sha256": "523f6100ebc8d3dc4b5d23d2653653d335509b322c6a3fabaa8042fb874ab006",
       "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
     },
     {
       "path": "task.md",
-      "sha256": "c1c71d0b0adf103a9b9a3a296d9276efe082b8eab72102a2199c4172118b5799",
+      "sha256": "15bcdeb55b721968ffa817b3726ce75b9c0fcd399efa60607c464b7012b69546",
       "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
     },
     {
@@ -92,22 +92,22 @@
     },
     {
       "path": "review-paper/screening/audit-20261103/README.md",
-      "sha256": "ee6bb25820d22387ae887d6707d9da72aac33f4bb92c18abe39e95338d56d8d5",
+      "sha256": "8ac6ece93d270b7221df231745f85a3ba60017ed2b4aafc245ae4bbd837d7cfb",
       "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
     },
     {
       "path": "review-paper/manuscript/main.tex",
-      "sha256": "373f66df04b91f486293ea573b30889a77865e6e88d854e87ea9201047683d19",
+      "sha256": "c347c12c6ec1d918015b7fe36992c246deedda1f733216eb2c80e2f9a9d8c3cd",
       "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
     },
     {
       "path": "review-paper/manuscript/main.pdf",
-      "sha256": "e8fd342fd8b15f137e4ca4ab554c195449608f6de43dc94d5e23263405360757",
+      "sha256": "58dab9487d768be780d2ecb055a89023b969cb9641bc7106479a9748d2bf52f2",
       "hash_basis": "Exact file bytes"
     },
     {
       "path": "review-paper/manuscript/build-verification.json",
-      "sha256": "988263b9c6039f36e05debdfdbba9eab144b15814b5d0ea0a64658af5b6e25a3",
+      "sha256": "d9650a7c310fa803c8232a07e5ea085950e32848256989f5666f8a4a4bb3cb61",
       "hash_basis": "UTF-8 file bytes with CRLF normalised to LF"
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "path": "review-paper/manuscript-overleaf.zip",
-      "sha256": "927bd13a19d3fe01832c80bb9d29da7eed62c8382e15b83ead4f96c54fbcc010",
+      "sha256": "e553855ecdbd55624d200ab957b132890e06fa99b1c29cb31771ee3362dd106a",
       "hash_basis": "Exact file bytes"
     },
     {

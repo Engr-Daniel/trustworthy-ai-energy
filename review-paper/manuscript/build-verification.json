@@ -8,5 +8,5 @@
   "unresolved_citation_markers": 0,
   "scope": "Compiled reviewed provisional draft after the 4 November re-screen of the 168 title-only exclusions; confirmed author declarations and SoftPatch report linkage; refreshed human audit remains open.",
   "dependencies": "Official portable compiler and standard TeX Live support files in ignored local build directory",
-  "main_pdf_sha256": "e8fd342fd8b15f137e4ca4ab554c195449608f6de43dc94d5e23263405360757"
+  "main_pdf_sha256": "58dab9487d768be780d2ecb055a89023b969cb9641bc7106479a9748d2bf52f2"
 }
