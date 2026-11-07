@@ -183,3 +183,7 @@ Daniel requested review and push of the necessary updates. Prepared completed ti
 
 ## Commit history rewrite - 5 November 2026
 At Daniel's request, removed the `Co-Authored-By: Claude` trailer from old commit 3405d41 so Claude is not listed as a contributor, rebuilt the eight later commits with identical trees, authors and dates. Force push to GitHub pending (Daniel to run it). Old-to-new hashes are in docs/history-rewrite-20261105.md; earlier log entries keep the hashes they recorded. The manuscript snapshot link now points to 79b694e (was 16ec7db). Future commits carry no AI co-author trailers.
+
+
+## History rewrite pushed - 7 November 2026
+Confirmed that GitHub master (c81609b at the last successful fetch) carries the rewritten history: no commit on master has a Co-Authored-By or Claude Code attribution line, and every commit is authored and committed by Daniel. This supersedes the 5 November note that the force push was pending. Standing rule: no AI co-author or attribution lines in commits or PRs in Daniel's repositories.

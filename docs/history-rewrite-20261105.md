@@ -16,3 +16,5 @@ Dated logs and committed manifests keep the hashes they recorded at the time. Us
 | c7368d6 | 6f34b3d | `c7368d61f8e00b7692e98d331666d290dd28b632` | `6f34b3dd6e9637c15bd7cc7856e8ec5a96d53217` |
 
 The manuscript's snapshot link (old 16ec7db) and the uncommitted 4 November re-screen manifest were updated to the new hashes. A local branch `backup/pre-attribution-rewrite-20261105` keeps the old history.
+
+**Update, 7 November 2026:** the rewritten history is on GitHub (master at c81609b and later).
